@@ -34,7 +34,9 @@ jobs:
             GITHUB_REPO:  ${{ github.repository }}
             NEWSAPI_KEY:  ${{ secrets.NEWSAPI_KEY }}
             RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
-            GEONAMES_KEY: ${{ secrets.GEONAMES_KEY }}            
+            GEONAMES_KEY: ${{ secrets.GEONAMES_KEY }}
+            EXTREME_LANGUAGE: ${{ secrets.EXTREME_LANGUAGE }}
+            EXTREME_GH_TOKEN: ${{ secrets.EXTREME_GH_TOKEN }}               
         run: (python3 check_api.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9

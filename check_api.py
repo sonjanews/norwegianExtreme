@@ -649,7 +649,7 @@ def checkLanguageSetting(results=[]):
         lngExists = False      
     if(not lngExists): 
         results.append(":no_entry: EXTREME_LANGUAGE **missing**:")
-        results.append("1. Assign the language code (i.e. 'en', 'de') as new repository secret at https://github.com/"+gitOrg+"/"+gitRepo+"/settings/secrets/actions")       
+        results.append("1. Assign the language code (i.e. 'en', 'de') as new repository secret at https://github.com/"+gitRepo+"/settings/secrets/actions")       
         results.append("   * Name:  **EXTREME_LANGUAGE** ")
         results.append("   * Value: **Your language code here** ") 
         return False    

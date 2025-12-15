@@ -1,9 +1,6 @@
 # EXTREMES  
 ### EXTREME_LANGUAGE  
-:white_check_mark: EXTREME_LANGUAGE key exists  
-:white_check_mark: NewsAPI respone fine  
-:white_check_mark: NewsAPI status fine  
-:white_check_mark: NewsAPI results found  
+:white_check_mark: EXTREME_LANGUAGE key exists (no)  
 ### EXTREME_GH_TOKEN  
 :white_check_mark: EXTREME_GH_TOKEN exists  
 :white_check_mark: EXTREME_GH_TOKEN working  
@@ -107,7 +104,7 @@
   
 ### RapidAPI: Deepl-Translator-4  
 :white_check_mark: Deepl-Translator-4 respone fine  
-:no_entry: Deepl-Translator-4 status **failed**:  
+:no_entry: **Not** subscribed to Deepl-Translator-4  
 Subscribe to Deepl-Translator-4 API:  
 1. Login and 'Subscribe to Test' at https://rapidapi.com/sibaridev/api/rapid-translate-multi-traduction  
 2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  

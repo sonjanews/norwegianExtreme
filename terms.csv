@@ -1,13 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'bf84083cec',extremes,Landslide,#572c03,wmo,skred norge,2025-12-10T03:45:00+00:00,Norway,0.752373502801319,0,2,no,NEU,Europe
-'50a3485796',extremes,Flood,#030ba1,wmo,flom norge,2025-12-01T04:02:00+00:00,Norway,0.7479573465088518,0,2,no,NEU,Europe
 'cc845dcf1a',extremes,Landslide,#572c03,wmo,steinskred deler av rogaland og vest agder,2025-12-18T03:44:00+00:00,Norway,0.7433994322052443,0,2,no,NEU,Europe
-'b6cdf853fe',extremes,Flood,#030ba1,wmo,flood deler av vestlandet,2025-12-10T03:45:00+00:00,Norway,0.7400506641922214,0,2,no,NEU,Europe
 'f4908ec618',extremes,Flood,#030ba1,wmo,flooding deler av agder og rogaland,2025-12-18T03:44:00+00:00,Norway,0.7185260773283626,0,2,no,NEU,Europe
 '82cb8fafed',extremes,Flood,#030ba1,wmo,flooding deler av rogaland og vestland,2025-12-14T03:49:00+00:00,Norway,0.7168786893118927,0,2,no,NEU,Europe
 'a27b61dd7e',extremes,Flood,#030ba1,wmo,flom rogaland og deler av vestland,2025-12-16T03:47:00+00:00,Norway,0.7086844603129233,0,2,no,NEU,Europe
 'e868247a32',extremes,Storm,#b3b2b1,wmo,stormflo traena bank,2025-11-27T03:34:00+00:00,Norway,0.690933636676756,0,2,no,NEU,Europe
-'4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2025-12-05T03:41:00+00:00,Norway,0.6907281802249006,0,2,no,NEU,Europe
 '61386d6415',extremes,Snow&Ice,#d60d2b,wmo,iskaldt norge,2025-12-14T03:49:00+00:00,Norway,0.68939486510259,0,2,no,NEU,Europe
 '6e105d4f83',extremes,Snow&Ice,#d60d2b,wmo,fryser svartisen,2025-12-03T03:40:00+00:00,Norway,0.6793900507642865,0,2,no,NEU,Europe
 '03de8575c9',extremes,Snow&Ice,#d60d2b,wmo,ice deler av vestland og rogaland,2025-12-15T03:54:00+00:00,Norway,0.6746469962286975,0,2,no,NEU,Europe
@@ -39,9 +35,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bcd4af11f',extremes,Flood,#030ba1,wmo,flom norge,2025-11-28T03:34:00+00:00,Norway,0.6369799384633669,1,1,no,NEU,Europe
 '2876c1c93a',extremes,Landslide,#572c03,wmo,jordskred norge,2025-12-10T03:45:00+00:00,Norway,0.6365906907702296,1,1,no,NEU,Europe
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,steinskred norge,2025-12-12T03:45:00+00:00,Norway,0.6360667941347593,1,1,no,NEU,Europe
+'50a3485796',extremes,Flood,#030ba1,wmo,flom norge,2025-12-01T04:02:00+00:00,Norway,0.635763804532524,1,1,no,NEU,Europe
 '1e2f3ae218',extremes,Flood,#030ba1,wmo,flashflood rogaland vestland møre og romsdal,2025-11-29T03:34:00+00:00,Norway,0.6340152290638427,1,1,no,NEU,Europe
 '1411fb3a72',extremes,Landslide,#572c03,wmo,skred deler av vestland og rogaland,2025-12-16T03:47:00+00:00,Norway,0.6307328882915297,1,1,no,NEU,Europe
 'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,is norge,2025-12-05T03:41:00+00:00,Norway,0.6297999208545592,1,2,no,NEU,Europe
+'b6cdf853fe',extremes,Flood,#030ba1,wmo,flood deler av vestlandet,2025-12-10T03:45:00+00:00,Norway,0.6290430645633882,1,1,no,NEU,Europe
 'b6b0352a31',extremes,Flood,#030ba1,wmo,flood deler av rogaland og vestland,2025-12-16T03:47:00+00:00,Norway,0.6288502460057753,1,1,no,NEU,Europe
 '7ea74bf57f',extremes,Flood,#030ba1,wmo,flashflood deler av rogaland og vestland,2025-12-15T03:54:00+00:00,Norway,0.6271827372024916,1,1,no,NEU,Europe
 '7b90fa13c3',extremes,Flood,#030ba1,wmo,flooding deler av vestlandet,2025-12-11T03:46:00+00:00,Norway,0.623889766302295,1,1,no,NEU,Europe
@@ -53,4 +51,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8778448f1d',extremes,Snow&Ice,#d60d2b,wmo,frost norge,2025-11-29T03:34:00+00:00,Norway,0.612842678196364,1,2,no,NEU,Europe
 '2fa7c7b9d0',extremes,Landslide,#572c03,wmo,steinskred deler av vestland og rogaland,2025-12-16T03:47:00+00:00,Norway,0.5969698473012812,1,1,no,NEU,Europe
 '52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2025-11-30T03:46:00+00:00,Norway,0.5936832964616744,1,1,no,NEU,Europe
+'4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2025-12-05T03:41:00+00:00,Norway,0.5892191631911655,1,2,no,NEU,Europe
 '2df5405c8d',extremes,Snow&Ice,#d60d2b,wmo,is sør troms,2025-12-03T03:40:00+00:00,Norway,0.5806523018282482,1,2,no,NEU,Europe

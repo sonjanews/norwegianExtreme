@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'1b04c47bdf',extremes,Snow&Ice,#d60d2b,wmo,iskaldt lyngen,2025-12-02T03:41:00+00:00,Norway,0.6400483152240639,0,2,no,NEU,Europe
-'06285e171c',extremes,Flood,#030ba1,wmo,flom norge,2025-12-02T03:41:00+00:00,Norway,0.6392048693255334,1,2,no,NEU,Europe
 '6b79c19a6f',extremes,Storm,#b3b2b1,wmo,stormflo nord utsire,2025-12-02T03:41:00+00:00,Norway,0.638760642520463,0,2,no,NEU,Europe
 'fbd9fb7d77',extremes,Snow&Ice,#d60d2b,wmo,iskaldt hardanger,2025-12-08T03:44:00+00:00,Norway,0.6378817704673045,0,2,no,NEU,Europe
 'a22f847ea0',extremes,Snow&Ice,#d60d2b,wmo,iskaldt nord troms,2025-12-02T03:41:00+00:00,Norway,0.6368885023470616,0,2,no,NEU,Europe
@@ -9,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b89db20c92',extremes,Storm,#b3b2b1,wmo,stormflo øst tampen,2025-12-10T03:45:00+00:00,Norway,0.6351370062906341,0,2,no,NEU,Europe
 'd1adb6fea1',extremes,Snow&Ice,#d60d2b,wmo,snø nord troms,2025-12-05T03:41:00+00:00,Norway,0.6345529958858335,0,2,no,NEU,Europe
 '71968fd8ec',extremes,Snow&Ice,#d60d2b,wmo,frost sunnmøre,2025-12-06T03:32:00+00:00,Norway,0.6345380097440608,0,2,no,NEU,Europe
-'48732b1ff1',extremes,Storm,#b3b2b1,wmo,stormflo maaloey svinoey,2025-12-13T03:38:00+00:00,Norway,0.6343177972498476,0,2,no,NEU,Europe
 '1e2f3ae218',extremes,Flood,#030ba1,wmo,flashflood rogaland vestland møre og romsdal,2025-11-29T03:34:00+00:00,Norway,0.6340152290638427,1,1,no,NEU,Europe
 '881ea89851',extremes,Storm,#b3b2b1,wmo,storm fedje bulandet,2025-12-03T03:40:00+00:00,Norway,0.6340151208426817,0,2,no,NEU,Europe
 '8ce6d6576f',extremes,Snow&Ice,#d60d2b,wmo,is indre fjordane,2025-12-02T03:41:00+00:00,Norway,0.6332900759794395,0,2,no,NEU,Europe
@@ -23,7 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1411fb3a72',extremes,Landslide,#572c03,wmo,skred deler av vestland og rogaland,2025-12-16T03:47:00+00:00,Norway,0.6307328882915297,1,1,no,NEU,Europe
 '6d83d81019',extremes,Storm,#b3b2b1,wmo,stormflo indre skagerrak,2025-12-08T03:44:00+00:00,Norway,0.6299926730286013,0,2,no,NEU,Europe
 'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,is norge,2025-12-05T03:41:00+00:00,Norway,0.6297999208545592,1,2,no,NEU,Europe
-'d6bf186b6b',extremes,Storm,#b3b2b1,wmo,storm dyp d4,2025-12-10T03:45:00+00:00,Norway,0.6291337053368836,0,2,no,NEU,Europe
 '90c9ca58f9',extremes,Snow&Ice,#d60d2b,wmo,snø sunnmøre,2025-12-12T03:45:00+00:00,Norway,0.6291118176731201,0,2,no,NEU,Europe
 'b6cdf853fe',extremes,Flood,#030ba1,wmo,flood deler av vestlandet,2025-12-10T03:45:00+00:00,Norway,0.6290430645633882,1,1,no,NEU,Europe
 '2dad16dcf1',extremes,Snow&Ice,#d60d2b,wmo,is finnmarkskysten,2025-12-04T03:42:00+00:00,Norway,0.6289540438358442,0,2,no,NEU,Europe
@@ -94,6 +90,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82eac3d1c9',extremes,Snow&Ice,#d60d2b,wmo,frost finnmarkskysten,2025-12-02T03:41:00+00:00,Norway,0.5445970700038865,1,1,no,NEU,Europe
 '801198b61a',extremes,Storm,#b3b2b1,wmo,stormflo storegga,2025-12-13T03:38:00+00:00,Norway,0.5442169763977849,1,1,no,NEU,Europe
 'f14db02e0f',extremes,Storm,#b3b2b1,wmo,stormflo bodoe melbu,2025-12-13T03:38:00+00:00,Norway,0.54410856846623,1,1,no,NEU,Europe
+'06285e171c',extremes,Flood,#030ba1,wmo,flom norge,2025-12-02T03:41:00+00:00,Norway,0.5440742139267034,2,2,no,NEU,Europe
 'e8999592c2',extremes,Storm,#b3b2b1,wmo,storm sklinna bank,2025-12-13T03:38:00+00:00,Norway,0.5433942644931665,1,1,no,NEU,Europe
 '56ddd9409b',extremes,Storm,#b3b2b1,wmo,stormflo torungen oksoey,2025-12-08T03:44:00+00:00,Norway,0.5431509763165855,1,1,no,NEU,Europe
 '18bf0e0c51',extremes,Storm,#b3b2b1,wmo,storm viking,2025-12-09T03:41:00+00:00,Norway,0.5430761791402299,1,2,no,NEU,Europe
@@ -101,6 +98,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bcd4af11f',extremes,Flood,#030ba1,wmo,flom norge,2025-11-28T03:34:00+00:00,Norway,0.5421830226938619,2,1,no,NEU,Europe
 'f2a7eedcb9',extremes,Storm,#b3b2b1,wmo,storm aana sira karmoey,2025-12-06T03:32:00+00:00,Norway,0.5416296570526706,1,1,no,NEU,Europe
 '50a3485796',extremes,Flood,#030ba1,wmo,flom norge,2025-12-01T04:02:00+00:00,Norway,0.5411493088526454,2,1,no,NEU,Europe
+'48732b1ff1',extremes,Storm,#b3b2b1,wmo,stormflo maaloey svinoey,2025-12-13T03:38:00+00:00,Norway,0.5391701276623705,1,1,no,NEU,Europe
 'cf1e930f94',extremes,Flood,#030ba1,wmo,flashflood deler av vestlandet,2025-12-10T03:45:00+00:00,Norway,0.5268320524969974,2,1,no,NEU,Europe
 '98e92895da',extremes,Snow&Ice,#d60d2b,wmo,snøsalten,2025-12-04T03:42:00+00:00,Norway,0.4777935549863951,2,1,no,NEU,Europe
 '39ec5d5260',extremes,Snow&Ice,#d60d2b,wmo,snø romsdal,2025-12-03T03:40:00+00:00,Norway,0.4762400454280405,2,1,no,NEU,Europe

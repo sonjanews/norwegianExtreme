@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'48732b1ff1',extremes,Storm,#b3b2b1,wmo,stormflo maaloey svinoey,2025-12-13T03:38:00+00:00,Norway,0.6343177972498476,0,2,no,NEU,Europe
-'4d80e9e567',extremes,Storm,#b3b2b1,wmo,storm fedje maaloey,2025-12-11T03:46:00+00:00,Norway,0.6158810630532356,0,2,no,NEU,Europe
 'c11e29f3d9',extremes,Storm,#b3b2b1,wmo,stormflo roervik sandnessjoeen,2025-12-19T03:46:00+00:00,Norway,0.58001233979716,1,1,no,NEU,Europe
 '9515e829fa',extremes,Snow&Ice,#d60d2b,wmo,iskaldt trollheimen,2025-12-04T03:42:00+00:00,Norway,0.5790005655617751,1,1,no,NEU,Europe
-'eb73aff91c',extremes,Snow&Ice,#d60d2b,wmo,frysevest telemark,2025-12-04T03:42:00+00:00,Norway,0.5768811117136639,0,2,no,NEU,Europe
-'2ab172ee09',extremes,Snow&Ice,#d60d2b,wmo,snøskred deler av nordlige nordland,2025-12-03T03:40:00+00:00,Norway,0.5756868513932748,0,2,no,NEU,Europe
 'efa6ba5fb5',extremes,Snow&Ice,#d60d2b,wmo,iskaldt sunnmøre,2025-12-09T03:41:00+00:00,Norway,0.5744828986834963,0,2,no,NEU,Europe
 '1fa9030c91',extremes,Precipitation,#d60d2b,wmo,nedbør norge,2025-12-10T03:45:00+00:00,Norway,0.5735462874444442,0,2,no,NEU,Europe
 '41cda39e2d',extremes,Snow&Ice,#d60d2b,wmo,snøskred helgeland,2025-12-04T03:42:00+00:00,Norway,0.5734201464137197,0,2,no,NEU,Europe
@@ -38,7 +34,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d83d81019',extremes,Storm,#b3b2b1,wmo,stormflo indre skagerrak,2025-12-08T03:44:00+00:00,Norway,0.535493772074311,1,1,no,NEU,Europe
 '90c9ca58f9',extremes,Snow&Ice,#d60d2b,wmo,snø sunnmøre,2025-12-12T03:45:00+00:00,Norway,0.534745045022152,2,1,no,NEU,Europe
 'b6cdf853fe',extremes,Flood,#030ba1,wmo,flood deler av vestlandet,2025-12-10T03:45:00+00:00,Norway,0.53468660487888,2,1,no,NEU,Europe
-'6a40f211f7',extremes,Snow&Ice,#d60d2b,wmo,snø jotunheimen,2025-12-01T04:02:00+00:00,Norway,0.5346600483587576,1,2,no,NEU,Europe
 'b6b0352a31',extremes,Flood,#030ba1,wmo,flood deler av rogaland og vestland,2025-12-16T03:47:00+00:00,Norway,0.5345227091049091,2,1,no,NEU,Europe
 'eadbfbb8a8',extremes,Snow&Ice,#d60d2b,wmo,skredvest telemark,2025-12-11T03:46:00+00:00,Norway,0.53447837901064,3,1,no,NEU,Europe
 '79e45f617c',extremes,Snow&Ice,#d60d2b,wmo,frost heiane,2025-12-04T03:42:00+00:00,Norway,0.5344174481367374,1,1,no,NEU,Europe
@@ -61,6 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb61ce05ac',extremes,Snow&Ice,#d60d2b,wmo,is voss,2025-12-02T03:41:00+00:00,Norway,0.5242875802425254,1,1,no,NEU,Europe
 'd712e4a7c9',extremes,Snow&Ice,#d60d2b,wmo,snøskred svartisen,2025-12-11T03:46:00+00:00,Norway,0.5242619849542796,1,1,no,NEU,Europe
 '77194b51e5',extremes,Snow&Ice,#d60d2b,wmo,snøvest finnmark,2025-12-02T03:41:00+00:00,Norway,0.5240978901023904,2,1,no,NEU,Europe
+'4d80e9e567',extremes,Storm,#b3b2b1,wmo,storm fedje maaloey,2025-12-11T03:46:00+00:00,Norway,0.5234989035952503,1,1,no,NEU,Europe
 '0d3547ca2a',extremes,Snow&Ice,#d60d2b,wmo,frostfjell i sør-norge,2025-12-19T03:46:00+00:00,Norway,0.5232940505835397,1,1,no,NEU,Europe
 'b8a867d5e2',extremes,Storm,#b3b2b1,wmo,stormflo fedje bulandet,2025-12-02T03:41:00+00:00,Norway,0.5230718507559781,2,1,no,NEU,Europe
 '8778448f1d',extremes,Snow&Ice,#d60d2b,wmo,frost norge,2025-11-29T03:34:00+00:00,Norway,0.5219663814669093,2,2,no,NEU,Europe
@@ -112,7 +108,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d278e383f',extremes,Snow&Ice,#d60d2b,wmo,snøskred deler av nordland,2025-12-14T03:49:00+00:00,Norway,0.5073532594318825,1,1,no,NEU,Europe
 '56c91ea21a',extremes,Storm,#b3b2b1,wmo,stormflo fruholmen slettnes fyr,2025-11-30T03:46:00+00:00,Norway,0.5071427668189878,1,1,no,NEU,Europe
 '0ac6d9a6f8',extremes,Snow&Ice,#d60d2b,wmo,frysevest finnmark,2025-12-02T03:41:00+00:00,Norway,0.5065339804855228,1,1,no,NEU,Europe
-'963b4d6fcb',extremes,Snow&Ice,#d60d2b,wmo,istrollheimen,2025-12-02T03:41:00+00:00,Norway,0.506411710665366,1,1,no,NEU,Europe
 'e154faaf20',extremes,Snow&Ice,#d60d2b,wmo,frost deler av trøndelag,2025-12-13T03:38:00+00:00,Norway,0.5063023606953478,1,2,no,NEU,Europe
 '1d993b2a3d',extremes,Storm,#b3b2b1,wmo,storm torsvaag lopa,2025-12-15T03:54:00+00:00,Norway,0.5050375346491868,1,1,no,NEU,Europe
 '52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2025-11-30T03:46:00+00:00,Norway,0.5046308019924233,2,1,no,NEU,Europe
@@ -148,6 +143,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6e105d4f83',extremes,Snow&Ice,#d60d2b,wmo,fryser svartisen,2025-12-03T03:40:00+00:00,Norway,0.490859311677197,2,1,no,NEU,Europe
 '3b63af0b6f',extremes,Storm,#b3b2b1,wmo,stormflo svinoey froeya,2025-12-18T03:44:00+00:00,Norway,0.4904648914607208,1,1,no,NEU,Europe
 'cfb8640e89',extremes,Storm,#b3b2b1,wmo,stormflo sandnessjoeen stoett,2025-12-12T03:45:00+00:00,Norway,0.4903820624646964,1,1,no,NEU,Europe
+'eb73aff91c',extremes,Snow&Ice,#d60d2b,wmo,frysevest telemark,2025-12-04T03:42:00+00:00,Norway,0.49034894495661424,1,1,no,NEU,Europe
+'2ab172ee09',extremes,Snow&Ice,#d60d2b,wmo,snøskred deler av nordlige nordland,2025-12-03T03:40:00+00:00,Norway,0.4893338386842836,1,1,no,NEU,Europe
 '78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2025-12-11T03:46:00+00:00,Norway,0.487616560304575,2,2,no,NEU,Europe
 '03de8575c9',extremes,Snow&Ice,#d60d2b,wmo,ice deler av vestland og rogaland,2025-12-15T03:54:00+00:00,Norway,0.4874324547752339,2,1,no,NEU,Europe
 'c108aba66e',extremes,Snow&Ice,#d60d2b,wmo,skredvest finnmark,2025-12-06T03:32:00+00:00,Norway,0.4859426879912596,3,1,no,NEU,Europe
@@ -202,6 +199,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '182ce4e2f4',extremes,Storm,#b3b2b1,wmo,stormflo roervik bodoe,2025-12-14T03:49:00+00:00,Norway,0.4571582478088721,2,1,no,NEU,Europe
 'cc6a5a75ed',extremes,Snow&Ice,#d60d2b,wmo,is helgeland,2025-12-05T03:41:00+00:00,Norway,0.4567185544418378,2,1,no,NEU,Europe
 'cc845dcf1a',extremes,Landslide,#572c03,wmo,steinskred deler av rogaland og vest agder,2025-12-18T03:44:00+00:00,Norway,0.4565401763030456,3,1,no,NEU,Europe
+'6a40f211f7',extremes,Snow&Ice,#d60d2b,wmo,snø jotunheimen,2025-12-01T04:02:00+00:00,Norway,0.45491108610494396,2,2,no,NEU,Europe
 'd6bf186b6b',extremes,Storm,#b3b2b1,wmo,storm dyp d4,2025-12-10T03:45:00+00:00,Norway,0.4545491021058984,2,1,no,NEU,Europe
 '2dad16dcf1',extremes,Snow&Ice,#d60d2b,wmo,is finnmarkskysten,2025-12-04T03:42:00+00:00,Norway,0.4544192966713974,2,1,no,NEU,Europe
 'ad631f0669',extremes,Snow&Ice,#d60d2b,wmo,isvest finnmark,2025-12-19T03:46:00+00:00,Norway,0.4529681511254483,2,1,no,NEU,Europe
@@ -224,6 +222,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6a402fbe62',extremes,Storm,#b3b2b1,wmo,storm storegga,2025-12-01T04:02:00+00:00,Norway,0.438692813371988,2,1,no,NEU,Europe
 '8655d0b827',extremes,Storm,#b3b2b1,wmo,storm øst tampen,2025-12-18T03:44:00+00:00,Norway,0.4377607856910316,2,1,no,NEU,Europe
 '970d0c2ac2',extremes,Snow&Ice,#d60d2b,wmo,frost hallingdal,2025-12-01T04:02:00+00:00,Norway,0.4330121732691437,2,1,no,NEU,Europe
+'963b4d6fcb',extremes,Snow&Ice,#d60d2b,wmo,istrollheimen,2025-12-02T03:41:00+00:00,Norway,0.43044995406556114,2,1,no,NEU,Europe
 '581d73810c',extremes,Snow&Ice,#d60d2b,wmo,frysende indre fjordane,2025-12-16T03:47:00+00:00,Norway,0.4218915503114813,2,1,no,NEU,Europe
 'e6d4fcefb2',extremes,Snow&Ice,#d60d2b,wmo,snøskred nordenskiöld land,2025-12-08T03:44:00+00:00,Norway,0.401712474305272,4,1,no,NEU,Europe
-'98e92895da',extremes,Snow&Ice,#d60d2b,wmo,snøsalten,2025-12-04T03:42:00+00:00,Norway,0.3452058434776704,4,1,no,NEU,Europe

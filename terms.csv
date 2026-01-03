@@ -1,5 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'bf84083cec',extremes,Landslide,#572c03,wmo,skred norge,2025-12-10T03:45:00+00:00,Norway,0.752373502801319,0,2,no,NEU,Europe
 'cea931bf3d',extremes,Snow&Ice,#d60d2b,wmo,snø sør troms,2025-12-15T03:54:00+00:00,Norway,0.5645062004628066,2,1,no,NEU,Europe
+'6bcd4af11f',extremes,Flood,#030ba1,wmo,flom norge,2025-12-19T03:46:00+00:00,Norway,0.5640531719799349,0,2,no,NEU,Europe
+'8605608d55',extremes,Snow&Ice,#d60d2b,wmo,snøvest telemark,2025-12-09T03:41:00+00:00,Norway,0.5640011296716724,0,2,no,NEU,Europe
 '04df9081d7',extremes,Flood,#030ba1,wmo,flom rogaland og deler av agder,2025-12-16T03:47:00+00:00,Norway,0.5529518018634737,0,2,no,NEU,Europe
 '1e3d97c085',extremes,Snow&Ice,#d60d2b,wmo,snø helgeland,2025-12-01T04:02:00+00:00,Norway,0.5486439581173476,2,1,no,NEU,Europe
 'fc8c3c6441',extremes,Snow&Ice,#d60d2b,wmo,frost nordenskiöld land,2025-12-02T03:41:00+00:00,Norway,0.5478526732694219,2,1,no,NEU,Europe
@@ -231,6 +234,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e2082c3612',extremes,Storm,#b3b2b1,wmo,stormflo Sør-Island,2025-12-01T04:02:00+00:00,Iceland,0.4392979021648149,0,2,no,GIC,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,is island,2025-12-18T03:44:00+00:00,Iceland,0.4392033602976102,0,2,no,GIC,Europe
 '6a402fbe62',extremes,Storm,#b3b2b1,wmo,storm storegga,2025-12-01T04:02:00+00:00,Norway,0.438692813371988,2,1,no,NEU,Europe
+'ca11d03786',extremes,Thunderstorm,#53785a,wmo,hagl island,2025-12-12T03:45:00+00:00,Iceland,0.43854099105998223,0,2,no,GIC,Europe
+'125ea98162',extremes,Thunderstorm,#53785a,wmo,hagl sørøst island,2025-12-13T03:38:00+00:00,Iceland,0.4384096882679105,0,2,no,GIC,Europe
 '8655d0b827',extremes,Storm,#b3b2b1,wmo,storm øst tampen,2025-12-18T03:44:00+00:00,Norway,0.4377607856910316,2,1,no,NEU,Europe
 'b45ac3db87',extremes,Snow&Ice,#d60d2b,wmo,snødeler av troms,2025-12-03T03:40:00+00:00,Norway,0.4372748504334724,2,1,no,NEU,Europe
 '6aa927960b',extremes,Storm,#b3b2b1,wmo,storm dyp e4,2025-12-03T03:40:00+00:00,Norway,0.4366897401146523,2,1,no,NEU,Europe
@@ -238,9 +243,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17c354e09d',extremes,Snow&Ice,#d60d2b,wmo,is nordenskiöld land,2025-12-07T03:47:00+00:00,Norway,0.4356810698722879,2,1,no,NEU,Europe
 '40d2e541a8',extremes,Snow&Ice,#d60d2b,wmo,frostvest finnmark,2025-12-11T03:46:00+00:00,Norway,0.4346831865656949,2,1,no,NEU,Europe
 '970d0c2ac2',extremes,Snow&Ice,#d60d2b,wmo,frost hallingdal,2025-12-01T04:02:00+00:00,Norway,0.4330121732691437,2,1,no,NEU,Europe
+'468cd6b554',extremes,Storm,#b3b2b1,wmo,stormflo vestfjordene,2025-12-10T03:45:00+00:00,Iceland,0.4324722917499168,0,2,no,GIC,Europe
 '963b4d6fcb',extremes,Snow&Ice,#d60d2b,wmo,istrollheimen,2025-12-02T03:41:00+00:00,Norway,0.4304499540655611,2,1,no,NEU,Europe
+'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2025-12-12T03:46:00+00:00,Norway,0.426654208425667,0,2,no,NEU,Europe
+'74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2025-12-10T03:45:00+00:00,Iceland,0.4218731315852026,0,2,no,GIC,Europe
 'efa6ba5fb5',extremes,Snow&Ice,#d60d2b,wmo,iskaldt sunnmøre,2025-12-09T03:41:00+00:00,Norway,0.415063894298826,2,1,no,NEU,Europe
+'c67af7e3fe',extremes,Earthquake,#870007,usgs,jordskjelv island,2025-12-13T03:37:00+00:00,Iceland,0.4126641110869267,0,2,no,GIC,Europe
 'e6d4fcefb2',extremes,Snow&Ice,#d60d2b,wmo,snøskred nordenskiöld land,2025-12-08T03:44:00+00:00,Norway,0.401712474305272,4,1,no,NEU,Europe
+'626e44f853',extremes,Earthquake,#870007,usgs,jordskjelv grindavík,2025-12-10T03:45:00+00:00,Iceland,0.400415698328508,0,2,no,GIC,Europe
 '20ff6a2c03',extremes,Precipitation,#d60d2b,wmo,nedbør deler av vestland fylke,2025-12-15T03:54:00+00:00,Norway,0.395212853191127,1,1,no,NEU,Europe
 '9ceb123618',extremes,Snow&Ice,#d60d2b,wmo,snøskred jotunheimen,2025-12-07T03:47:00+00:00,Norway,0.3802507998583477,3,1,no,NEU,Europe
 '9d5914f39c',extremes,Storm,#b3b2b1,wmo,storm sør-island,2025-11-30T03:46:00+00:00,Iceland,0.3760111153430053,1,1,no,GIC,Europe

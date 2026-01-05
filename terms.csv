@@ -1,4 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'bf84083cec',extremes,Landslide,#572c03,wmo,skred norge,2025-12-10T03:45:00+00:00,Norway,0.752373502801319,0,2,no,NEU,Europe
+'06285e171c',extremes,Flood,#030ba1,wmo,flom norge,2025-12-02T03:41:00+00:00,Norway,0.7514762639123923,0,2,no,NEU,Europe
+'8e726169a6',extremes,Storm,#b3b2b1,wmo,storm skomvaer melbu,2025-12-03T03:40:00+00:00,Norway,0.6087188117880972,0,2,no,NEU,Europe
+'56c91ea21a',extremes,Storm,#b3b2b1,wmo,stormflo fruholmen slettnes fyr,2025-11-30T03:46:00+00:00,Norway,0.5966385491988092,0,2,no,NEU,Europe
 '014a44aa59',extremes,Storm,#b3b2b1,wmo,storm roest bank,2025-12-02T03:41:00+00:00,Norway,0.5498835590402027,1,1,no,NEU,Europe
 'dfb65e5159',extremes,Snow&Ice,#d60d2b,wmo,iskaldt finnmarkskysten,2025-12-02T03:41:00+00:00,Norway,0.5478730621660565,1,1,no,NEU,Europe
 'fc8c3c6441',extremes,Snow&Ice,#d60d2b,wmo,frost nordenskiöld land,2025-12-02T03:41:00+00:00,Norway,0.5478526732694219,1,1,no,NEU,Europe
@@ -203,7 +207,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '74dac4bf6e',extremes,Snow&Ice,#d60d2b,wmo,frysende jotunheimen,2025-12-11T03:46:00+00:00,Norway,0.4447312179056039,2,1,no,NEU,Europe
 '0664cad0b8',extremes,Snow&Ice,#d60d2b,wmo,frost tromsø,2025-12-08T03:44:00+00:00,Norway,0.4446063504193259,2,1,no,NEU,Europe
 '9944768ca7',extremes,Storm,#b3b2b1,wmo,stormflo nordbredden,2025-12-07T03:47:00+00:00,Norway,0.4445641590421771,2,1,no,NEU,Europe
-'92bd1f1505',extremes,Snow&Ice,#d60d2b,wmo,snø finnmarkskysten,2025-12-10T03:45:00+00:00,Norway,0.44257332655991716,2,1,no,NEU,Europe
+'92bd1f1505',extremes,Snow&Ice,#d60d2b,wmo,snø finnmarkskysten,2025-12-10T03:45:00+00:00,Norway,0.4425733265599171,2,1,no,NEU,Europe
 'c55f440864',extremes,Storm,#b3b2b1,wmo,stormfisker,2025-12-01T04:02:00+00:00,Norway,0.441993658650957,2,1,no,NEU,Europe
 '1a0a416261',extremes,Storm,#b3b2b1,wmo,stormflo melbu torsvaag,2025-12-16T03:47:00+00:00,Norway,0.4417201763702039,2,1,no,NEU,Europe
 '58a9d972fe',extremes,Snow&Ice,#d60d2b,wmo,snø ofoten,2025-12-11T03:46:00+00:00,Norway,0.4415605741564609,2,1,no,NEU,Europe
@@ -261,5 +265,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a20612e67',extremes,Drought,#edc291,edo,mangel på regn trinidad og tobago,2025-12-08T03:45:00+00:00,Trinidad and Tobago,0.3098781522363908,0,2,no,NSA,North-America
 'cc855d70a2',extremes,Drought,#edc291,edo,tørrhet tadsjikistan,2025-12-08T03:45:00+00:00,Tajikistan,0.3098758690337233,0,2,no,WCA,Asia
 '5d85dc5645',extremes,Drought,#edc291,edo,tørrhet rwanda,2025-12-16T03:47:00+00:00,Rwanda,0.3097434164637586,0,2,no,SEAF,Africa
+'0d1bdfbccc',extremes,Cold Wave,#a7e9fa,wmo,iskaldt india,2025-12-07T03:47:00+00:00,India,0.30940581612136264,0,2,no,SAS,Asia
+'da5c6d0821',extremes,Drought,#edc291,edo,mangel på regn kirgisistan,2025-11-30T03:47:00+00:00,Kyrgyzstan,0.30882337474258037,0,2,no,WCA,Asia
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,tordenvær australia,2025-12-05T03:41:00+00:00,Australia,0.3087605287264497,0,2,no,SAU,Oceania
+'99251f8aa7',extremes,Drought,#edc291,edo,mangel på regn liberia,2025-12-08T03:45:00+00:00,Liberia,0.30866324992148386,0,2,no,WAF,Africa
 '957c870453',extremes,Drought,#edc291,edo,tørrhet island,2025-12-19T03:46:00+00:00,Iceland,0.3085401157354256,1,1,no,GIC,Europe
+'5e4bef8c2c',extremes,Cold Wave,#a7e9fa,wmo,kald bølge india,2025-12-08T03:44:00+00:00,India,0.308512567006855,0,2,no,SAS,Asia
+'53af3d9646',extremes,Drought,#edc291,edo,tørke turkmenistan,2025-12-15T03:54:00+00:00,Turkmenistan,0.30837621063985965,0,2,no,WCA,Asia
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2025-12-11T03:46:00+00:00,Iceland,0.2712383753472012,1,1,no,GIC,Europe

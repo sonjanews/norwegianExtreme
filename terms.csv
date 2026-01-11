@@ -1,4 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'bf84083cec',extremes,Landslide,#572c03,wmo,skred norge,2025-12-10T03:45:00+00:00,Norway,0.752373502801319,0,2,no,NEU,Europe
+'06285e171c',extremes,Flood,#030ba1,wmo,flom norge,2025-12-02T03:41:00+00:00,Norway,0.7514762639123923,0,2,no,NEU,Europe
+'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,is norge,2025-12-05T03:41:00+00:00,Norway,0.7359994127700696,0,2,no,NEU,Europe
+'52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2025-11-30T03:46:00+00:00,Norway,0.6984509370137346,0,2,no,NEU,Europe
+'c108aba66e',extremes,Snow&Ice,#d60d2b,wmo,skredvest finnmark,2025-12-06T03:32:00+00:00,Norway,0.6725850352820203,0,2,no,NEU,Europe
+'d495aa9b30',extremes,Snow&Ice,#d60d2b,wmo,frost sør troms,2025-12-02T03:41:00+00:00,Norway,0.6720451226051763,0,2,no,NEU,Europe
+'eeb266faee',extremes,Snow&Ice,#d60d2b,wmo,ishallingdal,2025-12-02T03:41:00+00:00,Norway,0.661744902285831,0,2,no,NEU,Europe
+'f8bf20ad6e',extremes,Snow&Ice,#d60d2b,wmo,snøskred heiane,2025-12-03T03:40:00+00:00,Norway,0.6587734460727326,0,2,no,NEU,Europe
+'d71455122c',extremes,Storm,#b3b2b1,wmo,storm torungen aana sira,2025-12-01T04:02:00+00:00,Norway,0.6543094328377715,0,2,no,NEU,Europe
+'09111cb89e',extremes,Snow&Ice,#d60d2b,wmo,iskaldt nordenskiöld land,2025-12-06T03:32:00+00:00,Norway,0.6517109559544346,0,2,no,NEU,Europe
 'd240ddad36',extremes,Snow&Ice,#d60d2b,wmo,frost helgeland,2025-12-08T03:44:00+00:00,Norway,0.6503972409852004,0,2,no,NEU,Europe
 '97776e8117',extremes,Snow&Ice,#d60d2b,wmo,is sunnmøre,2025-12-02T03:41:00+00:00,Norway,0.6491952744871377,0,2,no,NEU,Europe
 'f0636b1c44',extremes,Snow&Ice,#d60d2b,wmo,iskaldt helgeland,2025-12-03T03:40:00+00:00,Norway,0.6490848081903081,0,2,no,NEU,Europe
@@ -182,7 +192,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '581d73810c',extremes,Snow&Ice,#d60d2b,wmo,frysende indre fjordane,2025-12-16T03:47:00+00:00,Norway,0.3586078177647591,3,1,no,NEU,Europe
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,jordskjelv island,2025-12-13T03:37:00+00:00,Iceland,0.3507644944238877,1,1,no,GIC,Europe
 '9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2025-12-15T03:54:00+00:00,Iceland,0.3317252256235414,1,1,no,GIC,Europe
-'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,island iskaldt,2025-12-10T03:45:00+00:00,Iceland,0.31762376629603545,2,1,no,GIC,Europe
+'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,island iskaldt,2025-12-10T03:45:00+00:00,Iceland,0.3176237662960354,2,1,no,GIC,Europe
 '957c870453',extremes,Drought,#edc291,edo,tørrhet island,2025-12-19T03:46:00+00:00,Iceland,0.3085401157354256,1,1,no,GIC,Europe
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2025-12-11T03:46:00+00:00,Iceland,0.2712383753472012,1,1,no,GIC,Europe
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 08p,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,no,SPO,Pacific Ocean

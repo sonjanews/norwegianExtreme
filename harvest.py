@@ -29,6 +29,7 @@ from dateutil import parser
 ##from datetime import date, timedelta, datetime, timezone
 
 from CreLanguageTranslate.LanguageTranslate import LanguageTranslate 
+from deep_translator import GoogleTranslator
 
 DATA_PATH = Path.cwd()
 
@@ -125,7 +126,7 @@ if(not keywordsNewsDF.empty):
   print(keywordsNewsDF2)
   keywordsNewsDF2['counting'] = keywordsNewsDF2['title'].fillna(0)
   keywordsNewsDF2['counting'] = keywordsNewsDF2['counting'] - keywordsNewsDF2['ratio']
-  keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['counting'], ascending=True)  
+  keywordsNewsDF2 = keywordsNewsDF2.sort_values(by=['counter','counting'], ascending=True)  
 
 rows20 = int(math.ceil(keywordsNewsDF2.shape[0]/5))
 keywordsNewsDF2 = keywordsNewsDF2.head(rows20)
@@ -222,6 +223,23 @@ def storeCollection():
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
         df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])  
         df = removeDuplicates(df)
+
+        for index, column in df.iterrows():
+          lng = column['language']
+          if(not lng):
+            lng = 'auto'
+          txt = str(column['title']) + '. ' + str(column['description'])
+          try:
+            print(['inside repair: ', lng, column['de'], txt])
+            if(not column['de'] or pd.isna(column['de'])):
+              df.loc[index,'de'] = GoogleTranslator(source=lng, target='de').translate(text=txt)
+            if(not column['en'] or pd.isna(column['en'])):
+              df.loc[index,'en'] = GoogleTranslator(source=lng, target='en').translate(text=txt)
+            if(not column['la'] or pd.isna(column['la'])):
+              df.loc[index,'la'] = GoogleTranslator(source=lng, target='la').translate(text=txt)
+          except Exception as X:
+            print(["translation went wrong: ",  column]) 
+
         #df.to_csv(DATA_PATH / dateFile, index=True) 
         if(not os.path.exists(DATA_PATH / 'cxsv')):
             os.mkdir(DATA_PATH / 'cxsv')
@@ -436,8 +454,6 @@ def countSingleCharsInQuote(keyword, quote, case=True):
       return countFound/countAll
     return 0
 
-
-
 def checkKeywordInQuote(keyword, quote, case=True, anyKey=False, singleChars=False):
     keyword = keyword.replace("+","").replace("-","")
     keywords = keyword.strip("'").split(" ")
@@ -454,7 +470,6 @@ def checkKeywordInQuote(keyword, quote, case=True, anyKey=False, singleChars=Fal
       allFound = True
       for keyw in keywords:
         allFound = allFound and (keyw in quote)  
-
     return allFound
 
 def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, topic, feed, country, ipcc, continent):
@@ -486,7 +501,7 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
-             max(valid,0.7)
+             valid = max(valid,0.7)
       # add seldom keywords twice if
       if(not seldomDF.empty):
        keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
@@ -497,31 +512,51 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
+             valid = max(valid,0.65) 
       if(not found):
         for index2, column2 in termsLangDF.iterrows(): 
            allFound = checkKeywordInQuote(keyword, fullQuote, case=True)
            if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             max(valid,0.6) 
+             valid = max(valid,0.6) 
       if(not found):
         for index2, column2 in termsLangDF.iterrows(): 
-           allFound = checkKeywordInQuote(keyword, fullQuote, case=True, anyKey=True)
+           allFound = checkKeywordInQuote(keyword, fullQuote, case=False)
+           if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+             valid = max(valid,0.55) 
+      if(not found):
+        for index2, column2 in termsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, searchQuote+fullQuote, case=True, anyKey=True)
            if(allFound):
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
-             max(valid,0.2) 
-      if(language in ['zh','ja']):
-       if(not found):
-         for index2, column2 in termsLangDF.iterrows(): 
-           numFound = countSingleCharsInQuote(keyword, fullQuote, case=True)
-           if(numFound>0):
+             valid = max(valid,0.3) 
+      if(not found):
+        for index2, column2 in termsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, searchQuote+fullQuote, case=False, anyKey=True)
+           if(allFound):
              foundKeywords.append(keyword) 
              foundColumns.append(column2) 
              found = True
-             max(valid,numFound) 
-
+             valid = max(valid,0.2) 
+      if(language in ['zh','ja']):
+       if(not found):
+         for index2, column2 in termsLangDF.iterrows(): 
+           numFound = countSingleCharsInQuote(keyword, searchQuote+fullQuote, case=True)
+           if(numFound>valid):
+             valid = max(valid,numFound) 
+             foundKeywords = [keyword]
+             foundColumns = [column2]
+             found = True
+           elif(numFound==valid):  
+             foundKeywords.append(keyword) 
+             foundColumns.append(column2) 
+             found = True
+             valid = max(valid,numFound) 
       data['valid'] = valid
       if(valid>0.15):
         foundKeywords.append(keyWord) 
@@ -542,7 +577,7 @@ def checkArticlesForKeywords(articles, termsDF, seldomDF, language, keyWord, top
         data['topic'] = topic
         #foundArticles.append(data)
         if(language in ['zh','ja']):   
-          foundArticles.append(data) 
+          foundArticles.append(data)      
 
     return foundArticles
 
@@ -590,6 +625,53 @@ def getLatestFileAge():
     return minAge        
 
 
+ts = int(time.time())
+currentMonths = []
+for m in [0,20,40,60]:
+  ##month = datetime.utcfromtimestamp(ts-60*60*24*m).strftime('%Y_%m')  
+  month = datetime.datetime.fromtimestamp(ts-60*60*24*m).strftime('%Y_%m')
+  if month not in currentMonths:
+    currentMonths.append(month)
+
+def inqMailNews():
+    foundNew = False
+    keyWord = 'veryUnusualAndNeverUsedKeyword'
+    language = os.getenv('EXTREME_LANGUAGE')
+    if (language == 'xx'):
+      print('Please set EXTREME_LANGUAGE in file: mysecrets.py');
+      return None
+    for currMonth in currentMonths:
+       extremesFile = "https://github.com/pg-ufr-news/mailHarvester/blob/main/csv/extreme/"+language+"/news_"+currMonth+".csv?raw=true"
+       print(extremesFile)
+       extremesRequest = requests.get(extremesFile, headers={'Accept': 'text/plain'})
+       print(extremesRequest)   
+       if(extremesRequest.status_code == 200):
+          extremesDf=pd.read_csv(io.StringIO(extremesRequest.content.decode('utf-8')), delimiter=',', index_col='index')
+          ##extremesDf['hash'] = extremesDf.index 
+          print(extremesDf)
+          extremesDf = extremesDf[extremesDf['language']==language]
+          extremesDf['feed'] = 'mail'
+          print(extremesDf)
+          extremesDict = extremesDf.to_dict('index')
+          extremesArray = list(extremesDict.values())
+          print(extremesArray)
+          checkedArticles = checkArticlesForKeywords(extremesArray, keywordsDF, keywordsNewsDF2, language, keyWord)          
+          print(checkedArticles)
+          newArticles = filterNewAndArchive(checkedArticles, language, keyWord)    
+          for data in newArticles:
+                    if (dataIsNotBlocked(data)):                    
+                        #print(str(keyWord)+': '+str(title)+' '+str(url))
+                        print(["addNewsToCollection: ",data])
+                        if(addNewsToCollection(data)):
+                            foundNew = True
+                            print(["+++added"])  
+                        else:
+                            print(["---not added"])   
+
+       
+    if(foundNew):         
+       storeCollection()
+
 def inqRandomNews(maxCount=1):
   #global termsDF
   global termsDF3
@@ -607,7 +689,9 @@ def inqRandomNews(maxCount=1):
     if(termsDF3.ratio.max()>0.77):
       randomNumber = 0.5   
     if(unsearchedTerms.ratio.max()>0.750):    #0.765(?)  #0.759:36;3; 0.758:55;21 , 0.757:83;47 , 0.75:215
-      randomNumber = 0.1   
+      randomNumber = 0.1  
+    if(termsDF3.counter.min()<0.5):
+      randomNumber = 0.98   
     ## randomNumber = 0.1 # unsearched first
     #randomNumber = 0.5 # succesors first
     #randomNumber = 0.7
@@ -738,9 +822,16 @@ def inqRandomNews(maxCount=1):
                 if(foundNew):     
                     maxCount  -= (2 + len(newArticles))  
                     storeCollection()
+             else:
+               #0 articles found
+               print(['0 articles found, counter:',newCounter ,'ratio: ',currRatio, 'pages:', newLimit])
             else:
               print(response.text)
               if(jsonData['code'] == 'maximumResultsReached'):
+                deltaLimit = -1
+                maxCount = 0
+                newLimit =  max(1,currPage+deltaLimit)
+              if(jsonData['code'] == 'rateLimited'):
                 deltaLimit = -1
                 maxCount = 0
                 newLimit =  max(1,currPage+deltaLimit)
@@ -778,6 +869,7 @@ def inqRandomNews(maxCount=1):
 #              "publishedAt":"2021-07-16T15:06:00Z",
 #              "content":"Nach den langen und heftigen Regenf\xc3\xa4llen Mitte der Woche treten immer mehr katastrophale Folgen zutage: Die Zahl der Toten w\xc3\xa4chst, allein in Rheinland-Pfalz und Nordrhein-Westfalen sind \xc3\xbcber 100 Mens\xe2\x80\xa6 [+4840 chars]"}
 
+inqMailNews()
 
 amount = 4
 if(len(termsDF)>50):

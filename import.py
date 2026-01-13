@@ -30,7 +30,7 @@ termsFields = ["index","module", "topic", "color", "feed", "term", "created", "c
 topicsDict = {}
 
 # MOVE TO myparameters.py (no secrets only)
-MAX_IMPORTS = 10
+MAX_IMPORTS = 8
 
 TARGET_LANGUAGE = os.getenv('EXTREME_LANGUAGE')
 if(TARGET_LANGUAGE == 'xx'): 
@@ -46,8 +46,11 @@ def doTranslate(column, targetLanguage, tmpTopic = True, lowerCase=True):
   if(lowerCase):
     tmpSource = tmpSource.lower()
   tmpTerm = lt.getTranslatorByLanguage(column['language'],targetLanguage).translate(tmpSource)
-  print(['translate',tmpSource,tmpTerm])
+  if (not isinstance(tmpTerm, str)):
+    print(['translation failed',tmpSource,tmpTerm])
+    tmpTerm = '' 
   if(tmpTopic):
+    tmpArray = []
     if(':' in tmpTerm):
       tmpArray = tmpTerm.split(':', 1)
     if('：' in tmpTerm):
@@ -81,8 +84,11 @@ def importTerms(maxImports=10, targetLanguage='de'):
     topicsDF['ratio'] *= topicsDF['country'].apply(
       lambda x: max(0.5,countriesForLanguage[x]) if (x in countriesForLanguage) else 0.4 
     )
+    topicsDF['ratio'] += topicsDF['feed'].apply(
+      lambda x: 0.11 if (x == 'random') else 0.0
+    )
     topicsDF = topicsDF.sort_values(by=['ratio'], ascending=False) 
-    topicsDF['pages'] = 2
+    topicsDF['pages'] = 1
     topicsDF['counter'] = 0
 
     topicsDF['color'] = topicsDF['topic'].apply(
@@ -100,13 +106,14 @@ def importTerms(maxImports=10, targetLanguage='de'):
             #column['term'] = GoogleTranslator(source=column['language'], target=targetLanguage).translate(text=column['term'])
             column['term'] = doTranslate(column, targetLanguage) #use context of topic
           column['language'] = targetLanguage
-          #termsDF = termsDF.append(column, ignore_index=True)
-          columnDF = pd.DataFrame.from_records([column], columns=list(column.keys()))
-          #print(columnDF)
-          if(termsDF.empty): 
-            termsDF = columnDF
-          else:
-            termsDF = pd.concat([termsDF,columnDF])
+          if(len(column['term'])>1): 
+            #termsDF = termsDF.append(column, ignore_index=True)
+            columnDF = pd.DataFrame.from_records([column], columns=list(column.keys()))
+            #print(columnDF)
+            if(termsDF.empty): 
+              termsDF = columnDF
+            else:
+              termsDF = pd.concat([termsDF,columnDF])
           #print(termsDF)
 
           countingImports += 1

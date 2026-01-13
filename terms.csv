@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6e105d4f83',extremes,Snow&Ice,#d60d2b,wmo,fryser svartisen,2025-12-03T03:40:00+00:00,Norway,0.6793900507642865,0,2,no,NEU,Europe
-'d495aa9b30',extremes,Snow&Ice,#d60d2b,wmo,frost sør troms,2025-12-02T03:41:00+00:00,Norway,0.6720451226051763,0,2,no,NEU,Europe
-'ad4e7fe46d',extremes,Snow&Ice,#d60d2b,wmo,lavanche lofoten og vesterålen,2025-12-03T03:40:00+00:00,Norway,0.6685701186090596,0,2,no,NEU,Europe
-'6c519f9f52',extremes,Snow&Ice,#d60d2b,wmo,is indre troms,2025-12-02T03:41:00+00:00,Norway,0.6672678670185345,0,2,no,NEU,Europe
 '72187991a7',extremes,Snow&Ice,#d60d2b,wmo,frost lyngen,2025-12-03T03:40:00+00:00,Norway,0.6665502484984601,0,2,no,NEU,Europe
 '597397a484',extremes,Snow&Ice,#d60d2b,wmo,snøskred ofoten,2025-12-02T03:41:00+00:00,Norway,0.6625584437925689,0,2,no,NEU,Europe
 'eeb266faee',extremes,Snow&Ice,#d60d2b,wmo,ishallingdal,2025-12-02T03:41:00+00:00,Norway,0.661744902285831,0,2,no,NEU,Europe
@@ -26,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf1e930f94',extremes,Flood,#030ba1,wmo,flashflood deler av vestlandet,2025-12-10T03:45:00+00:00,Norway,0.6198024147023499,1,1,no,NEU,Europe
 'd954e18d49',extremes,Snow&Ice,#d60d2b,wmo,iskaldt romsdal,2025-12-02T03:41:00+00:00,Norway,0.6181761137751244,0,2,no,NEU,Europe
 'c108aba66e',extremes,Snow&Ice,#d60d2b,wmo,skredvest finnmark,2025-12-06T03:32:00+00:00,Norway,0.5716972799897172,1,1,no,NEU,Europe
+'6c519f9f52',extremes,Snow&Ice,#d60d2b,wmo,is indre troms,2025-12-02T03:41:00+00:00,Norway,0.5676277319657543,1,2,no,NEU,Europe
 'e6d4fcefb2',extremes,Snow&Ice,#d60d2b,wmo,snøskred nordenskiöld land,2025-12-08T03:44:00+00:00,Norway,0.5555351817374007,1,2,no,NEU,Europe
 '09111cb89e',extremes,Snow&Ice,#d60d2b,wmo,iskaldt nordenskiöld land,2025-12-06T03:32:00+00:00,Norway,0.5539543125612694,1,1,no,NEU,Europe
 'b7bbe54d7b',extremes,Snow&Ice,#d60d2b,wmo,fryser lofoten og vesterålen,2025-12-06T03:32:00+00:00,Norway,0.5475098697034357,1,1,no,NEU,Europe
@@ -102,7 +99,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,steinskred norge,2025-12-12T03:45:00+00:00,Norway,0.4595582587623635,3,1,no,NEU,Europe
 'f6616db6dc',extremes,Snow&Ice,#d60d2b,wmo,snøskred norge,2025-12-18T03:44:00+00:00,Norway,0.4574372909828558,2,1,no,NEU,Europe
 '182ce4e2f4',extremes,Storm,#b3b2b1,wmo,stormflo roervik bodoe,2025-12-14T03:49:00+00:00,Norway,0.4571582478088721,2,1,no,NEU,Europe
-'cc845dcf1a',extremes,Landslide,#572c03,wmo,steinskred deler av rogaland og vest agder,2025-12-18T03:44:00+00:00,Norway,0.4565401763030456,3,1,no,NEU,Europe
 '1411fb3a72',extremes,Landslide,#572c03,wmo,skred deler av vestland og rogaland,2025-12-16T03:47:00+00:00,Norway,0.4559820395406302,3,1,no,NEU,Europe
 'd6bf186b6b',extremes,Storm,#b3b2b1,wmo,storm dyp d4,2025-12-10T03:45:00+00:00,Norway,0.4545491021058984,2,1,no,NEU,Europe
 '90c9ca58f9',extremes,Snow&Ice,#d60d2b,wmo,snø sunnmøre,2025-12-12T03:45:00+00:00,Norway,0.4545332882688292,3,1,no,NEU,Europe
@@ -150,6 +146,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c156d1e719',extremes,Snow&Ice,#d60d2b,wmo,snøhallingdal,2025-12-16T03:47:00+00:00,Norway,0.4068223833363835,2,1,no,NEU,Europe
 '20ff6a2c03',extremes,Precipitation,#d60d2b,wmo,nedbør deler av vestland fylke,2025-12-15T03:54:00+00:00,Norway,0.395212853191127,1,1,no,NEU,Europe
 '801198b61a',extremes,Storm,#b3b2b1,wmo,stormflo storegga,2025-12-13T03:38:00+00:00,Norway,0.3931967654473995,3,1,no,NEU,Europe
+'cc845dcf1a',extremes,Landslide,#572c03,wmo,steinskred deler av rogaland og vest agder,2025-12-18T03:44:00+00:00,Norway,0.38805914985758877,4,1,no,NEU,Europe
 '7f246907d7',extremes,Drought,#edc291,edo,tørrhet norge,2025-12-15T03:54:00+00:00,Norway,0.3794587078170348,1,1,no,NEU,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2025-12-02T03:41:00+00:00,Iceland,0.3784884951388829,1,2,no,GIC,Europe
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2025-12-19T03:46:00+00:00,Norway,0.3752697949913791,1,1,no,NEU,Europe

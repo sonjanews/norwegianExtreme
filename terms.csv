@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'144c06bc4c',extremes,Storm,#b3b2b1,wmo,storm froeya bank,2026-01-15T10:56:00+00:00,Norway,0.7721907885063414,0,1,no,NEU,Europe
+'c4a2009ee4',extremes,Storm,#b3b2b1,wmo,storm aana sira obrestad,2026-01-15T10:56:00+00:00,Norway,0.7721703008602622,0,1,no,NEU,Europe
+'19bb4201ca',extremes,Snow&Ice,#d60d2b,wmo,isfjell i Sør-Norge,2026-01-15T10:56:00+00:00,Norway,0.7721701860489575,0,1,no,NEU,Europe
 'bf84083cec',extremes,Landslide,#572c03,wmo,skred norge,2025-12-10T03:45:00+00:00,Norway,0.682076733290212,1,1,no,NEU,Europe
 '6c519f9f52',extremes,Snow&Ice,#d60d2b,wmo,is indre troms,2025-12-02T03:41:00+00:00,Norway,0.6676277319657543,1,2,no,NEU,Europe
 '72187991a7',extremes,Snow&Ice,#d60d2b,wmo,frost lyngen,2025-12-03T03:40:00+00:00,Norway,0.6665502484984601,0,1,no,NEU,Europe
@@ -101,6 +104,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7765b7fbe3',extremes,Storm,#b3b2b1,wmo,storm lyngoer oksoey,2025-12-18T03:44:00+00:00,Norway,0.4210823256592185,2,1,no,NEU,Europe
 '9a7d6afc0d',extremes,Storm,#b3b2b1,wmo,stormflo sør utsire,2025-12-18T03:44:00+00:00,Norway,0.4174360833198994,2,1,no,NEU,Europe
 '3a7d6b5673',extremes,Snow&Ice,#d60d2b,wmo,frost deler av rogaland og vest agder,2025-12-18T03:44:00+00:00,Norway,0.4100069809204631,2,1,no,NEU,Europe
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.40997654267340694,0,1,no,,
+'c0ea0632ba',extremes,Heat Wave,#c40202,random,varme,2026-01-15T10:39:00+00:00,,0.4099752445939704,0,1,no,,
+'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-01-15T10:39:00+00:00,,0.4099516371853199,0,1,no,,
+'1c38b19449',extremes,Storm,#b3b2b1,random,støvskåler,2026-01-15T10:39:00+00:00,,0.4099359567017878,0,1,no,,
+'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,snøstorm,2026-01-15T10:39:00+00:00,,0.40990088322186424,0,1,no,,
 'c156d1e719',extremes,Snow&Ice,#d60d2b,wmo,snøhallingdal,2025-12-16T03:47:00+00:00,Norway,0.4068223833363835,2,1,no,NEU,Europe
 '20ff6a2c03',extremes,Precipitation,#d60d2b,wmo,nedbør deler av vestland fylke,2025-12-15T03:54:00+00:00,Norway,0.395212853191127,1,1,no,NEU,Europe
 'cc845dcf1a',extremes,Landslide,#572c03,wmo,steinskred deler av rogaland og vest agder,2025-12-18T03:44:00+00:00,Norway,0.3880591498575887,4,1,no,NEU,Europe

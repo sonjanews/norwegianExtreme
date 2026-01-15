@@ -1,10 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'bf84083cec',extremes,Landslide,#572c03,wmo,skred norge,2025-12-10T03:45:00+00:00,Norway,0.682076733290212,1,1,no,NEU,Europe
-'6e105d4f83',extremes,Snow&Ice,#d60d2b,wmo,fryser svartisen,2025-12-03T03:40:00+00:00,Norway,0.6793900507642865,0,1,no,NEU,Europe
-'c108aba66e',extremes,Snow&Ice,#d60d2b,wmo,skredvest finnmark,2025-12-06T03:32:00+00:00,Norway,0.6725850352820203,0,1,no,NEU,Europe
-'d495aa9b30',extremes,Snow&Ice,#d60d2b,wmo,frost sør troms,2025-12-02T03:41:00+00:00,Norway,0.6720451226051763,0,1,no,NEU,Europe
-'ad4e7fe46d',extremes,Snow&Ice,#d60d2b,wmo,lavanche lofoten og vesterålen,2025-12-03T03:40:00+00:00,Norway,0.6685701186090596,0,1,no,NEU,Europe
-'6c519f9f52',extremes,Snow&Ice,#d60d2b,wmo,is indre troms,2025-12-02T03:41:00+00:00,Norway,0.6672678670185345,0,1,no,NEU,Europe
+'6c519f9f52',extremes,Snow&Ice,#d60d2b,wmo,is indre troms,2025-12-02T03:41:00+00:00,Norway,0.6676277319657543,1,2,no,NEU,Europe
 '72187991a7',extremes,Snow&Ice,#d60d2b,wmo,frost lyngen,2025-12-03T03:40:00+00:00,Norway,0.6665502484984601,0,1,no,NEU,Europe
 '39ec5d5260',extremes,Snow&Ice,#d60d2b,wmo,snø romsdal,2025-12-03T03:40:00+00:00,Norway,0.6101234619741652,1,2,no,NEU,Europe
 'e6d4fcefb2',extremes,Snow&Ice,#d60d2b,wmo,snøskred nordenskiöld land,2025-12-08T03:44:00+00:00,Norway,0.5555351817374007,1,2,no,NEU,Europe
@@ -121,8 +117,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '957c870453',extremes,Drought,#edc291,edo,tørrhet island,2025-12-19T03:46:00+00:00,Iceland,0.3085401157354256,1,1,no,GIC,Europe
 '707df29480',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 08p,2025-12-16T03:46:00+00:00,,0.2695350848605743,1,1,no,SPO,Pacific Ocean
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,no,,
-'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-01-15T10:20:00+00:00,,0.25669966665781385,0,1,no,,
-'95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,no,,
+'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,no,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,no,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordkald,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,no,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,no,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,no,,

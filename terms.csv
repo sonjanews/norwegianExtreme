@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-01-15T10:56:00+00:00,Norway,0.7721930493323251,0,1,no,NEU,Europe
+'144c06bc4c',extremes,Storm,#b3b2b1,wmo,storm froeya bank,2026-01-15T10:56:00+00:00,Norway,0.7721907885063414,0,1,no,NEU,Europe
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,snøskred nord troms,2026-01-15T12:14:00+00:00,Norway,0.7718247282795881,0,1,no,NEU,Europe
 '78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2026-01-15T10:56:00+00:00,Norway,0.7716141964452442,0,1,no,NEU,Europe
 'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,is norge,2026-01-15T10:56:00+00:00,Norway,0.7715787614532585,0,1,no,NEU,Europe
@@ -100,7 +101,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-01-17T03:44:00+00:00,,0.3888307895574756,0,1,no,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2026-01-24T03:48:00+00:00,,0.3846338550803188,0,1,no,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,iskaldt,2026-01-22T03:59:00+00:00,,0.3794137203077339,0,1,no,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-01-22T03:59:00+00:00,,0.3767178110878088,0,1,no,,
+'52af874334',extremes,Drought,#edc291,random,tørrhet,2026-01-21T03:55:00+00:00,,0.3766599654625527,0,1,no,,
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2025-12-19T03:46:00+00:00,Norway,0.3752697949913791,1,1,no,NEU,Europe
+'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-01-23T04:02:00+00:00,,0.37270796341855356,0,1,no,,
+'8b4587c763',extremes,Storm,#b3b2b1,random,støvstorm,2026-01-24T03:48:00+00:00,,0.3694329533406308,0,1,no,,
+'d59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-01-20T03:55:00+00:00,,0.3682311994791814,0,1,no,,
+'15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-01-15T12:13:00+00:00,,0.36684095177242887,0,1,no,,
+'3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-01-21T03:55:00+00:00,,0.3657646127310858,0,1,no,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,no,,
 'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,no,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,no,,

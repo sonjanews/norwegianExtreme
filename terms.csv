@@ -68,6 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,snøskred nordenskiöld land,2026-01-15T10:56:00+00:00,Norway,0.467986416589194,1,1,no,NEU,Europe
 'ad3352e362',extremes,Flood,#030ba1,wmo,flom rogaland og deler av agder,2025-12-16T03:47:00+00:00,Norway,0.4625915009268365,1,2,no,NEU,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-01-15T10:39:00+00:00,,0.4594924949408552,1,2,no,,
+'9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-01-21T03:55:00+00:00,,0.45328467752810403,1,2,no,,
 'a4552e4740',extremes,Snow&Ice,#d60d2b,wmo,iskalde deler av Troms,2026-01-17T03:44:00+00:00,Norway,0.4408185115329868,1,1,no,NEU,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-01-15T10:39:00+00:00,,0.4390695371908845,1,2,no,,
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-01-18T03:57:00+00:00,Iceland,0.4386533932631288,1,1,no,GIC,Europe
@@ -88,7 +89,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-01-23T04:03:00+00:00,Norway,0.3629571333064812,1,1,no,NEU,Europe
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-01-15T10:39:00+00:00,,0.3626561678191026,1,1,no,,
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-01-21T03:56:00+00:00,Norway,0.3560424147676219,1,1,no,NEU,Europe
-'9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-01-21T03:55:00+00:00,,0.3559230617977695,0,1,no,,
 'a652c78afc',extremes,Drought,#edc291,random,megatørke,2026-01-18T03:56:00+00:00,,0.3536643231434738,0,1,no,,
 '957c870453',extremes,Drought,#edc291,edo,tørrhet island,2026-01-19T04:03:00+00:00,Iceland,0.352906118363561,1,1,no,GIC,Europe
 '560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-01-18T03:56:00+00:00,,0.3522846892766537,0,1,no,,
@@ -125,7 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rim vinter,2026-01-17T03:44:00+00:00,,0.3288030269620122,0,1,no,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2026-01-24T03:48:00+00:00,,0.3287389568182709,1,1,no,,
 '69791e5a17',extremes,Flood,#030ba1,random,flom,2026-01-17T03:44:00+00:00,,0.3273276085821974,0,1,no,,
-'053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-01-23T04:02:00+00:00,,0.32468271851806974,0,1,no,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-01-23T04:02:00+00:00,,0.3246827185180697,0,1,no,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,skogbrann,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,no,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bushfire,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,no,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,no,,

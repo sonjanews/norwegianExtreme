@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab92adcf6e',extremes,Snow Avalanche,#deddd5,wmo,snøskred sør troms,2026-01-15T12:14:00+00:00,Norway,0.7001423041064745,1,1,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-01-15T10:56:00+00:00,Norway,0.6947616082306324,1,1,no,NEU,Europe
 '585a531614',extremes,Storm,#b3b2b1,wmo,storm nordkapp slettnes fyr,2026-01-15T12:14:00+00:00,Norway,0.6819588568526531,1,2,no,NEU,Europe
-'0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-01-28T03:56:00+00:00,Norway,0.6732921051516878,0,1,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-01-15T10:56:00+00:00,Norway,0.6676336605969686,1,1,no,NEU,Europe
 '1097dcf9f5',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre troms,2026-01-19T04:03:00+00:00,Norway,0.6595828483238731,1,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-01-15T12:14:00+00:00,Norway,0.6568039515809974,1,1,no,NEU,Europe
@@ -33,9 +32,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-01-19T04:03:00+00:00,Norway,0.6233217766437917,1,1,no,NEU,Europe
 'a68abd98d6',extremes,Snow Avalanche,#deddd5,wmo,skredvest finnmark,2026-01-17T03:44:00+00:00,Norway,0.6228123831381167,1,1,no,NEU,Europe
 '75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-01-17T03:44:00+00:00,Norway,0.622237308985489,1,1,no,NEU,Europe
-'f2e98fe1a2',extremes,Storm,#b3b2b1,wmo,stormflo tromsoflaket,2026-01-28T03:56:00+00:00,Norway,0.5848503945923392,0,1,no,NEU,Europe
 'd7b12d9c28',extremes,Snow&Ice,#d60d2b,wmo,frost langfjella,2026-01-23T04:03:00+00:00,Norway,0.5821041976000516,1,1,no,NEU,Europe
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-01-19T04:03:00+00:00,Norway,0.5769343691006448,1,1,no,NEU,Europe
+'0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-01-28T03:56:00+00:00,Norway,0.5722982893789346,1,1,no,NEU,Europe
 '61386d6415',extremes,Snow&Ice,#d60d2b,wmo,iskaldt norge,2026-01-15T10:56:00+00:00,Norway,0.56900077482326,1,1,no,NEU,Europe
 'd7cc235c9c',extremes,Snow Avalanche,#deddd5,wmo,snøskred trollheimen,2026-01-17T03:44:00+00:00,Norway,0.557383768333841,1,1,no,NEU,Europe
 '12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,snøskred hardanger,2026-01-15T10:56:00+00:00,Norway,0.5564264847803188,1,1,no,NEU,Europe
@@ -63,6 +62,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2ac564948d',extremes,Storm,#b3b2b1,wmo,stormflo aana sira obrestad,2026-01-18T03:57:00+00:00,Norway,0.5024212038028943,1,1,no,NEU,Europe
 '8abb01ef12',extremes,Snow&Ice,#d60d2b,wmo,snøskred deler av troms,2025-12-15T03:54:00+00:00,Norway,0.4979670265219791,1,2,no,NEU,Europe
 '6db7cd0651',extremes,Storm,#b3b2b1,wmo,stormflo dyp d4,2026-01-26T04:09:00+00:00,Norway,0.4974359338787922,1,1,no,NEU,Europe
+'f2e98fe1a2',extremes,Storm,#b3b2b1,wmo,stormflo tromsoflaket,2026-01-28T03:56:00+00:00,Norway,0.49712283540348834,1,1,no,NEU,Europe
 '1fec654a3e',extremes,Storm,#b3b2b1,wmo,stormflo obrestad karmoey,2026-01-19T04:03:00+00:00,Norway,0.4953804416599912,1,1,no,NEU,Europe
 'f59468215c',extremes,Storm,#b3b2b1,wmo,storm hjelmsoey bank,2026-01-27T03:58:00+00:00,Norway,0.4882061847284195,1,1,no,NEU,Europe
 '8778448f1d',extremes,Snow&Ice,#d60d2b,wmo,frost norge,2026-01-17T03:44:00+00:00,Norway,0.4825228329407299,1,1,no,NEU,Europe
@@ -83,10 +83,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-01-18T03:56:00+00:00,,0.3901920608851556,1,2,no,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,snøstorm,2026-01-15T10:39:00+00:00,,0.3865158107385845,1,1,no,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-01-25T04:05:00+00:00,,0.3857088866428727,0,1,no,,
+'538eadceb4',extremes,Heat Wave,#c40202,random,mild vinter,2026-01-17T03:44:00+00:00,,0.38311387384192774,1,2,no,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,iskaldt,2026-01-22T03:59:00+00:00,,0.3827948344044309,1,2,no,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-01-17T03:44:00+00:00,,0.3809112265783996,1,2,no,,
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-01-20T03:56:00+00:00,Iceland,0.3753204638036181,1,1,no,GIC,Europe
-'6faf696dd9',extremes,Earthquake,#870007,usgs,jordskjelv akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3743453445313737,0,1,no,GIC,Europe
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sludd,2026-01-15T12:13:00+00:00,,0.3733762410796487,1,2,no,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-01-23T04:02:00+00:00,,0.3727079634185535,0,1,no,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-01-22T03:59:00+00:00,,0.368142777069669,1,2,no,,
@@ -94,7 +94,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-01-15T10:39:00+00:00,,0.3626561678191026,1,1,no,,
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-01-21T03:56:00+00:00,Norway,0.3560424147676219,1,1,no,NEU,Europe
 '957c870453',extremes,Drought,#edc291,edo,tørrhet island,2026-01-19T04:03:00+00:00,Iceland,0.352906118363561,1,1,no,GIC,Europe
-'538eadceb4',extremes,Heat Wave,#c40202,random,mild vinter,2026-01-17T03:44:00+00:00,,0.3486464507384024,0,1,no,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.3486300762723958,1,1,no,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gresshoppe,2026-01-26T04:08:00+00:00,,0.3485064152251044,1,1,no,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-01-18T03:56:00+00:00,,0.3484556206416935,1,1,no,,
@@ -119,7 +118,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,kaldeste dagen,2026-01-15T10:56:00+00:00,,0.3353659720171796,0,1,no,,
 '9ca1db2ac1',extremes,Snow&Ice,#d60d2b,wmo,is nordøst island,2026-01-15T12:14:00+00:00,Iceland,0.3351449527282402,1,1,no,GIC,Europe
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,kalving av isfjell,2026-01-19T04:02:00+00:00,,0.3348794352955919,1,1,no,,
-'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-01-28T03:56:00+00:00,,0.33466874911870864,0,1,no,,
+'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-01-28T03:56:00+00:00,,0.3346687491187086,0,1,no,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,snøstorm,2026-01-15T10:56:00+00:00,,0.3344515297349608,0,1,no,,
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-01-15T12:14:00+00:00,Iceland,0.3332879471382423,1,1,no,GIC,Europe
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,virvelvind,2026-01-15T10:56:00+00:00,,0.3314856725807237,0,1,no,,
@@ -141,7 +140,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02f56319a7',extremes,Flood,#030ba1,wmo,flom australia,2026-01-15T10:56:00+00:00,Australia,0.3199135658236194,0,1,no,CAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood australia,2026-01-15T10:57:00+00:00,Australia,0.3199061281685654,0,1,no,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,jordskjelv port mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.3198614496640228,0,1,no,SIO,Indian Ocean
-'2c38aada07',extremes,Earthquake,#870007,usgs,jordskjelv colchane,2026-01-15T12:13:00+00:00,Chile,0.31985962751372576,0,1,no,SWS,South-America
+'2c38aada07',extremes,Earthquake,#870007,usgs,jordskjelv colchane,2026-01-15T12:13:00+00:00,Chile,0.3198596275137257,0,1,no,SWS,South-America
+'6faf696dd9',extremes,Earthquake,#870007,usgs,jordskjelv akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3181935428516676,1,1,no,GIC,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,støvstorm,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,no,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-01-15T12:13:00+00:00,,0.3118148090065645,1,1,no,,

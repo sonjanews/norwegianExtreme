@@ -68,7 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,snøskred nordenskiöld land,2026-01-15T10:56:00+00:00,Norway,0.467986416589194,1,1,no,NEU,Europe
 'ad3352e362',extremes,Flood,#030ba1,wmo,flom rogaland og deler av agder,2025-12-16T03:47:00+00:00,Norway,0.4625915009268365,1,2,no,NEU,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-01-15T10:39:00+00:00,,0.4594924949408552,1,2,no,,
-'9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-01-21T03:55:00+00:00,,0.45328467752810403,1,2,no,,
+'9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-01-21T03:55:00+00:00,,0.453284677528104,1,2,no,,
 'a4552e4740',extremes,Snow&Ice,#d60d2b,wmo,iskalde deler av Troms,2026-01-17T03:44:00+00:00,Norway,0.4408185115329868,1,1,no,NEU,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-01-15T10:39:00+00:00,,0.4390695371908845,1,2,no,,
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-01-18T03:57:00+00:00,Iceland,0.4386533932631288,1,1,no,GIC,Europe
@@ -78,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c38b19449',extremes,Storm,#b3b2b1,random,støvskåler,2026-01-15T10:39:00+00:00,,0.4099359567017878,0,1,no,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-01-27T03:58:00+00:00,,0.3973848720292492,1,2,no,,
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-01-15T10:57:00+00:00,Iceland,0.3969342327206562,1,1,no,GIC,Europe
+'560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-01-18T03:56:00+00:00,,0.3901920608851556,1,2,no,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,snøstorm,2026-01-15T10:39:00+00:00,,0.3865158107385845,1,1,no,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-01-25T04:05:00+00:00,,0.3857088866428727,0,1,no,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,iskaldt,2026-01-22T03:59:00+00:00,,0.3827948344044309,1,2,no,,
@@ -89,9 +90,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-01-23T04:03:00+00:00,Norway,0.3629571333064812,1,1,no,NEU,Europe
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-01-15T10:39:00+00:00,,0.3626561678191026,1,1,no,,
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-01-21T03:56:00+00:00,Norway,0.3560424147676219,1,1,no,NEU,Europe
-'a652c78afc',extremes,Drought,#edc291,random,megatørke,2026-01-18T03:56:00+00:00,,0.3536643231434738,0,1,no,,
 '957c870453',extremes,Drought,#edc291,edo,tørrhet island,2026-01-19T04:03:00+00:00,Iceland,0.352906118363561,1,1,no,GIC,Europe
-'560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-01-18T03:56:00+00:00,,0.3522846892766537,0,1,no,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,mild vinter,2026-01-17T03:44:00+00:00,,0.3486464507384024,0,1,no,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.3486300762723958,1,1,no,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gresshoppe,2026-01-26T04:08:00+00:00,,0.3485064152251044,1,1,no,,
@@ -143,6 +142,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bombesyklon,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,no,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,værfront,2026-01-15T10:56:00+00:00,,0.3068542388282907,1,1,no,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,wet spell,2026-01-15T12:13:00+00:00,,0.3061723629772925,1,1,no,,
+'a652c78afc',extremes,Drought,#edc291,random,megatørke,2026-01-18T03:56:00+00:00,,0.30061467467195274,1,1,no,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,no,,
 'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,no,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,no,,

@@ -78,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c38b19449',extremes,Storm,#b3b2b1,random,støvskåler,2026-01-15T10:39:00+00:00,,0.4099359567017878,0,1,no,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-01-27T03:58:00+00:00,,0.3973848720292492,1,2,no,,
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-01-15T10:57:00+00:00,Iceland,0.3969342327206562,1,1,no,GIC,Europe
+'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-01-29T04:18:00+00:00,,0.39283469414685995,0,1,no,,
 '560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-01-18T03:56:00+00:00,,0.3901920608851556,1,2,no,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,snøstorm,2026-01-15T10:39:00+00:00,,0.3865158107385845,1,1,no,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-01-25T04:05:00+00:00,,0.3857088866428727,0,1,no,,
@@ -142,6 +143,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '464d595634',extremes,Earthquake,#870007,usgs,jordskjelv camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,no,SWS,South-America
 '018b9ccc96',extremes,Earthquake,#870007,usgs,jordskjelv mauritius reunion region,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,no,SIO,Indian Ocean
 '76ad379230',extremes,Earthquake,#870007,usgs,jordskjelv petropavlovsk kamchatsky,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,1,no,RFE,Asia
+'4d51911b1d',extremes,Earthquake,#870007,usgs,jordskjelv sola,2026-01-15T10:56:00+00:00,Vanuatu,0.319832409967632,0,1,no,SPO,Pacific Ocean
+'6b1cc9478a',extremes,Earthquake,#870007,usgs,jordskjelv mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.31983046756362477,0,1,no,NSA,South-America
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,jordskjelv san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,no,SES,South-America
+'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.31982732708285266,0,1,no,SEA,Asia
+'23ad2bb822',extremes,Earthquake,#870007,usgs,jordskjelv Russland,2026-01-15T10:56:00+00:00,Russia,0.31982705319807875,0,1,no,EAS,Asia
+'2617cc6cc9',extremes,Earthquake,#870007,usgs,jordskjelv new zealand,2026-01-15T10:56:00+00:00,New Zealand,0.31982595775366973,0,1,no,NZ,Oceania
+'73d01d320c',extremes,Earthquake,#870007,usgs,jordskjelv afghanistan,2026-01-15T12:13:00+00:00,Afghanistan,0.31982132950774916,0,1,no,WCA,Asia
 '6faf696dd9',extremes,Earthquake,#870007,usgs,jordskjelv akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3181935428516676,1,1,no,GIC,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,støvstorm,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,no,,
@@ -154,7 +162,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a652c78afc',extremes,Drought,#edc291,random,megatørke,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,no,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,syklon,2026-01-15T10:56:00+00:00,,0.2935108649530786,1,1,no,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-01-17T03:44:00+00:00,,0.2924477289981262,1,1,no,,
-'55c39b351d',extremes,Storm,#b3b2b1,random,støvdjevel,2026-01-15T10:56:00+00:00,,0.29190049019105396,1,1,no,,
+'55c39b351d',extremes,Storm,#b3b2b1,random,støvdjevel,2026-01-15T10:56:00+00:00,,0.2919004901910539,1,1,no,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gresshopper,2026-01-15T10:56:00+00:00,,0.2906973657887665,1,1,no,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,breinnsjøutbrudd,2026-01-18T03:56:00+00:00,,0.2884934163704752,1,1,no,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,no,,

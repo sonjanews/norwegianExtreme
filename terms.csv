@@ -32,6 +32,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-01-19T04:03:00+00:00,Norway,0.6233217766437917,1,1,no,NEU,Europe
 'a68abd98d6',extremes,Snow Avalanche,#deddd5,wmo,skredvest finnmark,2026-01-17T03:44:00+00:00,Norway,0.6228123831381167,1,1,no,NEU,Europe
 '75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-01-17T03:44:00+00:00,Norway,0.622237308985489,1,1,no,NEU,Europe
+'e608f6a8b4',extremes,Snow&Ice,#d60d2b,wmo,iskalde kyst- og fjordregioner i finnmark,2026-01-30T04:21:00+00:00,Norway,0.5959941701003183,0,1,no,NEU,Europe
+'a8003f1abe',extremes,Storm,#b3b2b1,wmo,storm roervik bodoe,2026-01-30T04:21:00+00:00,Norway,0.5899756607161208,0,1,no,NEU,Europe
 'd7b12d9c28',extremes,Snow&Ice,#d60d2b,wmo,frost langfjella,2026-01-23T04:03:00+00:00,Norway,0.5821041976000516,1,1,no,NEU,Europe
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-01-19T04:03:00+00:00,Norway,0.5769343691006448,1,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-01-28T03:56:00+00:00,Norway,0.5722982893789346,1,1,no,NEU,Europe
@@ -92,7 +94,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-01-22T03:59:00+00:00,,0.368142777069669,1,2,no,,
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-01-23T04:03:00+00:00,Norway,0.3629571333064812,1,1,no,NEU,Europe
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-01-15T10:39:00+00:00,,0.3626561678191026,1,1,no,,
-'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,kaldeste dagen,2026-01-15T10:56:00+00:00,,0.36036110621460266,1,2,no,,
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,kaldeste dagen,2026-01-15T10:56:00+00:00,,0.3603611062146026,1,2,no,,
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-01-21T03:56:00+00:00,Norway,0.3560424147676219,1,1,no,NEU,Europe
 '957c870453',extremes,Drought,#edc291,edo,tørrhet island,2026-01-19T04:03:00+00:00,Iceland,0.352906118363561,1,1,no,GIC,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-01-15T10:39:00+00:00,,0.3486300762723958,1,1,no,,
@@ -153,6 +155,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.319808672196729,0,1,no,NWN,North-America
 'e551102071',extremes,Earthquake,#870007,usgs,jordskjelv vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.319807582224722,0,1,no,SPO,Pacific Ocean
 'f5e86f8f49',extremes,Earthquake,#870007,usgs,jordskjelv san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.3198065722150023,0,1,no,NWS,South-America
+'e6998a615e',extremes,Earthquake,#870007,usgs,jordskjelv murghob,2026-01-15T12:13:00+00:00,Tajikistan,0.3198049562481557,0,1,no,WCA,Asia
+'c605f8759a',extremes,Earthquake,#870007,usgs,jordskjelv guam,2026-01-15T10:56:00+00:00,Guam,0.31980275137930514,0,1,no,NPO,Pacific Ocean
+'9f3b29621a',extremes,Earthquake,#870007,usgs,jordskjelv sentral midt atlanterhavsryggen,2026-01-15T10:56:00+00:00,,0.31980246935086426,0,1,no,EAO,Atlantic Ocean
+'70773b5956',extremes,Earthquake,#870007,usgs,jordskjelv alaska,2026-01-15T10:56:00+00:00,Alaska,0.3198017125682,0,1,no,NWN,North-America
+'4594f1a372',extremes,Earthquake,#870007,usgs,jordskjelv iran,2026-01-15T10:56:00+00:00,Iran,0.3197940875986025,0,1,no,WCA,Asia
+'957a7a09df',extremes,Earthquake,#870007,usgs,jordskjelv attu stasjon,2026-01-15T10:56:00+00:00,Alaska,0.3197938741364492,0,1,no,NPO,Pacific Ocean
 '6faf696dd9',extremes,Earthquake,#870007,usgs,jordskjelv akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3181935428516676,1,1,no,GIC,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,støvstorm,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,no,,

@@ -104,7 +104,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,kuldeperiode,2026-01-27T03:58:00+00:00,,0.3385279621121753,1,1,no,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-01-21T03:55:00+00:00,,0.3378656724753853,1,1,no,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,hardt vær,2026-01-20T03:55:00+00:00,,0.336945644572185,1,2,no,,
-'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,is island,2026-01-17T03:44:00+00:00,Iceland,0.3364978075046003,0,1,no,GIC,Europe
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,jordskjelv island,2026-01-23T04:02:00+00:00,Iceland,0.3360930915451493,0,1,no,GIC,Europe
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nattefrost,2026-01-15T10:56:00+00:00,,0.3358596462715496,0,1,no,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,kaldeste dagen,2026-01-15T10:56:00+00:00,,0.3353659720171796,0,1,no,,
@@ -163,8 +162,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55c39b351d',extremes,Storm,#b3b2b1,random,støvdjevel,2026-01-15T10:56:00+00:00,,0.2919004901910539,1,1,no,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gresshopper,2026-01-15T10:56:00+00:00,,0.2906973657887665,1,1,no,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,breinnsjøutbrudd,2026-01-18T03:56:00+00:00,,0.2884934163704752,1,1,no,,
-'ea87be5bd8',extremes,Heat Wave,#c40202,random,brennende temperatur,2026-01-15T12:13:00+00:00,,0.28728623661750535,1,1,no,,
+'ea87be5bd8',extremes,Heat Wave,#c40202,random,brennende temperatur,2026-01-15T12:13:00+00:00,,0.2872862366175053,1,1,no,,
 '9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-01-17T03:44:00+00:00,Iceland,0.2872819569910435,1,1,no,GIC,Europe
+'7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,is island,2026-01-17T03:44:00+00:00,Iceland,0.28617315137891025,1,1,no,GIC,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,no,,
 'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,no,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,no,,

@@ -93,6 +93,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-01-23T04:02:00+00:00,,0.3727079634185535,0,1,no,,
 '40f675561f',extremes,Heat Wave,#c40202,random,varmeste sommeren,2026-01-15T10:56:00+00:00,,0.3706322465222953,1,2,no,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-01-22T03:59:00+00:00,,0.368142777069669,1,2,no,,
+'776fe47817',extremes,Wildfire,#d60d2b,random,skogbrann,2026-01-17T03:44:00+00:00,,0.3649907970415916,1,2,no,,
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-01-23T04:03:00+00:00,Norway,0.3629571333064812,1,1,no,NEU,Europe
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-01-15T10:39:00+00:00,,0.3626561678191026,1,1,no,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,kaldeste dagen,2026-01-15T10:56:00+00:00,,0.3603611062146026,1,2,no,,
@@ -114,7 +115,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-01-20T03:55:00+00:00,,0.3288165914676854,0,1,no,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2026-01-24T03:48:00+00:00,,0.3287389568182709,1,1,no,,
 '69791e5a17',extremes,Flood,#030ba1,random,flom,2026-01-17T03:44:00+00:00,,0.3273276085821974,0,1,no,,
-'776fe47817',extremes,Wildfire,#d60d2b,random,skogbrann,2026-01-17T03:44:00+00:00,,0.3226361435783431,0,1,no,,
 'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bushfire,2026-01-24T03:48:00+00:00,,0.3208888226590353,0,1,no,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,no,,
 '52af874334',extremes,Drought,#edc291,random,tørrhet,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,no,,
@@ -157,11 +157,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4594f1a372',extremes,Earthquake,#870007,usgs,jordskjelv iran,2026-01-15T10:56:00+00:00,Iran,0.3197940875986025,0,1,no,WCA,Asia
 '957a7a09df',extremes,Earthquake,#870007,usgs,jordskjelv attu stasjon,2026-01-15T10:56:00+00:00,Alaska,0.3197938741364492,0,1,no,NPO,Pacific Ocean
 'db2a276fc1',extremes,Earthquake,#870007,usgs,jordskjelv aisen,2026-01-15T12:13:00+00:00,Chile,0.3197935412133924,0,1,no,SWS,South-America
-'7e7895dc7a',extremes,Earthquake,#870007,usgs,jordskjelv tadsjikistan,2026-01-15T10:56:00+00:00,Tajikistan,0.31979304575655804,0,1,no,WCA,Asia
+'7e7895dc7a',extremes,Earthquake,#870007,usgs,jordskjelv tadsjikistan,2026-01-15T10:56:00+00:00,Tajikistan,0.319793045756558,0,1,no,WCA,Asia
 '8710bd49ea',extremes,Earthquake,#870007,usgs,jordskjelv severo kuril’sk,2026-01-15T10:56:00+00:00,Russia,0.3197921675817287,0,1,no,RFE,Asia
 'db5f39549c',extremes,Earthquake,#870007,usgs,jordskjelv i Indonesia,2026-01-15T10:56:00+00:00,Indonesia,0.319787770621371,0,1,no,SEA,Asia
 '85a135fac3',extremes,Earthquake,#870007,usgs,jordskjelv ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,0,1,no,RFE,Asia
-'51dfc3f3e1',extremes,Earthquake,#870007,usgs,jordskjelv kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.31978555565455874,0,1,no,EPO,Pacific Ocean
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,jordskjelv kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197855556545587,0,1,no,EPO,Pacific Ocean
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,jordskjelv burma myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.3197854094247633,0,1,no,SAS,Asia
 '066ed457ed',extremes,Earthquake,#870007,usgs,jordskjelv Northern Mariana Islands,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.3197822395529101,0,1,no,NPO,Pacific Ocean
 '6faf696dd9',extremes,Earthquake,#870007,usgs,jordskjelv akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3181935428516676,1,1,no,GIC,Europe

@@ -83,6 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-01-18T03:57:00+00:00,Iceland,0.4386533932631288,1,1,no,GIC,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,flom,2026-01-23T04:02:00+00:00,,0.43621810814599,1,2,no,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,snøstorm,2026-01-15T10:56:00+00:00,,0.4354839202747166,1,2,no,,
+'23ad2bb822',extremes,Earthquake,#870007,usgs,jordskjelv Russland,2026-01-15T10:56:00+00:00,Russia,0.42200301021836684,1,2,no,EAS,Asia
 '7e303c7e63',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-01-20T03:55:00+00:00,,0.4189101335233366,1,3,no,,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,varme,2026-01-15T10:39:00+00:00,,0.4099752445939704,0,1,no,,
 '1c38b19449',extremes,Storm,#b3b2b1,random,støvskåler,2026-01-15T10:39:00+00:00,,0.4099359567017878,0,1,no,,
@@ -125,19 +126,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-01-22T03:59:00+00:00,,0.3202101394246374,1,1,no,,
 '52af874334',extremes,Drought,#edc291,random,tørrhet,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,no,,
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym vulkan vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,no,SPO,Oceania
-'3a67915e02',extremes,Earthquake,#870007,usgs,jordskjelv peru,2026-01-15T10:56:00+00:00,Peru,0.3198570624267367,0,1,no,NWS,South-America
-'66889dc3f2',extremes,Earthquake,#870007,usgs,jordskjelv ollagüe,2026-01-15T10:56:00+00:00,Chile,0.3198565627261572,0,1,no,SWS,South-America
-'6bad2a8cbc',extremes,Earthquake,#870007,usgs,jordskjelv san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.3198537889300551,0,1,no,SES,South-America
-'1a17358ebb',extremes,Tsunami,#690191,usgs,tsunami tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.3198470378843532,0,1,no,SEA,Asia
-'26349abe17',extremes,Tsunami,#690191,usgs,tsunami attu stasjon,2026-01-15T12:13:00+00:00,Alaska,0.3198458782942405,0,1,no,NPO,Pacific Ocean
-'464d595634',extremes,Earthquake,#870007,usgs,jordskjelv camiña,2026-01-15T12:13:00+00:00,Chile,0.3198429479823136,0,1,no,SWS,South-America
-'018b9ccc96',extremes,Earthquake,#870007,usgs,jordskjelv mauritius reunion region,2026-01-15T10:56:00+00:00,,0.3198426792048654,0,1,no,SIO,Indian Ocean
-'76ad379230',extremes,Earthquake,#870007,usgs,jordskjelv petropavlovsk kamchatsky,2026-01-15T10:56:00+00:00,Russia,0.319841949147882,0,1,no,RFE,Asia
-'4d51911b1d',extremes,Earthquake,#870007,usgs,jordskjelv sola,2026-01-15T10:56:00+00:00,Vanuatu,0.319832409967632,0,1,no,SPO,Pacific Ocean
-'6b1cc9478a',extremes,Earthquake,#870007,usgs,jordskjelv mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.3198304675636247,0,1,no,NSA,South-America
-'d18c9a3f35',extremes,Earthquake,#870007,usgs,jordskjelv san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.3198285138531148,0,1,no,SES,South-America
-'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.3198273270828526,0,1,no,SEA,Asia
-'23ad2bb822',extremes,Earthquake,#870007,usgs,jordskjelv Russland,2026-01-15T10:56:00+00:00,Russia,0.3198270531980787,0,1,no,EAS,Asia
 '2617cc6cc9',extremes,Earthquake,#870007,usgs,jordskjelv new zealand,2026-01-15T10:56:00+00:00,New Zealand,0.3198259577536697,0,1,no,NZ,Oceania
 '73d01d320c',extremes,Earthquake,#870007,usgs,jordskjelv afghanistan,2026-01-15T12:13:00+00:00,Afghanistan,0.3198213295077491,0,1,no,WCA,Asia
 'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami port alsworth,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,0,1,no,NWN,North-America
@@ -187,16 +175,28 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-01-17T03:44:00+00:00,,0.2800097291545205,1,1,no,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rim vinter,2026-01-17T03:44:00+00:00,,0.2794825729177103,1,1,no,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-01-23T04:02:00+00:00,,0.2761303257403592,1,1,no,,
-'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropisk syklon Italia,2026-01-28T03:57:00+00:00,Italy,0.27200641522510444,1,1,no,MED,Europe
-'45f861329d',extremes,Landslide,#572c03,aidr,skred adelaide hills sør australia,2026-01-15T10:57:00+00:00,Australia,0.27200641522510444,1,1,no,SAU,Oceania
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,nordamerikansk vinterstorm new york,2026-01-31T04:17:00+00:00,United States,0.27200641522510444,1,1,no,ENA,North-America
+'45f861329d',extremes,Landslide,#572c03,aidr,skred adelaide hills sør australia,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,no,SAU,Oceania
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropisk syklon Italia,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,no,MED,Europe
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,nordamerikansk vinterstorm new york,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,no,ENA,North-America
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulkan Filippinene,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,no,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,elv som flommer australia,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,no,EAU,Oceania
 'ebe314dd99',extremes,Flood,#030ba1,aidr,kraftig nedbør og flom queensland februar 2020,2026-01-15T10:57:00+00:00,Australia,0.2719274879956287,1,1,no,EAU,Oceania
-'02f56319a7',extremes,Flood,#030ba1,wmo,flom australia,2026-01-15T10:56:00+00:00,Australia,0.27192653095007646,1,1,no,CAU,Oceania
-'3894a694d1',extremes,Flood,#030ba1,aidr,flash flood australia,2026-01-15T10:57:00+00:00,Australia,0.27192020894328056,1,1,no,EAU,Oceania
+'02f56319a7',extremes,Flood,#030ba1,wmo,flom australia,2026-01-15T10:56:00+00:00,Australia,0.2719265309500764,1,1,no,CAU,Oceania
+'3894a694d1',extremes,Flood,#030ba1,aidr,flash flood australia,2026-01-15T10:57:00+00:00,Australia,0.2719202089432805,1,1,no,EAU,Oceania
 '6852666385',extremes,Earthquake,#870007,usgs,jordskjelv port mathurin,2026-01-15T12:13:00+00:00,Mauritius,0.2718822322144194,1,1,no,SIO,Indian Ocean
 '2c38aada07',extremes,Earthquake,#870007,usgs,jordskjelv colchane,2026-01-15T12:13:00+00:00,Chile,0.2718806833866668,1,1,no,SWS,South-America
+'3a67915e02',extremes,Earthquake,#870007,usgs,jordskjelv peru,2026-01-15T10:56:00+00:00,Peru,0.2718785030627262,1,1,no,NWS,South-America
+'66889dc3f2',extremes,Earthquake,#870007,usgs,jordskjelv ollagüe,2026-01-15T10:56:00+00:00,Chile,0.2718780783172336,1,1,no,SWS,South-America
+'6bad2a8cbc',extremes,Earthquake,#870007,usgs,jordskjelv san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.2718757205905468,1,1,no,SES,South-America
+'1a17358ebb',extremes,Tsunami,#690191,usgs,tsunami tobelo,2026-01-15T10:56:00+00:00,Indonesia,0.2718699822017002,1,1,no,SEA,Asia
+'26349abe17',extremes,Tsunami,#690191,usgs,tsunami attu stasjon,2026-01-15T12:13:00+00:00,Alaska,0.27186899655010444,1,1,no,NPO,Pacific Ocean
+'464d595634',extremes,Earthquake,#870007,usgs,jordskjelv camiña,2026-01-15T12:13:00+00:00,Chile,0.2718665057849666,1,1,no,SWS,South-America
+'018b9ccc96',extremes,Earthquake,#870007,usgs,jordskjelv mauritius reunion region,2026-01-15T10:56:00+00:00,,0.2718662773241356,1,1,no,SIO,Indian Ocean
+'76ad379230',extremes,Earthquake,#870007,usgs,jordskjelv petropavlovsk kamchatsky,2026-01-15T10:56:00+00:00,Russia,0.2718656567756997,1,1,no,RFE,Asia
+'4d51911b1d',extremes,Earthquake,#870007,usgs,jordskjelv sola,2026-01-15T10:56:00+00:00,Vanuatu,0.2718575484724872,1,1,no,SPO,Pacific Ocean
+'6b1cc9478a',extremes,Earthquake,#870007,usgs,jordskjelv mabaruma,2026-01-15T10:56:00+00:00,Guyana,0.271855897429081,1,1,no,NSA,South-America
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,jordskjelv san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.2718542367751476,1,1,no,SES,South-America
+'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.2718532280204247,1,1,no,SEA,Asia
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,no,,
 'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,no,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,no,,

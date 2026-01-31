@@ -156,6 +156,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70773b5956',extremes,Earthquake,#870007,usgs,jordskjelv alaska,2026-01-15T10:56:00+00:00,Alaska,0.3198017125682,0,1,no,NWN,North-America
 '4594f1a372',extremes,Earthquake,#870007,usgs,jordskjelv iran,2026-01-15T10:56:00+00:00,Iran,0.3197940875986025,0,1,no,WCA,Asia
 '957a7a09df',extremes,Earthquake,#870007,usgs,jordskjelv attu stasjon,2026-01-15T10:56:00+00:00,Alaska,0.3197938741364492,0,1,no,NPO,Pacific Ocean
+'db2a276fc1',extremes,Earthquake,#870007,usgs,jordskjelv aisen,2026-01-15T12:13:00+00:00,Chile,0.3197935412133924,0,1,no,SWS,South-America
+'7e7895dc7a',extremes,Earthquake,#870007,usgs,jordskjelv tadsjikistan,2026-01-15T10:56:00+00:00,Tajikistan,0.31979304575655804,0,1,no,WCA,Asia
+'8710bd49ea',extremes,Earthquake,#870007,usgs,jordskjelv severo kuril’sk,2026-01-15T10:56:00+00:00,Russia,0.3197921675817287,0,1,no,RFE,Asia
+'db5f39549c',extremes,Earthquake,#870007,usgs,jordskjelv i Indonesia,2026-01-15T10:56:00+00:00,Indonesia,0.319787770621371,0,1,no,SEA,Asia
+'85a135fac3',extremes,Earthquake,#870007,usgs,jordskjelv ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,0,1,no,RFE,Asia
+'51dfc3f3e1',extremes,Earthquake,#870007,usgs,jordskjelv kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.31978555565455874,0,1,no,EPO,Pacific Ocean
+'fc0fd225f3',extremes,Earthquake,#870007,usgs,jordskjelv burma myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.3197854094247633,0,1,no,SAS,Asia
+'066ed457ed',extremes,Earthquake,#870007,usgs,jordskjelv Northern Mariana Islands,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.3197822395529101,0,1,no,NPO,Pacific Ocean
 '6faf696dd9',extremes,Earthquake,#870007,usgs,jordskjelv akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3181935428516676,1,1,no,GIC,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,støvstorm,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,no,,
@@ -179,8 +187,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-01-28T03:56:00+00:00,,0.2844684367509023,1,1,no,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,virvelvind,2026-01-15T10:56:00+00:00,,0.2820628516936151,1,1,no,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-01-17T03:44:00+00:00,,0.2800097291545205,1,1,no,,
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rim vinter,2026-01-17T03:44:00+00:00,,0.27948257291771034,1,1,no,,
-'053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-01-23T04:02:00+00:00,,0.27613032574035923,1,1,no,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rim vinter,2026-01-17T03:44:00+00:00,,0.2794825729177103,1,1,no,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-01-23T04:02:00+00:00,,0.2761303257403592,1,1,no,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,no,,
 'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,no,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,no,,

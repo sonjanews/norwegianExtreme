@@ -34,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-01-17T03:44:00+00:00,Norway,0.622237308985489,1,1,no,NEU,Europe
 '922d253006',extremes,Snow&Ice,#d60d2b,wmo,snøkyst og fjordregioner i finnmark,2026-02-01T04:41:00+00:00,Norway,0.5940453500980353,0,1,no,NEU,Europe
 'd7b12d9c28',extremes,Snow&Ice,#d60d2b,wmo,frost langfjella,2026-01-23T04:03:00+00:00,Norway,0.5821041976000516,1,1,no,NEU,Europe
+'f7ed215e6c',extremes,Storm,#b3b2b1,wmo,stormflo banker utenfor troms,2026-02-01T04:41:00+00:00,Norway,0.5801523756203547,0,1,no,NEU,Europe
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-01-19T04:03:00+00:00,Norway,0.5769343691006448,1,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-01-28T03:56:00+00:00,Norway,0.5722982893789346,1,1,no,NEU,Europe
 '61386d6415',extremes,Snow&Ice,#d60d2b,wmo,iskaldt norge,2026-01-15T10:56:00+00:00,Norway,0.56900077482326,1,1,no,NEU,Europe
@@ -165,6 +166,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5afb20efd',extremes,Earthquake,#870007,usgs,jordskjelv South Sandwich Islands-regionen,2026-01-15T10:56:00+00:00,,0.3197666649904967,0,1,no,SOO,Antarctica
 '17c827a010',extremes,Earthquake,#870007,usgs,jordskjelv japan,2026-01-15T10:56:00+00:00,Japan,0.3197648775137647,0,1,no,EAS,Asia
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,jordskjelv papua ny guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197647017684222,0,1,no,SEA,Asia
+'03f33e230d',extremes,Earthquake,#870007,usgs,jordskjelv i chile,2026-01-15T10:56:00+00:00,Chile,0.31975595146311836,0,1,no,SWS,South-America
+'0a2120b175',extremes,Earthquake,#870007,usgs,jordskjelv diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,1,no,SWS,South-America
+'7d79b2a1fb',extremes,Earthquake,#870007,usgs,jordskjelv kencong,2026-01-15T12:13:00+00:00,Indonesia,0.3197536299108499,0,1,no,NAU,Oceania
+'3e797c4058',extremes,Earthquake,#870007,usgs,jordskjelv fiji,2026-01-15T10:56:00+00:00,Fiji,0.3197488869798659,0,1,no,SPO,Pacific Ocean
+'6628268bda',extremes,Earthquake,#870007,usgs,jordskjelv korla,2026-01-15T10:56:00+00:00,China,0.31974882147790856,0,1,no,ECA,Asia
+'d920e41c1e',extremes,Earthquake,#870007,usgs,jordskjelv mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.3197475341186085,0,1,no,NEAF,Africa
+'29aa7b93c5',extremes,Earthquake,#870007,usgs,jordskjelv sør for fijiøyene,2026-01-15T10:56:00+00:00,,0.31974619879240757,0,1,no,SPO,Pacific Ocean
 '6faf696dd9',extremes,Earthquake,#870007,usgs,jordskjelv akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3181935428516676,1,1,no,GIC,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,støvstorm,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,no,,
@@ -190,8 +198,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-01-17T03:44:00+00:00,,0.2800097291545205,1,1,no,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rim vinter,2026-01-17T03:44:00+00:00,,0.2794825729177103,1,1,no,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-01-23T04:02:00+00:00,,0.2761303257403592,1,1,no,,
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,nordamerikansk vinterstorm new york,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,no,ENA,North-America
 '45f861329d',extremes,Landslide,#572c03,aidr,skred adelaide hills sør australia,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,no,SAU,Oceania
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,nordamerikansk vinterstorm new york,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,no,ENA,North-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropisk syklon Italia,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,no,MED,Europe
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulkan Filippinene,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,no,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,elv som flommer australia,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,no,EAU,Oceania

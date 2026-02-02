@@ -1,10 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2026-01-15T10:56:00+00:00,Norway,0.7716141964452442,0,1,no,NEU,Europe
 'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,is norge,2026-01-15T10:56:00+00:00,Norway,0.7715787614532585,0,1,no,NEU,Europe
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,snøskred nord troms,2026-01-15T12:14:00+00:00,Norway,0.7319511090376499,1,2,no,NEU,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,snøskred jotunheimen,2026-01-15T12:14:00+00:00,Norway,0.731532087633191,1,2,no,NEU,Europe
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-01-15T12:14:00+00:00,Norway,0.7313611022335925,1,2,no,NEU,Europe
 '71efdff4eb',extremes,Snow Avalanche,#deddd5,wmo,snøskred tromsø,2026-01-15T10:56:00+00:00,Norway,0.7313555843517673,1,2,no,NEU,Europe
+'78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2026-01-15T10:56:00+00:00,Norway,0.7017321328875484,1,2,no,NEU,Europe
 'ab92adcf6e',extremes,Snow Avalanche,#deddd5,wmo,snøskred sør troms,2026-01-15T12:14:00+00:00,Norway,0.7001423041064745,1,1,no,NEU,Europe
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-01-15T10:56:00+00:00,Norway,0.6969214234842005,1,2,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-01-15T10:56:00+00:00,Norway,0.6947616082306324,1,1,no,NEU,Europe
@@ -32,7 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-01-19T04:03:00+00:00,Norway,0.6233217766437917,1,1,no,NEU,Europe
 'a68abd98d6',extremes,Snow Avalanche,#deddd5,wmo,skredvest finnmark,2026-01-17T03:44:00+00:00,Norway,0.6228123831381167,1,1,no,NEU,Europe
 '75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-01-17T03:44:00+00:00,Norway,0.622237308985489,1,1,no,NEU,Europe
-'83a0e2627e',extremes,Storm,#b3b2b1,wmo,storm nordkapp vardoe,2026-02-01T04:41:00+00:00,Norway,0.5975832274783953,0,1,no,NEU,Europe
 '922d253006',extremes,Snow&Ice,#d60d2b,wmo,snøkyst og fjordregioner i finnmark,2026-02-01T04:41:00+00:00,Norway,0.5940453500980353,0,1,no,NEU,Europe
 'd7b12d9c28',extremes,Snow&Ice,#d60d2b,wmo,frost langfjella,2026-01-23T04:03:00+00:00,Norway,0.5821041976000516,1,1,no,NEU,Europe
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-01-19T04:03:00+00:00,Norway,0.5769343691006448,1,1,no,NEU,Europe
@@ -71,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eef60c6136',extremes,Snow&Ice,#d60d2b,wmo,iskyst og fjordregioner i finnmark,2026-01-31T04:16:00+00:00,Norway,0.5128680147508564,1,1,no,NEU,Europe
 'dea2bf92c4',extremes,Storm,#b3b2b1,wmo,stormflo vesteraalsbank,2026-01-31T04:16:00+00:00,Norway,0.5114544669045022,1,1,no,NEU,Europe
 'cc78e9acd0',extremes,Snow&Ice,#d60d2b,wmo,frost deler av finnmark,2026-01-18T03:57:00+00:00,Norway,0.509158048992162,1,1,no,NEU,Europe
+'83a0e2627e',extremes,Storm,#b3b2b1,wmo,storm nordkapp vardoe,2026-02-01T04:41:00+00:00,Norway,0.507945743356636,1,1,no,NEU,Europe
 '8de9d63288',extremes,Storm,#b3b2b1,wmo,stormflo bodoe loedingen,2026-01-31T04:16:00+00:00,Norway,0.506680803091392,1,1,no,NEU,Europe
 'e608f6a8b4',extremes,Snow&Ice,#d60d2b,wmo,iskalde kyst- og fjordregioner i finnmark,2026-01-30T04:21:00+00:00,Norway,0.5065950445852705,1,1,no,NEU,Europe
 '2ac564948d',extremes,Storm,#b3b2b1,wmo,stormflo aana sira obrestad,2026-01-18T03:57:00+00:00,Norway,0.5024212038028943,1,1,no,NEU,Europe

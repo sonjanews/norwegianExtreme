@@ -172,6 +172,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6628268bda',extremes,Earthquake,#870007,usgs,jordskjelv korla,2026-01-15T10:56:00+00:00,China,0.3197488214779085,0,1,no,ECA,Asia
 'd920e41c1e',extremes,Earthquake,#870007,usgs,jordskjelv mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.3197475341186085,0,1,no,NEAF,Africa
 '29aa7b93c5',extremes,Earthquake,#870007,usgs,jordskjelv sør for fijiøyene,2026-01-15T10:56:00+00:00,,0.3197461987924075,0,1,no,SPO,Pacific Ocean
+'3e36cbc783',extremes,Earthquake,#870007,usgs,jordskjelv la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.3197420361636449,0,1,no,NWS,South-America
+'8bf8909453',extremes,Earthquake,#870007,usgs,jordskjelv levuka,2026-01-15T10:56:00+00:00,Fiji,0.3197390800577933,0,1,no,SPO,Pacific Ocean
+'9de3c9007e',extremes,Earthquake,#870007,usgs,jordskjelv yakutat,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,1,no,NWN,North-America
+'2fa9116266',extremes,Earthquake,#870007,usgs,jordskjelv port alsworth,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,1,no,NWN,North-America
+'b0d647e9d3',extremes,Earthquake,#870007,usgs,jordskjelv sørøst-indisk rygg,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,no,SOO,Antarctica
+'0f6b56852d',extremes,Earthquake,#870007,usgs,jordskjelv baculin,2026-01-15T10:56:00+00:00,Philippines,0.31973083171213906,0,1,no,SEA,Asia
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,jordskjelv bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.31972829453300444,0,1,no,SES,South-America
+'c797f587a9',extremes,Flood,#030ba1,aidr,flom boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.31972742418184474,0,1,no,EAU,Oceania
 '6faf696dd9',extremes,Earthquake,#870007,usgs,jordskjelv akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3181935428516676,1,1,no,GIC,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,støvstorm,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,no,,
@@ -197,8 +205,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-01-17T03:44:00+00:00,,0.2800097291545205,1,1,no,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rim vinter,2026-01-17T03:44:00+00:00,,0.2794825729177103,1,1,no,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-01-23T04:02:00+00:00,,0.2761303257403592,1,1,no,,
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,nordamerikansk vinterstorm new york,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,no,ENA,North-America
 'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropisk syklon Italia,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,no,MED,Europe
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,nordamerikansk vinterstorm new york,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,no,ENA,North-America
 '45f861329d',extremes,Landslide,#572c03,aidr,skred adelaide hills sør australia,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,no,SAU,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulkan Filippinene,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,no,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,elv som flommer australia,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,no,EAU,Oceania
@@ -220,7 +228,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,jordskjelv san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.2718542367751476,1,1,no,SES,South-America
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.2718532280204247,1,1,no,SEA,Asia
 '73d01d320c',extremes,Earthquake,#870007,usgs,jordskjelv afghanistan,2026-01-15T12:13:00+00:00,Afghanistan,0.2718481300815867,1,1,no,WCA,Asia
-'072f41af80',extremes,Earthquake,#870007,usgs,jordskjelv aratoca,2026-01-15T10:56:00+00:00,Colombia,0.27184450195989157,1,1,no,NWS,South-America
+'072f41af80',extremes,Earthquake,#870007,usgs,jordskjelv aratoca,2026-01-15T10:56:00+00:00,Colombia,0.2718445019598915,1,1,no,NWS,South-America
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,no,,
 'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,no,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,no,,

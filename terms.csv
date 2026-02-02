@@ -137,9 +137,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52af874334',extremes,Drought,#edc291,random,tørrhet,2026-01-21T03:55:00+00:00,,0.3201609706431698,1,1,no,,
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym vulkan vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,no,SPO,Oceania
 'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami port alsworth,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,1,1,no,NWN,North-America
-'43165fdae0',extremes,Earthquake,#870007,usgs,jordskjelv villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.3198169230889903,0,1,no,SWS,South-America
-'01e4b0cc71',extremes,Earthquake,#870007,usgs,jordskjelv kuril’sk,2026-01-15T10:56:00+00:00,Russia,0.3198107857016188,0,1,no,EAS,Asia
-'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614129,0,1,no,SCA,North-America
+'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.31980892246141285,1,1,no,SCA,North-America
 'f8fc7b9a8d',extremes,Tsunami,#690191,usgs,tsunami yakutat,2026-01-15T10:56:00+00:00,Canada,0.319808672196729,0,1,no,NWN,North-America
 'e551102071',extremes,Earthquake,#870007,usgs,jordskjelv vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.319807582224722,0,1,no,SPO,Pacific Ocean
 'f5e86f8f49',extremes,Earthquake,#870007,usgs,jordskjelv san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.3198065722150023,0,1,no,NWS,South-America
@@ -177,9 +175,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9de3c9007e',extremes,Earthquake,#870007,usgs,jordskjelv yakutat,2026-01-15T10:56:00+00:00,Alaska,0.3197345887234546,0,1,no,NWN,North-America
 '2fa9116266',extremes,Earthquake,#870007,usgs,jordskjelv port alsworth,2026-01-15T12:13:00+00:00,United States,0.3197340735312253,0,1,no,NWN,North-America
 'b0d647e9d3',extremes,Earthquake,#870007,usgs,jordskjelv sørøst-indisk rygg,2026-01-15T10:56:00+00:00,,0.3197330455307343,0,1,no,SOO,Antarctica
-'0f6b56852d',extremes,Earthquake,#870007,usgs,jordskjelv baculin,2026-01-15T10:56:00+00:00,Philippines,0.31973083171213906,0,1,no,SEA,Asia
-'80f83e2f4e',extremes,Earthquake,#870007,usgs,jordskjelv bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.31972829453300444,0,1,no,SES,South-America
-'c797f587a9',extremes,Flood,#030ba1,aidr,flom boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.31972742418184474,0,1,no,EAU,Oceania
+'0f6b56852d',extremes,Earthquake,#870007,usgs,jordskjelv baculin,2026-01-15T10:56:00+00:00,Philippines,0.319730831712139,0,1,no,SEA,Asia
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,jordskjelv bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.3197282945330044,0,1,no,SES,South-America
+'c797f587a9',extremes,Flood,#030ba1,aidr,flom boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.3197274241818447,0,1,no,EAU,Oceania
 '6faf696dd9',extremes,Earthquake,#870007,usgs,jordskjelv akureyri,2026-01-25T04:05:00+00:00,Iceland,0.3181935428516676,1,1,no,GIC,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,støvstorm,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,no,,
@@ -229,6 +227,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa8badb0c3',extremes,Tsunami,#690191,usgs,tsunami baculin,2026-01-15T10:56:00+00:00,Philippines,0.2718532280204247,1,1,no,SEA,Asia
 '73d01d320c',extremes,Earthquake,#870007,usgs,jordskjelv afghanistan,2026-01-15T12:13:00+00:00,Afghanistan,0.2718481300815867,1,1,no,WCA,Asia
 '072f41af80',extremes,Earthquake,#870007,usgs,jordskjelv aratoca,2026-01-15T10:56:00+00:00,Colombia,0.2718445019598915,1,1,no,NWS,South-America
+'43165fdae0',extremes,Earthquake,#870007,usgs,jordskjelv villa basilio nievas,2026-01-15T12:13:00+00:00,Argentina,0.27184438462564176,1,1,no,SWS,South-America
+'01e4b0cc71',extremes,Earthquake,#870007,usgs,jordskjelv kuril’sk,2026-01-15T10:56:00+00:00,Russia,0.27183916784637596,1,1,no,EAS,Asia
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,no,,
 'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,no,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,no,,

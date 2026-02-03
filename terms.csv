@@ -83,7 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7ed215e6c',extremes,Storm,#b3b2b1,wmo,stormflo banker utenfor troms,2026-02-01T04:41:00+00:00,Norway,0.4931295192773015,1,1,no,NEU,Europe
 'f59468215c',extremes,Storm,#b3b2b1,wmo,storm hjelmsoey bank,2026-01-27T03:58:00+00:00,Norway,0.4882061847284195,1,1,no,NEU,Europe
 '8778448f1d',extremes,Snow&Ice,#d60d2b,wmo,frost norge,2026-01-17T03:44:00+00:00,Norway,0.4825228329407299,1,1,no,NEU,Europe
-'9516eb7332',extremes,Storm,#b3b2b1,wmo,storm lopa vardoe,2026-02-03T04:27:00+00:00,Norway,0.48237504643184714,1,1,no,NEU,Europe
+'9516eb7332',extremes,Storm,#b3b2b1,wmo,storm lopa vardoe,2026-02-03T04:27:00+00:00,Norway,0.4823750464318471,1,1,no,NEU,Europe
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-01-15T10:56:00+00:00,Norway,0.4772275605500837,1,1,no,NEU,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-01-29T04:18:00+00:00,,0.4719232913884672,1,2,no,,
 '826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,snøskred nordenskiöld land,2026-01-15T10:56:00+00:00,Norway,0.467986416589194,1,1,no,NEU,Europe
@@ -139,7 +139,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym vulkan vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.3199887686613118,0,1,no,SPO,Oceania
 'f4e7397282',extremes,Tsunami,#690191,usgs,tsunami port alsworth,2026-01-15T10:56:00+00:00,United States,0.3198213068509887,1,1,no,NWN,North-America
 'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614128,1,1,no,SCA,North-America
-'85a135fac3',extremes,Earthquake,#870007,usgs,jordskjelv ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,0,1,no,RFE,Asia
+'85a135fac3',extremes,Earthquake,#870007,usgs,jordskjelv ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,1,1,no,RFE,Asia
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,jordskjelv kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197855556545587,0,1,no,EPO,Pacific Ocean
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,jordskjelv burma myanmar,2026-01-15T12:13:00+00:00,Burma (Myanmar),0.3197854094247633,0,1,no,SAS,Asia
 '066ed457ed',extremes,Earthquake,#870007,usgs,jordskjelv Northern Mariana Islands,2026-01-15T12:13:00+00:00,Northern Mariana Islands,0.3197822395529101,0,1,no,NPO,Pacific Ocean

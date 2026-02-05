@@ -24,13 +24,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '801198b61a',extremes,Storm,#b3b2b1,wmo,stormflo storegga,2026-01-15T12:14:00+00:00,Norway,0.6557868050273059,1,1,no,NEU,Europe
 'b89db20c92',extremes,Storm,#b3b2b1,wmo,stormflo øst tampen,2026-01-15T10:56:00+00:00,Norway,0.655773256289024,1,1,no,NEU,Europe
 '07c3b9eeac',extremes,Storm,#b3b2b1,wmo,storm karmoey fedje,2026-01-15T12:14:00+00:00,Norway,0.6557412089440257,1,1,no,NEU,Europe
-'14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-01-15T10:56:00+00:00,Norway,0.631250229807279,1,1,no,NEU,Europe
 'e91f56dabe',extremes,Wildfire,#d60d2b,wmo,skogbrann rogaland,2026-01-26T04:09:00+00:00,Norway,0.6297962860446115,1,1,no,NEU,Europe
 '6f1da72a83',extremes,Wildfire,#d60d2b,wmo,wildfire vestland,2026-01-27T03:58:00+00:00,Norway,0.6251644952078458,1,1,no,NEU,Europe
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,snøskred sunnmøre,2026-01-15T10:56:00+00:00,Norway,0.6247586642345497,1,1,no,NEU,Europe
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-01-19T04:03:00+00:00,Norway,0.6233217766437917,1,1,no,NEU,Europe
 'a68abd98d6',extremes,Snow Avalanche,#deddd5,wmo,skredvest finnmark,2026-01-17T03:44:00+00:00,Norway,0.6228123831381167,1,1,no,NEU,Europe
 '75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-01-17T03:44:00+00:00,Norway,0.622237308985489,1,1,no,NEU,Europe
+'14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-01-15T10:56:00+00:00,Norway,0.611862725336187,2,2,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-01-15T10:56:00+00:00,Norway,0.5906973819960375,2,1,no,NEU,Europe
 'd7b12d9c28',extremes,Snow&Ice,#d60d2b,wmo,frost langfjella,2026-01-23T04:03:00+00:00,Norway,0.5821041976000516,1,1,no,NEU,Europe
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-01-19T04:03:00+00:00,Norway,0.5769343691006448,1,1,no,NEU,Europe
@@ -143,7 +143,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614128,1,1,no,SCA,North-America
 '85a135fac3',extremes,Earthquake,#870007,usgs,jordskjelv ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,1,1,no,RFE,Asia
 '51dfc3f3e1',extremes,Earthquake,#870007,usgs,jordskjelv kokopo,2026-01-15T10:56:00+00:00,Papua New Guinea,0.3197855556545587,1,1,no,EPO,Pacific Ocean
-'03f33e230d',extremes,Earthquake,#870007,usgs,jordskjelv i chile,2026-01-15T10:56:00+00:00,Chile,0.3197559514631183,0,1,no,SWS,South-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,jordskjelv diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.3197547085914504,0,1,no,SWS,South-America
 '7d79b2a1fb',extremes,Earthquake,#870007,usgs,jordskjelv kencong,2026-01-15T12:13:00+00:00,Indonesia,0.3197536299108499,0,1,no,NAU,Oceania
 '3e797c4058',extremes,Earthquake,#870007,usgs,jordskjelv fiji,2026-01-15T10:56:00+00:00,Fiji,0.3197488869798659,0,1,no,SPO,Pacific Ocean
@@ -172,7 +171,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17b150a7a2',extremes,Earthquake,#870007,usgs,jordskjelv tanzania,2026-01-15T10:56:00+00:00,Tanzania,0.3196854740944746,0,1,no,SEAF,Africa
 'ba6e07a583',extremes,Storm,#b3b2b1,emdat,storm al hasakeh guvernementer,2026-01-15T10:57:00+00:00,Syria,0.3196835928337069,0,1,no,MED,Asia
 '95694d19cf',extremes,Earthquake,#870007,usgs,jordskjelv yemen,2026-01-15T12:13:00+00:00,Yemen,0.3196785588064959,0,1,no,NEAF,Africa
-'cc449c3731',extremes,Earthquake,#870007,usgs,jordskjelv kermadec øyene region,2026-01-15T10:56:00+00:00,,0.3196765422551599,0,1,no,SPO,Pacific Ocean
 '5484f48de4',extremes,Earthquake,#870007,usgs,jordskjelv midt indisk rygg,2026-01-15T10:56:00+00:00,,0.3196762612572651,0,1,no,SIO,Indian Ocean
 'f200ff28aa',extremes,Earthquake,#870007,usgs,jordskjelv i forente stater,2026-01-15T10:56:00+00:00,United States,0.3196739841660505,0,1,no,WNA,North-America
 'e98c9b3f42',extremes,Earthquake,#870007,usgs,jordskjelv drake passasje,2026-01-15T10:56:00+00:00,,0.3196709283081229,0,1,no,SOO,Antarctica
@@ -267,8 +265,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bf5e2061d',extremes,Earthquake,#870007,usgs,jordskjelv castlepoint,2026-01-15T10:56:00+00:00,New Zealand,0.271805689718999,1,1,no,NZ,Oceania
 'f5afb20efd',extremes,Earthquake,#870007,usgs,jordskjelv South Sandwich Islands-regionen,2026-01-15T10:56:00+00:00,,0.2718016652419222,1,1,no,SOO,Antarctica
 'edcb89e9c3',extremes,Earthquake,#870007,usgs,jordskjelv papua ny guinea,2026-01-15T10:56:00+00:00,Papua New Guinea,0.2717999965031588,1,1,no,SEA,Asia
+'03f33e230d',extremes,Earthquake,#870007,usgs,jordskjelv i chile,2026-01-15T10:56:00+00:00,Chile,0.27179255874365055,1,1,no,SWS,South-America
+'cc449c3731',extremes,Earthquake,#870007,usgs,jordskjelv kermadec øyene region,2026-01-15T10:56:00+00:00,,0.2717250609168859,1,1,no,SPO,Pacific Ocean
 '53e17b7a15',extremes,Earthquake,#870007,usgs,jordskjelv houma,2026-01-15T10:56:00+00:00,Tonga,0.271699611597642,1,1,no,SPO,Pacific Ocean
-'3ba62ce4f2',extremes,Earthquake,#870007,usgs,jordskjelv i Hellas,2026-01-15T10:56:00+00:00,Greece,0.27168916044629315,1,1,no,MED,Europe
+'3ba62ce4f2',extremes,Earthquake,#870007,usgs,jordskjelv i Hellas,2026-01-15T10:56:00+00:00,Greece,0.2716891604462931,1,1,no,MED,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,no,,
 'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,no,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordkald,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,no,,

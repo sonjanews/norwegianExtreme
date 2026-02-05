@@ -24,7 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '801198b61a',extremes,Storm,#b3b2b1,wmo,stormflo storegga,2026-01-15T12:14:00+00:00,Norway,0.6557868050273059,1,1,no,NEU,Europe
 'b89db20c92',extremes,Storm,#b3b2b1,wmo,stormflo øst tampen,2026-01-15T10:56:00+00:00,Norway,0.655773256289024,1,1,no,NEU,Europe
 '07c3b9eeac',extremes,Storm,#b3b2b1,wmo,storm karmoey fedje,2026-01-15T12:14:00+00:00,Norway,0.6557412089440257,1,1,no,NEU,Europe
-'e91f56dabe',extremes,Wildfire,#d60d2b,wmo,skogbrann rogaland,2026-01-26T04:09:00+00:00,Norway,0.6297962860446115,1,1,no,NEU,Europe
+'e91f56dabe',extremes,Wildfire,#d60d2b,wmo,skogbrann rogaland,2026-01-26T04:09:00+00:00,Norway,0.6357768881379198,2,2,no,NEU,Europe
 '6f1da72a83',extremes,Wildfire,#d60d2b,wmo,wildfire vestland,2026-01-27T03:58:00+00:00,Norway,0.6251644952078458,1,1,no,NEU,Europe
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,snøskred sunnmøre,2026-01-15T10:56:00+00:00,Norway,0.6247586642345497,1,1,no,NEU,Europe
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-01-19T04:03:00+00:00,Norway,0.6233217766437917,1,1,no,NEU,Europe
@@ -262,18 +262,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03f33e230d',extremes,Earthquake,#870007,usgs,jordskjelv i chile,2026-01-15T10:56:00+00:00,Chile,0.2717925587436505,1,1,no,SWS,South-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,jordskjelv diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.2717915023027328,1,1,no,SWS,South-America
 '7d79b2a1fb',extremes,Earthquake,#870007,usgs,jordskjelv kencong,2026-01-15T12:13:00+00:00,Indonesia,0.2717905854242224,1,1,no,NAU,Oceania
-'3e797c4058',extremes,Earthquake,#870007,usgs,jordskjelv fiji,2026-01-15T10:56:00+00:00,Fiji,0.27178655393288603,1,1,no,SPO,Pacific Ocean
+'3e797c4058',extremes,Earthquake,#870007,usgs,jordskjelv fiji,2026-01-15T10:56:00+00:00,Fiji,0.271786553932886,1,1,no,SPO,Pacific Ocean
 '6628268bda',extremes,Earthquake,#870007,usgs,jordskjelv korla,2026-01-15T10:56:00+00:00,China,0.2717864982562222,1,1,no,ECA,Asia
-'d920e41c1e',extremes,Earthquake,#870007,usgs,jordskjelv mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.27178540400081724,1,1,no,NEAF,Africa
-'29aa7b93c5',extremes,Earthquake,#870007,usgs,jordskjelv sør for fijiøyene,2026-01-15T10:56:00+00:00,,0.27178426897354635,1,1,no,SPO,Pacific Ocean
-'3e36cbc783',extremes,Earthquake,#870007,usgs,jordskjelv la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.27178073073909814,1,1,no,NWS,South-America
+'d920e41c1e',extremes,Earthquake,#870007,usgs,jordskjelv mek'ele,2026-01-15T12:13:00+00:00,Ethiopia,0.2717854040008172,1,1,no,NEAF,Africa
+'29aa7b93c5',extremes,Earthquake,#870007,usgs,jordskjelv sør for fijiøyene,2026-01-15T10:56:00+00:00,,0.2717842689735463,1,1,no,SPO,Pacific Ocean
+'3e36cbc783',extremes,Earthquake,#870007,usgs,jordskjelv la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.2717807307390981,1,1,no,NWS,South-America
 '8bf8909453',extremes,Earthquake,#870007,usgs,jordskjelv levuka,2026-01-15T10:56:00+00:00,Fiji,0.2717782180491243,1,1,no,SPO,Pacific Ocean
 '9de3c9007e',extremes,Earthquake,#870007,usgs,jordskjelv yakutat,2026-01-15T10:56:00+00:00,Alaska,0.2717744004149364,1,1,no,NWN,North-America
 '2fa9116266',extremes,Earthquake,#870007,usgs,jordskjelv port alsworth,2026-01-15T12:13:00+00:00,United States,0.2717739625015415,1,1,no,NWN,North-America
-'b0d647e9d3',extremes,Earthquake,#870007,usgs,jordskjelv sørøst-indisk rygg,2026-01-15T10:56:00+00:00,,0.27177308870112415,1,1,no,SOO,Antarctica
-'0f6b56852d',extremes,Earthquake,#870007,usgs,jordskjelv baculin,2026-01-15T10:56:00+00:00,Philippines,0.27177120695531815,1,1,no,SEA,Asia
+'b0d647e9d3',extremes,Earthquake,#870007,usgs,jordskjelv sørøst-indisk rygg,2026-01-15T10:56:00+00:00,,0.2717730887011241,1,1,no,SOO,Antarctica
+'0f6b56852d',extremes,Earthquake,#870007,usgs,jordskjelv baculin,2026-01-15T10:56:00+00:00,Philippines,0.2717712069553181,1,1,no,SEA,Asia
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,jordskjelv bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.2717690503530537,1,1,no,SES,South-America
-'c797f587a9',extremes,Flood,#030ba1,aidr,flom boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.27176831055456796,1,1,no,EAU,Oceania
+'c797f587a9',extremes,Flood,#030ba1,aidr,flom boonah queensland,2026-01-15T10:57:00+00:00,Australia,0.2717683105545679,1,1,no,EAU,Oceania
 'cc449c3731',extremes,Earthquake,#870007,usgs,jordskjelv kermadec øyene region,2026-01-15T10:56:00+00:00,,0.2717250609168859,1,1,no,SPO,Pacific Ocean
 '53e17b7a15',extremes,Earthquake,#870007,usgs,jordskjelv houma,2026-01-15T10:56:00+00:00,Tonga,0.271699611597642,1,1,no,SPO,Pacific Ocean
 '3ba62ce4f2',extremes,Earthquake,#870007,usgs,jordskjelv i Hellas,2026-01-15T10:56:00+00:00,Greece,0.2716891604462931,1,1,no,MED,Europe

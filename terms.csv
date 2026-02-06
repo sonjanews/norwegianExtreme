@@ -28,7 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,snøskred sunnmøre,2026-01-15T10:56:00+00:00,Norway,0.6247586642345497,1,1,no,NEU,Europe
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-01-19T04:03:00+00:00,Norway,0.6233217766437917,1,1,no,NEU,Europe
 'a68abd98d6',extremes,Snow Avalanche,#deddd5,wmo,skredvest finnmark,2026-01-17T03:44:00+00:00,Norway,0.6228123831381167,1,1,no,NEU,Europe
-'75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-01-17T03:44:00+00:00,Norway,0.622237308985489,1,1,no,NEU,Europe
+'75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-01-17T03:44:00+00:00,Norway,0.6222373089854889,2,1,no,NEU,Europe
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-01-15T10:56:00+00:00,Norway,0.611862725336187,2,2,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-01-15T10:56:00+00:00,Norway,0.5906973819960375,2,1,no,NEU,Europe
 'd7b12d9c28',extremes,Snow&Ice,#d60d2b,wmo,frost langfjella,2026-01-23T04:03:00+00:00,Norway,0.5821041976000516,1,1,no,NEU,Europe
@@ -189,11 +189,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,storm nord sydney haglstorm 2017,2026-01-25T04:06:00+00:00,,0.3154334406132677,0,1,no,EAU,Oceania
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,varm spell victoria,2026-01-30T04:22:00+00:00,Australia,0.315418814478936,0,1,no,SAU,Oceania
 '65b4a087de',extremes,Earthquake,#870007,usgs,jordskjelv qalansīyah,2026-02-05T04:27:00+00:00,Yemen,0.3152494958064409,0,1,no,ARS,Indian Ocean
-'5c82519f0a',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 17s,2026-01-24T03:48:00+00:00,,0.31523351288374885,0,1,no,NAU,Oceania
+'5c82519f0a',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 17s,2026-01-24T03:48:00+00:00,,0.3152335128837488,0,1,no,NAU,Oceania
 '255621cc4c',extremes,Earthquake,#870007,usgs,jordskjelv panguna,2026-01-31T04:16:00+00:00,Papua New Guinea,0.3152302515713779,0,1,no,EPO,Pacific Ocean
-'924236ebf8',extremes,Earthquake,#870007,usgs,jordskjelv yenangyaung,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.31513321940603245,0,1,no,SAS,Asia
+'924236ebf8',extremes,Earthquake,#870007,usgs,jordskjelv yenangyaung,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.3151332194060324,0,1,no,SAS,Asia
 '57c3ca9f77',extremes,Earthquake,#870007,usgs,jordskjelv antarktis,2026-02-04T04:21:00+00:00,,0.3150962022879079,0,1,no,EAN,
-'5c7fcfcede',extremes,Earthquake,#870007,usgs,jordskjelv hihifo,2026-02-05T04:27:00+00:00,Tonga,0.31505699530787634,0,1,no,SPO,Pacific Ocean
+'5c7fcfcede',extremes,Earthquake,#870007,usgs,jordskjelv hihifo,2026-02-05T04:27:00+00:00,Tonga,0.3150569953078763,0,1,no,SPO,Pacific Ocean
 '8b4587c763',extremes,Storm,#b3b2b1,random,støvstorm,2026-01-24T03:48:00+00:00,,0.3140180103395362,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,no,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-01-15T12:13:00+00:00,,0.3118148090065645,1,1,no,,

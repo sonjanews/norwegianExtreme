@@ -219,7 +219,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,no,,
 '56dca2743f',extremes,Drought,#edc291,edo,tørrtid ekvatorialguinea,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.3108065060068075,0,1,no,WAF,Africa
 'aa704a9a6b',extremes,Earthquake,#870007,usgs,jordskjelv gizo,2026-02-02T04:36:00+00:00,Solomon Islands,0.3107219670412271,0,1,no,EPO,Pacific Ocean
+'16aa48504a',extremes,Cold Wave,#a7e9fa,random,kvikksølv dråper,2026-01-23T04:02:00+00:00,,0.3105291037025085,0,1,no,,
+'e9cac0207d',extremes,Earthquake,#870007,usgs,jordskjelv madagaskar,2026-01-29T04:18:00+00:00,Madagascar,0.3104265014139611,0,1,no,MDG,Africa
+'3c0d8a70ba',extremes,Earthquake,#870007,usgs,jordskjelv finschhafen,2026-02-05T04:27:00+00:00,Papua New Guinea,0.31042383923479266,0,1,no,SEA,Oceania
+'1a89155ed1',extremes,Drought,#edc291,edo,mangel på regn Sao Tome og Principe,2026-02-07T04:19:00+00:00,Sao Tome and Principe,0.31041986089822315,0,1,no,WAF,Africa
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,isflak,2026-01-23T04:02:00+00:00,,0.3103490873909686,1,1,no,,
+'0d99295f2f',extremes,Drought,#edc291,edo,mangel på regn somalia,2026-02-06T04:28:00+00:00,Somalia,0.31021729237361284,0,1,no,NEAF,Africa
+'d389bc4f63',extremes,Earthquake,#870007,usgs,jordskjelv mexico,2026-02-05T04:27:00+00:00,Mexico,0.3099264814993108,0,1,no,SCA,North-America
+'45278c4de3',extremes,Drought,#edc291,edo,tørrtid somalia,2026-01-22T04:00:00+00:00,Somalia,0.30983074871314625,0,1,no,NEAF,Africa
+'f2b29262f2',extremes,Drought,#edc291,edo,tørr tid Belgia,2026-02-05T04:28:00+00:00,Belgium,0.3097987497087653,0,1,no,WCE,Europe
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bombesyklon,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,no,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,værfront,2026-01-15T10:56:00+00:00,,0.3068542388282907,1,1,no,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,wet spell,2026-01-15T12:13:00+00:00,,0.3061723629772925,1,1,no,,
@@ -308,7 +316,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b2fd57376',extremes,Earthquake,#870007,usgs,jordskjelv taiwan,2026-01-15T12:13:00+00:00,Taiwan,0.2717483301773215,1,1,no,EAS,Asia
 'd46b5571fa',extremes,Tsunami,#690191,usgs,tsunami taiwan,2026-01-15T12:13:00+00:00,Taiwan,0.2717475379201979,1,1,no,EAS,Asia
 'da0b9741fb',extremes,Earthquake,#870007,usgs,jordskjelv rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.2717440014743174,1,1,no,SCA,North-America
-'5bf34f285a',extremes,Earthquake,#870007,usgs,jordskjelv i Italia,2026-01-15T10:56:00+00:00,Italy,0.27174379362530515,1,1,no,MED,Europe
+'5bf34f285a',extremes,Earthquake,#870007,usgs,jordskjelv i Italia,2026-01-15T10:56:00+00:00,Italy,0.2717437936253051,1,1,no,MED,Europe
 'cc449c3731',extremes,Earthquake,#870007,usgs,jordskjelv kermadec øyene region,2026-01-15T10:56:00+00:00,,0.2717250609168859,1,1,no,SPO,Pacific Ocean
 '6ff5caa4ff',extremes,Earthquake,#870007,usgs,jordskjelv atka,2026-01-15T10:56:00+00:00,Alaska,0.271719060023959,1,1,no,NPO,Pacific Ocean
 '53e17b7a15',extremes,Earthquake,#870007,usgs,jordskjelv houma,2026-01-15T10:56:00+00:00,Tonga,0.271699611597642,1,1,no,SPO,Pacific Ocean
@@ -321,7 +329,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '924236ebf8',extremes,Earthquake,#870007,usgs,jordskjelv yenangyaung,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.2678632364951275,1,1,no,SAS,Asia
 '57c3ca9f77',extremes,Earthquake,#870007,usgs,jordskjelv antarktis,2026-02-04T04:21:00+00:00,,0.2678317719447217,1,1,no,EAN,
 '381ceff412',extremes,Earthquake,#870007,usgs,jordskjelv kimbe,2026-01-29T04:18:00+00:00,Papua New Guinea,0.267504612111723,1,1,no,EPO,Pacific Ocean
-'ba920c05ae',extremes,Earthquake,#870007,usgs,jordskjelv riverton,2026-02-03T04:27:00+00:00,New Zealand,0.26508317406553206,1,1,no,NZ,Oceania
+'ba920c05ae',extremes,Earthquake,#870007,usgs,jordskjelv riverton,2026-02-03T04:27:00+00:00,New Zealand,0.265083174065532,1,1,no,NZ,Oceania
 '51b14c1443',extremes,Flood,#030ba1,aidr,flood geelong victoria 2016,2026-02-07T04:20:00+00:00,Australia,0.2645824402786346,1,1,no,SAU,Oceania
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,no,,
 'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,no,,

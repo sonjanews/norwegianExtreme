@@ -201,7 +201,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06972a2776',extremes,Flood,#030ba1,acwe,flom i New South Wales,2026-01-31T04:17:00+00:00,Australia,0.3130599624297377,0,1,no,EAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,no,,
 'a0068b2b6b',extremes,Flood,#030ba1,aidr,flom nedbør og flom queensland februar mars 2022,2026-02-05T04:28:00+00:00,Australia,0.3127534347774909,0,1,no,EAU,Oceania
-'34fd30e809',extremes,Earthquake,#870007,usgs,jordskjelv calama,2026-02-05T04:27:00+00:00,Chile,0.3126127943362571,0,1,no,SWS,South-America
+'34fd30e809',extremes,Earthquake,#870007,usgs,jordskjelv calama,2026-02-05T04:27:00+00:00,Chile,0.3126127943362571,1,1,no,SWS,South-America
 'f7e4598a47',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon ewetse,2026-01-21T03:55:00+00:00,,0.312567970644984,0,1,no,MDG,Africa
 '3e5f311da7',extremes,Drought,#edc291,edo,tørr tid Sao Tome og Principe,2026-02-05T04:28:00+00:00,Sao Tome and Principe,0.3124906667184254,0,1,no,WAF,Africa
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,varm stave New South Wales,2026-02-02T04:37:00+00:00,Australia,0.3123876095247488,0,1,no,EAU,Oceania
@@ -320,7 +320,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8684156e57',extremes,Earthquake,#870007,usgs,jordskjelv isangel,2026-01-15T12:13:00+00:00,Vanuatu,0.2717333270421694,1,1,no,SPO,Pacific Ocean
 '17b150a7a2',extremes,Earthquake,#870007,usgs,jordskjelv tanzania,2026-01-15T10:56:00+00:00,Tanzania,0.2717326529803034,1,1,no,SEAF,Africa
 'ba6e07a583',extremes,Storm,#b3b2b1,emdat,storm al hasakeh guvernementer,2026-01-15T10:57:00+00:00,Syria,0.2717310539086509,1,1,no,MED,Asia
-'95694d19cf',extremes,Earthquake,#870007,usgs,jordskjelv yemen,2026-01-15T12:13:00+00:00,Yemen,0.27172677498552156,1,1,no,NEAF,Africa
+'95694d19cf',extremes,Earthquake,#870007,usgs,jordskjelv yemen,2026-01-15T12:13:00+00:00,Yemen,0.2717267749855215,1,1,no,NEAF,Africa
 'cc449c3731',extremes,Earthquake,#870007,usgs,jordskjelv kermadec øyene region,2026-01-15T10:56:00+00:00,,0.2717250609168859,1,1,no,SPO,Pacific Ocean
 '5484f48de4',extremes,Earthquake,#870007,usgs,jordskjelv midt indisk rygg,2026-01-15T10:56:00+00:00,,0.2717248220686753,1,1,no,SIO,Indian Ocean
 '6ff5caa4ff',extremes,Earthquake,#870007,usgs,jordskjelv atka,2026-01-15T10:56:00+00:00,Alaska,0.271719060023959,1,1,no,NPO,Pacific Ocean

@@ -1,12 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-01-15T10:56:00+00:00,Norway,0.6969214234842005,1,2,no,NEU,Europe
 '71efdff4eb',extremes,Snow Avalanche,#deddd5,wmo,snøskred tromsø,2026-01-15T10:56:00+00:00,Norway,0.6831595101941518,3,2,no,NEU,Europe
+'78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2026-01-15T10:56:00+00:00,Norway,0.6697969368976173,3,3,no,NEU,Europe
 '872938ce58',extremes,Storm,#b3b2b1,wmo,stormflo viking,2026-01-15T10:56:00+00:00,Norway,0.6558489843238439,1,1,no,NEU,Europe
 'f8b2f8c41a',extremes,Storm,#b3b2b1,wmo,stormflo sandnessjoeen loedingen,2026-01-15T12:14:00+00:00,Norway,0.6558205281271449,1,1,no,NEU,Europe
 'e495e6721e',extremes,Storm,#b3b2b1,wmo,storm sandnessjoeen loedingen,2026-01-15T12:14:00+00:00,Norway,0.6558061290457954,1,1,no,NEU,Europe
 '801198b61a',extremes,Storm,#b3b2b1,wmo,stormflo storegga,2026-01-15T12:14:00+00:00,Norway,0.6557868050273059,1,1,no,NEU,Europe
 'b89db20c92',extremes,Storm,#b3b2b1,wmo,stormflo øst tampen,2026-01-15T10:56:00+00:00,Norway,0.655773256289024,1,1,no,NEU,Europe
-'78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2026-01-15T10:56:00+00:00,Norway,0.6377868343180525,2,2,no,NEU,Europe
 'e91f56dabe',extremes,Wildfire,#d60d2b,wmo,skogbrann rogaland,2026-01-26T04:09:00+00:00,Norway,0.6357768881379198,2,2,no,NEU,Europe
 '6f1da72a83',extremes,Wildfire,#d60d2b,wmo,wildfire vestland,2026-01-27T03:58:00+00:00,Norway,0.6251644952078458,1,1,no,NEU,Europe
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,snøskred sunnmøre,2026-01-15T10:56:00+00:00,Norway,0.6247586642345497,1,1,no,NEU,Europe
@@ -157,7 +157,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1256a9495',extremes,Tsunami,#690191,usgs,tsunami rancho viejo,2026-01-15T10:56:00+00:00,Mexico,0.3198089224614128,1,1,no,SCA,North-America
 '85a135fac3',extremes,Earthquake,#870007,usgs,jordskjelv ozernovskiy,2026-01-15T10:56:00+00:00,Russia,0.3197876248263615,1,1,no,RFE,Asia
 '8abf2def70',extremes,Earthquake,#870007,usgs,jordskjelv vulkanøyene Japan-regionen,2026-01-15T10:56:00+00:00,,0.319700423900342,1,1,no,NPO,Pacific Ocean
-'f200ff28aa',extremes,Earthquake,#870007,usgs,jordskjelv i forente stater,2026-01-15T10:56:00+00:00,United States,0.3196739841660505,0,1,no,WNA,North-America
 'e98c9b3f42',extremes,Earthquake,#870007,usgs,jordskjelv drake passasje,2026-01-15T10:56:00+00:00,,0.3196709283081229,0,1,no,SOO,Antarctica
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,jordskjelv puerto santa,2026-01-15T10:56:00+00:00,Peru,0.3196649023655777,0,1,no,NWS,South-America
 '37af8de5d1',extremes,Earthquake,#870007,usgs,jordskjelv påskeøyregionen,2026-01-15T10:56:00+00:00,,0.3196606738976758,0,1,no,SPO,Pacific Ocean
@@ -247,9 +246,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rim vinter,2026-01-17T03:44:00+00:00,,0.2794825729177103,1,1,no,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-01-23T04:02:00+00:00,,0.2761303257403592,1,1,no,,
 '4594f1a372',extremes,Earthquake,#870007,usgs,jordskjelv iran,2026-01-15T10:56:00+00:00,Iran,0.2721250044588121,1,1,no,WCA,Asia
-'45f861329d',extremes,Landslide,#572c03,aidr,skred adelaide hills sør australia,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,no,SAU,Oceania
-'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropisk syklon Italia,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,no,MED,Europe
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,nordamerikansk vinterstorm new york,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,no,ENA,North-America
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropisk syklon Italia,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,no,MED,Europe
+'45f861329d',extremes,Landslide,#572c03,aidr,skred adelaide hills sør australia,2026-01-15T10:57:00+00:00,Australia,0.2720064152251044,1,1,no,SAU,Oceania
 'a241cba1ba',extremes,Volcano,#b83202,eonet,ambrym vulkan vanuatu,2026-01-15T10:56:00+00:00,Vanuatu,0.271990453362115,1,1,no,SPO,Oceania
 '6f7179aa00',extremes,Volcano,#b83202,eonet,vulkan Filippinene,2026-01-15T10:56:00+00:00,Philippines,0.2719808606448024,1,1,no,SEA,Asia
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,elv som flommer australia,2026-01-15T10:57:00+00:00,Australia,0.2719285584694787,1,1,no,EAU,Oceania
@@ -323,6 +322,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95694d19cf',extremes,Earthquake,#870007,usgs,jordskjelv yemen,2026-01-15T12:13:00+00:00,Yemen,0.2717267749855215,1,1,no,NEAF,Africa
 'cc449c3731',extremes,Earthquake,#870007,usgs,jordskjelv kermadec øyene region,2026-01-15T10:56:00+00:00,,0.2717250609168859,1,1,no,SPO,Pacific Ocean
 '5484f48de4',extremes,Earthquake,#870007,usgs,jordskjelv midt indisk rygg,2026-01-15T10:56:00+00:00,,0.2717248220686753,1,1,no,SIO,Indian Ocean
+'f200ff28aa',extremes,Earthquake,#870007,usgs,jordskjelv i forente stater,2026-01-15T10:56:00+00:00,United States,0.2717228865411429,1,1,no,WNA,North-America
 '6ff5caa4ff',extremes,Earthquake,#870007,usgs,jordskjelv atka,2026-01-15T10:56:00+00:00,Alaska,0.271719060023959,1,1,no,NPO,Pacific Ocean
 '53e17b7a15',extremes,Earthquake,#870007,usgs,jordskjelv houma,2026-01-15T10:56:00+00:00,Tonga,0.271699611597642,1,1,no,SPO,Pacific Ocean
 '3f3ddd0b49',extremes,Earthquake,#870007,usgs,jordskjelv india,2026-01-15T10:56:00+00:00,India,0.271693877628717,1,1,no,SAS,Asia

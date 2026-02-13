@@ -205,7 +205,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bombesyklon,2026-01-15T10:56:00+00:00,,0.3092974987090162,1,1,no,,
 '221e658bfd',extremes,Drought,#edc291,edo,tørrhet luxembourg,2026-02-10T04:43:00+00:00,Luxembourg,0.3090229214900688,0,1,no,WCE,Europe
 'd3353562c0',extremes,Drought,#edc291,edo,tørrhet djibouti,2026-02-06T04:28:00+00:00,Djibouti,0.3089537604399661,0,1,no,NEAF,Africa
-'8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,bushfire Sør-Australia,2026-01-27T03:59:00+00:00,Australia,0.3089280531027499,0,1,no,SAU,Oceania
+'8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,bushfire Sør-Australia,2026-01-27T03:59:00+00:00,Australia,0.3089280531027499,1,1,no,SAU,Oceania
 '676a85a2fa',extremes,Drought,#edc291,edo,tørrhet Sao Tome og Principe,2026-02-02T04:36:00+00:00,Sao Tome and Principe,0.3086140249764246,0,1,no,WAF,Africa
 '02f4a27a12',extremes,Earthquake,#870007,usgs,jordskjelv mendi,2026-02-05T04:27:00+00:00,Papua New Guinea,0.3083462618499812,0,1,no,SEA,Oceania
 '20d3210be7',extremes,Heat Wave,#c40202,wmo,hetebølge bernardo de irigoyen y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.3083090057303648,0,1,no,SES,South-America
@@ -214,7 +214,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d261f252d',extremes,Storm,#b3b2b1,random,vinterkuling,2026-01-26T04:08:00+00:00,,0.308071468206377,0,1,no,,
 '0f0c46c2b9',extremes,Precipitation,#d60d2b,acwe,nedbør sør australia,2026-01-28T03:57:00+00:00,Australia,0.3079471104686876,0,1,no,SAU,Oceania
 '958e326b08',extremes,Earthquake,#870007,usgs,jordskjelv Bonin Islands Japan-regionen,2026-02-05T04:27:00+00:00,,0.3077765167366489,0,1,no,NPO,Pacific Ocean
-'29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,styrtregn new zealand,2026-02-13T04:34:00+00:00,New Zealand,0.30771909246135376,0,1,no,NZ,Oceania
+'29d2fdd6ce',extremes,Precipitation,#d60d2b,wmo,styrtregn new zealand,2026-02-13T04:34:00+00:00,New Zealand,0.3077190924613537,0,1,no,NZ,Oceania
 '9349bd9c5e',extremes,Drought,#edc291,edo,tørrhet ekvatorialguinea,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.3076260498036848,0,1,no,WAF,Africa
 '0df507a059',extremes,Drought,#edc291,edo,tørr tid aserbajdsjan,2026-02-06T04:28:00+00:00,Azerbaijan,0.3076176103470676,0,1,no,WCA,Asia
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,nedbør new zealand,2026-02-12T04:37:00+00:00,New Zealand,0.3075762304921123,0,1,no,NZ,Oceania
@@ -241,7 +241,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,stormflo sør-afrika,2026-02-09T04:39:00+00:00,South Africa,0.3061258757452039,0,1,no,WSAF,Africa
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,storm trinidad og tobago,2026-02-10T04:43:00+00:00,Trinidad and Tobago,0.3060784731831012,0,1,no,NSA,North-America
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,storm sør-afrika,2026-02-05T04:27:00+00:00,South Africa,0.3060708547440301,0,1,no,WSAF,Africa
-'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,iskaldt Canada,2026-02-06T04:27:00+00:00,Canada,0.30605939033202534,0,1,no,NEN,North-America
+'a53b782c59',extremes,Snow&Ice,#d60d2b,wmo,iskaldt Canada,2026-02-06T04:27:00+00:00,Canada,0.3060593903320253,0,1,no,NEN,North-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,hetebølge Brasil,2026-02-03T04:27:00+00:00,Brazil,0.3060285556857266,0,1,no,SAM,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,storm chile,2026-02-05T04:27:00+00:00,Chile,0.3060247711154897,0,1,no,SWS,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brasil,2026-02-08T04:43:00+00:00,Brazil,0.3059560081009341,0,1,no,SAM,South-America

@@ -1,75 +1,89 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Saturday,Saturday,DATE,,,en,6.4
 morning,morning,TIME,,,en,5.900000000000001
-Saturday,Saturday,DATE,,,en,4.6
 Finnmark,Finnmark,NORP,,,en,3.6999999999999997
 Friday,Friday,DATE,,,en,3.5
 Tuesday,Tuesday,DATE,,,en,3.5
+Norwegian,Norwegian,NORP,,,en,3.3
 Christmas Eve,Christmas Eve,DATE,,,en,3.2
-French,French,NORP,,,en,2.8
 Five,Five,CARDINAL,,,en,2.8
+French,French,NORP,,,en,2.8
+six,six,CARDINAL,,,en,2.8
 Wednesday,Wednesday,DATE,,,en,2.5
-Thursday,Thursday,DATE,,,en,2.4
 first,first,ORDINAL,,,en,2.4
-Norwegian,Norwegian,NORP,,,en,2.3000000000000003
-3,3,CARDINAL,,,en,1.9
+Thursday,Thursday,DATE,,,en,2.4
+the weekend,the weekend,DATE,,,en,2.1999999999999997
+50,50,CARDINAL,,,en,1.9
+Seven,Seven,CARDINAL,,,en,1.9
 two,two,CARDINAL,,,en,1.9
+3,3,CARDINAL,,,en,1.9
+82,82,CARDINAL,,,en,1.9
+The Nature Conservancy,The Nature Conservancy,LAW,,,en,1.7
+the United Cup,the United Cup,EVENT,,,en,1.7
+2026,2026,DATE,,,en,1.7
+Two,Two,CARDINAL,,,en,1.7
 Six,Six,CARDINAL,,,en,1.7
 today,today,DATE,,,en,1.7
-2026,2026,DATE,,,en,1.7
 Australian,Australian,NORP,,,en,1.7
-the United Cup,the United Cup,EVENT,,,en,1.7
-the weekend,the weekend,DATE,,,en,1.3
 winter,winter,DATE,,,en,1.3
 At least 14,At least 14,CARDINAL,,,en,1.3
 the day,the day,DATE,,,en,1.2
 6,6,CARDINAL,,,en,1.1
-Swedish,Swedish,NORP,,,en,1.0
+At least 61,At least 61,CARDINAL,,,en,1.0
+recent days,recent days,DATE,,,en,1.0
+three days,three days,DATE,,,en,1.0
+Winter,Winter,DATE,,,en,1.0
+Monday,Monday,DATE,,,en,1.0
+60,60,CARDINAL,,,en,1.0
+9.30,9.30,TIME,,,en,1.0
 Ukrainians,Ukrainians,NORP,,,en,1.0
 Villarreal 2–1,Villarreal 2–1,LAW,,,en,1.0
-skiing days,skiing days,DATE,,,en,1.0
-Olympic,Olympic,EVENT,,,en,1.0
 2000,2000,DATE,,,en,1.0
 NOK 2.97,NOK 2.97,PRODUCT,,,en,1.0
-afternoon,afternoon,TIME,,,en,1.0
 between 4 and 5 p.m.,between 4 and 5 p.m.,TIME,,,en,1.0
-the night of Tuesday,the night of Tuesday,TIME,,,en,1.0
-this month,this month,DATE,,,en,1.0
-Holmbukttinden,Holmbukttinden,FAC,,,en,1.0
-"600,000","600,000",CARDINAL,,,en,1.0
-the Eurovision Song Contest,the Eurovision Song Contest,FAC,,,en,1.0
-third,third,ORDINAL,,,en,1.0
-9.30,9.30,TIME,,,en,1.0
-Agder,Agder,NORP,,,en,1.0
-winter weeks ahead,winter weeks ahead,DATE,,,en,1.0
-60,60,CARDINAL,,,en,1.0
-25 degrees,25 degrees,QUANTITY,,,en,1.0
-"more than 13,000","more than 13,000",CARDINAL,,,en,1.0
-"over 130,000","over 130,000",CARDINAL,,,en,1.0
-the night,the night,TIME,,,en,1.0
-five hours,five hours,TIME,,,en,1.0
-fourth,fourth,ORDINAL,,,en,1.0
-39,39,DATE,,,en,1.0
-Australian Open,Australian Open,EVENT,,,en,1.0
-5,5,CARDINAL,,,en,1.0
 several years,several years,DATE,,,en,1.0
-Winter,Winter,DATE,,,en,1.0
-recent days,recent days,DATE,,,en,1.0
+five hours,five hours,TIME,,,en,1.0
+"over 130,000","over 130,000",CARDINAL,,,en,1.0
+Australian Open,Australian Open,EVENT,,,en,1.0
+the Motor Traffic Act,the Motor Traffic Act,LAW,,,en,1.0
+11.10,11.10,CARDINAL,,,en,1.0
+Holmbukttinden,Holmbukttinden,FAC,,,en,1.0
+Italian,Italian,NORP,,,en,1.0
+Olympics,Olympics,EVENT,,,en,1.0
+Swedish,Swedish,NORP,,,en,1.0
+Olympic,Olympic,EVENT,,,en,1.0
+skiing days,skiing days,DATE,,,en,1.0
 just a few years,just a few years,DATE,,,en,1.0
-At least 61,At least 61,CARDINAL,,,en,1.0
-three days,three days,DATE,,,en,1.0
-Monday,Monday,DATE,,,en,1.0
-the Nagano Olympics,the Nagano Olympics,EVENT,,,en,1.0
-seven,seven,CARDINAL,,,en,1.0
-the last day of the year,the last day of the year,DATE,,,en,1.0
+5,5,CARDINAL,,,en,1.0
+fourth,fourth,ORDINAL,,,en,1.0
+"more than 13,000","more than 13,000",CARDINAL,,,en,1.0
+23,23,CARDINAL,,,en,1.0
+Indonesian,Indonesian,NORP,,,en,1.0
+four,four,CARDINAL,,,en,1.0
+33,33,CARDINAL,,,en,1.0
+weekend,weekend,DATE,,,en,1.0
+the night of Tuesday,the night of Tuesday,TIME,,,en,1.0
+the night,the night,TIME,,,en,1.0
+winter weeks ahead,winter weeks ahead,DATE,,,en,1.0
+Agder,Agder,NORP,,,en,1.0
+25 degrees,25 degrees,QUANTITY,,,en,1.0
+afternoon,afternoon,TIME,,,en,1.0
+eight summer,eight summer,DATE,,,en,1.0
+this month,this month,DATE,,,en,1.0
+New Year's Eve,New Year's Eve,EVENT,,,en,1.0
+One,One,CARDINAL,,,en,1.0
+Three,Three,CARDINAL,,,en,1.0
+6.3,6.3,CARDINAL,,,en,1.0
+three,three,CARDINAL,,,en,1.0
 the United Cup tennis,the United Cup tennis,EVENT,,,en,1.0
 866,866,CARDINAL,,,en,1.0
 Nordreisa,Nordreisa,FAC,0.0,0.0,en,1.0
 566,566,CARDINAL,,,en,1.0
 a night,a night,TIME,,,en,1.0
-New Year's Eve,New Year's Eve,EVENT,,,en,1.0
 the new year,the new year,DATE,,,en,1.0
+"600,000","600,000",CARDINAL,,,en,1.0
+the last day of the year,the last day of the year,DATE,,,en,1.0
 the New Year's,the New Year's,EVENT,,,en,1.0
-6.3,6.3,CARDINAL,,,en,1.0
 more than 30 cm,more than 30 cm,QUANTITY,,,en,1.0
 Trollheimen,Trollheimen,NORP,0.375,0.875,en,1.0
 Saturday 27 December,Saturday 27 December,DATE,,,en,1.0
@@ -77,24 +91,27 @@ Troms Christmas Eve,Troms Christmas Eve,FAC,,,en,1.0
 Christmas,Christmas,DATE,,,en,1.0
 4,4,CARDINAL,,,en,1.0
 Christmas Eve and Christmas Day,Christmas Eve and Christmas Day,DATE,,,en,1.0
-three,three,CARDINAL,,,en,1.0
-Three,Three,CARDINAL,,,en,1.0
+around 40 kilometers,around 40 kilometers,QUANTITY,,,en,1.0
+Sunday,Sunday,DATE,,,en,1.0
+Sundays,Sundays,DATE,,,en,1.0
+next week,next week,DATE,,,en,1.0
+the Eurovision Song Contest,the Eurovision Song Contest,FAC,,,en,1.0
+third,third,ORDINAL,,,en,1.0
+39,39,DATE,,,en,1.0
+seven,seven,CARDINAL,,,en,1.0
 recent weeks,recent weeks,DATE,,,en,1.0
-Heated Rivalry,Heated Rivalry,WORK_OF_ART,,,en,1.0
 more than 100,more than 100,CARDINAL,,,en,1.0
 Over 100,Over 100,CARDINAL,,,en,1.0
 next night,next night,TIME,,,en,1.0
 Canadian,Canadian,NORP,,,en,1.0
 Swiss,Swiss,NORP,,,en,1.0
 1998,1998,DATE,,,en,1.0
-50,50,CARDINAL,,,en,1.0
+the Nagano Olympics,the Nagano Olympics,EVENT,,,en,1.0
+Heated Rivalry,Heated Rivalry,WORK_OF_ART,,,en,1.0
 the year,the year,DATE,,,en,1.0
-Two,Two,CARDINAL,,,en,1.0
 40 cm,40 cm,QUANTITY,,,en,1.0
 37,37,CARDINAL,,,en,1.0
 27,27,CARDINAL,,,en,1.0
 17,17,CARDINAL,,,en,1.0
 Norwegians,Norwegians,NORP,,,en,1.0
-around 40 kilometers,around 40 kilometers,QUANTITY,,,en,1.0
-One,One,CARDINAL,,,en,1.0
-11.10,11.10,CARDINAL,,,en,1.0
+Storm,Storm,WORK_OF_ART,,,en,1.0

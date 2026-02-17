@@ -18,7 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b89db20c92',extremes,Storm,#b3b2b1,wmo,stormflo øst tampen,2026-01-15T10:56:00+00:00,Norway,0.5574072678456704,2,1,no,NEU,Europe
 '07c3b9eeac',extremes,Storm,#b3b2b1,wmo,storm karmoey fedje,2026-01-15T12:14:00+00:00,Norway,0.5573800276024218,2,1,no,NEU,Europe
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-01-19T04:03:00+00:00,Norway,0.5444626094252158,3,1,no,NEU,Europe
-'beca2b83c0',extremes,Snow&Ice,#d60d2b,wmo,isbns,2026-02-08T04:43:00+00:00,Norway,0.542594284600327,1,1,no,NEU,Europe
+'beca2b83c0',extremes,Snow&Ice,#d60d2b,wmo,isbns,2026-02-08T04:43:00+00:00,Norway,0.542594284600327,2,1,no,NEU,Europe
 'e91f56dabe',extremes,Wildfire,#d60d2b,wmo,skogbrann rogaland,2026-01-26T04:09:00+00:00,Norway,0.5408603999172318,3,2,no,NEU,Europe
 '961bbe5a4e',extremes,Storm,#b3b2b1,wmo,storm ytre skagerrak,2026-02-05T04:27:00+00:00,Norway,0.5407627414128449,1,1,no,NEU,Europe
 '56ddd9409b',extremes,Storm,#b3b2b1,wmo,stormflo torungen oksoey,2026-02-08T04:43:00+00:00,Norway,0.5401411053845664,1,1,no,NEU,Europe
@@ -275,7 +275,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70f072ec1c',extremes,Precipitation,#d60d2b,wmo,regn jijel,2026-02-05T04:27:00+00:00,Algeria,0.3051510863230941,0,1,no,SAH,Africa
 'a486f7aaa7',extremes,Snow Avalanche,#deddd5,wmo,snøskredrepublikken adygea,2026-02-10T04:43:00+00:00,Russia,0.3051462385098296,0,1,no,ESB,Europe
 '2e5d011ec9',extremes,Heat Wave,#c40202,wmo,hetebølge monte caseros y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.3051343770897579,0,1,no,SES,South-America
-'11ece58a02',extremes,Storm,#b3b2b1,wmo,stormflo Bahrain,2026-02-10T04:43:00+00:00,Bahrain,0.30512863611195107,0,1,no,ARP,Asia
+'11ece58a02',extremes,Storm,#b3b2b1,wmo,stormflo Bahrain,2026-02-10T04:43:00+00:00,Bahrain,0.305128636111951,0,1,no,ARP,Asia
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,hagl iran,2026-02-04T04:21:00+00:00,Iran,0.305125026816602,0,1,no,WCA,Asia
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,regnskyll costa rica,2026-01-30T04:21:00+00:00,Costa Rica,0.3051212206234084,0,1,no,SCA,North-America
 'a652c78afc',extremes,Drought,#edc291,random,megatørke,2026-01-18T03:56:00+00:00,,0.3006146746719527,1,1,no,,

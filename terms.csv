@@ -1,8 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-02-05T04:27:00+00:00,Norway,0.7559634051620691,0,1,no,NEU,Europe
 '1097dcf9f5',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre troms,2026-02-11T04:41:00+00:00,Norway,0.7491041901912956,0,1,no,NEU,Europe
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-02-05T04:27:00+00:00,Norway,0.7171224061190886,1,2,no,NEU,Europe
 '61386d6415',extremes,Snow&Ice,#d60d2b,wmo,iskaldt norge,2026-02-05T04:27:00+00:00,Norway,0.6883678640519648,1,1,no,NEU,Europe
+'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-02-05T04:27:00+00:00,Norway,0.6427189093877587,1,1,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-02-05T04:27:00+00:00,Norway,0.6410967507040953,1,1,no,NEU,Europe
 'ab92adcf6e',extremes,Snow Avalanche,#deddd5,wmo,snøskred sør troms,2026-02-08T04:43:00+00:00,Norway,0.6389691713041953,1,1,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-01-15T10:56:00+00:00,Norway,0.5906973819960375,2,1,no,NEU,Europe
@@ -201,11 +201,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997a2e2157',extremes,Earthquake,#870007,usgs,jordskjelv argentina,2026-02-05T04:27:00+00:00,Argentina,0.3139374809123158,0,1,no,SWS,South-America
 '4e0167deb4',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 20-tallet,2026-02-07T04:19:00+00:00,,0.3137179795815789,1,1,no,NAU,Oceania
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkan,2026-02-06T04:27:00+00:00,,0.3133934099075616,1,1,no,,
-'ad41fee440',extremes,Earthquake,#870007,usgs,jordskjelv lata,2026-02-05T04:27:00+00:00,Solomon Islands,0.31305761973308155,0,1,no,SPO,Pacific Ocean
+'ad41fee440',extremes,Earthquake,#870007,usgs,jordskjelv lata,2026-02-05T04:27:00+00:00,Solomon Islands,0.3130576197330815,0,1,no,SPO,Pacific Ocean
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-01-20T03:55:00+00:00,,0.3129965195573042,1,1,no,,
-'03f33e230d',extremes,Earthquake,#870007,usgs,jordskjelv i chile,2026-02-05T04:27:00+00:00,Chile,0.31292300365750814,0,1,no,SWS,South-America
+'03f33e230d',extremes,Earthquake,#870007,usgs,jordskjelv i chile,2026-02-05T04:27:00+00:00,Chile,0.3129230036575081,0,1,no,SWS,South-America
 '85a135fac3',extremes,Earthquake,#870007,usgs,jordskjelv ozernovskiy,2026-02-05T04:27:00+00:00,Russia,0.3127341842794927,0,1,no,NPO,Pacific Ocean
-'3894a694d1',extremes,Flood,#030ba1,aidr,flash flood australia,2026-02-05T04:28:00+00:00,Australia,0.31267627392194786,0,1,no,NAU,Oceania
+'3894a694d1',extremes,Flood,#030ba1,aidr,flash flood australia,2026-02-05T04:28:00+00:00,Australia,0.3126762739219478,0,1,no,NAU,Oceania
 '34fd30e809',extremes,Earthquake,#870007,usgs,jordskjelv calama,2026-02-05T04:27:00+00:00,Chile,0.3126127943362571,1,1,no,SWS,South-America
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,no,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,isflak,2026-01-23T04:02:00+00:00,,0.3103490873909686,1,1,no,,
@@ -306,7 +306,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon fytia,2026-01-31T04:16:00+00:00,,0.2709466533893596,1,1,no,ESAF,Africa
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 18p,2026-01-29T04:18:00+00:00,,0.2705833282606931,1,1,no,SPO,Pacific Ocean
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperaturen stuper,2026-02-12T04:36:00+00:00,,0.2702979118525999,1,1,no,,
-'f9a3abc8c2',extremes,Landslide,#572c03,random,gjørmestrøm,2026-01-17T03:44:00+00:00,,0.2700651057659132,1,1,no,,
 'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flom australia,2026-02-05T04:28:00+00:00,Australia,0.2686524423700649,1,1,no,CAU,Oceania
 '55c39b351d',extremes,Storm,#b3b2b1,random,støvdjevel,2026-02-05T04:27:00+00:00,,0.2684548787709752,1,1,no,,
 'e921e2b0b7',extremes,Flood,#030ba1,aidr,flom alvorlig flom fra den ekstropiske syklonen tiffany south australia 2022,2026-02-08T04:44:00+00:00,Australia,0.2683642089942968,1,1,no,SAU,Oceania

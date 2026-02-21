@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-02-07T04:19:00+00:00,Norway,0.7525925825050642,0,1,no,NEU,Europe
+'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-02-07T04:19:00+00:00,Norway,0.7900037251293046,1,2,no,NEU,Europe
 '1097dcf9f5',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre troms,2026-02-11T04:41:00+00:00,Norway,0.7491041901912956,0,1,no,NEU,Europe
 '75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-02-06T04:27:00+00:00,Norway,0.7481169709141218,0,1,no,NEU,Europe
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-02-05T04:27:00+00:00,Norway,0.7171224061190886,1,2,no,NEU,Europe
@@ -37,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '81b4220aeb',extremes,Storm,#b3b2b1,wmo,storm oksoey lindesnes,2026-02-01T04:41:00+00:00,Norway,0.5377903118809348,1,1,no,NEU,Europe
 '34a1e1617d',extremes,Storm,#b3b2b1,wmo,stormflo oksoey aana sira,2026-01-22T03:59:00+00:00,Norway,0.5351343140956084,1,1,no,NEU,Europe
 '6f1da72a83',extremes,Wildfire,#d60d2b,wmo,wildfire vestland,2026-01-27T03:58:00+00:00,Norway,0.5313898209266689,2,1,no,NEU,Europe
-'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,snøskred sunnmøre,2026-01-15T10:56:00+00:00,Norway,0.5310448645993673,2,1,no,NEU,Europe
 '9519287842',extremes,Storm,#b3b2b1,wmo,storm kildin bank,2026-02-01T04:41:00+00:00,Norway,0.5303574191374121,1,1,no,NEU,Europe
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-01-19T04:03:00+00:00,Norway,0.529823510147223,2,1,no,NEU,Europe
 'a68abd98d6',extremes,Snow Avalanche,#deddd5,wmo,skredvest finnmark,2026-01-17T03:44:00+00:00,Norway,0.5293905256673992,2,1,no,NEU,Europe
@@ -147,7 +146,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,nedbør new zealand,2026-02-12T04:37:00+00:00,New Zealand,0.4117398259182954,1,2,no,NZ,Oceania
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-02-17T04:30:00+00:00,,0.4039229548281338,1,2,no,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-01-27T03:58:00+00:00,,0.3973848720292492,1,2,no,,
-'74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-01-15T10:57:00+00:00,Iceland,0.3969342327206562,1,1,no,GIC,Europe
 '560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-01-18T03:56:00+00:00,,0.3901920608851556,1,2,no,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,rimfrost,2026-02-16T04:37:00+00:00,,0.3878858883951881,1,1,no,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-02-06T04:27:00+00:00,,0.3867050843525815,0,1,no,,
@@ -156,7 +154,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,iskaldt,2026-01-22T03:59:00+00:00,,0.3827948344044309,1,2,no,,
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,iskaldt island,2026-02-18T04:34:00+00:00,Iceland,0.3812094880212453,1,1,no,GIC,Europe
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-01-17T03:44:00+00:00,,0.3809112265783996,1,2,no,,
-'633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-02-07T04:19:00+00:00,,0.37972376053062057,0,1,no,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-02-07T04:19:00+00:00,,0.3797237605306205,0,1,no,,
 'ebb6251556',extremes,Snow&Ice,#d60d2b,wmo,is sør island,2026-02-20T04:27:00+00:00,Iceland,0.3794987982873725,1,1,no,GIC,Europe
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-01-25T04:05:00+00:00,,0.3792026886464418,1,1,no,,
 'f6d696437a',extremes,Snow&Ice,#d60d2b,wmo,frost sør island,2026-02-18T04:34:00+00:00,Iceland,0.3787082371647162,1,1,no,GIC,Europe

@@ -1,5 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-02-07T04:19:00+00:00,Norway,0.7900037251293046,1,2,no,NEU,Europe
+'d7cc235c9c',extremes,Snow Avalanche,#deddd5,wmo,snøskred trollheimen,2026-02-06T04:27:00+00:00,Norway,0.7513588872933732,0,1,no,NEU,Europe
+'c8be322002',extremes,Snow Avalanche,#deddd5,wmo,snøskred hallingdal,2026-02-07T04:19:00+00:00,Norway,0.7502122982051276,0,1,no,NEU,Europe
 '1097dcf9f5',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre troms,2026-02-11T04:41:00+00:00,Norway,0.7491041901912956,0,1,no,NEU,Europe
 '75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-02-06T04:27:00+00:00,Norway,0.7481169709141218,1,1,no,NEU,Europe
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-02-05T04:27:00+00:00,Norway,0.7171224061190886,1,2,no,NEU,Europe
@@ -14,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '585a531614',extremes,Storm,#b3b2b1,wmo,storm nordkapp slettnes fyr,2026-01-15T12:14:00+00:00,Norway,0.5796650283247551,2,1,no,NEU,Europe
 'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,is norge,2026-01-15T10:56:00+00:00,Norway,0.5788973134227067,2,2,no,NEU,Europe
 '71efdff4eb',extremes,Snow Avalanche,#deddd5,wmo,snøskred tromsø,2026-02-05T04:27:00+00:00,Norway,0.569971798943667,2,1,no,NEU,Europe
+'ba7e6862b7',extremes,Storm,#b3b2b1,wmo,storm lopa nordkapp,2026-02-22T04:30:00+00:00,Norway,0.5639504479743794,0,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-01-15T12:14:00+00:00,Norway,0.5584333738438477,2,1,no,NEU,Europe
 'a41044fcd0',extremes,Snow Avalanche,#deddd5,wmo,snøskred voss,2026-01-15T12:14:00+00:00,Norway,0.5582008424347394,2,1,no,NEU,Europe
 '144c06bc4c',extremes,Storm,#b3b2b1,wmo,storm froeya bank,2026-01-15T10:56:00+00:00,Norway,0.5579078446958315,2,1,no,NEU,Europe
@@ -25,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '801198b61a',extremes,Storm,#b3b2b1,wmo,stormflo storegga,2026-01-15T12:14:00+00:00,Norway,0.55741878427321,2,1,no,NEU,Europe
 'b89db20c92',extremes,Storm,#b3b2b1,wmo,stormflo øst tampen,2026-01-15T10:56:00+00:00,Norway,0.5574072678456704,2,1,no,NEU,Europe
 '07c3b9eeac',extremes,Storm,#b3b2b1,wmo,storm karmoey fedje,2026-01-15T12:14:00+00:00,Norway,0.5573800276024218,2,1,no,NEU,Europe
+'881ea89851',extremes,Storm,#b3b2b1,wmo,storm fedje bulandet,2026-02-22T04:30:00+00:00,Norway,0.5554575553224029,0,1,no,NEU,Europe
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,snøskred nord troms,2026-02-05T04:27:00+00:00,Norway,0.5468198814934871,2,1,no,NEU,Europe
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-01-19T04:03:00+00:00,Norway,0.5444626094252158,3,1,no,NEU,Europe
 'beca2b83c0',extremes,Snow&Ice,#d60d2b,wmo,isbns,2026-02-08T04:43:00+00:00,Norway,0.542594284600327,2,1,no,NEU,Europe
@@ -206,6 +210,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ee9959447',extremes,Tropical Cyclone,#4f4f4f,emdat,tropisk syklon Madagaskar,2026-02-20T04:28:00+00:00,Madagascar,0.3125628137009715,0,1,no,MDG,Africa
 '8710bd49ea',extremes,Earthquake,#870007,usgs,jordskjelv severo kuril'sk,2026-02-05T04:27:00+00:00,Russia,0.3122152887555452,0,1,no,NPO,Pacific Ocean
 '7e7895dc7a',extremes,Earthquake,#870007,usgs,jordskjelv tadsjikistan,2026-02-05T04:27:00+00:00,Tajikistan,0.3120615341736481,0,1,no,WCA,Asia
+'82d648b882',extremes,Drought,#edc291,random,tørke,2026-02-08T04:43:00+00:00,,0.31198642048219277,0,1,no,,
+'edcb89e9c3',extremes,Earthquake,#870007,usgs,jordskjelv papua ny guinea,2026-02-05T04:27:00+00:00,Papua New Guinea,0.31184842815802094,0,1,no,EPO,Oceania
+'3a67915e02',extremes,Earthquake,#870007,usgs,jordskjelv peru,2026-02-05T04:27:00+00:00,Peru,0.3118124740708182,0,1,no,NWS,South-America
+'e873273000',extremes,Storm,#b3b2b1,emdat,storm malawi,2026-02-20T04:28:00+00:00,Malawi,0.31174857808531975,0,1,no,ESAF,Africa
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-01-21T03:55:00+00:00,,0.3108999208214229,1,1,no,,
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,isflak,2026-01-23T04:02:00+00:00,,0.3103490873909686,1,1,no,,
 '0d99295f2f',extremes,Drought,#edc291,edo,mangel på regn somalia,2026-02-06T04:28:00+00:00,Somalia,0.3102172923736128,1,1,no,NEAF,Africa
@@ -292,11 +300,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nattefrost,2026-02-17T04:30:00+00:00,,0.2870293756071867,1,1,no,,
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,jordskjelv island,2026-01-23T04:02:00+00:00,Iceland,0.2856791278133769,1,1,no,GIC,Europe
 'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-01-28T03:56:00+00:00,,0.2844684367509023,1,1,no,,
-'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-02-21T04:17:00+00:00,,0.28159762226121415,1,1,no,,
+'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-02-21T04:17:00+00:00,,0.2815976222612141,1,1,no,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,sandstorm,2026-02-20T04:27:00+00:00,,0.2781068372623445,1,1,no,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-01-23T04:02:00+00:00,,0.2761303257403592,1,1,no,,
-'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropisk syklon Italia,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,no,MED,Europe
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,nordamerikansk vinterstorm new york,2026-01-31T04:17:00+00:00,United States,0.2720064152251044,1,1,no,ENA,North-America
+'f6374995d1',extremes,Tropical Cyclone,#4f4f4f,cmeter,tropisk syklon Italia,2026-01-28T03:57:00+00:00,Italy,0.2720064152251044,1,1,no,MED,Europe
 'c660d659ce',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon fytia,2026-01-31T04:16:00+00:00,,0.2709466533893596,1,1,no,ESAF,Africa
 'c1c906585f',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 18p,2026-01-29T04:18:00+00:00,,0.2705833282606931,1,1,no,SPO,Pacific Ocean
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperaturen stuper,2026-02-12T04:36:00+00:00,,0.2702979118525999,1,1,no,,

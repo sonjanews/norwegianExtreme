@@ -1,6 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-02-08T04:43:00+00:00,Norway,0.7536452834220356,0,1,no,NEU,Europe
-'2876c1c93a',extremes,Landslide,#572c03,wmo,jordskred norge,2026-02-25T04:32:00+00:00,Norway,0.7529337701597848,0,1,no,NEU,Europe
+'2876c1c93a',extremes,Landslide,#572c03,wmo,jordskred norge,2026-02-25T04:32:00+00:00,Norway,0.7529337701597848,1,1,no,NEU,Europe
 'b1846944bd',extremes,Landslide,#572c03,wmo,skred deler av vestland fylke,2026-02-25T04:32:00+00:00,Norway,0.7502691966898829,0,1,no,NEU,Europe
 '75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-02-06T04:27:00+00:00,Norway,0.7481169709141218,1,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-02-05T04:27:00+00:00,Norway,0.7408594873518743,1,2,no,NEU,Europe
@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34a1e1617d',extremes,Storm,#b3b2b1,wmo,stormflo oksoey aana sira,2026-01-22T03:59:00+00:00,Norway,0.5351343140956084,1,1,no,NEU,Europe
 '6f1da72a83',extremes,Wildfire,#d60d2b,wmo,wildfire vestland,2026-01-27T03:58:00+00:00,Norway,0.5313898209266689,2,1,no,NEU,Europe
 '9519287842',extremes,Storm,#b3b2b1,wmo,storm kildin bank,2026-02-01T04:41:00+00:00,Norway,0.5303574191374121,1,1,no,NEU,Europe
-'416d23061d',extremes,Snow Avalanche,#deddd5,wmo,snøskred jotunheimen,2026-01-15T12:14:00+00:00,Norway,0.5290869888149805,3,2,no,NEU,Europe
 '6575158ed2',extremes,Storm,#b3b2b1,wmo,storm førtiårene,2026-01-21T03:56:00+00:00,Norway,0.5287748629474481,1,1,no,NEU,Europe
 '790bb54e5c',extremes,Storm,#b3b2b1,wmo,stormflo førtiårene,2026-01-22T03:59:00+00:00,Norway,0.5282985362761559,1,1,no,NEU,Europe
 '1b487a4f9f',extremes,Storm,#b3b2b1,wmo,storm torsvaag fruholmen,2026-02-01T04:41:00+00:00,Norway,0.5282014620547087,1,1,no,NEU,Europe

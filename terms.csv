@@ -6,6 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-02-05T04:27:00+00:00,Norway,0.7168774773506182,2,2,no,NEU,Europe
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-02-05T04:27:00+00:00,Norway,0.7164022218842614,1,2,no,NEU,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,snøskred jotunheimen,2026-02-25T04:32:00+00:00,Norway,0.6997897906690276,1,1,no,NEU,Europe
+'78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2026-02-26T04:29:00+00:00,Norway,0.6970408116694793,0,1,no,NEU,Europe
 '61386d6415',extremes,Snow&Ice,#d60d2b,wmo,iskaldt norge,2026-02-05T04:27:00+00:00,Norway,0.6883678640519648,1,1,no,NEU,Europe
 '826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,snøskred nordenskiöld land,2026-02-06T04:27:00+00:00,Norway,0.688101766565669,1,1,no,NEU,Europe
 'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,is norge,2026-02-25T04:32:00+00:00,Norway,0.6788561097662957,0,1,no,NEU,Europe
@@ -200,6 +201,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gresshoppe,2026-01-26T04:08:00+00:00,,0.3485064152251044,1,1,no,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,gjørmestrøm,2026-02-06T04:27:00+00:00,,0.3475945191742882,1,1,no,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,orkan,2026-03-01T04:34:00+00:00,,0.3442795104842592,0,1,no,,
+'056bed0dad',extremes,Cold Wave,#a7e9fa,random,kaldeste vinteren,2026-03-01T04:34:00+00:00,,0.34075688545848876,0,1,no,,
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-02-09T04:39:00+00:00,Iceland,0.340542979911306,1,1,no,GIC,Europe
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,kuldeperiode,2026-01-27T03:58:00+00:00,,0.3385279621121753,1,1,no,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,hardt vær,2026-01-20T03:55:00+00:00,,0.336945644572185,1,2,no,,
@@ -213,6 +215,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f0423d739',extremes,Drought,#edc291,random,tørrhet,2026-02-15T04:34:00+00:00,,0.3277849087864072,1,1,no,,
 'c948617fef',extremes,Heat Wave,#c40202,random,ekstrem varmeeksponering,2026-02-06T04:27:00+00:00,,0.3276369716469687,1,1,no,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,hagl,2026-02-21T04:17:00+00:00,,0.3269568132409079,1,1,no,,
+'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-02-22T04:30:00+00:00,,0.3268513282489734,0,1,no,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,brennende temperatur,2026-02-08T04:43:00+00:00,,0.3246068081056438,1,1,no,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-02-06T04:27:00+00:00,,0.3243367390691564,1,1,no,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-02-07T04:19:00+00:00,,0.3227651964510274,1,1,no,,
@@ -233,6 +236,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ebd9f213e',extremes,Wildfire,#d60d2b,acwe,bushfire Sør-Australia,2026-01-27T03:59:00+00:00,Australia,0.3089280531027499,1,1,no,SAU,Oceania
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,varmebølgemotstand og alrededores,2026-02-17T04:31:00+00:00,Argentina,0.3080977038618526,0,1,no,SES,South-America
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 syklon nt tropisk syklon marcus,2026-02-19T04:32:00+00:00,,0.3080801171904528,0,1,no,NAU,Oceania
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,nedbør ecuador,2026-02-18T04:34:00+00:00,Ecuador,0.3071802862074735,0,1,no,NWS,South-America
 'cd349f2a0f',extremes,Drought,#edc291,edo,tørrhet hong kong,2026-02-06T04:28:00+00:00,Hong Kong,0.3070603586824189,1,1,no,EAS,Asia
 'd98aa38709',extremes,Fog,#d60d2b,wmo,tåke saudi-arabia,2026-02-07T04:19:00+00:00,Saudi Arabia,0.3070026779413961,0,1,no,ARP,Asia
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,is canada,2026-02-06T04:27:00+00:00,Canada,0.3069798588737309,0,1,no,NEN,North-America
@@ -245,12 +249,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,stormflo argentina,2026-02-05T04:27:00+00:00,Argentina,0.3067056640519299,0,1,no,SES,South-America
 'cf4f19d972',extremes,Cold Wave,#a7e9fa,wmo,iskaldt Saudi-Arabia,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3066989969432253,0,1,no,ARP,Asia
 '02711610b5',extremes,Storm,#b3b2b1,wmo,storm argentina,2026-02-05T04:27:00+00:00,Argentina,0.3066021403556171,0,1,no,SES,South-America
+'cf99db758d',extremes,Fog,#d60d2b,wmo,tåke latvia,2026-02-28T04:07:00+00:00,Latvia,0.3065953186007564,0,1,no,WCE,Europe
 '81c1847cf8',extremes,Snow&Ice,#d60d2b,wmo,frost sydney metro og cape breton county,2026-02-16T04:38:00+00:00,Canada,0.3065595299615448,0,1,no,NEN,North-America
 '8a654473a4',extremes,Drought,#edc291,edo,tørke Sao Tome og Principe,2026-02-12T04:37:00+00:00,Sao Tome and Principe,0.3065146471945019,0,1,no,WAF,Africa
 '21ada6323e',extremes,Drought,#edc291,edo,mangel på regn aserbajdsjan,2026-02-05T04:28:00+00:00,Azerbaijan,0.3065059264399009,0,1,no,WCA,Asia
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,nedbør argentina,2026-02-05T04:27:00+00:00,Argentina,0.3064436390474371,0,1,no,SES,South-America
 'bd09b9486d',extremes,Drought,#edc291,edo,mangel på regn djibouti,2026-02-25T04:33:00+00:00,Djibouti,0.3064411481001536,0,1,no,NEAF,Africa
 '3f0fdf7387',extremes,Earthquake,#870007,usgs,jordskjelv galapagos triple junction region,2026-01-29T04:18:00+00:00,,0.3064130050444243,0,1,no,EPO,Pacific Ocean
+'157e8ae8a6',extremes,Precipitation,#d60d2b,wmo,områder med kraftig regn i ruvuma-regionen.,2026-02-18T04:34:00+00:00,Tanzania,0.30640168075424085,0,1,no,SEAF,Africa
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,hetebølge chile,2026-02-05T04:27:00+00:00,Chile,0.3062964917581504,0,1,no,SWS,South-America
 'ab8adba258',extremes,Storm,#b3b2b1,wmo,stormflo litoral provincia de huasco,2026-02-07T04:19:00+00:00,Chile,0.3062655957052314,0,1,no,SWS,South-America
 '19541fab6d',extremes,Storm,#b3b2b1,wmo,stormflo finland,2026-02-08T04:43:00+00:00,Finland,0.3061967433595992,0,1,no,NEU,Europe
@@ -268,12 +274,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2fbb3e12ae',extremes,Heat Wave,#c40202,wmo,hetebølge concordia y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.3059223715406891,0,1,no,SES,South-America
 'a67a1c3ce8',extremes,Storm,#b3b2b1,wmo,storm fra haa alifu-atollen til vaavu-atollen,2026-02-05T04:27:00+00:00,Maldives,0.3059029330928637,0,1,no,EIO,Indian Ocean
 '2cfcf7a5d7',extremes,Storm,#b3b2b1,wmo,storm مملكة البحرين والمناطق المحيطة بها,2026-02-08T04:43:00+00:00,Bahrain,0.3058710941005423,0,1,no,ARP,Asia
+'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,regn sør-afrika,2026-02-23T04:37:00+00:00,South Africa,0.30584115826826125,0,1,no,WSAF,Africa
 '453697199c',extremes,Storm,#b3b2b1,wmo,storm ghana,2026-02-17T04:31:00+00:00,Ghana,0.3058068818485187,0,1,no,WAF,Africa
 'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,hetebølge område 1 – alvorlig,2026-02-17T04:31:00+00:00,Paraguay,0.3057877105283349,0,1,no,SES,South-America
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,hetebølge reg. 3 precordillera,2026-02-17T04:31:00+00:00,Chile,0.3057876921280838,0,1,no,SWS,South-America
 '6539cd4b6f',extremes,Precipitation,#d60d2b,wmo,regn dunedin øst for pukerangi,2026-02-17T04:31:00+00:00,New Zealand,0.3057749930565493,0,1,no,NZ,Oceania
 'a1d6f6b899',extremes,Storm,#b3b2b1,wmo,stormflo litoral sierra y amazonía,2026-02-04T04:21:00+00:00,Ecuador,0.3057732112392244,0,1,no,NWS,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,storm paraguay,2026-02-13T04:34:00+00:00,Paraguay,0.3057624660454825,0,1,no,SES,South-America
+'5a5dd83274',extremes,Fog,#d60d2b,wmo,tåke volgograd-regionen,2026-02-17T04:31:00+00:00,Russia,0.30575907417544135,0,1,no,ESB,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,regnskyll Brasil,2026-02-05T04:27:00+00:00,Brazil,0.3056709187230583,0,1,no,SAM,South-America
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,regn Seychellene,2026-02-16T04:38:00+00:00,Seychelles,0.3056363313316763,0,1,no,EIO,Africa
 '12545c3510',extremes,Earthquake,#870007,usgs,jordskjelv hengchun,2026-01-27T03:58:00+00:00,Taiwan,0.305636192957709,0,1,no,EAS,Asia

@@ -131,7 +131,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7babafdc48',extremes,Storm,#b3b2b1,wmo,stormflo bulandet maaloey,2026-02-15T04:35:00+00:00,Norway,0.479044289144611,1,1,no,NEU,Europe
 '6c962430de',extremes,Storm,#b3b2b1,wmo,stormflo svinoey ona,2026-02-16T04:38:00+00:00,Norway,0.4784756559926021,1,1,no,NEU,Europe
 '1dd5eb19b0',extremes,Snow&Ice,#d60d2b,wmo,isdeler i Finnmark,2026-02-04T04:21:00+00:00,Norway,0.4783103163913988,1,1,no,NEU,Europe
-'836bb023cd',extremes,Storm,#b3b2b1,wmo,stormflo fisker,2026-02-16T04:38:00+00:00,Norway,0.47766665375465384,1,1,no,NEU,Europe
+'836bb023cd',extremes,Storm,#b3b2b1,wmo,stormflo fisker,2026-02-16T04:38:00+00:00,Norway,0.4776666537546538,1,1,no,NEU,Europe
 'e00d255e61',extremes,Storm,#b3b2b1,wmo,storm nord utsire,2026-02-15T04:35:00+00:00,Norway,0.4770257482685366,1,1,no,NEU,Europe
 '6aa927960b',extremes,Storm,#b3b2b1,wmo,storm dyp e4,2026-02-01T04:41:00+00:00,Norway,0.4754706435337051,2,1,no,NEU,Europe
 'ce9372eca8',extremes,Storm,#b3b2b1,wmo,storm nordbredden,2026-02-10T04:43:00+00:00,Norway,0.4754413966981603,1,1,no,NEU,Europe
@@ -153,6 +153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0cd616ee68',extremes,Storm,#b3b2b1,wmo,stormflo kystområder i moere og romsdal,2026-02-14T04:21:00+00:00,Norway,0.4649824837742929,2,1,no,NEU,Europe
 '90c5e144d6',extremes,Wildfire,#d60d2b,wmo,skogbrann kystområder i Moere og Romsdal,2026-02-08T04:43:00+00:00,Norway,0.4625192288671534,2,1,no,NEU,Europe
 'e3a25cca24',extremes,Storm,#b3b2b1,wmo,stormflo skomvaer melbu,2026-02-16T04:38:00+00:00,Norway,0.4618381436061223,1,1,no,NEU,Europe
+'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2026-02-13T04:33:00+00:00,,0.4610355747105297,1,2,no,,
 'b6f7cf5cd2',extremes,Storm,#b3b2b1,wmo,storm roervik sandnessjoeen,2026-02-20T04:27:00+00:00,Norway,0.4592840167894949,1,1,no,NEU,Europe
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,blåser snø,2026-02-07T04:19:00+00:00,,0.4570598015701492,1,2,no,,
 '1a0a416261',extremes,Storm,#b3b2b1,wmo,stormflo melbu torsvaag,2026-02-01T04:41:00+00:00,Norway,0.4564150603311837,2,1,no,NEU,Europe
@@ -195,7 +196,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-02-11T04:41:00+00:00,,0.369404579111767,0,1,no,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-01-22T03:59:00+00:00,,0.368142777069669,1,2,no,,
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-02-07T04:19:00+00:00,Iceland,0.3665423556081257,1,1,no,GIC,Europe
-'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2026-02-13T04:33:00+00:00,,0.3650417643653291,0,1,no,,
 '6faf696dd9',extremes,Earthquake,#870007,usgs,jordskjelv akureyri,2026-02-14T04:21:00+00:00,Iceland,0.3496940580716659,0,1,no,GIC,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gresshoppe,2026-01-26T04:08:00+00:00,,0.3485064152251044,1,1,no,,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,gjørmestrøm,2026-02-06T04:27:00+00:00,,0.3475945191742882,1,1,no,,

@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-02-05T04:27:00+00:00,Norway,0.7168774773506182,2,2,no,NEU,Europe
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-02-05T04:27:00+00:00,Norway,0.7164022218842614,1,2,no,NEU,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,snøskred jotunheimen,2026-02-25T04:32:00+00:00,Norway,0.6997897906690276,1,1,no,NEU,Europe
-'78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2026-02-26T04:29:00+00:00,Norway,0.6970408116694793,0,1,no,NEU,Europe
 '61386d6415',extremes,Snow&Ice,#d60d2b,wmo,iskaldt norge,2026-02-05T04:27:00+00:00,Norway,0.6883678640519648,1,1,no,NEU,Europe
 '826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,snøskred nordenskiöld land,2026-02-06T04:27:00+00:00,Norway,0.688101766565669,1,1,no,NEU,Europe
 'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,is norge,2026-02-25T04:32:00+00:00,Norway,0.6788561097662957,0,1,no,NEU,Europe
@@ -17,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6bcd4af11f',extremes,Flood,#030ba1,wmo,flom norge,2026-02-26T04:29:00+00:00,Norway,0.672844432882209,1,1,no,NEU,Europe
 'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-02-07T04:19:00+00:00,Norway,0.671503196359909,2,1,no,NEU,Europe
 'd7cc235c9c',extremes,Snow Avalanche,#deddd5,wmo,snøskred trollheimen,2026-02-06T04:27:00+00:00,Norway,0.6704843388194621,2,1,no,NEU,Europe
+'78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2026-02-26T04:29:00+00:00,Norway,0.6519810744645119,1,2,no,NEU,Europe
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-02-05T04:27:00+00:00,Norway,0.6427189093877587,1,1,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-02-05T04:27:00+00:00,Norway,0.6410967507040953,1,1,no,NEU,Europe
 'a41044fcd0',extremes,Snow Avalanche,#deddd5,wmo,snøskred voss,2026-02-05T04:27:00+00:00,Norway,0.6409975115684474,1,1,no,NEU,Europe
@@ -156,7 +156,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3a25cca24',extremes,Storm,#b3b2b1,wmo,stormflo skomvaer melbu,2026-02-16T04:38:00+00:00,Norway,0.4618381436061223,1,1,no,NEU,Europe
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2026-02-13T04:33:00+00:00,,0.4610355747105297,1,2,no,,
 'b6f7cf5cd2',extremes,Storm,#b3b2b1,wmo,storm roervik sandnessjoeen,2026-02-20T04:27:00+00:00,Norway,0.4592840167894949,1,1,no,NEU,Europe
-'6575158ed2',extremes,Storm,#b3b2b1,wmo,storm førtiårene,2026-02-16T04:38:00+00:00,Norway,0.45856943650347853,1,1,no,NEU,Europe
+'6575158ed2',extremes,Storm,#b3b2b1,wmo,storm førtiårene,2026-02-16T04:38:00+00:00,Norway,0.4585694365034785,1,1,no,NEU,Europe
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,blåser snø,2026-02-07T04:19:00+00:00,,0.4570598015701492,1,2,no,,
 '1a0a416261',extremes,Storm,#b3b2b1,wmo,stormflo melbu torsvaag,2026-02-01T04:41:00+00:00,Norway,0.4564150603311837,2,1,no,NEU,Europe
 '6507b22766',extremes,Snow&Ice,#d60d2b,wmo,iskalde kyst i Sør-Norge,2026-02-11T04:41:00+00:00,Norway,0.4554275304345012,1,1,no,NEU,Europe
@@ -169,7 +169,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c6448a611',extremes,Storm,#b3b2b1,wmo,stormflo torsvaag fruholmen,2026-01-31T04:16:00+00:00,Norway,0.4445915450033833,2,1,no,NEU,Europe
 'a8c2fe0070',extremes,Snow&Ice,#d60d2b,wmo,frost vestfjorder,2026-02-26T04:29:00+00:00,Iceland,0.4422026881418295,1,1,no,GIC,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-02-27T04:26:00+00:00,Iceland,0.4409657818922681,1,1,no,GIC,Europe
-'4d32562979',extremes,Storm,#b3b2b1,wmo,storm øst island,2026-03-02T04:27:00+00:00,Iceland,0.4386029801865631,0,1,no,GIC,Europe
 '6c4f011103',extremes,Storm,#b3b2b1,wmo,storm østfjorder,2026-03-02T04:27:00+00:00,Iceland,0.4369701144681347,0,1,no,GIC,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,flom,2026-01-23T04:02:00+00:00,,0.43621810814599,1,2,no,,
 'e608f6a8b4',extremes,Snow&Ice,#d60d2b,wmo,iskalde kyst- og fjordregioner i finnmark,2026-01-30T04:21:00+00:00,Norway,0.4306057878974799,2,1,no,NEU,Europe
@@ -199,6 +198,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-02-06T04:28:00+00:00,Iceland,0.3747907851115994,1,1,no,GIC,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,iskalde østfjorder,2026-03-02T04:27:00+00:00,Iceland,0.3747197156488601,1,1,no,GIC,Europe
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,storm sørøst island,2026-03-02T04:27:00+00:00,Iceland,0.3740586251535632,1,1,no,GIC,Europe
+'4d32562979',extremes,Storm,#b3b2b1,wmo,storm øst island,2026-03-02T04:27:00+00:00,Iceland,0.3728125331585786,1,1,no,GIC,Europe
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-01-22T03:59:00+00:00,,0.368142777069669,1,2,no,,
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-02-07T04:19:00+00:00,Iceland,0.3665423556081257,1,1,no,GIC,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gresshoppe,2026-01-26T04:08:00+00:00,,0.3485064152251044,1,1,no,,

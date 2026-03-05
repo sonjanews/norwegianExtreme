@@ -232,12 +232,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '65b4a087de',extremes,Earthquake,#870007,usgs,jordskjelv qalansīyah,2026-02-05T04:27:00+00:00,Yemen,0.3152494958064408,1,1,no,ARS,Indian Ocean
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-02-12T04:36:00+00:00,,0.3143865509249306,1,1,no,,
 '4e0167deb4',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 20-tallet,2026-02-07T04:19:00+00:00,,0.3137179795815789,1,1,no,NAU,Oceania
+'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-02-22T04:30:00+00:00,,0.3134078456192143,0,1,no,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkan,2026-02-06T04:27:00+00:00,,0.3133934099075616,1,1,no,,
 '34fd30e809',extremes,Earthquake,#870007,usgs,jordskjelv calama,2026-02-05T04:27:00+00:00,Chile,0.3126127943362571,1,1,no,SWS,South-America
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,jordskjelv island,2026-02-12T04:36:00+00:00,Iceland,0.3125648827098377,1,1,no,GIC,Europe
+'b8eb47bf7f',extremes,Heat Wave,#c40202,random,varmekuppel,2026-03-04T04:20:00+00:00,,0.31215746071067507,0,1,no,,
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-02-08T04:43:00+00:00,,0.3119864204821927,0,1,no,,
+'55459a4ab8',extremes,Drought,#edc291,edo,tørke luxembourg,2026-03-04T04:21:00+00:00,Luxembourg,0.3118741111680536,0,1,no,WCE,Europe
+'8143644bfb',extremes,Drought,#edc291,edo,tørr tid djibouti,2026-02-12T04:37:00+00:00,Djibouti,0.3118037565557281,0,1,no,NEAF,Africa
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-03-03T04:26:00+00:00,,0.3110772034521668,1,1,no,,
+'bb9a490561',extremes,Drought,#edc291,edo,tørre tider i Tyskland,2026-02-14T04:22:00+00:00,Germany,0.3107698572634028,0,1,no,WCE,Europe
 '0d99295f2f',extremes,Drought,#edc291,edo,mangel på regn somalia,2026-02-06T04:28:00+00:00,Somalia,0.3102172923736128,1,1,no,NEAF,Africa
+'0de7f7e548',extremes,Drought,#edc291,edo,tørke kenya,2026-02-22T04:31:00+00:00,Kenya,0.31003608988511494,0,1,no,SEAF,Africa
+'27ff8af872',extremes,Drought,#edc291,edo,tørke danmark,2026-02-16T04:38:00+00:00,Denmark,0.3096486000695067,0,1,no,NEU,Europe
+'a1fcc33dde',extremes,Drought,#edc291,edo,tørr tid Hongkong,2026-02-25T04:33:00+00:00,Hong Kong,0.30962978688200127,0,1,no,EAS,Asia
 '1c38b19449',extremes,Storm,#b3b2b1,random,støvskåler,2026-03-02T04:27:00+00:00,,0.3095678224863326,0,1,no,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-02-14T04:21:00+00:00,,0.3090552544119176,0,1,no,,
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,varmebølgemotstand og alrededores,2026-02-17T04:31:00+00:00,Argentina,0.3080977038618526,0,1,no,SES,South-America

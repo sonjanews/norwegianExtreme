@@ -232,7 +232,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-02-06T04:27:00+00:00,,0.3243367390691564,1,1,no,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-02-07T04:19:00+00:00,,0.3227651964510274,1,1,no,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nasjonalt orkansenter,2026-02-08T04:43:00+00:00,,0.3217286209561854,1,1,no,,
+'e7d4154a2d',extremes,Heat Wave,#c40202,acwe,varm spell tasmania,2026-03-05T04:24:00+00:00,Australia,0.3192423583900168,0,1,no,SAU,Oceania
+'d5b4afae1b',extremes,Precipitation,#d60d2b,acwe,våt spell tasmania,2026-03-05T04:24:00+00:00,Australia,0.3188208941706716,0,1,no,SAU,Oceania
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.3183242775108461,1,1,no,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-02-19T04:31:00+00:00,,0.3177487546426184,0,1,no,,
+'59b529f428',extremes,Thunderstorm,#53785a,random,haglvær,2026-03-05T04:23:00+00:00,,0.3174580437605405,0,1,no,,
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,jordskjelv burma myanmar,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.31542122347531,1,1,no,SAS,Asia
 '65b4a087de',extremes,Earthquake,#870007,usgs,jordskjelv qalansīyah,2026-02-05T04:27:00+00:00,Yemen,0.3152494958064408,1,1,no,ARS,Indian Ocean
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-02-12T04:36:00+00:00,,0.3143865509249306,1,1,no,,
@@ -246,13 +250,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8143644bfb',extremes,Drought,#edc291,edo,tørr tid djibouti,2026-02-12T04:37:00+00:00,Djibouti,0.3118037565557281,0,1,no,NEAF,Africa
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-03-03T04:26:00+00:00,,0.3110772034521668,1,1,no,,
 'bb9a490561',extremes,Drought,#edc291,edo,tørre tider i Tyskland,2026-02-14T04:22:00+00:00,Germany,0.3107698572634028,0,1,no,WCE,Europe
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-03-05T04:23:00+00:00,,0.31035421541241537,0,1,no,,
 '0d99295f2f',extremes,Drought,#edc291,edo,mangel på regn somalia,2026-02-06T04:28:00+00:00,Somalia,0.3102172923736128,1,1,no,NEAF,Africa
 '0de7f7e548',extremes,Drought,#edc291,edo,tørke kenya,2026-02-22T04:31:00+00:00,Kenya,0.3100360898851149,0,1,no,SEAF,Africa
 '27ff8af872',extremes,Drought,#edc291,edo,tørke danmark,2026-02-16T04:38:00+00:00,Denmark,0.3096486000695067,0,1,no,NEU,Europe
 '1c38b19449',extremes,Storm,#b3b2b1,random,støvskåler,2026-03-02T04:27:00+00:00,,0.3095678224863326,0,1,no,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-02-14T04:21:00+00:00,,0.3090552544119176,0,1,no,,
+'9349bd9c5e',extremes,Drought,#edc291,edo,tørrhet ekvatorialguinea,2026-02-15T04:35:00+00:00,Equatorial Guinea,0.3083453205380317,0,1,no,WAF,Africa
+'96f0408faf',extremes,Drought,#edc291,edo,tørrhet latvia,2026-02-25T04:33:00+00:00,Latvia,0.3082217854438468,0,1,no,WCE,Europe
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,varmebølgemotstand og alrededores,2026-02-17T04:31:00+00:00,Argentina,0.3080977038618526,0,1,no,SES,South-America
 'd2761af41e',extremes,Tropical Cyclone,#4f4f4f,aidr,2018 syklon nt tropisk syklon marcus,2026-02-19T04:32:00+00:00,,0.3080801171904528,0,1,no,NAU,Oceania
+'2096f9b691',extremes,Drought,#edc291,edo,mangel på regn bhutan,2026-02-14T04:22:00+00:00,Bhutan,0.3079335257380163,0,1,no,TIB,Asia
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,nedbør ecuador,2026-02-18T04:34:00+00:00,Ecuador,0.3071802862074735,0,1,no,NWS,South-America
 'cd349f2a0f',extremes,Drought,#edc291,edo,tørrhet hong kong,2026-02-06T04:28:00+00:00,Hong Kong,0.3070603586824189,1,1,no,EAS,Asia
 'd98aa38709',extremes,Fog,#d60d2b,wmo,tåke saudi-arabia,2026-02-07T04:19:00+00:00,Saudi Arabia,0.3070026779413961,0,1,no,ARP,Asia
@@ -378,7 +386,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997a2e2157',extremes,Earthquake,#870007,usgs,jordskjelv argentina,2026-02-05T04:27:00+00:00,Argentina,0.2668468587754684,1,1,no,SWS,South-America
 '81df5b3034',extremes,Storm,#b3b2b1,aidr,storm nord sydney haglstorm 2017,2026-02-14T04:22:00+00:00,,0.2667657011209708,1,1,no,EAU,Oceania
 '685995fcc4',extremes,Earthquake,#870007,usgs,jordskjelv vest for Macquarie-øya,2026-02-05T04:27:00+00:00,,0.266685689947894,1,1,no,SOO,Antarctica
-'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-02-22T04:30:00+00:00,,0.26639666877633217,1,1,no,,
+'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-02-22T04:30:00+00:00,,0.2663966687763321,1,1,no,,
 'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-02-16T04:37:00+00:00,,0.2662158666734182,1,1,no,,
 'ad41fee440',extremes,Earthquake,#870007,usgs,jordskjelv lata,2026-02-05T04:27:00+00:00,Solomon Islands,0.2660989767731193,1,1,no,SPO,Pacific Ocean
 '03f33e230d',extremes,Earthquake,#870007,usgs,jordskjelv i chile,2026-02-05T04:27:00+00:00,Chile,0.2659845531088818,1,1,no,SWS,South-America
@@ -434,7 +442,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf4f19d972',extremes,Cold Wave,#a7e9fa,wmo,iskaldt Saudi-Arabia,2026-02-28T04:07:00+00:00,Saudi Arabia,0.2606941474017414,1,1,no,ARP,Asia
 '893e673584',extremes,Earthquake,#870007,usgs,jordskjelv oppgang i det sentrale østlige Stillehavet,2026-02-05T04:27:00+00:00,,0.2606393280558712,1,1,no,EPO,Pacific Ocean
 '8a654473a4',extremes,Drought,#edc291,edo,tørke Sao Tome og Principe,2026-02-12T04:37:00+00:00,Sao Tome and Principe,0.2605374501153266,1,1,no,WAF,Africa
-'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,nedbør argentina,2026-02-05T04:27:00+00:00,Argentina,0.26047709319032153,1,1,no,SES,South-America
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,nedbør argentina,2026-02-05T04:27:00+00:00,Argentina,0.2604770931903215,1,1,no,SES,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,storm chile,2026-02-05T04:27:00+00:00,Chile,0.2604210854481662,1,1,no,SWS,South-America
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,stormflo costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.260359830158881,1,1,no,SCA,North-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,hetebølge chile,2026-02-05T04:27:00+00:00,Chile,0.2603520179944278,1,1,no,SWS,South-America

@@ -202,6 +202,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '44211c95de',extremes,Flood,#030ba1,aidr,flom i australia,2026-02-05T04:28:00+00:00,Australia,0.4182525609882879,1,2,no,EAU,Oceania
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-03-05T04:23:00+00:00,,0.414701173100553,1,2,no,,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,nedbør new zealand,2026-02-12T04:37:00+00:00,New Zealand,0.4117398259182954,1,2,no,NZ,Oceania
+'4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gresshopper,2026-03-08T04:24:00+00:00,,0.4100075473236523,0,1,no,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,tordenvær,2026-02-23T04:36:00+00:00,,0.409936363655059,1,2,no,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-02-17T04:30:00+00:00,,0.4039229548281338,1,2,no,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-01-27T03:58:00+00:00,,0.3973848720292492,1,2,no,,
@@ -250,12 +251,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-02-07T04:19:00+00:00,,0.3227651964510274,1,1,no,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nasjonalt orkansenter,2026-02-08T04:43:00+00:00,,0.3217286209561854,1,1,no,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,snøpakke,2026-03-06T04:20:00+00:00,,0.3201396517124567,1,1,no,,
+'ae657332f9',extremes,Wildfire,#d60d2b,acwe,brannforbud New South Wales,2026-03-09T04:31:00+00:00,Australia,0.3192888596776917,0,1,no,EAU,Oceania
+'b0b9fae0fc',extremes,Precipitation,#d60d2b,acwe,kraftig regn new south wales,2026-03-09T04:31:00+00:00,Australia,0.3190587543920453,0,1,no,EAU,Oceania
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-05T04:27:00+00:00,,0.3183242775108461,1,1,no,,
 'fc0fd225f3',extremes,Earthquake,#870007,usgs,jordskjelv burma myanmar,2026-02-05T04:27:00+00:00,Burma (Myanmar),0.31542122347531,1,1,no,SAS,Asia
 '65b4a087de',extremes,Earthquake,#870007,usgs,jordskjelv qalansīyah,2026-02-05T04:27:00+00:00,Yemen,0.3152494958064408,1,1,no,ARS,Indian Ocean
 '394fc47879',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 24p,2026-03-06T04:21:00+00:00,,0.3148031318722201,0,1,no,NAU,Oceania
 'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon urmil,2026-03-06T04:21:00+00:00,,0.314400593964061,0,1,no,SPO,Pacific Ocean
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-02-12T04:36:00+00:00,,0.3143865509249306,1,1,no,,
+'3fa143a609',extremes,Storm,#b3b2b1,random,støvstorm,2026-03-09T04:30:00+00:00,,0.31390942017262924,0,1,no,,
 '4e0167deb4',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 20-tallet,2026-02-07T04:19:00+00:00,,0.3137179795815789,1,1,no,NAU,Oceania
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkan,2026-02-06T04:27:00+00:00,,0.3133934099075616,1,1,no,,
 '34fd30e809',extremes,Earthquake,#870007,usgs,jordskjelv calama,2026-02-05T04:27:00+00:00,Chile,0.3126127943362571,1,1,no,SWS,South-America
@@ -330,6 +334,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b36377911d',extremes,Storm,#b3b2b1,wmo,stormflo regiones pacífico norte.,2026-02-03T04:27:00+00:00,Costa Rica,0.3052837539705935,0,1,no,SCA,North-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,styrtregn Brasil,2026-02-07T04:19:00+00:00,Brazil,0.3052644247460467,0,1,no,SAM,South-America
 '97bdbea9e0',extremes,Precipitation,#d60d2b,wmo,styrtregn amazonía.,2026-03-04T04:20:00+00:00,Ecuador,0.3052637813688805,0,1,no,NWS,South-America
+'9f6910b9f3',extremes,Precipitation,#d60d2b,wmo,styrtregn Seychellene,2026-03-07T04:12:00+00:00,Seychelles,0.3052499073042314,0,1,no,EIO,Africa
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado murray river townships victoria 2013,2026-02-26T04:29:00+00:00,Australia,0.3052348712702683,0,1,no,SAU,Oceania
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,tordenvær sør-afrika,2026-02-07T04:19:00+00:00,South Africa,0.3052265357945408,0,1,no,WSAF,Africa
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,skogbrann sør-afrika,2026-02-05T04:27:00+00:00,South Africa,0.3052139719129037,0,1,no,WSAF,Africa
@@ -339,10 +344,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,nedbør tanzania,2026-02-17T04:31:00+00:00,Tanzania,0.3051510934552057,0,1,no,SEAF,Africa
 '70f072ec1c',extremes,Precipitation,#d60d2b,wmo,regn jijel,2026-02-05T04:27:00+00:00,Algeria,0.3051510863230941,0,1,no,SAH,Africa
 'a486f7aaa7',extremes,Snow Avalanche,#deddd5,wmo,snøskredrepublikken adygea,2026-02-10T04:43:00+00:00,Russia,0.3051462385098296,0,1,no,ESB,Europe
+'ca1f8ee565',extremes,Drought,#edc291,edo,tørrtid nepal,2026-03-04T04:21:00+00:00,Nepal,0.30513017847348856,0,1,no,TIB,Asia
 '11ece58a02',extremes,Storm,#b3b2b1,wmo,stormflo Bahrain,2026-02-10T04:43:00+00:00,Bahrain,0.305128636111951,0,1,no,ARP,Asia
 '3e44561d4c',extremes,Snow&Ice,#d60d2b,wmo,isrepublikken moldova,2026-02-18T04:34:00+00:00,Republic of Moldova,0.3050908882155386,0,1,no,WCE,Europe
 'e7eb516918',extremes,Snow&Ice,#d60d2b,wmo,snørepublikken moldova,2026-02-18T04:34:00+00:00,Republic of Moldova,0.3050772807606439,0,1,no,WCE,Europe
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,stormflo new zealand,2026-02-14T04:21:00+00:00,New Zealand,0.3050605621585456,0,1,no,NZ,Oceania
+'9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,snøskred tsjetsjenske republikk,2026-02-26T04:29:00+00:00,Russia,0.3050225018868593,0,1,no,ESB,Europe
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,stormflo paraguay,2026-02-22T04:30:00+00:00,Paraguay,0.3049999208517584,0,1,no,SES,South-America
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-02-12T04:36:00+00:00,,0.3036288732555353,1,1,no,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bombesyklon,2026-02-09T04:38:00+00:00,,0.3030730175758979,1,1,no,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,kalving av isfjell,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,no,,

@@ -21,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1073537f95',extremes,Landslide,#572c03,wmo,steinskred deler av vestland fylke,2026-02-26T04:29:00+00:00,Norway,0.6384271974446112,1,1,no,NEU,Europe
 'b1846944bd',extremes,Landslide,#572c03,wmo,skred deler av vestland fylke,2026-02-25T04:32:00+00:00,Norway,0.6377288171864004,1,1,no,NEU,Europe
 '1097dcf9f5',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre troms,2026-02-11T04:41:00+00:00,Norway,0.6368885766626012,1,1,no,NEU,Europe
-'d9da396ad7',extremes,Snow Avalanche,#deddd5,wmo,snøskred svalbard vest,2026-02-24T04:31:00+00:00,Norway,0.635157606388508,1,1,no,NEU,Europe
 'bbd94c7bad',extremes,Landslide,#572c03,wmo,jordskred nordland og deler av trøndelag,2026-03-05T04:24:00+00:00,Norway,0.6325256506602852,2,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-02-05T04:27:00+00:00,Norway,0.6297306092490931,2,1,no,NEU,Europe
 'e311cd23ab',extremes,Landslide,#572c03,wmo,steinskred troms og deler av nordland,2026-03-07T04:12:00+00:00,Norway,0.629397638730595,1,1,no,NEU,Europe
@@ -57,6 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-02-05T04:27:00+00:00,Norway,0.5467611179795948,2,1,no,NEU,Europe
 'beca2b83c0',extremes,Snow&Ice,#d60d2b,wmo,isbns,2026-02-08T04:43:00+00:00,Norway,0.542594284600327,2,1,no,NEU,Europe
 '961bbe5a4e',extremes,Storm,#b3b2b1,wmo,storm ytre skagerrak,2026-02-05T04:27:00+00:00,Norway,0.5407627414128449,1,1,no,NEU,Europe
+'d9da396ad7',extremes,Snow Avalanche,#deddd5,wmo,snøskred svalbard vest,2026-02-24T04:31:00+00:00,Norway,0.5401839954302319,2,1,no,NEU,Europe
 '56ddd9409b',extremes,Storm,#b3b2b1,wmo,stormflo torungen oksoey,2026-02-08T04:43:00+00:00,Norway,0.5401411053845664,1,1,no,NEU,Europe
 '81b4220aeb',extremes,Storm,#b3b2b1,wmo,storm oksoey lindesnes,2026-02-01T04:41:00+00:00,Norway,0.5377903118809348,1,1,no,NEU,Europe
 '6e140f5659',extremes,Storm,#b3b2b1,wmo,stormflo north cape bank,2026-03-07T04:12:00+00:00,Norway,0.5370768877372578,1,1,no,NEU,Europe
@@ -264,7 +264,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,jordskjelv island,2026-02-12T04:36:00+00:00,Iceland,0.3125648827098377,1,1,no,GIC,Europe
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,varmekuppel,2026-03-04T04:20:00+00:00,,0.312157460710675,1,1,no,,
 '628c910b11',extremes,Flood,#030ba1,aidr,flom flom New South Wales 2022,2026-02-23T04:37:00+00:00,Australia,0.3120069472814441,1,1,no,EAU,Oceania
-'9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-02-17T04:30:00+00:00,,0.3110863738647064,0,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-03-03T04:26:00+00:00,,0.3110772034521668,1,1,no,,
 '0d99295f2f',extremes,Drought,#edc291,edo,mangel på regn somalia,2026-02-06T04:28:00+00:00,Somalia,0.3102172923736128,1,1,no,NEAF,Africa
 '27ff8af872',extremes,Drought,#edc291,edo,tørke danmark,2026-02-16T04:38:00+00:00,Denmark,0.3096486000695067,0,1,no,NEU,Europe
@@ -429,6 +428,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8143644bfb',extremes,Drought,#edc291,edo,tørr tid djibouti,2026-02-12T04:37:00+00:00,Djibouti,0.2650331930723689,1,1,no,NEAF,Africa
 'e873273000',extremes,Storm,#b3b2b1,emdat,storm malawi,2026-02-20T04:28:00+00:00,Malawi,0.2649862913725217,1,1,no,ESAF,Africa
 '51b14c1443',extremes,Flood,#030ba1,aidr,flood geelong victoria 2016,2026-02-07T04:20:00+00:00,Australia,0.2645824402786346,1,1,no,SAU,Oceania
+'9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-02-17T04:30:00+00:00,,0.26442341778500045,1,1,no,,
 '731557e0bc',extremes,Earthquake,#870007,usgs,jordskjelv timor leste,2026-02-05T04:27:00+00:00,Timor Leste,0.264288339657726,1,1,no,SEA,Asia
 '957a7a09df',extremes,Earthquake,#870007,usgs,jordskjelv attu stasjon,2026-02-05T04:27:00+00:00,Alaska,0.2642384511384837,1,1,no,NPO,Pacific Ocean
 '56dca2743f',extremes,Drought,#edc291,edo,tørrtid ekvatorialguinea,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.2641855301057863,1,1,no,WAF,Africa

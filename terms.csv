@@ -348,6 +348,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,stormflo new zealand,2026-02-14T04:21:00+00:00,New Zealand,0.3050605621585456,0,1,no,NZ,Oceania
 '9bfe6adaf5',extremes,Snow Avalanche,#deddd5,wmo,snøskred tsjetsjenske republikk,2026-02-26T04:29:00+00:00,Russia,0.3050225018868593,0,1,no,ESB,Europe
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,stormflo paraguay,2026-02-22T04:30:00+00:00,Paraguay,0.3049999208517584,0,1,no,SES,South-America
+'afc393e166',extremes,Precipitation,#d60d2b,wmo,nedbør sør-afrika,2026-02-23T04:37:00+00:00,South Africa,0.30499614017210086,0,1,no,WSAF,Africa
+'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,hetebølge paraguay,2026-02-18T04:34:00+00:00,Paraguay,0.3049850830869606,0,1,no,SES,South-America
+'c893beb51c',extremes,Snow&Ice,#d60d2b,wmo,snø kugaaruk,2026-02-21T04:18:00+00:00,Canada,0.30497559598722823,0,1,no,NEN,North-America
+'f4865eec16',extremes,Snow&Ice,#d60d2b,wmo,is paulatuk,2026-02-19T04:32:00+00:00,Canada,0.30495397098995636,0,1,no,NEN,North-America
+'852eb2b733',extremes,Snow&Ice,#d60d2b,wmo,iskaldt avalonhalvøya sørøst,2026-02-21T04:18:00+00:00,Canada,0.30491206315374075,0,1,no,NEN,North-America
+'68c5837832',extremes,Fog,#d60d2b,wmo,tåke murmansk-regionen,2026-02-18T04:34:00+00:00,Russia,0.304871198239852,0,1,no,ESB,Europe
+'ea0aa28870',extremes,Drought,#edc291,edo,mangel på regn finland,2026-02-26T04:29:00+00:00,Finland,0.3048308172590284,0,1,no,NEU,Europe
+'468d60ef3d',extremes,Snow&Ice,#d60d2b,wmo,fryser taloyoak gjoa havn,2026-02-21T04:18:00+00:00,Canada,0.30482143567633835,0,1,no,NEN,North-America
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-02-12T04:36:00+00:00,,0.3036288732555353,1,1,no,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bombesyklon,2026-02-09T04:38:00+00:00,,0.3030730175758979,1,1,no,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,kalving av isfjell,2026-02-09T04:38:00+00:00,,0.3011173067389521,1,1,no,,
@@ -428,7 +436,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8143644bfb',extremes,Drought,#edc291,edo,tørr tid djibouti,2026-02-12T04:37:00+00:00,Djibouti,0.2650331930723689,1,1,no,NEAF,Africa
 'e873273000',extremes,Storm,#b3b2b1,emdat,storm malawi,2026-02-20T04:28:00+00:00,Malawi,0.2649862913725217,1,1,no,ESAF,Africa
 '51b14c1443',extremes,Flood,#030ba1,aidr,flood geelong victoria 2016,2026-02-07T04:20:00+00:00,Australia,0.2645824402786346,1,1,no,SAU,Oceania
-'9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-02-17T04:30:00+00:00,,0.26442341778500045,1,1,no,,
+'9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-02-17T04:30:00+00:00,,0.2644234177850004,1,1,no,,
 '731557e0bc',extremes,Earthquake,#870007,usgs,jordskjelv timor leste,2026-02-05T04:27:00+00:00,Timor Leste,0.264288339657726,1,1,no,SEA,Asia
 '957a7a09df',extremes,Earthquake,#870007,usgs,jordskjelv attu stasjon,2026-02-05T04:27:00+00:00,Alaska,0.2642384511384837,1,1,no,NPO,Pacific Ocean
 '56dca2743f',extremes,Drought,#edc291,edo,tørrtid ekvatorialguinea,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.2641855301057863,1,1,no,WAF,Africa

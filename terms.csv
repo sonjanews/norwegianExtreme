@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ad2053de41',extremes,Landslide,#572c03,wmo,skred troms og deler av nordland,2026-03-09T04:31:00+00:00,Norway,0.6974519366946056,2,2,no,NEU,Europe
 '8778448f1d',extremes,Snow&Ice,#d60d2b,wmo,frost norge,2026-02-06T04:27:00+00:00,Norway,0.6776838352649317,3,1,no,NEU,Europe
 '78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2026-02-26T04:29:00+00:00,Norway,0.6749639055528995,2,3,no,NEU,Europe
 '75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-02-06T04:27:00+00:00,Norway,0.6739994852770035,2,1,no,NEU,Europe
@@ -35,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-02-05T04:27:00+00:00,Norway,0.6089419336016221,2,1,no,NEU,Europe
 '52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2026-02-05T04:27:00+00:00,Norway,0.6005747257289283,1,1,no,NEU,Europe
 'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,is norge,2026-02-25T04:32:00+00:00,Norway,0.6001603364831696,1,2,no,NEU,Europe
+'ad2053de41',extremes,Landslide,#572c03,wmo,skred troms og deler av nordland,2026-03-09T04:31:00+00:00,Norway,0.5934342061904148,3,2,no,NEU,Europe
 '61386d6415',extremes,Snow&Ice,#d60d2b,wmo,iskaldt norge,2026-02-05T04:27:00+00:00,Norway,0.5858627594441701,2,1,no,NEU,Europe
 '826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,snøskred nordenskiöld land,2026-02-06T04:27:00+00:00,Norway,0.5853365465808187,2,1,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-02-05T04:27:00+00:00,Norway,0.583032298098481,2,1,no,NEU,Europe
@@ -446,7 +446,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,brekalving,2026-02-07T04:19:00+00:00,,0.2594545539566112,1,1,no,,
 '039582a476',extremes,Storm,#b3b2b1,wmo,stormflo litoral de la provincia de huasco,2026-02-16T04:38:00+00:00,Chile,0.2594125587845355,1,1,no,SWS,South-America
 '07f5003376',extremes,Storm,#b3b2b1,wmo,storm ecuador kontinental,2026-02-13T04:34:00+00:00,Ecuador,0.2593907578158094,1,1,no,NWS,South-America
-'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,nedbør tanzania,2026-02-17T04:31:00+00:00,Tanzania,0.25937842943692485,1,1,no,SEAF,Africa
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,nedbør tanzania,2026-02-17T04:31:00+00:00,Tanzania,0.2593784294369248,1,1,no,SEAF,Africa
 '11ece58a02',extremes,Storm,#b3b2b1,wmo,stormflo Bahrain,2026-02-10T04:43:00+00:00,Bahrain,0.2593593406951583,1,1,no,ARP,Asia
 '4299cdd13a',extremes,Storm,#b3b2b1,wmo,stormflo ghana,2026-02-18T04:34:00+00:00,Ghana,0.2593552604527763,1,1,no,WAF,Africa
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,regn litoral,2026-02-17T04:31:00+00:00,Ecuador,0.259308337423329,1,1,no,NWS,South-America

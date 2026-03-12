@@ -70,7 +70,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18bf0e0c51',extremes,Storm,#b3b2b1,wmo,storm viking,2026-02-14T04:21:00+00:00,Norway,0.5330191524622073,1,1,no,NEU,Europe
 'dea2bf92c4',extremes,Storm,#b3b2b1,wmo,stormflo vesteraalsbank,2026-02-25T04:32:00+00:00,Norway,0.531571208641956,1,1,no,NEU,Europe
 '06691cc998',extremes,Snow Avalanche,#deddd5,wmo,snøskred svalbard øst,2026-03-08T04:24:00+00:00,Norway,0.5314233445853158,2,1,no,NEU,Europe
-'8921329e82',extremes,Storm,#b3b2b1,wmo,stormflo dyp e4,2026-02-28T04:07:00+00:00,Norway,0.5310097546199964,1,1,no,NEU,Europe
 '9519287842',extremes,Storm,#b3b2b1,wmo,storm kildin bank,2026-02-01T04:41:00+00:00,Norway,0.5303574191374121,1,1,no,NEU,Europe
 'bed32ba1ce',extremes,Storm,#b3b2b1,wmo,storm ytre vestfjord,2026-03-05T04:24:00+00:00,Norway,0.5289383367721749,1,1,no,NEU,Europe
 '1b487a4f9f',extremes,Storm,#b3b2b1,wmo,storm torsvaag fruholmen,2026-02-01T04:41:00+00:00,Norway,0.5282014620547087,1,1,no,NEU,Europe
@@ -178,6 +177,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,blåser snø,2026-02-07T04:19:00+00:00,,0.4570598015701492,1,2,no,,
 '6507b22766',extremes,Snow&Ice,#d60d2b,wmo,iskalde kyst i Sør-Norge,2026-02-11T04:41:00+00:00,Norway,0.4554275304345012,1,1,no,NEU,Europe
 'f439fda285',extremes,Drought,#edc291,edo,tørke norge,2026-03-03T04:27:00+00:00,Norway,0.4539503029002671,1,1,no,NEU,Europe
+'8921329e82',extremes,Storm,#b3b2b1,wmo,stormflo dyp e4,2026-02-28T04:07:00+00:00,Norway,0.45135829142699696,2,1,no,NEU,Europe
 '14ccfab368',extremes,Storm,#b3b2b1,wmo,stormflo ona froeya,2026-02-19T04:32:00+00:00,Norway,0.4510207753620837,1,1,no,NEU,Europe
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-02-07T04:19:00+00:00,,0.4504358817058161,1,2,no,,
 'a0586cceaf',extremes,Storm,#b3b2b1,wmo,stormflo aana sira karmoey,2026-02-25T04:32:00+00:00,Norway,0.4499275112882989,2,1,no,NEU,Europe
@@ -202,7 +202,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69791e5a17',extremes,Flood,#030ba1,random,flom,2026-03-04T04:20:00+00:00,,0.3971554158367115,1,1,no,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,skogbrann,2026-02-18T04:33:00+00:00,,0.3935046448315642,1,1,no,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,rimfrost,2026-02-16T04:37:00+00:00,,0.3878858883951881,1,1,no,,
-'40f675561f',extremes,Heat Wave,#c40202,random,varmeste sommeren,2026-02-13T04:33:00+00:00,,0.38765626259524644,2,2,no,,
+'40f675561f',extremes,Heat Wave,#c40202,random,varmeste sommeren,2026-02-13T04:33:00+00:00,,0.3876562625952464,2,2,no,,
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-02-22T04:30:00+00:00,,0.3873198335570819,1,3,no,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-02-28T04:07:00+00:00,,0.3828280218355407,1,1,no,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-02-11T04:41:00+00:00,,0.3820106939116686,1,1,no,,
@@ -325,7 +325,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,styrtregn tanzania,2026-02-23T04:37:00+00:00,Tanzania,0.3053157527692265,0,1,no,SEAF,Africa
 '20d3210be7',extremes,Heat Wave,#c40202,wmo,hetebølge bernardo de irigoyen y alrededores,2026-02-22T04:30:00+00:00,Argentina,0.3053027897268236,0,1,no,SES,South-America
 '9adb4dd6c5',extremes,Precipitation,#d60d2b,wmo,regnvær maeneo machache ya mkoa wa ruvuma.,2026-02-17T04:31:00+00:00,Tanzania,0.3052936404746462,1,1,no,SEAF,Africa
-'12775cc05a',extremes,Drought,#edc291,wmo,tørke Brasil,2026-02-05T04:27:00+00:00,Brazil,0.3052869086208064,0,1,no,SAM,South-America
 'b36377911d',extremes,Storm,#b3b2b1,wmo,stormflo regiones pacífico norte.,2026-02-03T04:27:00+00:00,Costa Rica,0.3052837539705935,0,1,no,SCA,North-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,styrtregn Brasil,2026-02-07T04:19:00+00:00,Brazil,0.3052644247460467,0,1,no,SAM,South-America
 '97bdbea9e0',extremes,Precipitation,#d60d2b,wmo,styrtregn amazonía.,2026-03-04T04:20:00+00:00,Ecuador,0.3052637813688805,0,1,no,NWS,South-America

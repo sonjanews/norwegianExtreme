@@ -7,10 +7,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bf84083cec',extremes,Landslide,#572c03,wmo,skred norge,2026-02-26T04:29:00+00:00,Norway,0.6684538284126273,3,1,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-02-05T04:27:00+00:00,Norway,0.6655414752934801,3,2,no,NEU,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,snøskred jotunheimen,2026-02-25T04:32:00+00:00,Norway,0.6555713970686734,2,1,no,NEU,Europe
-'298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-02-08T04:43:00+00:00,Norway,0.6405984909087302,1,1,no,NEU,Europe
 '97185764af',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre fjordane,2026-02-08T04:43:00+00:00,Norway,0.6404679450315288,1,1,no,NEU,Europe
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-02-09T04:39:00+00:00,Norway,0.6403221169549231,1,1,no,NEU,Europe
-'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,snøskred heiane,2026-02-05T04:27:00+00:00,Norway,0.6403002432740101,1,1,no,NEU,Europe
 'c332197203',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre sogn,2026-02-10T04:43:00+00:00,Norway,0.640108402324956,1,1,no,NEU,Europe
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,snøskred sunnmøre,2026-02-05T04:27:00+00:00,Norway,0.6397736673749354,1,1,no,NEU,Europe
 'a68abd98d6',extremes,Snow Avalanche,#deddd5,wmo,skredvest finnmark,2026-02-07T04:19:00+00:00,Norway,0.6389471704038391,1,1,no,NEU,Europe
@@ -28,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bdd60ba04d',extremes,Snow Avalanche,#deddd5,wmo,snøskred svalbard sør,2026-03-06T04:21:00+00:00,Norway,0.6268678847473002,1,1,no,NEU,Europe
 '032f97b5ae',extremes,Landslide,#572c03,wmo,jordskred nordland,2026-03-06T04:21:00+00:00,Norway,0.6260453129510509,1,1,no,NEU,Europe
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,steinskred norge,2026-02-25T04:32:00+00:00,Norway,0.625633930190312,1,1,no,NEU,Europe
-'c55f440864',extremes,Storm,#b3b2b1,wmo,stormfisker,2026-03-13T04:25:00+00:00,Norway,0.6134505507326041,0,1,no,NEU,Europe
 '11cf2039a2',extremes,Flood,#030ba1,wmo,flashflood indre deler av østfold,2026-03-13T04:25:00+00:00,Norway,0.6103659368729744,0,1,no,NEU,Europe
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-02-05T04:27:00+00:00,Norway,0.6100040902012254,2,2,no,NEU,Europe
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-02-05T04:27:00+00:00,Norway,0.6089419336016221,2,1,no,NEU,Europe
@@ -59,6 +56,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,snøskred nord troms,2026-02-05T04:27:00+00:00,Norway,0.5468198814934871,2,1,no,NEU,Europe
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-02-05T04:27:00+00:00,Norway,0.5467611179795948,2,1,no,NEU,Europe
 'a41044fcd0',extremes,Snow Avalanche,#deddd5,wmo,snøskred voss,2026-02-05T04:27:00+00:00,Norway,0.5448478848331803,2,1,no,NEU,Europe
+'298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-02-08T04:43:00+00:00,Norway,0.5445087172724207,2,1,no,NEU,Europe
+'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,snøskred heiane,2026-02-05T04:27:00+00:00,Norway,0.5444052217829086,2,1,no,NEU,Europe
 '12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,snøskred hardanger,2026-02-05T04:27:00+00:00,Norway,0.5437371241913954,2,1,no,NEU,Europe
 'b1846944bd',extremes,Landslide,#572c03,wmo,skred deler av vestland fylke,2026-02-25T04:32:00+00:00,Norway,0.5420694946084403,2,1,no,NEU,Europe
 '961bbe5a4e',extremes,Storm,#b3b2b1,wmo,storm ytre skagerrak,2026-02-05T04:27:00+00:00,Norway,0.5407627414128449,1,1,no,NEU,Europe
@@ -83,6 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,is island,2026-02-26T04:29:00+00:00,Iceland,0.5234856171894413,2,2,no,GIC,Europe
 'c4a2009ee4',extremes,Storm,#b3b2b1,wmo,storm aana sira obrestad,2026-02-05T04:27:00+00:00,Norway,0.5219109429655351,1,1,no,NEU,Europe
 '3b63af0b6f',extremes,Storm,#b3b2b1,wmo,stormflo svinoey froeya,2026-02-17T04:31:00+00:00,Norway,0.5215204162183475,1,1,no,NEU,Europe
+'c55f440864',extremes,Storm,#b3b2b1,wmo,stormfisker,2026-03-13T04:25:00+00:00,Norway,0.5214329681227134,1,1,no,NEU,Europe
 '3d7ffa4498',extremes,Storm,#b3b2b1,wmo,storm slatteroey maaloey,2026-03-02T04:27:00+00:00,Norway,0.5207318191615363,1,1,no,NEU,Europe
 'ff2a4e9d0c',extremes,Storm,#b3b2b1,wmo,storm vardoe russisk grense,2026-03-07T04:12:00+00:00,Norway,0.5197972449587944,1,1,no,NEU,Europe
 '8655d0b827',extremes,Storm,#b3b2b1,wmo,storm øst tampen,2026-02-25T04:32:00+00:00,Norway,0.5187482203412637,1,1,no,NEU,Europe

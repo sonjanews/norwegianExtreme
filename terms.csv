@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c608bdc143',extremes,Landslide,#572c03,wmo,skred deler av troms og nordland,2026-03-20T04:26:00+00:00,Norway,0.7455300133279075,0,1,no,NEU,Europe
+'c608bdc143',extremes,Landslide,#572c03,wmo,skred deler av troms og nordland,2026-03-20T04:26:00+00:00,Norway,0.7455300133279075,1,1,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-03-17T04:30:00+00:00,Norway,0.7450953866022688,0,1,no,NEU,Europe
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-03-17T04:30:00+00:00,Norway,0.7137364546647054,1,2,no,NEU,Europe
 'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-03-02T04:27:00+00:00,Norway,0.7069941475382764,1,2,no,NEU,Europe
@@ -211,7 +211,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8c2fe0070',extremes,Snow&Ice,#d60d2b,wmo,frost vestfjorder,2026-02-26T04:29:00+00:00,Iceland,0.4422026881418295,1,1,no,GIC,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-02-27T04:26:00+00:00,Iceland,0.4409657818922681,1,1,no,GIC,Europe
 '19097b0a7f',extremes,Storm,#b3b2b1,wmo,storm lindesnes aana sira,2026-02-25T04:32:00+00:00,Norway,0.4381658946793739,2,1,no,NEU,Europe
-'47e821f11f',extremes,Storm,#b3b2b1,wmo,storm reykjavik hovedstadsregion,2026-03-20T04:26:00+00:00,Iceland,0.43531855070786346,0,1,no,GIC,Europe
+'47e821f11f',extremes,Storm,#b3b2b1,wmo,storm reykjavik hovedstadsregion,2026-03-20T04:26:00+00:00,Iceland,0.4353185507078634,0,1,no,GIC,Europe
 'f37139fe2d',extremes,Landslide,#572c03,random,jordskred,2026-02-12T04:36:00+00:00,,0.427021000530135,1,2,no,,
 '1c681861de',extremes,Precipitation,#d60d2b,wmo,regnvær island,2026-03-19T04:35:00+00:00,Iceland,0.4265907204350372,0,1,no,GIC,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,kaldeste dagen,2026-02-17T04:30:00+00:00,,0.4218688785625385,1,2,no,,
@@ -264,7 +264,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-02-27T04:25:00+00:00,,0.3616220283396829,1,2,no,,
 '996c3128dd',extremes,Snow&Ice,#d60d2b,wmo,snøfaxafloi sørvest island,2026-03-05T04:24:00+00:00,Iceland,0.3610087929974837,1,1,no,GIC,Europe
 '428702ea62',extremes,Snow&Ice,#d60d2b,wmo,iskalde vestfjorder,2026-03-15T04:45:00+00:00,Iceland,0.3599705805954035,1,1,no,GIC,Europe
-'053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-03-10T04:21:00+00:00,,0.35908093924818996,0,1,no,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-03-10T04:21:00+00:00,,0.3590809392481899,0,1,no,,
 '9ca1db2ac1',extremes,Snow&Ice,#d60d2b,wmo,is nordøst island,2026-03-07T04:12:00+00:00,Iceland,0.3588142227318645,1,1,no,GIC,Europe
 '28e3230166',extremes,Snow&Ice,#d60d2b,wmo,iskaldt nordvest island,2026-03-12T04:26:00+00:00,Iceland,0.3544555089164632,1,1,no,GIC,Europe
 '31823b52d8',extremes,Storm,#b3b2b1,wmo,storm nordvest island,2026-03-15T04:45:00+00:00,Iceland,0.3501001754287369,1,1,no,GIC,Europe

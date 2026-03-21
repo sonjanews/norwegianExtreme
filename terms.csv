@@ -42,7 +42,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,steinskred norge,2026-02-25T04:32:00+00:00,Norway,0.625633930190312,1,1,no,NEU,Europe
 'd7cc235c9c',extremes,Snow Avalanche,#deddd5,wmo,snøskred trollheimen,2026-03-18T04:36:00+00:00,Norway,0.6242627689724143,1,1,no,NEU,Europe
 '75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-03-18T04:36:00+00:00,Norway,0.6219665787682856,1,1,no,NEU,Europe
-'0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-03-18T04:36:00+00:00,Norway,0.6207454656227426,1,1,no,NEU,Europe
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-02-05T04:27:00+00:00,Norway,0.6100040902012254,2,2,no,NEU,Europe
 'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,is norge,2026-02-25T04:32:00+00:00,Norway,0.6001603364831696,1,2,no,NEU,Europe
 'ad2053de41',extremes,Landslide,#572c03,wmo,skred troms og deler av nordland,2026-03-09T04:31:00+00:00,Norway,0.5934342061904148,3,2,no,NEU,Europe
@@ -77,6 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06691cc998',extremes,Snow Avalanche,#deddd5,wmo,snøskred svalbard øst,2026-03-08T04:24:00+00:00,Norway,0.5314233445853158,2,1,no,NEU,Europe
 'bed32ba1ce',extremes,Storm,#b3b2b1,wmo,storm ytre vestfjord,2026-03-05T04:24:00+00:00,Norway,0.5289383367721749,1,1,no,NEU,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-02-22T04:30:00+00:00,Iceland,0.5281276994487679,1,2,no,GIC,Europe
+'0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-03-18T04:36:00+00:00,Norway,0.5277836607793311,2,1,no,NEU,Europe
 '140657f1a8',extremes,Storm,#b3b2b1,wmo,storm froeya roervik,2026-02-18T04:34:00+00:00,Norway,0.5274467711328082,1,1,no,NEU,Europe
 'f018067890',extremes,Storm,#b3b2b1,wmo,stormflo hjelmsoey bank,2026-03-07T04:12:00+00:00,Norway,0.5244931274168657,1,1,no,NEU,Europe
 '64826fe392',extremes,Flood,#030ba1,wmo,flooding deler av ofoten og sør troms,2026-03-18T04:36:00+00:00,Norway,0.52437355521767,1,1,no,NEU,Europe
@@ -336,7 +336,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,regn ecuador,2026-02-17T04:31:00+00:00,Ecuador,0.3056081332365625,0,1,no,NWS,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,storm ecuador,2026-02-17T04:31:00+00:00,Ecuador,0.3056011259887339,1,1,no,NWS,South-America
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,stormflo Saudi-Arabia,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3055454582076882,0,1,no,ARP,Asia
-'98db96b6de',extremes,Drought,#edc291,edo,tørke litauen,2026-03-06T04:21:00+00:00,Lithuania,0.3055198417251766,0,1,no,WCE,Europe
 'b6a7c43ff9',extremes,Drought,#edc291,edo,tørrhet bangladesh,2026-02-28T04:07:00+00:00,Bangladesh,0.3055077193923729,0,1,no,SAS,Asia
 '931978a75d',extremes,Cold Wave,#a7e9fa,wmo,kald bølge Saudi-Arabia,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3055012172568431,0,1,no,ARP,Asia
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,stormflo ecuador,2026-02-17T04:31:00+00:00,Ecuador,0.3053862814232506,0,1,no,NWS,South-America
@@ -440,6 +439,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6539cd4b6f',extremes,Precipitation,#d60d2b,wmo,regn dunedin øst for pukerangi,2026-02-17T04:31:00+00:00,New Zealand,0.2599087440980669,1,1,no,NZ,Oceania
 '5a5dd83274',extremes,Fog,#d60d2b,wmo,tåke volgograd-regionen,2026-02-17T04:31:00+00:00,Russia,0.2598952130491251,1,1,no,ESB,Europe
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,regn Seychellene,2026-02-16T04:38:00+00:00,Seychelles,0.2597908816319248,1,1,no,EIO,Africa
+'98db96b6de',extremes,Drought,#edc291,edo,tørke litauen,2026-03-06T04:21:00+00:00,Lithuania,0.2596918654664001,1,1,no,WCE,Europe
 '7b864c9f0d',extremes,Precipitation,#d60d2b,wmo,styrtregn sierra,2026-03-08T04:24:00+00:00,Ecuador,0.2594661114040381,1,1,no,NWS,South-America
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado murray river townships victoria 2013,2026-02-26T04:29:00+00:00,Australia,0.2594496405797281,1,1,no,SAU,Oceania
 'a715281618',extremes,Storm,#b3b2b1,wmo,stormflo vanuatu,2026-02-17T04:31:00+00:00,Vanuatu,0.2594283051944887,1,1,no,SPO,Oceania

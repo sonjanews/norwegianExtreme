@@ -295,6 +295,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,varmekuppel,2026-03-04T04:20:00+00:00,,0.312157460710675,1,1,no,,
 '628c910b11',extremes,Flood,#030ba1,aidr,flom flom New South Wales 2022,2026-02-23T04:37:00+00:00,Australia,0.3120069472814441,1,1,no,EAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-03-03T04:26:00+00:00,,0.3110772034521668,1,1,no,,
+'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,blåser snø,2026-03-20T04:25:00+00:00,,0.3094522728994265,0,1,no,,
 'af5e4ac005',extremes,Drought,#edc291,edo,tørrtid danmark,2026-02-27T04:26:00+00:00,Denmark,0.3088276794127382,0,1,no,NEU,Europe
 '69f6b18bc8',extremes,Drought,#edc291,edo,mangel på regn bangladesh,2026-03-14T04:23:00+00:00,Bangladesh,0.3087514664419101,0,1,no,SAS,Asia
 '7df06bbaca',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon narelle,2026-03-19T04:35:00+00:00,,0.3086733908384397,0,1,no,SPO,Pacific Ocean
@@ -303,6 +304,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,hetebølge argentina,2026-03-03T04:27:00+00:00,Argentina,0.3084851982500523,0,1,no,SES,South-America
 '1a89155ed1',extremes,Drought,#edc291,edo,mangel på regn Sao Tome og Principe,2026-03-03T04:27:00+00:00,Sao Tome and Principe,0.3082152019659381,0,1,no,WAF,Africa
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,stormflo argentina,2026-03-17T04:30:00+00:00,Argentina,0.307700103450387,0,1,no,SES,South-America
+'a01a4d5226',extremes,Storm,#b3b2b1,wmo,storm nordland,2026-03-23T04:42:00+00:00,New Zealand,0.3074596024884795,0,1,no,NZ,Oceania
 'd98aa38709',extremes,Fog,#d60d2b,wmo,tåke saudi-arabia,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3072302130859599,0,1,no,ARP,Asia
 '7afee2724b',extremes,Drought,#edc291,edo,tørrhet danmark,2026-02-28T04:07:00+00:00,Denmark,0.3070642014565312,0,1,no,NEU,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,stormflo Brasil,2026-03-02T04:27:00+00:00,Brazil,0.3070281440230952,0,1,no,SAM,South-America
@@ -389,6 +391,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3af9fd3196',extremes,Precipitation,#d60d2b,wmo,nedbør mendoza gral alvear san rafael.,2026-03-13T04:25:00+00:00,Argentina,0.3043589783727583,0,1,no,SES,South-America
 '61a00c0855',extremes,Drought,#edc291,edo,tørrhet surinam,2026-03-04T04:21:00+00:00,Suriname,0.3042268524226613,0,1,no,NSA,South-America
 'a138ccf5bc',extremes,Precipitation,#d60d2b,wmo,regn sucumbíos orellana y pastaza.,2026-03-03T04:27:00+00:00,Ecuador,0.3041466724088109,0,1,no,NWS,South-America
+'155c83286e',extremes,Precipitation,#d60d2b,wmo,regn coromandel halvøya,2026-03-11T04:22:00+00:00,New Zealand,0.3041346456438358,0,1,no,NZ,Oceania
+'1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,hardt vær botswana,2026-03-23T04:42:00+00:00,Botswana,0.30409226714316406,0,1,no,WSAF,Africa
+'52e589d51e',extremes,Precipitation,#d60d2b,wmo,regn new zealand,2026-03-05T04:24:00+00:00,New Zealand,0.3040609440158224,0,1,no,NZ,Oceania
+'dc8be80c47',extremes,Drought,#edc291,edo,tørrhet Færøyene,2026-03-16T05:05:00+00:00,Faroe Islands,0.30405156934623156,0,1,no,NEU,Europe
+'1613eab3ee',extremes,Drought,#edc291,edo,mangel på regn etiopia,2026-03-04T04:21:00+00:00,Ethiopia,0.3039771181073929,0,1,no,NEAF,Africa
+'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,nedbør tanzania,2026-03-09T04:31:00+00:00,Tanzania,0.30389074133619176,0,1,no,SEAF,Africa
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-03-12T04:25:00+00:00,,0.3030936944496941,1,1,no,,
 '9391f481ee',extremes,Storm,#b3b2b1,random,vindstorm,2026-03-06T04:20:00+00:00,,0.2986081027615567,1,1,no,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,regnskyll,2026-03-04T04:20:00+00:00,,0.2985361359556877,1,1,no,,

@@ -293,12 +293,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,varmekuppel,2026-03-04T04:20:00+00:00,,0.312157460710675,1,1,no,,
 '628c910b11',extremes,Flood,#030ba1,aidr,flom flom New South Wales 2022,2026-02-23T04:37:00+00:00,Australia,0.3120069472814441,1,1,no,EAU,Oceania
 '7b53ac38f5',extremes,Drought,#edc291,edo,tørr tid Bangladesh,2026-03-23T04:42:00+00:00,Bangladesh,0.3116247424651834,0,1,no,SAS,Asia
-'dba9977fc1',extremes,Drought,#edc291,edo,mangel på regn Færøyene,2026-03-20T04:26:00+00:00,Faroe Islands,0.31144566544613805,0,1,no,NEU,Europe
+'dba9977fc1',extremes,Drought,#edc291,edo,mangel på regn Færøyene,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,1,no,NEU,Europe
 '9969e8e386',extremes,Flood,#030ba1,emdat,flom sentralregion,2026-03-24T04:32:00+00:00,Kenya,0.311191071088893,0,1,no,SEAF,Africa
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-03-22T04:33:00+00:00,Norway,0.3111560468191284,2,1,no,NEU,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-03-03T04:26:00+00:00,,0.3110772034521668,1,1,no,,
 '8d5bbc659e',extremes,Flood,#030ba1,emdat,flom malawi,2026-03-24T04:32:00+00:00,Malawi,0.3110488392092518,0,1,no,ESAF,Africa
-'ed806b22f8',extremes,Drought,#edc291,edo,tørrhet bhutan,2026-03-19T04:35:00+00:00,Bhutan,0.31073939053974886,0,1,no,TIB,Asia
+'ed806b22f8',extremes,Drought,#edc291,edo,tørrhet bhutan,2026-03-19T04:35:00+00:00,Bhutan,0.3107393905397488,0,1,no,TIB,Asia
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,blåser snø,2026-03-20T04:25:00+00:00,,0.3094522728994265,0,1,no,,
 'af5e4ac005',extremes,Drought,#edc291,edo,tørrtid danmark,2026-02-27T04:26:00+00:00,Denmark,0.3088276794127382,0,1,no,NEU,Europe
 '69f6b18bc8',extremes,Drought,#edc291,edo,mangel på regn bangladesh,2026-03-14T04:23:00+00:00,Bangladesh,0.3087514664419101,0,1,no,SAS,Asia
@@ -311,8 +311,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1512e9c6b2',extremes,Drought,#edc291,edo,tørrtid surinam,2026-03-25T04:33:00+00:00,Suriname,0.3079867827810443,0,1,no,NSA,South-America
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,storm new zealand,2026-03-24T04:31:00+00:00,New Zealand,0.3077925354998936,0,1,no,NZ,Oceania
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,stormflo argentina,2026-03-17T04:30:00+00:00,Argentina,0.307700103450387,0,1,no,SES,South-America
+'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,snø østerrike,2026-03-25T04:33:00+00:00,Austria,0.3075731661603725,0,1,no,WCE,Europe
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,storm nordland,2026-03-23T04:42:00+00:00,New Zealand,0.3074596024884795,0,1,no,NZ,Oceania
+'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,frost bregenz,2026-03-25T04:33:00+00:00,Austria,0.3073919949138848,0,1,no,WCE,Europe
+'4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,stormflo wien währing,2026-03-25T04:33:00+00:00,Austria,0.30732274711499113,0,1,no,WCE,Europe
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,stormflo new zealand,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,no,NZ,Oceania
+'9883dfe0ae',extremes,Storm,#b3b2b1,wmo,stormflo völkermarkt,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,no,WCE,Europe
 'd98aa38709',extremes,Fog,#d60d2b,wmo,tåke saudi-arabia,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3072302130859599,0,1,no,ARP,Asia
+'0eea90a85e',extremes,Snow&Ice,#d60d2b,wmo,frost oberwart,2026-03-25T04:33:00+00:00,Austria,0.30716181316063285,0,1,no,WCE,Europe
+'9443ce57dd',extremes,Snow&Ice,#d60d2b,wmo,iskaldt schwaz,2026-03-25T04:33:00+00:00,Austria,0.3071105483636682,0,1,no,WCE,Europe
+'17a0212ee2',extremes,Storm,#b3b2b1,wmo,stormflo mistelbach,2026-03-25T04:33:00+00:00,Austria,0.3071019545980102,0,1,no,WCE,Europe
 '7afee2724b',extremes,Drought,#edc291,edo,tørrhet danmark,2026-02-28T04:07:00+00:00,Denmark,0.3070642014565312,0,1,no,NEU,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,stormflo Brasil,2026-03-02T04:27:00+00:00,Brazil,0.3070281440230952,0,1,no,SAM,South-America
 'f6ff301646',extremes,Drought,#edc291,edo,tørke somalia,2026-02-28T04:07:00+00:00,Somalia,0.3069600000485408,0,1,no,NEAF,Africa

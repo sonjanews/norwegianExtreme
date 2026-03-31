@@ -226,6 +226,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,nedbør new zealand,2026-02-12T04:37:00+00:00,New Zealand,0.4117398259182954,1,2,no,NZ,Oceania
 'e2082c3612',extremes,Storm,#b3b2b1,wmo,stormflo Sør-Island,2026-03-26T04:56:00+00:00,Iceland,0.4105383689707099,0,1,no,GIC,Europe
 '84febdd06c',extremes,Thunderstorm,#53785a,random,tordenvær,2026-02-23T04:36:00+00:00,,0.409936363655059,1,2,no,,
+'cc010c7246',extremes,Snow&Ice,#d60d2b,wmo,iskaldt reykjavik hovedstadsregion,2026-03-28T04:33:00+00:00,Iceland,0.40849566417817,0,1,no,GIC,Europe
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-02-17T04:30:00+00:00,,0.4039229548281338,1,2,no,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-03-06T04:20:00+00:00,,0.3981170455614506,1,2,no,,
 '69791e5a17',extremes,Flood,#030ba1,random,flom,2026-03-04T04:20:00+00:00,,0.3971554158367115,1,1,no,,
@@ -295,7 +296,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,hagl,2026-02-21T04:17:00+00:00,,0.3269568132409079,1,1,no,,
 '9f0423d739',extremes,Drought,#edc291,random,tørrhet,2026-03-08T04:24:00+00:00,,0.3268054713511324,1,1,no,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,snøpakke,2026-03-06T04:20:00+00:00,,0.3201396517124567,1,1,no,,
-'f5cbe3ea20',extremes,Drought,#edc291,acwe,tørr periode New South Wales,2026-03-19T04:36:00+00:00,Australia,0.31936751076483444,0,1,no,EAU,Oceania
+'f5cbe3ea20',extremes,Drought,#edc291,acwe,tørr periode New South Wales,2026-03-19T04:36:00+00:00,Australia,0.3193675107648344,0,1,no,EAU,Oceania
 '77611cd126',extremes,Cold Wave,#a7e9fa,acwe,kaldt vær Sør-Australia,2026-03-30T05:12:00+00:00,Australia,0.3193418390364817,0,1,no,CAU,Oceania
 'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,kulde i australia,2026-03-30T05:12:00+00:00,Australia,0.3179883897050091,0,1,no,CAU,Oceania
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 28p,2026-03-24T04:31:00+00:00,,0.3156444609984395,0,1,no,SPO,Pacific Ocean
@@ -312,6 +313,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-03-03T04:26:00+00:00,,0.3110772034521668,1,1,no,,
 '8d5bbc659e',extremes,Flood,#030ba1,emdat,flom malawi,2026-03-24T04:32:00+00:00,Malawi,0.3110488392092518,0,1,no,ESAF,Africa
 'ed806b22f8',extremes,Drought,#edc291,edo,tørrhet bhutan,2026-03-19T04:35:00+00:00,Bhutan,0.3107393905397488,0,1,no,TIB,Asia
+'9ca1eb0a20',extremes,Drought,#edc291,edo,tørke australia,2026-03-20T04:26:00+00:00,Australia,0.31056184306223483,0,1,no,SAU,Oceania
 '1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,blåser snø,2026-03-20T04:25:00+00:00,,0.3094522728994265,0,1,no,,
 'af5e4ac005',extremes,Drought,#edc291,edo,tørrtid danmark,2026-02-27T04:26:00+00:00,Denmark,0.3088276794127382,0,1,no,NEU,Europe
 '69f6b18bc8',extremes,Drought,#edc291,edo,mangel på regn bangladesh,2026-03-14T04:23:00+00:00,Bangladesh,0.3087514664419101,0,1,no,SAS,Asia
@@ -393,6 +395,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,snøskred Frankrike,2026-03-17T04:30:00+00:00,France,0.3056138850173815,0,1,no,WCE,Europe
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,regn ecuador,2026-02-17T04:31:00+00:00,Ecuador,0.3056081332365625,0,1,no,NWS,South-America
 '80d50b76c6',extremes,Storm,#b3b2b1,wmo,stormflo Saudi-Arabia,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3055454582076882,0,1,no,ARP,Asia
+'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,stormflo litoral norte e interiør,2026-03-30T05:12:00+00:00,Ecuador,0.30553419190661624,0,1,no,NWS,South-America
 'b6a7c43ff9',extremes,Drought,#edc291,edo,tørrhet bangladesh,2026-02-28T04:07:00+00:00,Bangladesh,0.3055077193923729,0,1,no,SAS,Asia
 '931978a75d',extremes,Cold Wave,#a7e9fa,wmo,kald bølge Saudi-Arabia,2026-02-28T04:07:00+00:00,Saudi Arabia,0.3055012172568431,0,1,no,ARP,Asia
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,stormflo ecuador,2026-02-17T04:31:00+00:00,Ecuador,0.3053862814232506,0,1,no,NWS,South-America

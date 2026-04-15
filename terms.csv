@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,snøskred nord troms,2026-04-10T05:13:00+00:00,Norway,0.7497791997726923,0,1,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-04-10T05:13:00+00:00,Norway,0.7490993548496304,0,1,no,NEU,Europe
-'c332197203',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre sogn,2026-04-13T05:28:00+00:00,Norway,0.7485606010579212,0,1,no,NEU,Europe
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-04-12T05:12:00+00:00,Norway,0.7457969484466774,0,1,no,NEU,Europe
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-04-13T05:28:00+00:00,Norway,0.7433371609762445,0,1,no,NEU,Europe
 'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,snøskred heiane,2026-04-10T05:13:00+00:00,Norway,0.742702914394057,0,1,no,NEU,Europe
@@ -24,6 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f439fda285',extremes,Drought,#edc291,edo,tørke norge,2026-03-26T04:56:00+00:00,Norway,0.6503514330273834,0,1,no,NEU,Europe
 '140657f1a8',extremes,Storm,#b3b2b1,wmo,storm froeya roervik,2026-04-10T05:13:00+00:00,Norway,0.648573209766344,0,1,no,NEU,Europe
 '99af765fb9',extremes,Storm,#b3b2b1,wmo,stormflo oksoey lindesnes,2026-04-10T05:13:00+00:00,Norway,0.6438932197831407,0,1,no,NEU,Europe
+'c332197203',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre sogn,2026-04-13T05:28:00+00:00,Norway,0.636576540899233,1,1,no,NEU,Europe
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,snøskred sunnmøre,2026-04-10T05:13:00+00:00,Norway,0.6361347726251798,1,1,no,NEU,Europe
 'fa6afac398',extremes,Wildfire,#d60d2b,wmo,skogbrann møre og romsdal og nordfjord,2026-04-13T05:28:00+00:00,Norway,0.6360080219450528,0,1,no,NEU,Europe
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-04-11T04:34:00+00:00,Norway,0.6360049578102336,1,1,no,NEU,Europe

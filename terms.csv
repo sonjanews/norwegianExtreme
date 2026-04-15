@@ -1,8 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,snøskred nord troms,2026-04-10T05:13:00+00:00,Norway,0.7497791997726923,0,1,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-04-10T05:13:00+00:00,Norway,0.7490993548496304,0,1,no,NEU,Europe
-'298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-04-11T04:34:00+00:00,Norway,0.748241126835569,0,1,no,NEU,Europe
-'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,snøskred sunnmøre,2026-04-10T05:13:00+00:00,Norway,0.7482173619119763,0,1,no,NEU,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,snøskred jotunheimen,2026-04-11T04:34:00+00:00,Norway,0.7479220179265206,0,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-04-11T04:34:00+00:00,Norway,0.7459569609185389,0,1,no,NEU,Europe
 '088197f37a',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av trøndelag og helgeland,2026-04-10T05:13:00+00:00,Norway,0.7414811379342854,0,1,no,NEU,Europe
@@ -15,7 +13,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd71cef8d5f',extremes,Storm,#b3b2b1,wmo,storm karmoey slatteroey,2026-04-10T05:13:00+00:00,Norway,0.6586015217176185,0,1,no,NEU,Europe
 '7f246907d7',extremes,Drought,#edc291,edo,tørrhet norge,2026-03-14T04:23:00+00:00,Norway,0.650419846469226,0,1,no,NEU,Europe
 '99af765fb9',extremes,Storm,#b3b2b1,wmo,stormflo oksoey lindesnes,2026-04-10T05:13:00+00:00,Norway,0.6438932197831407,0,1,no,NEU,Europe
+'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,snøskred sunnmøre,2026-04-10T05:13:00+00:00,Norway,0.6361347726251798,1,1,no,NEU,Europe
 'fa6afac398',extremes,Wildfire,#d60d2b,wmo,skogbrann møre og romsdal og nordfjord,2026-04-13T05:28:00+00:00,Norway,0.6360080219450528,0,1,no,NEU,Europe
+'298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-04-11T04:34:00+00:00,Norway,0.6360049578102336,1,1,no,NEU,Europe
 '97185764af',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre fjordane,2026-03-22T04:33:00+00:00,Norway,0.6357510267491754,1,1,no,NEU,Europe
 'c608bdc143',extremes,Landslide,#572c03,wmo,skred deler av troms og nordland,2026-03-20T04:26:00+00:00,Norway,0.6344505863287213,2,1,no,NEU,Europe
 '9415830a9f',extremes,Landslide,#572c03,wmo,steinskred deler av troms og nordland,2026-03-19T04:35:00+00:00,Norway,0.6331970796133045,1,1,no,NEU,Europe

@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,snøskred nord troms,2026-04-10T05:13:00+00:00,Norway,0.7497791997726923,0,1,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-04-10T05:13:00+00:00,Norway,0.7490993548496304,0,1,no,NEU,Europe
-'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-04-11T04:34:00+00:00,Norway,0.7469066203799993,0,1,no,NEU,Europe
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-04-12T05:12:00+00:00,Norway,0.7457969484466774,0,1,no,NEU,Europe
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-04-13T05:28:00+00:00,Norway,0.7433371609762445,0,1,no,NEU,Europe
 '71efdff4eb',extremes,Snow Avalanche,#deddd5,wmo,snøskred tromsø,2026-04-12T05:12:00+00:00,Norway,0.7419989923832206,1,1,no,NEU,Europe
@@ -13,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b994111a9',extremes,Snow&Ice,#d60d2b,wmo,snølokk,2026-03-26T04:56:00+00:00,Norway,0.7007280511478412,0,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-04-11T04:34:00+00:00,Norway,0.6993992360664724,1,1,no,NEU,Europe
 '1fec654a3e',extremes,Storm,#b3b2b1,wmo,stormflo obrestad karmoey,2026-04-10T05:13:00+00:00,Norway,0.698767753158669,0,1,no,NEU,Europe
+'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-04-11T04:34:00+00:00,Norway,0.6956207023229993,1,1,no,NEU,Europe
 '1097dcf9f5',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre troms,2026-03-08T04:24:00+00:00,Norway,0.6848671142235863,1,1,no,NEU,Europe
 'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,snøskred heiane,2026-04-10T05:13:00+00:00,Norway,0.6817475222349485,1,1,no,NEU,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,snøskred jotunheimen,2026-04-11T04:34:00+00:00,Norway,0.6796409630946854,1,1,no,NEU,Europe
@@ -121,12 +121,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,iskaldt island,2026-04-02T04:42:00+00:00,Iceland,0.445145777815967,0,1,no,GIC,Europe
 '135f8534c2',extremes,Precipitation,#d60d2b,random,mer nedbør,2026-03-05T04:23:00+00:00,,0.4448244433132595,1,2,no,,
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,iskalde østfjorder,2026-04-13T05:28:00+00:00,Iceland,0.4443042797732339,0,1,no,GIC,Europe
-'042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-04-06T05:11:00+00:00,Iceland,0.44400738237514054,0,1,no,GIC,Europe
+'042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-04-06T05:11:00+00:00,Iceland,0.4440073823751405,0,1,no,GIC,Europe
 '4d32562979',extremes,Storm,#b3b2b1,wmo,storm øst island,2026-04-11T04:34:00+00:00,Iceland,0.4426159005329662,0,1,no,GIC,Europe
-'0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,frost island,2026-03-28T04:33:00+00:00,Iceland,0.44260280431319615,0,1,no,GIC,Europe
+'0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,frost island,2026-03-28T04:33:00+00:00,Iceland,0.4426028043131961,0,1,no,GIC,Europe
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,snø østfjorder,2026-04-09T04:58:00+00:00,Iceland,0.440583268148807,0,1,no,GIC,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,is island,2026-04-08T05:01:00+00:00,Iceland,0.4397596925561674,0,1,no,GIC,Europe
-'8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-04-09T04:58:00+00:00,Iceland,0.43952341175618886,0,1,no,GIC,Europe
+'8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-04-09T04:58:00+00:00,Iceland,0.4395234117561888,0,1,no,GIC,Europe
 '1a2c0a270b',extremes,Storm,#b3b2b1,wmo,stormflo østfjorder,2026-03-31T04:59:00+00:00,Iceland,0.4304999081759652,0,1,no,GIC,Europe
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,frost østfjorder,2026-04-06T05:11:00+00:00,Iceland,0.4295903032776745,0,1,no,GIC,Europe
 'd39daa58c4',extremes,Storm,#b3b2b1,wmo,stormflo sørøst island,2026-03-28T04:33:00+00:00,Iceland,0.4274115325241565,0,1,no,GIC,Europe

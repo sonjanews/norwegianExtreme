@@ -50,12 +50,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4df5c31fbf',extremes,Storm,#b3b2b1,wmo,storm sør utsire,2026-04-15T05:12:00+00:00,Norway,0.6090828014082538,0,1,no,NEU,Europe
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-03-17T04:30:00+00:00,Norway,0.6066762264649995,2,1,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-03-17T04:30:00+00:00,Norway,0.6038668053201391,2,1,no,NEU,Europe
+'e868247a32',extremes,Storm,#b3b2b1,wmo,stormflo traena bank,2026-04-12T05:12:00+00:00,Norway,0.6025215519412427,0,1,no,NEU,Europe
+'872938ce58',extremes,Storm,#b3b2b1,wmo,stormflo viking,2026-04-15T05:12:00+00:00,Norway,0.6024934826867403,0,1,no,NEU,Europe
 'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-03-02T04:27:00+00:00,Norway,0.6013950704075349,2,2,no,NEU,Europe
+'b89db20c92',extremes,Storm,#b3b2b1,wmo,stormflo øst tampen,2026-03-27T04:57:00+00:00,Norway,0.5993459175112057,0,1,no,NEU,Europe
+'790bb54e5c',extremes,Storm,#b3b2b1,wmo,stormflo førtiårene,2026-04-15T05:12:00+00:00,Norway,0.5981562243029663,0,1,no,NEU,Europe
 'ad2053de41',extremes,Landslide,#572c03,wmo,skred troms og deler av nordland,2026-03-09T04:31:00+00:00,Norway,0.5934342061904148,3,2,no,NEU,Europe
 'bd7e24d582',extremes,Landslide,#572c03,wmo,mudslide deler av troms og nordland,2026-03-20T04:26:00+00:00,Norway,0.59025154283361,1,1,no,NEU,Europe
 '5491dcda33',extremes,Storm,#b3b2b1,wmo,storm slatteroey bulandet,2026-04-12T05:12:00+00:00,Norway,0.58699610213722,0,1,no,NEU,Europe
 '8e726169a6',extremes,Storm,#b3b2b1,wmo,storm skomvaer melbu,2026-03-25T04:33:00+00:00,Norway,0.5845638459229914,0,1,no,NEU,Europe
 '1bd8b9f62c',extremes,Storm,#b3b2b1,wmo,storm maaloey ona,2026-03-26T04:56:00+00:00,Norway,0.5785614185535678,0,1,no,NEU,Europe
+'6575158ed2',extremes,Storm,#b3b2b1,wmo,storm førtiårene,2026-04-11T04:34:00+00:00,Norway,0.5749613588516442,0,1,no,NEU,Europe
 'c4a2009ee4',extremes,Storm,#b3b2b1,wmo,storm aana sira obrestad,2026-04-12T05:12:00+00:00,Norway,0.5598652805733941,0,1,no,NEU,Europe
 '52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2026-03-17T04:30:00+00:00,Norway,0.554777477284136,1,1,no,NEU,Europe
 'b95ab0a372',extremes,Storm,#b3b2b1,wmo,stormflo bulandet stad,2026-04-12T05:12:00+00:00,Norway,0.5545225125224458,0,1,no,NEU,Europe
@@ -117,7 +122,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a7a047f46e',extremes,Storm,#b3b2b1,wmo,storm andenes fruholmen,2026-03-22T04:33:00+00:00,Norway,0.4676431464602495,1,1,no,NEU,Europe
 '58eb23053f',extremes,Flood,#030ba1,wmo,flood deler av ofoten og sør troms,2026-03-18T04:36:00+00:00,Norway,0.4557423914157956,3,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-03-18T04:36:00+00:00,Norway,0.4487661266624315,3,1,no,NEU,Europe
+'1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,snø island,2026-04-14T05:11:00+00:00,Iceland,0.44647843933348946,0,1,no,GIC,Europe
+'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,iskaldt island,2026-04-02T04:42:00+00:00,Iceland,0.445145777815967,0,1,no,GIC,Europe
 '135f8534c2',extremes,Precipitation,#d60d2b,random,mer nedbør,2026-03-05T04:23:00+00:00,,0.4448244433132595,1,2,no,,
+'9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,iskalde østfjorder,2026-04-13T05:28:00+00:00,Iceland,0.4443042797732339,0,1,no,GIC,Europe
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,snø østfjorder,2026-04-09T04:58:00+00:00,Iceland,0.440583268148807,0,1,no,GIC,Europe
 '1a2c0a270b',extremes,Storm,#b3b2b1,wmo,stormflo østfjorder,2026-03-31T04:59:00+00:00,Iceland,0.4304999081759652,0,1,no,GIC,Europe
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,frost østfjorder,2026-04-06T05:11:00+00:00,Iceland,0.4295903032776745,0,1,no,GIC,Europe

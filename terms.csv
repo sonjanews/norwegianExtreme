@@ -107,7 +107,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-03-18T04:36:00+00:00,Norway,0.4487661266624315,3,1,no,NEU,Europe
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,is island,2026-04-08T05:01:00+00:00,Iceland,0.4397596925561674,0,1,no,GIC,Europe
 'd39daa58c4',extremes,Storm,#b3b2b1,wmo,stormflo sørøst island,2026-03-28T04:33:00+00:00,Iceland,0.4274115325241565,1,1,no,GIC,Europe
-'15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-04-10T05:13:00+00:00,Norway,0.4272535793210643,0,1,no,NEU,Europe
+'15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-04-10T05:13:00+00:00,Norway,0.4272535793210642,1,1,no,NEU,Europe
 '19c6023dc8',extremes,Snow&Ice,#d60d2b,wmo,iskaldt Øst-Island,2026-04-02T04:42:00+00:00,Iceland,0.4247082419731978,0,1,no,GIC,Europe
 '40472e75df',extremes,Snow&Ice,#d60d2b,wmo,snø nordøst island,2026-03-24T04:31:00+00:00,Iceland,0.4235318702492964,0,1,no,GIC,Europe
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,hardt vær,2026-03-04T04:20:00+00:00,,0.4211703012985087,1,3,no,,
@@ -136,12 +136,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,iskalde østfjorder,2026-04-13T05:28:00+00:00,Iceland,0.3776586378072488,1,1,no,GIC,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-04-06T05:11:00+00:00,Iceland,0.3775562900188694,1,1,no,GIC,Europe
 '54927bfe65',extremes,Flood,#030ba1,random,kystflom,2026-03-27T04:56:00+00:00,,0.377126579578721,0,1,no,,
-'4d32562979',extremes,Storm,#b3b2b1,wmo,storm øst island,2026-04-11T04:34:00+00:00,Iceland,0.37622351545302124,1,1,no,GIC,Europe
+'4d32562979',extremes,Storm,#b3b2b1,wmo,storm øst island,2026-04-11T04:34:00+00:00,Iceland,0.3762235154530212,1,1,no,GIC,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,frost island,2026-03-28T04:33:00+00:00,Iceland,0.3762123836662167,1,1,no,GIC,Europe
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-03-05T04:23:00+00:00,,0.3756583140017748,1,3,no,,
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,snø østfjorder,2026-04-09T04:58:00+00:00,Iceland,0.3744957779264859,1,1,no,GIC,Europe
 'd9d097b70f',extremes,Storm,#b3b2b1,wmo,storm vestfjorder,2026-03-24T04:31:00+00:00,Iceland,0.3738742496292666,1,1,no,GIC,Europe
-'8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-04-09T04:58:00+00:00,Iceland,0.37359489999276047,1,1,no,GIC,Europe
+'8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-04-09T04:58:00+00:00,Iceland,0.3735948999927604,1,1,no,GIC,Europe
 '300c9d7114',extremes,Snow&Ice,#d60d2b,wmo,snø nordvest island,2026-03-30T05:12:00+00:00,Iceland,0.3730471865617533,1,1,no,GIC,Europe
 '0a98fdd376',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-04-05T05:00:00+00:00,,0.3726208649160646,0,1,no,,
 'b1680333f2',extremes,Snow&Ice,#d60d2b,wmo,fryser faxafloi sørvest island,2026-04-02T04:42:00+00:00,Iceland,0.3712079593131527,1,1,no,GIC,Europe
@@ -153,7 +153,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gresshoppe,2026-04-06T05:11:00+00:00,,0.3649805628813269,0,1,no,,
 '62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-04-11T04:34:00+00:00,,0.3647209667581304,0,1,no,,
 '9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-04-10T05:13:00+00:00,Iceland,0.3645649861982215,1,1,no,GIC,Europe
-'9ca1db2ac1',extremes,Snow&Ice,#d60d2b,wmo,is nordøst island,2026-04-04T04:30:00+00:00,Iceland,0.36398672517217723,1,1,no,GIC,Europe
+'9ca1db2ac1',extremes,Snow&Ice,#d60d2b,wmo,is nordøst island,2026-04-04T04:30:00+00:00,Iceland,0.3639867251721772,1,1,no,GIC,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-04-16T05:16:00+00:00,,0.3639615524535334,0,1,no,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3633584187552879,0,1,no,,
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-03-19T04:35:00+00:00,Norway,0.3627097929027014,1,1,no,NEU,Europe

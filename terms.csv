@@ -148,7 +148,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,snøslush,2026-03-27T04:56:00+00:00,,0.3828765231715605,0,1,no,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,haglvær,2026-04-17T05:15:00+00:00,,0.3825055752388982,0,1,no,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-03-30T05:11:00+00:00,,0.3796833400487605,0,1,no,,
-'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,iskaldt island,2026-04-02T04:42:00+00:00,Iceland,0.37837391114357194,1,1,no,GIC,Europe
+'8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,iskaldt island,2026-04-02T04:42:00+00:00,Iceland,0.3783739111435719,1,1,no,GIC,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,iskalde østfjorder,2026-04-13T05:28:00+00:00,Iceland,0.3776586378072488,1,1,no,GIC,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-04-06T05:11:00+00:00,Iceland,0.3775562900188694,1,1,no,GIC,Europe
 '54927bfe65',extremes,Flood,#030ba1,random,kystflom,2026-03-27T04:56:00+00:00,,0.377126579578721,0,1,no,,
@@ -158,17 +158,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '47e821f11f',extremes,Storm,#b3b2b1,wmo,storm reykjavik hovedstadsregion,2026-03-20T04:26:00+00:00,Iceland,0.3700207681016839,1,1,no,GIC,Europe
 'dba5720d63',extremes,Snow&Ice,#d60d2b,wmo,is øst island,2026-03-24T04:31:00+00:00,Iceland,0.3699752363282471,1,1,no,GIC,Europe
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,snøpakke,2026-03-29T04:59:00+00:00,,0.3656668289948055,0,1,no,,
+'10f476720b',extremes,Insect Infestation,#d60d2b,random,gresshoppe,2026-04-06T05:11:00+00:00,,0.3649805628813269,0,1,no,,
+'62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-04-11T04:34:00+00:00,,0.3647209667581304,0,1,no,,
+'d59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-04-16T05:16:00+00:00,,0.3639615524535334,0,1,no,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3633584187552879,0,1,no,,
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-03-19T04:35:00+00:00,Norway,0.3627097929027014,1,1,no,NEU,Europe
 '1c681861de',extremes,Precipitation,#d60d2b,wmo,regnvær island,2026-03-19T04:35:00+00:00,Iceland,0.3626021123697816,1,1,no,GIC,Europe
 '560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-03-17T04:30:00+00:00,,0.3618269301237006,1,2,no,,
+'053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-04-01T05:12:00+00:00,,0.3615155320637989,0,1,no,,
+'776fe47817',extremes,Wildfire,#d60d2b,random,skogbrann,2026-04-08T05:00:00+00:00,,0.36107820538149454,0,1,no,,
 '428702ea62',extremes,Snow&Ice,#d60d2b,wmo,iskalde vestfjorder,2026-03-15T04:45:00+00:00,Iceland,0.3599705805954035,1,1,no,GIC,Europe
+'55c39b351d',extremes,Storm,#b3b2b1,random,støvdjevel,2026-04-16T05:16:00+00:00,,0.3591077363075685,0,1,no,,
 '468cd6b554',extremes,Storm,#b3b2b1,wmo,stormflo vestfjordene,2026-03-17T04:30:00+00:00,Iceland,0.3580680041561112,1,1,no,GIC,Europe
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sludd,2026-03-21T04:17:00+00:00,,0.3563239231321129,1,1,no,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,iskaldt,2026-04-02T04:41:00+00:00,,0.3537810829792741,0,1,no,,
 '44078e907c',extremes,Storm,#b3b2b1,wmo,stormflo reykjavik hovedstadsregion,2026-03-21T04:17:00+00:00,Iceland,0.352048554453041,1,1,no,GIC,Europe
 '72996dcc39',extremes,Snow&Ice,#d60d2b,wmo,is nordvest island,2026-03-19T04:35:00+00:00,Iceland,0.3501857357132359,1,1,no,GIC,Europe
 '31823b52d8',extremes,Storm,#b3b2b1,wmo,storm nordvest island,2026-03-15T04:45:00+00:00,Iceland,0.3501001754287369,1,1,no,GIC,Europe
+'9f0423d739',extremes,Drought,#edc291,random,tørrhet,2026-03-29T04:59:00+00:00,,0.34945317626088046,0,1,no,,
+'9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-04-17T05:16:00+00:00,Iceland,0.34917576571108594,0,1,no,GIC,Europe
 '01b9e47405',extremes,Storm,#b3b2b1,wmo,stormflo øst island,2026-03-19T04:35:00+00:00,Iceland,0.3482018254936943,1,1,no,GIC,Europe
 '42849985f9',extremes,Snow&Ice,#d60d2b,wmo,is vestfjorder,2026-03-16T05:05:00+00:00,Iceland,0.3471755321586814,1,1,no,GIC,Europe
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-03-26T04:56:00+00:00,,0.3412463241800087,0,1,no,,

@@ -132,7 +132,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,frost island,2026-03-28T04:33:00+00:00,Iceland,0.3762123836662167,1,1,no,GIC,Europe
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-03-05T04:23:00+00:00,,0.3756583140017748,1,3,no,,
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,snø østfjorder,2026-04-09T04:58:00+00:00,Iceland,0.3744957779264859,1,1,no,GIC,Europe
-'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-04-01T05:12:00+00:00,,0.37396122088589445,1,1,no,,
+'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-04-01T05:12:00+00:00,,0.3739612208858944,1,1,no,,
 'd9d097b70f',extremes,Storm,#b3b2b1,wmo,storm vestfjorder,2026-03-24T04:31:00+00:00,Iceland,0.3738742496292666,1,1,no,GIC,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-04-09T04:58:00+00:00,Iceland,0.3735948999927604,1,1,no,GIC,Europe
 '300c9d7114',extremes,Snow&Ice,#d60d2b,wmo,snø nordvest island,2026-03-30T05:12:00+00:00,Iceland,0.3730471865617533,1,1,no,GIC,Europe
@@ -182,12 +182,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-03-23T04:41:00+00:00,,0.3390777467268525,0,1,no,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,værfront,2026-03-30T05:11:00+00:00,,0.3381925732728565,0,1,no,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-04-03T04:42:00+00:00,,0.3377957058490032,1,1,no,,
-'1fefacbadb',extremes,Iceberg,#d60d2b,random,brekalving,2026-03-24T04:31:00+00:00,,0.33736343090547194,1,1,no,,
+'1fefacbadb',extremes,Iceberg,#d60d2b,random,brekalving,2026-03-24T04:31:00+00:00,,0.3373634309054719,1,1,no,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,kalving av isfjell,2026-04-01T05:12:00+00:00,,0.336056295176896,1,1,no,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-04-06T05:11:00+00:00,,0.3350036665398402,0,1,no,,
 'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-03-22T04:32:00+00:00,,0.3331456155057881,1,1,no,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropisk storm,2026-04-06T05:11:00+00:00,,0.3310709903247378,0,1,no,,
+'80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperaturen stuper,2026-04-18T04:56:00+00:00,,0.32907292913252495,0,1,no,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-04-15T05:11:00+00:00,,0.3287050051915511,0,1,no,,
+'6b7e025bb3',extremes,Storm,#b3b2b1,random,virvelvind,2026-04-08T05:00:00+00:00,,0.32554561621668465,0,1,no,,
+'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nasjonalt orkansenter,2026-04-11T04:34:00+00:00,,0.32549499553721084,0,1,no,,
+'3fa143a609',extremes,Storm,#b3b2b1,random,støvstorm,2026-03-30T05:11:00+00:00,,0.32490012537501806,0,1,no,,
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.3231968955189829,0,1,no,,
+'595acbcf9f',extremes,Heat Wave,#c40202,random,varmeste dagen,2026-04-04T04:30:00+00:00,,0.3226339267122532,0,1,no,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.3211439890830261,0,1,no,,
+'0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-04-12T05:11:00+00:00,,0.32047861492082896,0,1,no,,
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,kald tid New South Wales,2026-03-30T05:12:00+00:00,Australia,0.3193784373370132,0,1,no,EAU,Oceania
 'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,kaldt vær victoria,2026-03-30T05:12:00+00:00,Australia,0.3193759020564724,0,1,no,SAU,Oceania
 'f5cbe3ea20',extremes,Drought,#edc291,acwe,tørr periode New South Wales,2026-03-19T04:36:00+00:00,Australia,0.3193675107648344,0,1,no,EAU,Oceania

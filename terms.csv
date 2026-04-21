@@ -141,10 +141,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa37cddd19',extremes,Snow&Ice,#d60d2b,wmo,frost nordøst island,2026-04-06T05:11:00+00:00,Iceland,0.3449193320923816,1,1,no,GIC,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,hagl,2026-04-10T05:12:00+00:00,,0.3425185720102547,0,1,no,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,kuldeperiode,2026-03-31T04:59:00+00:00,,0.3420098605563594,0,1,no,,
-'a652c78afc',extremes,Drought,#edc291,random,megatørke,2026-04-09T04:57:00+00:00,,0.3408340894496867,0,1,no,,
-'c948617fef',extremes,Heat Wave,#c40202,random,ekstrem varmeeksponering,2026-04-12T05:11:00+00:00,,0.3403493125865163,0,1,no,,
-'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,kaldsmell,2026-04-01T05:12:00+00:00,,0.3399474049094569,0,1,no,,
-'82d648b882',extremes,Drought,#edc291,random,tørke,2026-03-23T04:41:00+00:00,,0.3390777467268525,0,1,no,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,værfront,2026-03-30T05:11:00+00:00,,0.3381925732728565,0,1,no,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-04-03T04:42:00+00:00,,0.3377957058490032,1,1,no,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,brekalving,2026-03-24T04:31:00+00:00,,0.3373634309054719,1,1,no,,
@@ -190,6 +186,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '792a35d4a4',extremes,Flood,#030ba1,random,pluvial flom,2026-03-24T04:31:00+00:00,,0.313683898390347,0,1,no,,
 '75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,kuldetid nordlig territorium,2026-03-31T05:00:00+00:00,Australia,0.3136478514448681,0,1,no,NAU,Oceania
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado murray river townships victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.313587198898954,0,1,no,SAU,Oceania
+'82d648b882',extremes,Drought,#edc291,random,tørke,2026-03-23T04:41:00+00:00,,0.3132432027947477,1,1,no,,
 'b6c613d063',extremes,Drought,#edc291,acwe,mangel på regn queensland,2026-03-28T04:34:00+00:00,Australia,0.3128850144086549,0,1,no,CAU,Oceania
 '39670c8999',extremes,Drought,#edc291,acwe,mangel på regn Sør-Australia,2026-03-25T04:34:00+00:00,Australia,0.3128718467676712,0,1,no,CAU,Oceania
 '17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon maila,2026-04-05T05:01:00+00:00,,0.3124177201917431,0,1,no,EPO,Pacific Ocean
@@ -476,4 +473,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,elveflom,2026-04-20T05:26:00+00:00,,0.2987585760089489,1,1,no,,
 '9f0423d739',extremes,Drought,#edc291,random,tørrhet,2026-03-29T04:59:00+00:00,,0.2970351998217483,1,1,no,,
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-04-17T05:16:00+00:00,Iceland,0.2969494158544229,1,1,no,GIC,Europe
+'a652c78afc',extremes,Drought,#edc291,random,megatørke,2026-04-09T04:57:00+00:00,,0.28970897603223367,1,1,no,,
+'c948617fef',extremes,Heat Wave,#c40202,random,ekstrem varmeeksponering,2026-04-12T05:11:00+00:00,,0.2892969156985388,1,1,no,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,kaldsmell,2026-04-01T05:12:00+00:00,,0.2889552941730384,1,1,no,,
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,tordenvær australia,2026-03-19T04:35:00+00:00,Australia,0.2682049295787759,1,1,no,EAU,Oceania

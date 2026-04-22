@@ -158,18 +158,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,tordenvær,2026-04-18T04:56:00+00:00,,0.3236370850095288,1,1,no,,
 '54927bfe65',extremes,Flood,#030ba1,random,kystflom,2026-03-27T04:56:00+00:00,,0.3205575926419128,1,1,no,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-04-12T05:11:00+00:00,,0.3204786149208289,0,1,no,,
-'72e8366c4b',extremes,Unknown,#d60d2b,cmeter,ukjent orlando,2026-04-17T05:16:00+00:00,United States,0.3194993445491882,0,1,no,ENA,North-America
-'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,kald tid New South Wales,2026-03-30T05:12:00+00:00,Australia,0.3193784373370132,0,1,no,EAU,Oceania
-'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,kaldt vær victoria,2026-03-30T05:12:00+00:00,Australia,0.3193759020564724,0,1,no,SAU,Oceania
-'f5cbe3ea20',extremes,Drought,#edc291,acwe,tørr periode New South Wales,2026-03-19T04:36:00+00:00,Australia,0.3193675107648344,0,1,no,EAU,Oceania
-'77611cd126',extremes,Cold Wave,#a7e9fa,acwe,kaldt vær Sør-Australia,2026-03-30T05:12:00+00:00,Australia,0.3193418390364817,0,1,no,CAU,Oceania
-'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,kulde i australia,2026-03-30T05:12:00+00:00,Australia,0.3179883897050091,0,1,no,CAU,Oceania
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-04-19T05:16:00+00:00,,0.3172045489859142,1,1,no,,
-'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bushfire,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,no,,
-'129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon indusa,2026-04-03T04:42:00+00:00,,0.3168391354834678,0,1,no,SIO,Indian Ocean
-'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 28p,2026-03-24T04:31:00+00:00,,0.3156444609984395,0,1,no,SPO,Pacific Ocean
-'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave new south wales,2026-03-31T05:00:00+00:00,Australia,0.3146116457671248,0,1,no,EAU,Oceania
-'91377cc2a9',extremes,Drought,#edc291,acwe,tørke Sør-Australia,2026-03-31T05:00:00+00:00,Australia,0.3143690315103082,0,1,no,SAU,Oceania
 '8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm sinlaku,2026-04-11T04:34:00+00:00,,0.314246889033816,0,1,no,NPO,Pacific Ocean
 '6a814a5817',extremes,Drought,#edc291,acwe,lav vannstand new south wales,2026-03-25T04:34:00+00:00,Australia,0.3141888685951871,0,1,no,EAU,Oceania
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,iskalde temperaturer Sør-Australia,2026-03-31T05:00:00+00:00,Australia,0.3141497750120998,0,1,no,SAU,Oceania
@@ -475,7 +464,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,kaldsmell,2026-04-01T05:12:00+00:00,,0.2889552941730384,1,1,no,,
 '59b5340b69',extremes,Precipitation,#d60d2b,random,værfront,2026-03-30T05:11:00+00:00,,0.287463687281928,1,1,no,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-04-06T05:11:00+00:00,,0.2847531165588641,1,1,no,,
-'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-04-21T05:14:00+00:00,,0.28361575363779334,1,1,no,,
+'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-04-21T05:14:00+00:00,,0.2836157536377933,1,1,no,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropisk storm,2026-04-06T05:11:00+00:00,,0.2814103417760271,1,1,no,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperaturen stuper,2026-04-18T04:56:00+00:00,,0.2797119897626461,1,1,no,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-04-15T05:11:00+00:00,,0.2793992544128184,1,1,no,,
@@ -483,4 +472,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nasjonalt orkansenter,2026-04-11T04:34:00+00:00,,0.2766707462066292,1,1,no,,
 '3fa143a609',extremes,Storm,#b3b2b1,random,støvstorm,2026-03-30T05:11:00+00:00,,0.2761651065687653,1,1,no,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,varmeste dagen,2026-04-04T04:30:00+00:00,,0.2749889127054152,1,1,no,,
-'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.27297239072057217,1,1,no,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-03-31T04:59:00+00:00,,0.2729723907205721,1,1,no,,
+'72e8366c4b',extremes,Unknown,#d60d2b,cmeter,ukjent orlando,2026-04-17T05:16:00+00:00,United States,0.27157444286681,1,1,no,ENA,North-America
+'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,kald tid New South Wales,2026-03-30T05:12:00+00:00,Australia,0.2714716717364612,1,1,no,EAU,Oceania
+'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,kaldt vær victoria,2026-03-30T05:12:00+00:00,Australia,0.27146951674800157,1,1,no,SAU,Oceania
+'77611cd126',extremes,Cold Wave,#a7e9fa,acwe,kaldt vær Sør-Australia,2026-03-30T05:12:00+00:00,Australia,0.27144056318100945,1,1,no,CAU,Oceania
+'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,kulde i australia,2026-03-30T05:12:00+00:00,Australia,0.2702901312492577,1,1,no,CAU,Oceania
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bushfire,2026-04-18T04:56:00+00:00,,0.2695208262678216,1,1,no,,
+'129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon indusa,2026-04-03T04:42:00+00:00,,0.2693132651609476,1,1,no,SIO,Indian Ocean
+'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 28p,2026-03-24T04:31:00+00:00,,0.2682977918486736,1,1,no,SPO,Pacific Ocean
+'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave new south wales,2026-03-31T05:00:00+00:00,Australia,0.2674198989020561,1,1,no,EAU,Oceania
+'91377cc2a9',extremes,Drought,#edc291,acwe,tørke Sør-Australia,2026-03-31T05:00:00+00:00,Australia,0.26736369178376196,1,1,no,SAU,Oceania

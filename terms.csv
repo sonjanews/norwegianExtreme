@@ -162,24 +162,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54927bfe65',extremes,Flood,#030ba1,random,kystflom,2026-03-27T04:56:00+00:00,,0.3205575926419128,1,1,no,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-04-12T05:11:00+00:00,,0.3204786149208289,0,1,no,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-04-19T05:16:00+00:00,,0.3172045489859142,1,1,no,,
-'792a35d4a4',extremes,Flood,#030ba1,random,pluvial flom,2026-03-24T04:31:00+00:00,,0.313683898390347,0,1,no,,
-'75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,kuldetid nordlig territorium,2026-03-31T05:00:00+00:00,Australia,0.3136478514448681,0,1,no,NAU,Oceania
-'0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado murray river townships victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.313587198898954,0,1,no,SAU,Oceania
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-03-23T04:41:00+00:00,,0.3132432027947477,1,1,no,,
-'b6c613d063',extremes,Drought,#edc291,acwe,mangel på regn queensland,2026-03-28T04:34:00+00:00,Australia,0.3128850144086549,0,1,no,CAU,Oceania
-'39670c8999',extremes,Drought,#edc291,acwe,mangel på regn Sør-Australia,2026-03-25T04:34:00+00:00,Australia,0.3128718467676712,0,1,no,CAU,Oceania
-'1a89155ed1',extremes,Drought,#edc291,edo,mangel på regn Sao Tome og Principe,2026-04-22T05:13:00+00:00,Sao Tome and Principe,0.3128478544108936,0,1,no,WAF,Africa
-'17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon maila,2026-04-05T05:01:00+00:00,,0.3124177201917431,0,1,no,EPO,Pacific Ocean
-'db9244a045',extremes,Drought,#edc291,acwe,tørrtid victoria,2026-03-29T05:01:00+00:00,Australia,0.3123613056738151,0,1,no,SAU,Oceania
-'7a2481f0b1',extremes,Flood,#030ba1,aidr,elv som flommer australia,2026-04-08T05:01:00+00:00,Australia,0.3122876594403517,0,1,no,NAU,Oceania
-'0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon vaianu,2026-04-06T05:11:00+00:00,,0.3120434310054216,0,1,no,SPO,Pacific Ocean
-'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-04-13T05:27:00+00:00,,0.3117465486896926,0,1,no,,
-'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,kaldt vær australia,2026-03-31T05:00:00+00:00,Australia,0.3117066864320307,0,1,no,CAU,Oceania
-'7b53ac38f5',extremes,Drought,#edc291,edo,tørr tid Bangladesh,2026-03-23T04:42:00+00:00,Bangladesh,0.3116247424651834,0,1,no,SAS,Asia
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-04-12T05:11:00+00:00,,0.3114993625407615,0,1,no,,
-'dba9977fc1',extremes,Drought,#edc291,edo,mangel på regn Færøyene,2026-03-20T04:26:00+00:00,Faroe Islands,0.311445665446138,0,1,no,NEU,Europe
-'6fde59a3a9',extremes,Drought,#edc291,acwe,dryness queensland,2026-03-20T04:27:00+00:00,Australia,0.3114252888609886,0,1,no,CAU,Oceania
-'9969e8e386',extremes,Flood,#030ba1,emdat,flom sentralregion,2026-03-24T04:32:00+00:00,Kenya,0.311191071088893,0,1,no,SEAF,Africa
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-03-22T04:33:00+00:00,Norway,0.3111560468191284,2,1,no,NEU,Europe
 '8d5bbc659e',extremes,Flood,#030ba1,emdat,flom malawi,2026-03-24T04:32:00+00:00,Malawi,0.3110488392092518,0,1,no,ESAF,Africa
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,snøpakke,2026-03-29T04:59:00+00:00,,0.3108168046455847,1,1,no,,
@@ -487,7 +471,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1f61292dd',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon 28p,2026-03-24T04:31:00+00:00,,0.2682977918486736,1,1,no,SPO,Pacific Ocean
 'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave new south wales,2026-03-31T05:00:00+00:00,Australia,0.2674198989020561,1,1,no,EAU,Oceania
 '91377cc2a9',extremes,Drought,#edc291,acwe,tørke Sør-Australia,2026-03-31T05:00:00+00:00,Australia,0.2673636917837619,1,1,no,SAU,Oceania
-'8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm sinlaku,2026-04-11T04:34:00+00:00,,0.26710985567874357,1,1,no,NPO,Pacific Ocean
-'6a814a5817',extremes,Drought,#edc291,acwe,lav vannstand new south wales,2026-03-25T04:34:00+00:00,Australia,0.26706053830590903,1,1,no,EAU,Oceania
+'8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm sinlaku,2026-04-11T04:34:00+00:00,,0.2671098556787435,1,1,no,NPO,Pacific Ocean
+'6a814a5817',extremes,Drought,#edc291,acwe,lav vannstand new south wales,2026-03-25T04:34:00+00:00,Australia,0.267060538305909,1,1,no,EAU,Oceania
 '79e930cd7f',extremes,Cold Wave,#a7e9fa,acwe,iskalde temperaturer Sør-Australia,2026-03-31T05:00:00+00:00,Australia,0.2670273087602848,1,1,no,SAU,Oceania
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,kaldeste dagen,2026-04-07T04:58:00+00:00,,0.2668030143890324,1,1,no,,
+'792a35d4a4',extremes,Flood,#030ba1,random,pluvial flom,2026-03-24T04:31:00+00:00,,0.26663131363179493,1,1,no,,
+'75b5c9d5e7',extremes,Cold Wave,#a7e9fa,acwe,kuldetid nordlig territorium,2026-03-31T05:00:00+00:00,Australia,0.2666006737281379,1,1,no,NAU,Oceania
+'0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado murray river townships victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.2665491190641109,1,1,no,SAU,Oceania
+'b6c613d063',extremes,Drought,#edc291,acwe,mangel på regn queensland,2026-03-28T04:34:00+00:00,Australia,0.2659522622473567,1,1,no,CAU,Oceania
+'39670c8999',extremes,Drought,#edc291,acwe,mangel på regn Sør-Australia,2026-03-25T04:34:00+00:00,Australia,0.2659410697525205,1,1,no,CAU,Oceania
+'1a89155ed1',extremes,Drought,#edc291,edo,mangel på regn Sao Tome og Principe,2026-04-22T05:13:00+00:00,Sao Tome and Principe,0.2659206762492595,1,1,no,WAF,Africa
+'17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon maila,2026-04-05T05:01:00+00:00,,0.2655550621629816,1,1,no,EPO,Pacific Ocean
+'db9244a045',extremes,Drought,#edc291,acwe,tørrtid victoria,2026-03-29T05:01:00+00:00,Australia,0.26550710982274284,1,1,no,SAU,Oceania
+'7a2481f0b1',extremes,Flood,#030ba1,aidr,elv som flommer australia,2026-04-08T05:01:00+00:00,Australia,0.26544451052429896,1,1,no,NAU,Oceania
+'0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon vaianu,2026-04-06T05:11:00+00:00,,0.26523691635460833,1,1,no,SPO,Pacific Ocean
+'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-04-13T05:27:00+00:00,,0.2649845663862387,1,1,no,,
+'ba221738be',extremes,Cold Wave,#a7e9fa,acwe,kaldt vær australia,2026-03-31T05:00:00+00:00,Australia,0.2649506834672261,1,1,no,CAU,Oceania
+'7b53ac38f5',extremes,Drought,#edc291,edo,tørr tid Bangladesh,2026-03-23T04:42:00+00:00,Bangladesh,0.2648810310954059,1,1,no,SAS,Asia
+'dba9977fc1',extremes,Drought,#edc291,edo,mangel på regn Færøyene,2026-03-20T04:26:00+00:00,Faroe Islands,0.2647288156292173,1,1,no,NEU,Europe
+'6fde59a3a9',extremes,Drought,#edc291,acwe,dryness queensland,2026-03-20T04:27:00+00:00,Australia,0.2647114955318403,1,1,no,CAU,Oceania
+'9969e8e386',extremes,Flood,#030ba1,emdat,flom sentralregion,2026-03-24T04:32:00+00:00,Kenya,0.264512410425559,1,1,no,SEAF,Africa

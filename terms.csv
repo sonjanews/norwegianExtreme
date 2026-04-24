@@ -175,7 +175,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,storm nordland,2026-03-23T04:42:00+00:00,New Zealand,0.3074596024884795,0,1,no,NZ,Oceania
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-04-01T05:12:00+00:00,,0.307438217254229,1,1,no,,
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,stormflo wien währing,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,1,1,no,WCE,Europe
-'68a565abbc',extremes,Storm,#b3b2b1,wmo,stormflo new zealand,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,0,1,no,NZ,Oceania
+'68a565abbc',extremes,Storm,#b3b2b1,wmo,stormflo new zealand,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,1,1,no,NZ,Oceania
 'ddcce350d3',extremes,Storm,#b3b2b1,wmo,storm Auckland og Great Barrier Island,2026-03-26T04:56:00+00:00,New Zealand,0.3072846747687244,0,1,no,NZ,Oceania
 '9883dfe0ae',extremes,Storm,#b3b2b1,wmo,stormflo völkermarkt,2026-03-25T04:33:00+00:00,Austria,0.3072736921832093,0,1,no,WCE,Europe
 'ee09381e1f',extremes,Snow&Ice,#d60d2b,wmo,frost tsjekkia,2026-03-26T04:56:00+00:00,Czechia,0.3072476043765408,0,1,no,WCE,Europe
@@ -485,5 +485,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,storm new zealand,2026-03-24T04:31:00+00:00,New Zealand,0.2616236551749095,1,1,no,NZ,Oceania
 '0511e6ef31',extremes,Drought,#edc291,edo,tørrperiode estland,2026-04-12T05:12:00+00:00,Estonia,0.2614515718978362,1,1,no,NEU,Europe
 'e7e7fc0a58',extremes,Snow&Ice,#d60d2b,wmo,frost bregenz,2026-03-25T04:33:00+00:00,Austria,0.2612831956768021,1,1,no,WCE,Europe
-'bed53cc600',extremes,Precipitation,#d60d2b,wmo,regnskyll Brasil,2026-04-10T05:13:00+00:00,Brazil,0.26125955270728957,1,1,no,SAM,South-America
-'8bd48e7016',extremes,Storm,#b3b2b1,wmo,storm litoral y sierra,2026-04-05T05:01:00+00:00,Ecuador,0.26122464580608884,1,1,no,NWS,South-America
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,regnskyll Brasil,2026-04-10T05:13:00+00:00,Brazil,0.2612595527072895,1,1,no,SAM,South-America
+'8bd48e7016',extremes,Storm,#b3b2b1,wmo,storm litoral y sierra,2026-04-05T05:01:00+00:00,Ecuador,0.2612246458060888,1,1,no,NWS,South-America

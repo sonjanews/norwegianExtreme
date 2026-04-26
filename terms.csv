@@ -95,16 +95,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '322ce535f5',extremes,Storm,#b3b2b1,wmo,stormflo karmoey fedje,2026-04-25T05:00:00+00:00,Norway,0.4864823240918854,1,1,no,NEU,Europe
 'fe35e37d27',extremes,Storm,#b3b2b1,wmo,storm lopa fruholmen,2026-03-19T04:35:00+00:00,Norway,0.4858255699086261,1,1,no,NEU,Europe
 '48cb003b7b',extremes,Storm,#b3b2b1,wmo,stormflo stoett loedingen,2026-03-19T04:35:00+00:00,Norway,0.4853088008190848,1,1,no,NEU,Europe
-'e3a25cca24',extremes,Storm,#b3b2b1,wmo,stormflo skomvaer melbu,2026-04-25T05:00:00+00:00,Norway,0.48405584959966635,1,1,no,NEU,Europe
+'e3a25cca24',extremes,Storm,#b3b2b1,wmo,stormflo skomvaer melbu,2026-04-25T05:00:00+00:00,Norway,0.4840558495996663,1,1,no,NEU,Europe
 '2c5ce4ca75',extremes,Snow&Ice,#d60d2b,wmo,snø nordlige del av innlandet,2026-04-25T05:00:00+00:00,Norway,0.48272233006222,1,1,no,NEU,Europe
 '7f246907d7',extremes,Drought,#edc291,edo,tørrhet norge,2026-04-19T05:16:00+00:00,Norway,0.4816319958676013,1,1,no,NEU,Europe
-'85d4b01e83',extremes,Storm,#b3b2b1,wmo,stormflo karmoey slatteroey,2026-04-12T05:12:00+00:00,Norway,0.48081318360412023,1,1,no,NEU,Europe
+'85d4b01e83',extremes,Storm,#b3b2b1,wmo,stormflo karmoey slatteroey,2026-04-12T05:12:00+00:00,Norway,0.4808131836041202,1,1,no,NEU,Europe
 '3bdce85fdb',extremes,Storm,#b3b2b1,wmo,storm obrestad karmoey,2026-04-25T05:00:00+00:00,Norway,0.480463551232851,1,1,no,NEU,Europe
 '147a89e105',extremes,Storm,#b3b2b1,wmo,stormflo lopa fruholmen,2026-03-20T04:26:00+00:00,Norway,0.4790562312049508,1,1,no,NEU,Europe
 'b229dc14b2',extremes,Storm,#b3b2b1,wmo,storm sandnessjoeen stoett,2026-03-23T04:42:00+00:00,Norway,0.4790125158055301,1,1,no,NEU,Europe
 'c4a2009ee4',extremes,Storm,#b3b2b1,wmo,storm aana sira obrestad,2026-04-12T05:12:00+00:00,Norway,0.475885488487385,1,1,no,NEU,Europe
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,kaldeste vinteren,2026-04-13T05:27:00+00:00,,0.4758789545512072,1,2,no,,
-'174079521b',extremes,Storm,#b3b2b1,wmo,stormflo svenskegrensen jomfruland,2026-04-25T05:00:00+00:00,Norway,0.47542165625413724,1,1,no,NEU,Europe
+'174079521b',extremes,Storm,#b3b2b1,wmo,stormflo svenskegrensen jomfruland,2026-04-25T05:00:00+00:00,Norway,0.4754216562541372,1,1,no,NEU,Europe
 'b95ab0a372',extremes,Storm,#b3b2b1,wmo,stormflo bulandet stad,2026-04-12T05:12:00+00:00,Norway,0.4713441356440789,1,1,no,NEU,Europe
 'cfb8640e89',extremes,Storm,#b3b2b1,wmo,stormflo sandnessjoeen stoett,2026-03-21T04:17:00+00:00,Norway,0.4703877310787883,1,1,no,NEU,Europe
 '4714a8f5ca',extremes,Storm,#b3b2b1,wmo,stormflo andenes fruholmen,2026-03-21T04:17:00+00:00,Norway,0.4694796910176524,1,1,no,NEU,Europe
@@ -157,7 +157,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,laveste minimumstemperatur,2026-04-23T05:16:00+00:00,,0.3385755480740421,1,1,no,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-04-03T04:42:00+00:00,,0.3377957058490032,1,1,no,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,brekalving,2026-03-24T04:31:00+00:00,,0.3373634309054719,1,1,no,,
-'45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-04-25T05:00:00+00:00,,0.33650643544611103,1,1,no,,
+'45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-04-25T05:00:00+00:00,,0.336506435446111,1,1,no,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,kalving av isfjell,2026-04-01T05:12:00+00:00,,0.336056295176896,1,1,no,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bombesyklon,2026-04-23T05:16:00+00:00,,0.3356541328167986,1,1,no,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gresshopper,2026-04-06T05:11:00+00:00,,0.3341317863961516,1,1,no,,
@@ -173,7 +173,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,tordenvær,2026-04-18T04:56:00+00:00,,0.3236370850095288,1,1,no,,
 '54927bfe65',extremes,Flood,#030ba1,random,kystflom,2026-03-27T04:56:00+00:00,,0.3205575926419128,1,1,no,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-04-12T05:11:00+00:00,,0.3204786149208289,0,1,no,,
-'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-04-17T05:15:00+00:00,,0.3188517212409431,0,1,no,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-04-19T05:16:00+00:00,,0.3172045489859142,1,1,no,,
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-03-23T04:41:00+00:00,,0.3132432027947477,1,1,no,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-04-12T05:11:00+00:00,,0.3114993625407615,0,1,no,,
@@ -182,6 +181,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9b59bee21e',extremes,Drought,#edc291,edo,tørkeperioder i Polen,2026-04-08T05:01:00+00:00,Poland,0.3096227936908408,1,1,no,WCE,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,no,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,no,,
+'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-04-17T05:15:00+00:00,,0.30779271487298343,1,2,no,,
 'a01a4d5226',extremes,Storm,#b3b2b1,wmo,storm nordland,2026-03-23T04:42:00+00:00,New Zealand,0.3074596024884795,0,1,no,NZ,Oceania
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-04-01T05:12:00+00:00,,0.307438217254229,1,1,no,,
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,stormflo wien währing,2026-03-25T04:33:00+00:00,Austria,0.3073227471149911,1,1,no,WCE,Europe

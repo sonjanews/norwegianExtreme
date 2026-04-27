@@ -155,7 +155,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd96912ef17',extremes,Storm,#b3b2b1,wmo,stormflo faxafloi sørvest island,2026-04-06T05:11:00+00:00,Iceland,0.3472990419298092,1,1,no,GIC,Europe
 'cc010c7246',extremes,Snow&Ice,#d60d2b,wmo,iskaldt reykjavik hovedstadsregion,2026-03-28T04:33:00+00:00,Iceland,0.3472213145514445,1,1,no,GIC,Europe
 '0a787f2247',extremes,Snow&Ice,#d60d2b,wmo,snø sør island,2026-04-02T04:42:00+00:00,Iceland,0.3466097668097702,1,1,no,GIC,Europe
-'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-04-12T05:11:00+00:00,,0.3463850810591124,0,1,no,,
 'aa37cddd19',extremes,Snow&Ice,#d60d2b,wmo,frost nordøst island,2026-04-06T05:11:00+00:00,Iceland,0.3449193320923816,1,1,no,GIC,Europe
 'ea1c03418f',extremes,Snow&Ice,#d60d2b,random,sludd,2026-04-10T05:12:00+00:00,,0.3429135044496264,1,1,no,,
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,hagl,2026-04-10T05:12:00+00:00,,0.3425185720102547,0,1,no,,
@@ -193,9 +192,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '68a565abbc',extremes,Storm,#b3b2b1,wmo,stormflo new zealand,2026-03-25T04:33:00+00:00,New Zealand,0.3073017129476323,1,1,no,NZ,Oceania
 '776fe47817',extremes,Wildfire,#d60d2b,random,skogbrann,2026-04-08T05:00:00+00:00,,0.3069164745742703,1,1,no,,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,nedbør argentina,2026-04-08T05:01:00+00:00,Argentina,0.3062433304063667,0,1,no,SES,South-America
-'49f364b3e2',extremes,Precipitation,#d60d2b,wmo,regnskyll formosa patino piran.,2026-04-13T05:28:00+00:00,Argentina,0.3056346795329553,0,1,no,SES,South-America
-'530909dfe4',extremes,Heat Wave,#c40202,wmo,hetebølge Russland,2026-04-01T05:12:00+00:00,Russia,0.3056134234594387,0,1,no,ESB,Europe
-'c229b0919c',extremes,Precipitation,#d60d2b,wmo,regn Saudi-Arabia,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3055918263765068,0,1,no,ARP,Asia
+'c229b0919c',extremes,Precipitation,#d60d2b,wmo,regn Saudi-Arabia,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3055918263765068,1,1,no,ARP,Asia
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,hagl Seychellene,2026-04-22T05:13:00+00:00,Seychelles,0.305540930275084,0,1,no,EIO,Africa
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,stormflo litoral norte e interiør,2026-03-30T05:12:00+00:00,Ecuador,0.3055341919066162,0,1,no,NWS,South-America
 'e1048c4180',extremes,Drought,#edc291,edo,tørrhet uruguay,2026-03-22T04:33:00+00:00,Uruguay,0.3055232906384368,0,1,no,SES,South-America
@@ -361,6 +358,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,elveflom,2026-04-20T05:26:00+00:00,,0.2987585760089489,1,1,no,,
 '9f0423d739',extremes,Drought,#edc291,random,tørrhet,2026-03-29T04:59:00+00:00,,0.2970351998217483,1,1,no,,
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-04-17T05:16:00+00:00,Iceland,0.2969494158544229,1,1,no,GIC,Europe
+'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-04-12T05:11:00+00:00,,0.29442731890024554,1,1,no,,
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,ukjent USA,2026-04-19T05:17:00+00:00,United States,0.2921139239648889,1,1,no,ENA,North-America
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,kuldeperiode,2026-03-31T04:59:00+00:00,,0.2907083814729055,1,1,no,,
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-04-23T05:17:00+00:00,Iceland,0.2901521241013187,1,1,no,GIC,Europe
@@ -488,3 +486,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ea0aa28870',extremes,Drought,#edc291,edo,mangel på regn finland,2026-04-22T05:13:00+00:00,Finland,0.259927689800541,1,1,no,NEU,Europe
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,storm haglstorm sydney new south wales 2015,2026-04-01T05:13:00+00:00,,0.259917820889762,1,1,no,EAU,Oceania
 'f22d69fd3e',extremes,Storm,#b3b2b1,wmo,storm i guezzam,2026-04-08T05:01:00+00:00,Algeria,0.2598582464610319,1,1,no,SAH,Africa
+'49f364b3e2',extremes,Precipitation,#d60d2b,wmo,regnskyll formosa patino piran.,2026-04-13T05:28:00+00:00,Argentina,0.259789477603012,1,1,no,SES,South-America
+'530909dfe4',extremes,Heat Wave,#c40202,wmo,hetebølge Russland,2026-04-01T05:12:00+00:00,Russia,0.2597714099405229,1,1,no,ESB,Europe

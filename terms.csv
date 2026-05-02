@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-04-10T05:13:00+00:00,Norway,0.7511509072538115,1,1,no,NEU,Europe
-'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-04-12T05:12:00+00:00,Norway,0.7457969484466774,0,1,no,NEU,Europe
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-04-13T05:28:00+00:00,Norway,0.7433371609762445,0,1,no,NEU,Europe
 'c8be322002',extremes,Snow Avalanche,#deddd5,wmo,snøskred hallingdal,2026-04-10T05:13:00+00:00,Norway,0.7428343923124486,1,2,no,NEU,Europe
 'a68abd98d6',extremes,Snow Avalanche,#deddd5,wmo,skredvest finnmark,2026-04-10T05:13:00+00:00,Norway,0.742459751577184,0,1,no,NEU,Europe
@@ -17,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-04-11T04:34:00+00:00,Norway,0.6993992360664724,1,1,no,NEU,Europe
 'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-04-11T04:34:00+00:00,Norway,0.6956207023229993,1,1,no,NEU,Europe
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-04-10T05:13:00+00:00,Norway,0.6923008423587041,0,1,no,NEU,Europe
+'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-04-12T05:12:00+00:00,Norway,0.6848274961796758,1,1,no,NEU,Europe
 'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,snøskred heiane,2026-04-10T05:13:00+00:00,Norway,0.6817475222349485,1,1,no,NEU,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,snøskred jotunheimen,2026-04-11T04:34:00+00:00,Norway,0.6796409630946854,1,1,no,NEU,Europe
 'ab92adcf6e',extremes,Snow Avalanche,#deddd5,wmo,snøskred sør troms,2026-04-15T05:12:00+00:00,Norway,0.6707823178173355,1,1,no,NEU,Europe
@@ -24,7 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '140657f1a8',extremes,Storm,#b3b2b1,wmo,storm froeya roervik,2026-04-10T05:13:00+00:00,Norway,0.648573209766344,1,1,no,NEU,Europe
 'f2e98fe1a2',extremes,Storm,#b3b2b1,wmo,stormflo tromsoflaket,2026-04-21T05:15:00+00:00,Norway,0.6481196994655394,1,1,no,NEU,Europe
 '1a0a416261',extremes,Storm,#b3b2b1,wmo,stormflo melbu torsvaag,2026-05-01T05:54:00+00:00,Norway,0.640304931782235,1,1,no,NEU,Europe
-'dea2bf92c4',extremes,Storm,#b3b2b1,wmo,stormflo vesteraalsbank,2026-05-01T05:54:00+00:00,Norway,0.6377795716937174,0,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-04-10T05:13:00+00:00,Norway,0.6367460667000404,1,1,no,NEU,Europe
 '4e544a8191',extremes,Storm,#b3b2b1,wmo,storm svinoey froeya,2026-05-01T05:54:00+00:00,Norway,0.6366310261483346,0,1,no,NEU,Europe
 'c332197203',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre sogn,2026-04-13T05:28:00+00:00,Norway,0.636576540899233,1,1,no,NEU,Europe
@@ -59,6 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '881ea89851',extremes,Storm,#b3b2b1,wmo,storm fedje bulandet,2026-05-01T05:54:00+00:00,Norway,0.5472448264029587,1,1,no,NEU,Europe
 'bed32ba1ce',extremes,Storm,#b3b2b1,wmo,storm ytre vestfjord,2026-04-30T05:46:00+00:00,Norway,0.5469173557827879,1,1,no,NEU,Europe
 '95367fc724',extremes,Storm,#b3b2b1,wmo,stormflo slettnes fyr vardoe,2026-04-24T05:22:00+00:00,Norway,0.5446150380451237,1,1,no,NEU,Europe
+'dea2bf92c4',extremes,Storm,#b3b2b1,wmo,stormflo vesteraalsbank,2026-05-01T05:54:00+00:00,Norway,0.5421126359396597,1,1,no,NEU,Europe
 'f8b2481bda',extremes,Snow&Ice,#d60d2b,wmo,fryselokk,2026-03-23T04:42:00+00:00,Norway,0.5414897168638668,1,1,no,NEU,Europe
 'fa6afac398',extremes,Wildfire,#d60d2b,wmo,skogbrann møre og romsdal og nordfjord,2026-04-13T05:28:00+00:00,Norway,0.5406068186532949,1,1,no,NEU,Europe
 'ce9372eca8',extremes,Storm,#b3b2b1,wmo,storm nordbredden,2026-04-21T05:15:00+00:00,Norway,0.5401800647528068,1,1,no,NEU,Europe

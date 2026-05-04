@@ -45,7 +45,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b994111a9',extremes,Snow&Ice,#d60d2b,wmo,snølokk,2026-03-26T04:56:00+00:00,Norway,0.595618843475665,1,1,no,NEU,Europe
 '1fec654a3e',extremes,Storm,#b3b2b1,wmo,stormflo obrestad karmoey,2026-04-10T05:13:00+00:00,Norway,0.5939525901848687,1,1,no,NEU,Europe
 'bfbfb02c79',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av trøndelag,2026-04-21T05:15:00+00:00,Norway,0.5905320263204004,1,1,no,NEU,Europe
+'f018067890',extremes,Storm,#b3b2b1,wmo,stormflo hjelmsoey bank,2026-05-03T05:44:00+00:00,Norway,0.5843502608611089,0,1,no,NEU,Europe
+'7aedc577d8',extremes,Snow&Ice,#d60d2b,wmo,isdeler av nordland og troms,2026-05-03T05:44:00+00:00,Norway,0.5827648317891339,0,1,no,NEU,Europe
+'0d9c1e22d4',extremes,Storm,#b3b2b1,wmo,storm kyststrøk i finnmark,2026-05-03T05:44:00+00:00,Norway,0.5784400341896174,0,1,no,NEU,Europe
 '0b0f57315e',extremes,Storm,#b3b2b1,wmo,stormflo sandnessjoeen bodoe,2026-04-26T05:25:00+00:00,Norway,0.572746282931249,1,1,no,NEU,Europe
+'6e140f5659',extremes,Storm,#b3b2b1,wmo,stormflo north cape bank,2026-05-03T05:44:00+00:00,Norway,0.5722710727690731,0,1,no,NEU,Europe
+'69e400e510',extremes,Storm,#b3b2b1,wmo,stormflo roest bank,2026-05-03T05:44:00+00:00,Norway,0.5624050393186109,0,1,no,NEU,Europe
 '367d7fed2e',extremes,Storm,#b3b2b1,wmo,stormflo slatteroey fedje,2026-04-10T05:13:00+00:00,Norway,0.5615065306012007,1,1,no,NEU,Europe
 'd71cef8d5f',extremes,Storm,#b3b2b1,wmo,storm karmoey slatteroey,2026-04-10T05:13:00+00:00,Norway,0.5598112934599757,1,1,no,NEU,Europe
 'f439fda285',extremes,Drought,#edc291,edo,tørke norge,2026-03-26T04:56:00+00:00,Norway,0.5533987780732759,1,1,no,NEU,Europe
@@ -119,6 +124,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,is canada,2026-04-08T05:01:00+00:00,Canada,0.4089695547783478,1,2,no,NEN,North-America
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nattefrost,2026-04-30T05:45:00+00:00,,0.4049644470858093,1,2,no,,
 '62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-04-11T04:34:00+00:00,,0.4015129717444108,1,2,no,,
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tyfon,2026-05-03T05:43:00+00:00,,0.3879020986120892,0,1,no,,
+'80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,syklon,2026-05-03T05:43:00+00:00,,0.38711799101662364,0,1,no,,
+'97185764af',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre fjordane,2026-05-03T05:44:00+00:00,Norway,0.3815138455513509,0,1,no,NEU,Europe
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,iskaldt island,2026-04-02T04:42:00+00:00,Iceland,0.3783739111435719,1,1,no,GIC,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,iskalde østfjorder,2026-04-13T05:28:00+00:00,Iceland,0.3776586378072488,1,1,no,GIC,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-04-06T05:11:00+00:00,Iceland,0.3775562900188694,1,1,no,GIC,Europe
@@ -374,7 +382,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brasil,2026-04-11T04:34:00+00:00,Brazil,0.2600067398972295,1,1,no,SAM,South-America
 'd04f754034',extremes,Thunderstorm,#53785a,wmo,tordenvær sør-afrika,2026-04-16T05:17:00+00:00,South Africa,0.2600043031171922,1,1,no,WSAF,Africa
 '5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,skred russland,2026-04-06T05:11:00+00:00,Russia,0.260002241770442,1,1,no,ESB,Europe
-'ac8883b5db',extremes,Drought,#edc291,edo,tørkeperioder Hviterussland,2026-04-18T04:57:00+00:00,Belarus,0.25999717005320644,1,1,no,WCE,Europe
+'ac8883b5db',extremes,Drought,#edc291,edo,tørkeperioder Hviterussland,2026-04-18T04:57:00+00:00,Belarus,0.2599971700532064,1,1,no,WCE,Europe
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,regnskyll amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.2599862261838312,1,1,no,NWS,South-America
 'a29729e148',extremes,Storm,#b3b2b1,wmo,stormflo Israel,2026-04-02T04:42:00+00:00,Israel,0.259952807590778,1,1,no,MED,Asia
 'ea0aa28870',extremes,Drought,#edc291,edo,mangel på regn finland,2026-04-22T05:13:00+00:00,Finland,0.259927689800541,1,1,no,NEU,Europe

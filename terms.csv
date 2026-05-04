@@ -121,6 +121,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,is canada,2026-04-08T05:01:00+00:00,Canada,0.4089695547783478,1,2,no,NEN,North-America
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nattefrost,2026-04-30T05:45:00+00:00,,0.4049644470858093,1,2,no,,
 '62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-04-11T04:34:00+00:00,,0.4015129717444108,1,2,no,,
+'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-04-05T05:00:00+00:00,,0.38986019836047314,1,2,no,,
 '8472a870e0',extremes,Snow&Ice,#d60d2b,wmo,iskaldt island,2026-04-02T04:42:00+00:00,Iceland,0.3783739111435719,1,1,no,GIC,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,iskalde østfjorder,2026-04-13T05:28:00+00:00,Iceland,0.3776586378072488,1,1,no,GIC,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-04-06T05:11:00+00:00,Iceland,0.3775562900188694,1,1,no,GIC,Europe
@@ -130,7 +131,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-04-01T05:12:00+00:00,,0.3739612208858944,1,1,no,,
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-04-09T04:58:00+00:00,Iceland,0.3735948999927604,1,1,no,GIC,Europe
 '300c9d7114',extremes,Snow&Ice,#d60d2b,wmo,snø nordvest island,2026-03-30T05:12:00+00:00,Iceland,0.3730471865617533,1,1,no,GIC,Europe
-'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-04-05T05:00:00+00:00,,0.3726208649160646,0,1,no,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-04-20T05:26:00+00:00,,0.3717588404477796,0,1,no,,
 'b1680333f2',extremes,Snow&Ice,#d60d2b,wmo,fryser faxafloi sørvest island,2026-04-02T04:42:00+00:00,Iceland,0.3712079593131527,1,1,no,GIC,Europe
 '67da8791c0',extremes,Snow&Ice,#d60d2b,wmo,is østfjorder,2026-04-19T05:16:00+00:00,Iceland,0.3685883992357358,1,1,no,GIC,Europe
@@ -169,7 +169,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordkald,2026-04-07T04:58:00+00:00,,0.3280897327937368,1,1,no,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,regnskyll,2026-04-13T05:27:00+00:00,,0.3278627116076318,1,1,no,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,haglvær,2026-04-17T05:15:00+00:00,,0.3251297389530634,1,1,no,,
-'97185764af',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre fjordane,2026-05-03T05:44:00+00:00,Norway,0.32443678371864826,1,1,no,NEU,Europe
+'97185764af',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre fjordane,2026-05-03T05:44:00+00:00,Norway,0.3244367837186482,1,1,no,NEU,Europe
 '84febdd06c',extremes,Thunderstorm,#53785a,random,tordenvær,2026-04-18T04:56:00+00:00,,0.3236370850095288,1,1,no,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-04-28T05:44:00+00:00,,0.3218852107959375,1,1,no,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-04-12T05:11:00+00:00,,0.3204786149208289,0,1,no,,

@@ -143,7 +143,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-04-07T04:58:00+00:00,,0.3485064152251044,1,1,no,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkan,2026-04-07T04:58:00+00:00,,0.3481298743984598,1,1,no,,
 'd96912ef17',extremes,Storm,#b3b2b1,wmo,stormflo faxafloi sørvest island,2026-04-06T05:11:00+00:00,Iceland,0.3472990419298092,1,1,no,GIC,Europe
-'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-04-22T05:13:00+00:00,,0.345785704054097,0,1,no,,
 'aa37cddd19',extremes,Snow&Ice,#d60d2b,wmo,frost nordøst island,2026-04-06T05:11:00+00:00,Iceland,0.3449193320923816,1,1,no,GIC,Europe
 'ef54296dab',extremes,Snow&Ice,#d60d2b,random,isflak,2026-05-07T05:46:00+00:00,,0.3439613564058711,0,1,no,,
 '52af874334',extremes,Drought,#edc291,random,tørrhet,2026-05-07T05:46:00+00:00,,0.3434999112724363,0,1,no,,
@@ -190,7 +189,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,no,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,no,,
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gresshoppe,2026-04-06T05:11:00+00:00,,0.3102334784491278,1,1,no,,
-'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,kaldsmell,2026-04-27T05:39:00+00:00,,0.31019316204807745,1,1,no,,
+'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,kaldsmell,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,no,,
 '9b59bee21e',extremes,Drought,#edc291,edo,tørkeperioder i Polen,2026-04-08T05:01:00+00:00,Poland,0.3096227936908408,1,1,no,WCE,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,no,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,no,,
@@ -236,6 +235,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,is finland,2026-04-24T05:22:00+00:00,Finland,0.3022324891910571,0,1,no,NEU,Europe
 '4dc8bdbf14',extremes,Flood,#030ba1,random,elveflom,2026-04-20T05:26:00+00:00,,0.2987585760089489,1,1,no,,
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-04-17T05:16:00+00:00,Iceland,0.2969494158544229,1,1,no,GIC,Europe
+'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-04-22T05:13:00+00:00,,0.2945179084459824,1,1,no,,
 'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-04-12T05:11:00+00:00,,0.2944273189002455,1,1,no,,
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,ukjent USA,2026-04-19T05:17:00+00:00,United States,0.2921139239648889,1,1,no,ENA,North-America
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,hagl,2026-04-10T05:12:00+00:00,,0.2912908012087165,1,1,no,,

@@ -142,7 +142,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,frost østfjorder,2026-04-06T05:11:00+00:00,Iceland,0.3651517577860233,1,1,no,GIC,Europe
 '9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-04-10T05:13:00+00:00,Iceland,0.3645649861982215,1,1,no,GIC,Europe
 '9ca1db2ac1',extremes,Snow&Ice,#d60d2b,wmo,is nordøst island,2026-04-04T04:30:00+00:00,Iceland,0.3639867251721772,1,1,no,GIC,Europe
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-04-23T05:16:00+00:00,,0.3549639307027006,0,1,no,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-05-05T05:28:00+00:00,,0.3531787503816919,1,1,no,,
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-04-24T05:21:00+00:00,,0.3491846929092459,1,2,no,,
 'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-04-07T04:58:00+00:00,,0.3485064152251044,1,1,no,,
@@ -171,13 +170,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97185764af',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre fjordane,2026-05-03T05:44:00+00:00,Norway,0.3244367837186482,1,1,no,NEU,Europe
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-04-12T05:11:00+00:00,,0.3240823026827045,1,2,no,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,tordenvær,2026-04-18T04:56:00+00:00,,0.3236370850095288,1,1,no,,
-'95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-05-09T05:35:00+00:00,,0.323412948879457,0,1,no,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-04-28T05:44:00+00:00,,0.3218852107959375,1,1,no,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-04-19T05:16:00+00:00,,0.3172045489859142,1,1,no,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,no,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,no,,
-'42f9f7020d',extremes,Heat Wave,#c40202,acwe,varm stave New South Wales,2026-05-06T05:43:00+00:00,Australia,0.3134956031876589,0,1,no,EAU,Oceania
-'44211c95de',extremes,Flood,#030ba1,wmo,flom i australia,2026-04-26T05:25:00+00:00,Australia,0.3129511824043872,0,1,no,CAU,Oceania
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,flash flom tasmania,2026-05-05T05:29:00+00:00,Australia,0.3123754045642738,0,1,no,SAU,Oceania
 'acd0e1409b',extremes,Flood,#030ba1,acwe,oversvømmer New South Wales,2026-05-05T05:29:00+00:00,Australia,0.3117812345544722,0,1,no,EAU,Oceania
 'f6774fb5b2',extremes,Drought,#edc291,acwe,mangel på regn victoria,2026-05-04T05:50:00+00:00,Australia,0.3114947567363839,0,1,no,SAU,Oceania
@@ -231,6 +227,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd584a5aeb',extremes,Storm,#b3b2b1,wmo,storm lesedi lesedi heidelberg,2026-04-28T05:45:00+00:00,South Africa,0.3023310011522763,0,1,no,WSAF,Africa
 'f0a7622c15',extremes,Storm,#b3b2b1,wmo,storm galápagos,2026-04-19T05:16:00+00:00,Ecuador,0.3023158095009969,0,1,no,NWS,South-America
 '0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,is finland,2026-04-24T05:22:00+00:00,Finland,0.3022324891910571,0,1,no,NEU,Europe
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-04-23T05:16:00+00:00,,0.3017193410972955,1,1,no,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,elveflom,2026-04-20T05:26:00+00:00,,0.2987585760089489,1,1,no,,
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-04-17T05:16:00+00:00,Iceland,0.2969494158544229,1,1,no,GIC,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-04-22T05:13:00+00:00,,0.2945179084459824,1,1,no,,
@@ -254,6 +251,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,virvelvind,2026-04-08T05:00:00+00:00,,0.2767137737841819,1,1,no,,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nasjonalt orkansenter,2026-04-11T04:34:00+00:00,,0.2766707462066292,1,1,no,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-04-26T05:25:00+00:00,,0.275907001463019,1,1,no,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-05-09T05:35:00+00:00,,0.2749010065475384,1,1,no,,
 '0fa8bbc8c4',extremes,Wildfire,#d60d2b,emdat,wildfire clay counties florida,2026-05-05T05:29:00+00:00,United States,0.2719040087289376,1,1,no,WNA,North-America
 '11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,tropisk syklon guam,2026-05-05T05:29:00+00:00,Guam,0.2718462176191802,1,1,no,NPO,Oceania
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,storm minnesota,2026-05-05T05:29:00+00:00,United States,0.2717943834660589,1,1,no,WNA,North-America
@@ -283,6 +281,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,våt spell tasmania,2026-04-29T05:41:00+00:00,Australia,0.2667580811462497,1,1,no,SAU,Oceania
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado murray river townships victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.2665491190641109,1,1,no,SAU,Oceania
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,storm haglstorm sydney new south wales 2015,2026-04-21T05:15:00+00:00,,0.2665053153445734,1,1,no,EAU,Oceania
+'42f9f7020d',extremes,Heat Wave,#c40202,acwe,varm stave New South Wales,2026-05-06T05:43:00+00:00,Australia,0.26647126270951005,1,1,no,EAU,Oceania
+'44211c95de',extremes,Flood,#030ba1,wmo,flom i australia,2026-04-26T05:25:00+00:00,Australia,0.2663085350437291,1,1,no,CAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flom australia,2026-04-29T05:40:00+00:00,Australia,0.2659566978677291,1,1,no,EAU,Oceania
 '1a89155ed1',extremes,Drought,#edc291,edo,mangel på regn Sao Tome og Principe,2026-04-22T05:13:00+00:00,Sao Tome and Principe,0.2659206762492595,1,1,no,WAF,Africa
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,elv som flommer australia,2026-04-08T05:01:00+00:00,Australia,0.2654445105242989,1,1,no,NAU,Oceania

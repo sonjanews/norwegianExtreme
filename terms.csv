@@ -174,16 +174,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-04-19T05:16:00+00:00,,0.3172045489859142,1,1,no,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,no,,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,no,,
-'ec51ecb5d3',extremes,Flood,#030ba1,acwe,flash flom tasmania,2026-05-05T05:29:00+00:00,Australia,0.3123754045642738,0,1,no,SAU,Oceania
-'acd0e1409b',extremes,Flood,#030ba1,acwe,oversvømmer New South Wales,2026-05-05T05:29:00+00:00,Australia,0.3117812345544722,0,1,no,EAU,Oceania
-'f6774fb5b2',extremes,Drought,#edc291,acwe,mangel på regn victoria,2026-05-04T05:50:00+00:00,Australia,0.3114947567363839,0,1,no,SAU,Oceania
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gresshoppe,2026-04-06T05:11:00+00:00,,0.3102334784491278,1,1,no,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,kaldsmell,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,no,,
 '9b59bee21e',extremes,Drought,#edc291,edo,tørkeperioder i Polen,2026-04-08T05:01:00+00:00,Poland,0.3096227936908408,1,1,no,WCE,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,no,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,no,,
-'3c01ade432',extremes,Precipitation,#d60d2b,wmo,nedbørsrepublikken moldova,2026-05-09T05:36:00+00:00,Republic of Moldova,0.3080316867825511,0,1,no,WCE,Europe
-'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,regn sør-afrika,2026-05-06T05:43:00+00:00,South Africa,0.3079943839372556,0,1,no,WSAF,Africa
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-04-17T05:15:00+00:00,,0.3077927148729834,1,2,no,,
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,varme trolldom Sør-Australia,2026-05-05T05:29:00+00:00,Australia,0.3077254333806599,0,1,no,SAU,Oceania
 '1d029532ac',extremes,Snow&Ice,#d60d2b,wmo,frost sør-afrika,2026-05-06T05:43:00+00:00,South Africa,0.3075165279877251,0,1,no,WSAF,Africa
@@ -281,15 +276,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5b4afae1b',extremes,Precipitation,#d60d2b,acwe,våt spell tasmania,2026-04-29T05:41:00+00:00,Australia,0.2667580811462497,1,1,no,SAU,Oceania
 '0c9a570bb1',extremes,Storm,#b3b2b1,aidr,tornado murray river townships victoria 2013,2026-04-09T04:58:00+00:00,Australia,0.2665491190641109,1,1,no,SAU,Oceania
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,storm haglstorm sydney new south wales 2015,2026-04-21T05:15:00+00:00,,0.2665053153445734,1,1,no,EAU,Oceania
-'42f9f7020d',extremes,Heat Wave,#c40202,acwe,varm stave New South Wales,2026-05-06T05:43:00+00:00,Australia,0.26647126270951005,1,1,no,EAU,Oceania
+'42f9f7020d',extremes,Heat Wave,#c40202,acwe,varm stave New South Wales,2026-05-06T05:43:00+00:00,Australia,0.26647126270951,1,1,no,EAU,Oceania
 '44211c95de',extremes,Flood,#030ba1,wmo,flom i australia,2026-04-26T05:25:00+00:00,Australia,0.2663085350437291,1,1,no,CAU,Oceania
 'f314bb7747',extremes,Flood,#030ba1,aidr,pluvial flom australia,2026-04-29T05:40:00+00:00,Australia,0.2659566978677291,1,1,no,EAU,Oceania
 '1a89155ed1',extremes,Drought,#edc291,edo,mangel på regn Sao Tome og Principe,2026-04-22T05:13:00+00:00,Sao Tome and Principe,0.2659206762492595,1,1,no,WAF,Africa
+'ec51ecb5d3',extremes,Flood,#030ba1,acwe,flash flom tasmania,2026-05-05T05:29:00+00:00,Australia,0.26551909387963274,1,1,no,SAU,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,elv som flommer australia,2026-04-08T05:01:00+00:00,Australia,0.2654445105242989,1,1,no,NAU,Oceania
 '0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk syklon vaianu,2026-04-06T05:11:00+00:00,,0.2652369163546083,1,1,no,SPO,Pacific Ocean
 '92035e2c20',extremes,Drought,#edc291,edo,tørrtid Madagaskar,2026-04-17T05:16:00+00:00,Madagascar,0.2652124238294306,1,1,no,MDG,Africa
+'acd0e1409b',extremes,Flood,#030ba1,acwe,oversvømmer New South Wales,2026-05-05T05:29:00+00:00,Australia,0.26501404937130135,1,1,no,EAU,Oceania
 'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-04-13T05:27:00+00:00,,0.2649845663862387,1,1,no,,
 '5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-04-12T05:11:00+00:00,,0.2647744581596473,1,1,no,,
+'f6774fb5b2',extremes,Drought,#edc291,acwe,mangel på regn victoria,2026-05-04T05:50:00+00:00,Australia,0.2647705432259263,1,1,no,SAU,Oceania
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood australia,2026-04-10T05:13:00+00:00,Australia,0.2641834553823319,1,1,no,EAU,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,flood hobart flash flooding tasmania 2018,2026-04-18T04:57:00+00:00,Australia,0.2634059264716479,1,1,no,SAU,Oceania
 '37d08d7316',extremes,Precipitation,#d60d2b,acwe,våt periode Sør-Australia,2026-04-12T05:12:00+00:00,Australia,0.263167353491097,1,1,no,SAU,Oceania
@@ -297,7 +295,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,snøskred sochi,2026-04-19T05:16:00+00:00,Russia,0.2622551781524331,1,1,no,ESB,Europe
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,kald bølge,2026-04-15T05:11:00+00:00,,0.2620358295992533,1,1,no,,
 '00dadb6ad1',extremes,Tropical Cyclone,#4f4f4f,aidr,syklon australia,2026-04-08T05:01:00+00:00,Australia,0.261990400218313,1,1,no,EAU,Oceania
+'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,regn sør-afrika,2026-05-06T05:43:00+00:00,South Africa,0.26194524134666725,1,1,no,WSAF,Africa
 'c8a777de4f',extremes,Tropical Cyclone,#4f4f4f,aidr,landfall australia,2026-04-08T05:01:00+00:00,Australia,0.2618511854399556,1,1,no,CAU,Oceania
+'3c01ade432',extremes,Precipitation,#d60d2b,wmo,nedbørsrepublikken moldova,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2618269337651684,1,1,no,WCE,Europe
 '0511e6ef31',extremes,Drought,#edc291,edo,tørrperiode estland,2026-04-12T05:12:00+00:00,Estonia,0.2614515718978362,1,1,no,NEU,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,regnskyll Brasil,2026-04-10T05:13:00+00:00,Brazil,0.2612595527072895,1,1,no,SAM,South-America
 '2eb242efc8',extremes,Snow&Ice,#d60d2b,wmo,iskaldt moldova,2026-04-29T05:40:00+00:00,Moldova,0.2611864812172262,1,1,no,WCE,Europe

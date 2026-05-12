@@ -216,7 +216,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d59b1d751',extremes,Flood,#030ba1,acwe,flom i Sør-Australia,2026-05-04T05:50:00+00:00,Australia,0.2716633025988254,1,1,no,CAU,Oceania
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,ukjent orlando,2026-04-17T05:16:00+00:00,United States,0.27157444286681,1,1,no,ENA,North-America
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,nedbør tasmania,2026-05-04T05:50:00+00:00,Australia,0.2715274859284677,1,1,no,SAU,Oceania
-'6b28028a94',extremes,Heat Wave,#c40202,acwe,hetebølge Sør-Australia,2026-05-04T05:50:00+00:00,Australia,0.271526816586176,1,1,no,CAU,Oceania
+'6b28028a94',extremes,Heat Wave,#c40202,acwe,hetebølge Sør-Australia,2026-05-04T05:50:00+00:00,Australia,0.271526816586176,2,1,no,CAU,Oceania
 'd0ad361cd5',extremes,Precipitation,#d60d2b,acwe,våt spell victoria,2026-05-04T05:50:00+00:00,Australia,0.2715193214313465,1,1,no,SAU,Oceania
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,hetebølge New South Wales,2026-05-04T05:50:00+00:00,Australia,0.2715090824876664,1,1,no,EAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,våt periode New South Wales,2026-05-04T05:50:00+00:00,Australia,0.2715066060127571,1,1,no,EAU,Oceania
@@ -293,7 +293,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,regn ecuador,2026-04-22T05:13:00+00:00,Ecuador,0.2602530280876131,1,1,no,NWS,South-America
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,stormflo sør-afrika,2026-04-13T05:28:00+00:00,South Africa,0.2602438704138485,1,1,no,WSAF,Africa
 'f486a08b0d',extremes,Precipitation,#d60d2b,wmo,nedbør algeria,2026-04-29T05:40:00+00:00,Algeria,0.2602401089673866,1,1,no,SAH,Africa
-'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,iskaldt Brasil,2026-05-11T06:14:00+00:00,Brazil,0.26022497371619985,1,1,no,SAM,South-America
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,iskaldt Brasil,2026-05-11T06:14:00+00:00,Brazil,0.2602249737161998,1,1,no,SAM,South-America
 '3e44561d4c',extremes,Snow&Ice,#d60d2b,wmo,isrepublikken moldova,2026-04-10T05:13:00+00:00,Republic of Moldova,0.2602157258958504,1,1,no,WCE,Europe
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,storm chile,2026-04-10T05:13:00+00:00,Chile,0.2602077782626499,1,1,no,SWS,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,stormflo chile,2026-04-12T05:12:00+00:00,Chile,0.2602049603458748,1,1,no,SWS,South-America
@@ -360,13 +360,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'af081911d9',extremes,Precipitation,#d60d2b,wmo,styrtregn wellington unntatt porirua,2026-04-20T05:27:00+00:00,New Zealand,0.2580607524749966,1,1,no,NZ,Oceania
 'd8a981c851',extremes,Earthquake,#870007,usgs,jordskjelv lorengau,2026-05-02T05:23:00+00:00,Papua New Guinea,0.2580566833754081,1,1,no,EPO,Pacific Ocean
 'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,regn thailand,2026-04-11T04:34:00+00:00,Thailand,0.2580517635851109,1,1,no,SEA,Asia
-'862c45323e',extremes,Storm,#b3b2b1,wmo,stormflo region insular isabela,2026-05-09T05:36:00+00:00,Ecuador,0.25798273396576876,1,1,no,NWS,South-America
+'862c45323e',extremes,Storm,#b3b2b1,wmo,stormflo region insular isabela,2026-05-09T05:36:00+00:00,Ecuador,0.2579827339657687,1,1,no,NWS,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,storm paraguay,2026-04-12T05:12:00+00:00,Paraguay,0.2579641148435836,1,1,no,SES,South-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,snø argentina,2026-04-11T04:34:00+00:00,Argentina,0.2579232553752091,1,1,no,SES,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,is argentina,2026-04-12T05:12:00+00:00,Argentina,0.2579227423156402,1,1,no,SES,South-America
-'39edbba161',extremes,Wildfire,#d60d2b,wmo,skogbrann latvia,2026-05-08T05:16:00+00:00,Latvia,0.25791098154527725,1,1,no,WCE,Europe
+'39edbba161',extremes,Wildfire,#d60d2b,wmo,skogbrann latvia,2026-05-08T05:16:00+00:00,Latvia,0.2579109815452772,1,1,no,WCE,Europe
 'fadc367829',extremes,Thunderstorm,#53785a,wmo,hagl oran,2026-04-24T05:22:00+00:00,Algeria,0.2579106734743752,1,1,no,SAH,Africa
-'969dbf1866',extremes,Precipitation,#d60d2b,wmo,styrtregn sør-afrika,2026-05-09T05:36:00+00:00,South Africa,0.25789572241923375,1,1,no,WSAF,Africa
+'969dbf1866',extremes,Precipitation,#d60d2b,wmo,styrtregn sør-afrika,2026-05-09T05:36:00+00:00,South Africa,0.2578957224192337,1,1,no,WSAF,Africa
 '6e5947027b',extremes,Precipitation,#d60d2b,wmo,styrtregn waikato,2026-04-11T04:34:00+00:00,New Zealand,0.2578834271953826,1,1,no,NZ,Oceania
 'd77b825e5b',extremes,Flood,#030ba1,wmo,flom canada,2026-04-25T05:00:00+00:00,Canada,0.257847763074368,1,1,no,NEN,North-America
 '970305e1b7',extremes,Precipitation,#d60d2b,wmo,regnskyll canada,2026-04-22T05:13:00+00:00,Canada,0.2578193847747747,1,1,no,NEN,North-America

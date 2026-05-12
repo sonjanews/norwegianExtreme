@@ -180,12 +180,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-07T04:58:00+00:00,,0.3088546559419947,1,1,no,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-04-17T05:15:00+00:00,,0.3077927148729834,1,2,no,,
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,varme trolldom Sør-Australia,2026-05-05T05:29:00+00:00,Australia,0.3077254333806598,1,1,no,SAU,Oceania
-'0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,is finland,2026-04-24T05:22:00+00:00,Finland,0.30734766081239856,1,1,no,NEU,Europe
+'0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,is finland,2026-04-24T05:22:00+00:00,Finland,0.3073476608123985,1,1,no,NEU,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,skogbrann,2026-04-08T05:00:00+00:00,,0.3069164745742703,1,1,no,,
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,iskaldt Brasil,2026-05-11T06:14:00+00:00,Brazil,0.30614702790141163,0,1,no,SAM,South-America
+'016d682943',extremes,Snow&Ice,#d60d2b,wmo,iskaldt sør-afrika,2026-05-11T06:14:00+00:00,South Africa,0.3060438468889501,0,1,no,WSAF,Africa
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,regn Saudi-Arabia,2026-04-08T05:01:00+00:00,Saudi Arabia,0.3055918263765068,1,1,no,ARP,Asia
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,hagl Seychellene,2026-04-22T05:13:00+00:00,Seychelles,0.305540930275084,1,1,no,EIO,Africa
 '55c39b351d',extremes,Storm,#b3b2b1,random,støvdjevel,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,no,,
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,stormflo argentina,2026-04-26T05:25:00+00:00,Argentina,0.3039425926068768,1,1,no,SES,South-America
+'b977149cad',extremes,Storm,#b3b2b1,wmo,storm fjordland nord for tvilsomt sund,2026-05-07T05:46:00+00:00,New Zealand,0.30362052337467865,0,1,no,NZ,Oceania
+'d8a981c851',extremes,Earthquake,#870007,usgs,jordskjelv lorengau,2026-05-02T05:23:00+00:00,Papua New Guinea,0.3035960980887154,0,1,no,EPO,Pacific Ocean
+'862c45323e',extremes,Storm,#b3b2b1,wmo,stormflo region insular isabela,2026-05-09T05:36:00+00:00,Ecuador,0.3035090987832574,0,1,no,NWS,South-America
+'39edbba161',extremes,Wildfire,#d60d2b,wmo,skogbrann latvia,2026-05-08T05:16:00+00:00,Latvia,0.3034246841709144,0,1,no,WCE,Europe
+'969dbf1866',extremes,Precipitation,#d60d2b,wmo,styrtregn sør-afrika,2026-05-09T05:36:00+00:00,South Africa,0.30340673225792214,0,1,no,WSAF,Africa
+'d77b825e5b',extremes,Flood,#030ba1,wmo,flom canada,2026-04-25T05:00:00+00:00,Canada,0.30335030949925657,0,1,no,NEN,North-America
 '1c38b19449',extremes,Storm,#b3b2b1,random,støvskåler,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,no,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,orkan,2026-04-11T04:34:00+00:00,,0.3024974041336485,1,1,no,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-04-23T05:16:00+00:00,,0.3017193410972955,1,1,no,,
@@ -409,9 +417,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd709206c08',extremes,Storm,#b3b2b1,wmo,storm reg. 15 cordillera,2026-04-13T05:28:00+00:00,Chile,0.2573321602208302,1,1,no,SWS,South-America
 '1f5ce6636c',extremes,Thunderstorm,#53785a,wmo,hardt vær botswana,2026-04-16T05:17:00+00:00,Botswana,0.2573136580992956,1,1,no,WSAF,Africa
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,hetebølge chile,2026-05-01T05:54:00+00:00,Chile,0.257216117010673,1,1,no,SWS,South-America
-'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,orkanen USA,2026-04-12T05:12:00+00:00,United States,0.25719489463927303,1,1,no,CNA,North-America
-'945465874b',extremes,Drought,#edc291,edo,tørke djibouti,2026-04-21T05:15:00+00:00,Djibouti,0.25718770260955554,1,1,no,NEAF,Africa
-'609a79d405',extremes,Wildfire,#d60d2b,wmo,skogbrann xichou fylke,2026-04-11T04:34:00+00:00,China,0.25718262207871856,1,1,no,EAS,Asia
+'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,orkanen USA,2026-04-12T05:12:00+00:00,United States,0.257194894639273,1,1,no,CNA,North-America
+'945465874b',extremes,Drought,#edc291,edo,tørke djibouti,2026-04-21T05:15:00+00:00,Djibouti,0.2571877026095555,1,1,no,NEAF,Africa
+'609a79d405',extremes,Wildfire,#d60d2b,wmo,skogbrann xichou fylke,2026-04-11T04:34:00+00:00,China,0.2571826220787185,1,1,no,EAS,Asia
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,snø Brasil,2026-04-29T05:40:00+00:00,Brazil,0.257159466524964,1,1,no,SAM,South-America
 '1c2c5da544',extremes,Storm,#b3b2b1,wmo,stormflo 02 03,2026-04-14T05:11:00+00:00,Chile,0.2571543435054367,1,1,no,SWS,South-America
 'b7fc06d785',extremes,Storm,#b3b2b1,wmo,storm amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.2571449619699321,1,1,no,NWS,South-America
@@ -419,8 +427,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b0e352b6e',extremes,Flood,#030ba1,wmo,flom Sør-Australia Warburton,2026-04-13T05:28:00+00:00,Australia,0.2570778515676605,1,1,no,CAU,Oceania
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,is chile,2026-04-14T05:11:00+00:00,Chile,0.2570763926591814,1,1,no,SWS,South-America
 '766190540a',extremes,Storm,#b3b2b1,wmo,stormflo tanzania,2026-04-30T05:46:00+00:00,Tanzania,0.2570651651552067,1,1,no,SEAF,Africa
-'38fb523e0e',extremes,Flood,#030ba1,wmo,flashflood botswana,2026-04-15T05:12:00+00:00,Botswana,0.25701219204609177,1,1,no,WSAF,Africa
+'38fb523e0e',extremes,Flood,#030ba1,wmo,flashflood botswana,2026-04-15T05:12:00+00:00,Botswana,0.2570121920460917,1,1,no,WSAF,Africa
 'aba9de13df',extremes,Wildfire,#d60d2b,wmo,skogbrann sør-afrika,2026-04-17T05:16:00+00:00,South Africa,0.2570097617501664,1,1,no,WSAF,Africa
-'bd584a5aeb',extremes,Storm,#b3b2b1,wmo,storm lesedi lesedi heidelberg,2026-04-28T05:45:00+00:00,South Africa,0.25698135097943486,1,1,no,WSAF,Africa
-'f0a7622c15',extremes,Storm,#b3b2b1,wmo,storm galápagos,2026-04-19T05:16:00+00:00,Ecuador,0.25696843807584735,1,1,no,NWS,South-America
+'bd584a5aeb',extremes,Storm,#b3b2b1,wmo,storm lesedi lesedi heidelberg,2026-04-28T05:45:00+00:00,South Africa,0.2569813509794348,1,1,no,WSAF,Africa
+'f0a7622c15',extremes,Storm,#b3b2b1,wmo,storm galápagos,2026-04-19T05:16:00+00:00,Ecuador,0.2569684380758473,1,1,no,NWS,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,frost argentina,2026-04-11T04:34:00+00:00,Argentina,0.22106329027892,2,1,no,SES,South-America

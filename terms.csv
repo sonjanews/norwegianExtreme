@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,snøskred heiane,2026-04-30T05:46:00+00:00,Norway,0.7446899074304687,0,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-04-11T04:34:00+00:00,Norway,0.6993992360664724,1,1,no,NEU,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,snøskred jotunheimen,2026-04-11T04:34:00+00:00,Norway,0.6796409630946854,1,1,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-04-10T05:13:00+00:00,Norway,0.6643783611657398,2,1,no,NEU,Europe
@@ -20,9 +21,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fec654a3e',extremes,Storm,#b3b2b1,wmo,stormflo obrestad karmoey,2026-04-10T05:13:00+00:00,Norway,0.5939525901848687,1,1,no,NEU,Europe
 'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-04-11T04:34:00+00:00,Norway,0.5915776269745494,2,1,no,NEU,Europe
 'bfbfb02c79',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av trøndelag,2026-04-21T05:15:00+00:00,Norway,0.5905320263204004,1,1,no,NEU,Europe
+'bc1b83a3e3',extremes,Storm,#b3b2b1,wmo,storm ona froeya,2026-05-14T06:02:00+00:00,Norway,0.5866224493396578,0,1,no,NEU,Europe
+'02d7dccef7',extremes,Storm,#b3b2b1,wmo,stormflo fedje maaloey,2026-05-14T06:02:00+00:00,Norway,0.5828716793855307,0,1,no,NEU,Europe
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-04-12T05:12:00+00:00,Norway,0.5824034017527244,2,1,no,NEU,Europe
 '0b0f57315e',extremes,Storm,#b3b2b1,wmo,stormflo sandnessjoeen bodoe,2026-04-26T05:25:00+00:00,Norway,0.572746282931249,1,1,no,NEU,Europe
 'ab92adcf6e',extremes,Snow Avalanche,#deddd5,wmo,snøskred sør troms,2026-04-15T05:12:00+00:00,Norway,0.5704650001447352,2,1,no,NEU,Europe
+'18bf0e0c51',extremes,Storm,#b3b2b1,wmo,storm viking,2026-05-14T06:02:00+00:00,Norway,0.5615480923617809,0,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-04-10T05:13:00+00:00,Norway,0.5611842766950343,2,1,no,NEU,Europe
 'd71cef8d5f',extremes,Storm,#b3b2b1,wmo,storm karmoey slatteroey,2026-04-10T05:13:00+00:00,Norway,0.5598112934599757,1,1,no,NEU,Europe
 '8b994111a9',extremes,Snow&Ice,#d60d2b,wmo,snølokk,2026-04-22T05:13:00+00:00,Norway,0.5524565349040537,1,1,no,NEU,Europe
@@ -102,7 +106,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '85d4b01e83',extremes,Storm,#b3b2b1,wmo,stormflo karmoey slatteroey,2026-04-12T05:12:00+00:00,Norway,0.4808131836041202,1,1,no,NEU,Europe
 '3bdce85fdb',extremes,Storm,#b3b2b1,wmo,storm obrestad karmoey,2026-04-25T05:00:00+00:00,Norway,0.480463551232851,1,1,no,NEU,Europe
 '69e400e510',extremes,Storm,#b3b2b1,wmo,stormflo roest bank,2026-05-03T05:44:00+00:00,Norway,0.4780442834208192,1,1,no,NEU,Europe
-'367d7fed2e',extremes,Storm,#b3b2b1,wmo,stormflo slatteroey fedje,2026-04-10T05:13:00+00:00,Norway,0.47728055101102057,2,1,no,NEU,Europe
+'367d7fed2e',extremes,Storm,#b3b2b1,wmo,stormflo slatteroey fedje,2026-04-10T05:13:00+00:00,Norway,0.4772805510110205,2,1,no,NEU,Europe
 'a57b9dad6e',extremes,Storm,#b3b2b1,wmo,storm nordkappbredden,2026-05-02T05:24:00+00:00,Norway,0.4759940508637711,1,1,no,NEU,Europe
 'c4a2009ee4',extremes,Storm,#b3b2b1,wmo,storm aana sira obrestad,2026-04-12T05:12:00+00:00,Norway,0.475885488487385,1,1,no,NEU,Europe
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,kaldeste vinteren,2026-04-13T05:27:00+00:00,,0.4758789545512072,1,2,no,,
@@ -113,14 +117,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bed32ba1ce',extremes,Storm,#b3b2b1,wmo,storm ytre vestfjord,2026-04-30T05:46:00+00:00,Norway,0.4648797524153696,2,1,no,NEU,Europe
 '182ce4e2f4',extremes,Storm,#b3b2b1,wmo,stormflo roervik bodoe,2026-04-12T05:12:00+00:00,Norway,0.4644496046944032,1,1,no,NEU,Europe
 '1a0a416261',extremes,Storm,#b3b2b1,wmo,stormflo melbu torsvaag,2026-05-01T05:54:00+00:00,Norway,0.4626203132126648,3,1,no,NEU,Europe
-'ce9372eca8',extremes,Storm,#b3b2b1,wmo,storm nordbredden,2026-04-21T05:15:00+00:00,Norway,0.45915305503988574,2,1,no,NEU,Europe
+'ce9372eca8',extremes,Storm,#b3b2b1,wmo,storm nordbredden,2026-04-21T05:15:00+00:00,Norway,0.4591530550398857,2,1,no,NEU,Europe
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,snø island,2026-04-14T05:11:00+00:00,Iceland,0.454806703433466,1,2,no,GIC,Europe
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,snøstorm,2026-04-22T05:13:00+00:00,,0.4502463295700745,1,2,no,,
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,is island,2026-04-08T05:01:00+00:00,Iceland,0.4496958286727422,1,2,no,GIC,Europe
 '2f015dbb8e',extremes,Snow&Ice,#d60d2b,wmo,freezing deler av trøndelag,2026-05-05T05:29:00+00:00,Norway,0.4458088589145617,1,1,no,NEU,Europe
 'c32830b8d5',extremes,Storm,#b3b2b1,wmo,stormflo froeya bank,2026-05-08T05:16:00+00:00,Norway,0.435199655148603,2,1,no,NEU,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,frost island,2026-04-23T05:16:00+00:00,Iceland,0.431721888743938,1,1,no,GIC,Europe
-'144c06bc4c',extremes,Storm,#b3b2b1,wmo,storm froeya bank,2026-05-13T06:03:00+00:00,Norway,0.42886350955398705,2,1,no,NEU,Europe
+'144c06bc4c',extremes,Storm,#b3b2b1,wmo,storm froeya bank,2026-05-13T06:03:00+00:00,Norway,0.428863509553987,2,1,no,NEU,Europe
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-04-10T05:13:00+00:00,Norway,0.4272535793210642,1,1,no,NEU,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.4254674361911354,1,2,no,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,snøstorm,2026-05-06T05:43:00+00:00,,0.4166414230260499,1,2,no,,
@@ -176,14 +180,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,elv som flommer australia,2026-05-01T05:55:00+00:00,Australia,0.3143482050589688,0,1,no,SAU,Oceania
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkan,2026-04-28T05:44:00+00:00,,0.3141668735360113,0,1,no,,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-04-28T05:44:00+00:00,,0.312054760212591,0,1,no,,
+'3894a694d1',extremes,Flood,#030ba1,aidr,flash flood australia,2026-05-08T05:16:00+00:00,Australia,0.31067450828115784,0,1,no,SAU,Oceania
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,kaldsmell,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,no,,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,regnskyll argentina,2026-04-29T05:40:00+00:00,Argentina,0.3083017242266345,0,1,no,SES,South-America
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,regnskyll sør-afrika,2026-05-05T05:29:00+00:00,South Africa,0.3081830648915889,0,1,no,WSAF,Africa
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,regn theewaterskloof grabouw,2026-05-12T05:52:00+00:00,South Africa,0.3080322242850173,0,1,no,WSAF,Africa
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,regnskyll Brasil,2026-04-30T05:46:00+00:00,Brazil,0.3079946387921132,0,1,no,SAM,South-America
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-04-17T05:15:00+00:00,,0.3077927148729834,1,2,no,,
 'af6965c814',extremes,Thunderstorm,#53785a,wmo,hardt vær Seychellene,2026-04-27T05:40:00+00:00,Seychelles,0.3077609833008985,0,1,no,EIO,Africa
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,varme trolldom Sør-Australia,2026-05-05T05:29:00+00:00,Australia,0.3077254333806598,1,1,no,SAU,Oceania
+'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,nedbør Brasil,2026-05-02T05:24:00+00:00,Brazil,0.3075973968593861,0,1,no,SAM,South-America
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,styrtregn Brasil,2026-05-03T05:44:00+00:00,Brazil,0.3075463637551175,0,1,no,SAM,South-America
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,styrtregn tanzania,2026-05-01T05:54:00+00:00,Tanzania,0.3074864825820533,0,1,no,SEAF,Africa
 '0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,is finland,2026-04-24T05:22:00+00:00,Finland,0.3073476608123985,1,1,no,NEU,Europe
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,nedbør saudi-arabia,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3072538499286963,0,1,no,ARP,Asia

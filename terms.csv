@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8fffe2ab3',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av rogaland,2026-04-24T05:22:00+00:00,Norway,0.6220286670555868,2,1,no,NEU,Europe
 '5434da25d3',extremes,Snow&Ice,#d60d2b,wmo,iskaldt finnmark,2026-04-27T05:40:00+00:00,Norway,0.6188916949819117,1,2,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-04-10T05:13:00+00:00,Norway,0.6123223936743124,3,1,no,NEU,Europe
-'61386d6415',extremes,Snow&Ice,#d60d2b,wmo,iskaldt norge,2026-04-14T05:11:00+00:00,Norway,0.6113537226070327,1,1,no,NEU,Europe
 '826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,snøskred nordenskiöld land,2026-04-10T05:13:00+00:00,Norway,0.6067930714767557,2,2,no,NEU,Europe
 '30c332285a',extremes,Snow&Ice,#d60d2b,wmo,frost bns,2026-04-23T05:16:00+00:00,Norway,0.6063609987096549,1,1,no,NEU,Europe
 '12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,snøskred hardanger,2026-04-10T05:13:00+00:00,Norway,0.6058546080345072,2,1,no,NEU,Europe
@@ -21,10 +20,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1fec654a3e',extremes,Storm,#b3b2b1,wmo,stormflo obrestad karmoey,2026-04-10T05:13:00+00:00,Norway,0.5939525901848687,1,1,no,NEU,Europe
 'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-04-11T04:34:00+00:00,Norway,0.5915776269745494,2,1,no,NEU,Europe
 'bfbfb02c79',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av trøndelag,2026-04-21T05:15:00+00:00,Norway,0.5905320263204004,1,1,no,NEU,Europe
-'02d7dccef7',extremes,Storm,#b3b2b1,wmo,stormflo fedje maaloey,2026-05-14T06:02:00+00:00,Norway,0.5828716793855307,0,1,no,NEU,Europe
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-04-12T05:12:00+00:00,Norway,0.5824034017527244,2,1,no,NEU,Europe
 '0b0f57315e',extremes,Storm,#b3b2b1,wmo,stormflo sandnessjoeen bodoe,2026-04-26T05:25:00+00:00,Norway,0.572746282931249,1,1,no,NEU,Europe
 'ab92adcf6e',extremes,Snow Avalanche,#deddd5,wmo,snøskred sør troms,2026-04-15T05:12:00+00:00,Norway,0.5704650001447352,2,1,no,NEU,Europe
+'61386d6415',extremes,Snow&Ice,#d60d2b,wmo,iskaldt norge,2026-04-14T05:11:00+00:00,Norway,0.5701007092159778,2,1,no,NEU,Europe
 '18bf0e0c51',extremes,Storm,#b3b2b1,wmo,storm viking,2026-05-14T06:02:00+00:00,Norway,0.5615480923617809,0,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-04-10T05:13:00+00:00,Norway,0.5611842766950343,2,1,no,NEU,Europe
 'd71cef8d5f',extremes,Storm,#b3b2b1,wmo,storm karmoey slatteroey,2026-04-10T05:13:00+00:00,Norway,0.5598112934599757,1,1,no,NEU,Europe
@@ -88,6 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '836bb023cd',extremes,Storm,#b3b2b1,wmo,stormflo fisker,2026-04-25T05:00:00+00:00,Norway,0.4975195207739825,1,1,no,NEU,Europe
 'f018067890',extremes,Storm,#b3b2b1,wmo,stormflo hjelmsoey bank,2026-05-03T05:44:00+00:00,Norway,0.4966977217319425,1,1,no,NEU,Europe
 '3fc7b10b0f',extremes,Storm,#b3b2b1,wmo,storm stoett melbu,2026-05-02T05:24:00+00:00,Norway,0.4959292169339416,1,1,no,NEU,Europe
+'02d7dccef7',extremes,Storm,#b3b2b1,wmo,stormflo fedje maaloey,2026-05-14T06:02:00+00:00,Norway,0.49544092747770113,1,1,no,NEU,Europe
 '7aedc577d8',extremes,Snow&Ice,#d60d2b,wmo,isdeler av nordland og troms,2026-05-03T05:44:00+00:00,Norway,0.4953501070207637,1,1,no,NEU,Europe
 '6b79c19a6f',extremes,Storm,#b3b2b1,wmo,stormflo nord utsire,2026-04-16T05:17:00+00:00,Norway,0.4952054969592466,1,1,no,NEU,Europe
 'f59468215c',extremes,Storm,#b3b2b1,wmo,storm hjelmsoey bank,2026-04-21T05:15:00+00:00,Norway,0.4930567653189636,1,1,no,NEU,Europe

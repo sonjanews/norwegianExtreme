@@ -10,6 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8fffe2ab3',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av rogaland,2026-04-24T05:22:00+00:00,Norway,0.6220286670555868,2,1,no,NEU,Europe
 '5434da25d3',extremes,Snow&Ice,#d60d2b,wmo,iskaldt finnmark,2026-04-27T05:40:00+00:00,Norway,0.6188916949819117,1,2,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-04-10T05:13:00+00:00,Norway,0.6123223936743124,3,1,no,NEU,Europe
+'83a0e2627e',extremes,Storm,#b3b2b1,wmo,storm nordkapp vardoe,2026-05-15T06:09:00+00:00,Norway,0.6098676831419195,0,1,no,NEU,Europe
 '826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,snøskred nordenskiöld land,2026-04-10T05:13:00+00:00,Norway,0.6067930714767557,2,2,no,NEU,Europe
 '12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,snøskred hardanger,2026-04-10T05:13:00+00:00,Norway,0.6058546080345072,2,1,no,NEU,Europe
 'd9da396ad7',extremes,Snow Avalanche,#deddd5,wmo,snøskred svalbard vest,2026-04-15T05:12:00+00:00,Norway,0.5994643434792274,2,1,no,NEU,Europe
@@ -125,7 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '144c06bc4c',extremes,Storm,#b3b2b1,wmo,storm froeya bank,2026-05-13T06:03:00+00:00,Norway,0.428863509553987,2,1,no,NEU,Europe
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-04-10T05:13:00+00:00,Norway,0.4272535793210642,1,1,no,NEU,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.4254674361911354,1,2,no,,
-'5491dcda33',extremes,Storm,#b3b2b1,wmo,storm slatteroey bulandet,2026-04-12T05:12:00+00:00,Norway,0.42410468379414135,2,1,no,NEU,Europe
+'5491dcda33',extremes,Storm,#b3b2b1,wmo,storm slatteroey bulandet,2026-04-12T05:12:00+00:00,Norway,0.4241046837941413,2,1,no,NEU,Europe
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,snøstorm,2026-05-06T05:43:00+00:00,,0.4166414230260499,1,2,no,,
 '6e140f5659',extremes,Storm,#b3b2b1,wmo,stormflo north cape bank,2026-05-03T05:44:00+00:00,Norway,0.4134658500756553,2,1,no,NEU,Europe
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,is canada,2026-04-08T05:01:00+00:00,Canada,0.4089695547783478,1,2,no,NEN,North-America
@@ -147,6 +148,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,kvikksølv dråper,2026-04-30T05:45:00+00:00,,0.3394825828034618,1,1,no,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,wet spell,2026-04-17T05:15:00+00:00,,0.3389256570150449,1,1,no,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,laveste minimumstemperatur,2026-04-23T05:16:00+00:00,,0.3385755480740421,1,1,no,,
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,sandstorm,2026-05-15T06:09:00+00:00,,0.3384315010794707,0,1,no,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-04-25T05:00:00+00:00,,0.336506435446111,1,1,no,,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bombesyklon,2026-04-23T05:16:00+00:00,,0.3356541328167986,1,1,no,,
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,snø canada,2026-04-08T05:01:00+00:00,Canada,0.3351407998993361,1,2,no,NEN,North-America
@@ -158,7 +160,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,syklon,2026-05-03T05:43:00+00:00,,0.32905029236413,1,1,no,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,regnskyll,2026-04-13T05:27:00+00:00,,0.3278627116076318,1,1,no,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gresshopper,2026-04-27T05:39:00+00:00,,0.3264585973878632,0,1,no,,
-'6b7e025bb3',extremes,Storm,#b3b2b1,random,virvelvind,2026-04-30T05:45:00+00:00,,0.32626060319277417,1,1,no,,
+'6b7e025bb3',extremes,Storm,#b3b2b1,random,virvelvind,2026-04-30T05:45:00+00:00,,0.3262606031927741,1,1,no,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-05-03T05:43:00+00:00,,0.3259861643248519,1,1,no,,
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-04-11T04:34:00+00:00,,0.3255015964788449,1,1,no,,
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,frost østfjorder,2026-04-26T05:25:00+00:00,Iceland,0.3253026268136296,1,1,no,GIC,Europe
@@ -167,6 +169,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-04-12T05:11:00+00:00,,0.3240823026827045,1,2,no,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,tordenvær,2026-04-18T04:56:00+00:00,,0.3236370850095288,1,1,no,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-04-28T05:44:00+00:00,,0.3218852107959375,1,1,no,,
+'9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,snø østfjorder,2026-04-30T05:46:00+00:00,Iceland,0.320958660441312,0,1,no,GIC,Europe
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-04-19T05:16:00+00:00,,0.3172045489859142,1,1,no,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,no,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-05-13T06:02:00+00:00,,0.3159476730973257,0,1,no,,
@@ -179,6 +182,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,kaldsmell,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,no,,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,regnskyll argentina,2026-04-29T05:40:00+00:00,Argentina,0.3083017242266345,0,1,no,SES,South-America
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,regn Brasil,2026-05-01T05:54:00+00:00,Brazil,0.30821767204035894,0,1,no,SAM,South-America
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,regnskyll sør-afrika,2026-05-05T05:29:00+00:00,South Africa,0.3081830648915889,0,1,no,WSAF,Africa
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,regn theewaterskloof grabouw,2026-05-12T05:52:00+00:00,South Africa,0.3080322242850173,0,1,no,WSAF,Africa
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,regnskyll Brasil,2026-04-30T05:46:00+00:00,Brazil,0.3079946387921132,0,1,no,SAM,South-America
@@ -191,13 +195,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,is finland,2026-04-24T05:22:00+00:00,Finland,0.3073476608123985,1,1,no,NEU,Europe
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,nedbør saudi-arabia,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3072538499286963,0,1,no,ARP,Asia
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,regn Saudi-Arabia,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3072308720638423,0,1,no,ARP,Asia
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,iskaldt argentina,2026-05-01T05:54:00+00:00,Argentina,0.30717599171739257,0,1,no,SES,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,frost argentina,2026-05-01T05:54:00+00:00,Argentina,0.3065824958371068,0,1,no,SES,South-America
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,regn tanzania,2026-05-02T05:24:00+00:00,Tanzania,0.3064425761901006,0,1,no,SEAF,Africa
 '9b59bee21e',extremes,Drought,#edc291,edo,tørkeperioder i Polen,2026-04-28T05:45:00+00:00,Poland,0.3062486444187581,0,1,no,WCE,Europe
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,styrtregn Saudi-Arabia,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3058801608940542,0,1,no,ARP,Asia
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,hagl Seychellene,2026-04-22T05:13:00+00:00,Seychelles,0.305540930275084,1,1,no,EIO,Africa
 '55c39b351d',extremes,Storm,#b3b2b1,random,støvdjevel,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,no,,
+'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,regn thailand,2026-05-01T05:54:00+00:00,Thailand,0.3047453425192614,0,1,no,SEA,Asia
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,storm chile,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,no,SWS,South-America
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,snø argentina,2026-05-01T05:54:00+00:00,Argentina,0.30396919694346686,0,1,no,SES,South-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brasil,2026-05-02T05:24:00+00:00,Brazil,0.3039558838015082,0,1,no,SAM,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,stormflo argentina,2026-04-26T05:25:00+00:00,Argentina,0.3039425926068768,1,1,no,SES,South-America
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,flom canada,2026-04-26T05:25:00+00:00,Canada,0.3037908808975553,0,1,no,NEN,North-America
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,storm Maldivene,2026-05-03T05:44:00+00:00,Maldives,0.3037203271497771,0,1,no,EIO,Indian Ocean
@@ -226,7 +234,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-04-23T05:17:00+00:00,Iceland,0.2901521241013187,1,1,no,GIC,Europe
 '8b4587c763',extremes,Storm,#b3b2b1,random,støvstorm,2026-04-28T05:44:00+00:00,,0.2897201421824552,1,1,no,,
 'c948617fef',extremes,Heat Wave,#c40202,random,ekstrem varmeeksponering,2026-04-12T05:11:00+00:00,,0.2892969156985388,1,1,no,,
-'59b5340b69',extremes,Precipitation,#d60d2b,random,værfront,2026-05-13T06:02:00+00:00,,0.28834378298858176,1,1,no,,
+'59b5340b69',extremes,Precipitation,#d60d2b,random,værfront,2026-05-13T06:02:00+00:00,,0.2883437829885817,1,1,no,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropisk storm,2026-04-26T05:25:00+00:00,,0.286027391756174,1,1,no,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-04-21T05:14:00+00:00,,0.2836157536377933,1,1,no,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,stormflo,2026-05-05T05:28:00+00:00,,0.2827226531286963,1,1,no,,

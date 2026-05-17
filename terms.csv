@@ -1,6 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,snøskred sunnmøre,2026-05-01T05:54:00+00:00,Norway,0.7462053766692507,0,1,no,NEU,Europe
+'06285e171c',extremes,Flood,#030ba1,wmo,flom norge,2026-05-17T06:01:00+00:00,Norway,0.7209166984032569,0,1,no,NEU,Europe
+'52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2026-04-30T05:46:00+00:00,Norway,0.6775468452294442,0,1,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-04-10T05:13:00+00:00,Norway,0.6643783611657398,2,1,no,NEU,Europe
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,snøskred nord troms,2026-04-10T05:13:00+00:00,Norway,0.6632124098067884,1,1,no,NEU,Europe
+'03873a8274',extremes,Flood,#030ba1,wmo,flom indre finnmark,2026-05-17T06:01:00+00:00,Norway,0.6549931972425395,0,1,no,NEU,Europe
 '78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2026-04-11T04:34:00+00:00,Norway,0.6483072390492441,1,2,no,NEU,Europe
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-05-03T05:44:00+00:00,Norway,0.6342930460968653,1,1,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-05-02T05:24:00+00:00,Norway,0.6335621518028771,1,1,no,NEU,Europe
@@ -131,8 +135,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9391f481ee',extremes,Storm,#b3b2b1,random,vindstorm,2026-05-06T05:43:00+00:00,,0.3678636764772002,1,1,no,,
 'f439fda285',extremes,Drought,#edc291,edo,tørke norge,2026-05-08T05:16:00+00:00,Norway,0.3673318527195791,1,1,no,NEU,Europe
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-04-16T05:17:00+00:00,Norway,0.3662939238685144,1,1,no,NEU,Europe
+'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-05-02T05:23:00+00:00,,0.3545395458510074,0,1,no,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-05-05T05:28:00+00:00,,0.3531787503816919,1,1,no,,
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-04-24T05:21:00+00:00,,0.3491846929092459,1,2,no,,
+'c948617fef',extremes,Heat Wave,#c40202,random,ekstrem varmeeksponering,2026-05-02T05:23:00+00:00,,0.34916489735970957,0,1,no,,
+'595acbcf9f',extremes,Heat Wave,#c40202,random,varmeste dagen,2026-05-17T06:01:00+00:00,,0.3472378430271442,0,1,no,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,kvikksølv dråper,2026-04-30T05:45:00+00:00,,0.3394825828034618,1,1,no,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,wet spell,2026-04-17T05:15:00+00:00,,0.3389256570150449,1,1,no,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,laveste minimumstemperatur,2026-04-23T05:16:00+00:00,,0.3385755480740421,1,1,no,,
@@ -166,6 +173,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3894a694d1',extremes,Flood,#030ba1,aidr,flash flood australia,2026-05-08T05:16:00+00:00,Australia,0.3106745082811578,0,1,no,SAU,Oceania
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,kaldsmell,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,no,,
 '628c73fc75',extremes,Drought,#edc291,edo,tørke Polen,2026-05-05T05:29:00+00:00,Poland,0.3095758387952307,0,1,no,WCE,Europe
+'3296e9a239',extremes,Flood,#030ba1,aidr,styrtregn australia,2026-05-17T06:01:00+00:00,Australia,0.30949455121594815,0,1,no,SAU,Oceania
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,no,,
 '9fdc419684',extremes,Drought,#edc291,edo,tørrtid Tsjekkia,2026-05-04T05:50:00+00:00,Czechia,0.3083704539612914,0,1,no,WCE,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,regnskyll argentina,2026-04-29T05:40:00+00:00,Argentina,0.3083017242266345,1,1,no,SES,South-America

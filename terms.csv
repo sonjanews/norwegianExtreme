@@ -175,6 +175,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,kaldsmell,2026-04-27T05:39:00+00:00,,0.3101931620480774,1,1,no,,
 '628c73fc75',extremes,Drought,#edc291,edo,tørke Polen,2026-05-05T05:29:00+00:00,Poland,0.3095758387952307,0,1,no,WCE,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,no,,
+'9fdc419684',extremes,Drought,#edc291,edo,tørrtid Tsjekkia,2026-05-04T05:50:00+00:00,Czechia,0.3083704539612914,0,1,no,WCE,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,regnskyll argentina,2026-04-29T05:40:00+00:00,Argentina,0.3083017242266345,0,1,no,SES,South-America
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,regnskyll sør-afrika,2026-05-05T05:29:00+00:00,South Africa,0.3081830648915889,0,1,no,WSAF,Africa
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,regn theewaterskloof grabouw,2026-05-12T05:52:00+00:00,South Africa,0.3080322242850173,0,1,no,WSAF,Africa
@@ -185,7 +186,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,nedbør Brasil,2026-05-02T05:24:00+00:00,Brazil,0.3075973968593861,0,1,no,SAM,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,styrtregn Brasil,2026-05-03T05:44:00+00:00,Brazil,0.3075463637551175,0,1,no,SAM,South-America
 '5a404b2b5a',extremes,Precipitation,#d60d2b,wmo,styrtregn tanzania,2026-05-01T05:54:00+00:00,Tanzania,0.3074864825820533,0,1,no,SEAF,Africa
+'6977541e84',extremes,Drought,#edc291,edo,tørke madagaskar,2026-04-30T05:46:00+00:00,Madagascar,0.30736769376535356,0,1,no,MDG,Africa
 '0994b19b20',extremes,Snow&Ice,#d60d2b,wmo,is finland,2026-04-24T05:22:00+00:00,Finland,0.3073476608123985,1,1,no,NEU,Europe
+'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,is argentina,2026-05-04T05:50:00+00:00,Argentina,0.3073318075650983,0,1,no,SES,South-America
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,nedbør saudi-arabia,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3072538499286963,0,1,no,ARP,Asia
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,regn Saudi-Arabia,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3072308720638423,0,1,no,ARP,Asia
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,iskaldt argentina,2026-05-01T05:54:00+00:00,Argentina,0.3071759917173925,0,1,no,SES,South-America
@@ -193,12 +196,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f0f6b033ff',extremes,Precipitation,#d60d2b,wmo,regn tanzania,2026-05-02T05:24:00+00:00,Tanzania,0.3064425761901006,0,1,no,SEAF,Africa
 '9b59bee21e',extremes,Drought,#edc291,edo,tørkeperioder i Polen,2026-04-28T05:45:00+00:00,Poland,0.3062486444187581,0,1,no,WCE,Europe
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,styrtregn Saudi-Arabia,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3058801608940542,0,1,no,ARP,Asia
+'dc85d12fc4',extremes,Precipitation,#d60d2b,wmo,styrtregn montenegro,2026-05-16T05:40:00+00:00,Montenegro,0.3057886096403002,0,1,no,MED,Europe
 '5998b1a528',extremes,Thunderstorm,#53785a,wmo,hagl Seychellene,2026-04-22T05:13:00+00:00,Seychelles,0.305540930275084,1,1,no,EIO,Africa
 '55c39b351d',extremes,Storm,#b3b2b1,random,støvdjevel,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,no,,
 'e8f2fdcc3a',extremes,Precipitation,#d60d2b,wmo,regn thailand,2026-05-01T05:54:00+00:00,Thailand,0.3047453425192614,0,1,no,SEA,Asia
+'64058b2dc1',extremes,Drought,#edc291,edo,tørrtid Ungarn,2026-05-16T05:40:00+00:00,Hungary,0.304631919868656,0,1,no,WCE,Europe
+'84a92d2d97',extremes,Precipitation,#d60d2b,wmo,regn thailand,2026-05-11T06:14:00+00:00,Thailand,0.3044396673904312,0,1,no,SEA,Asia
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,storm chile,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,no,SWS,South-America
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,storm paraguay,2026-05-11T06:14:00+00:00,Paraguay,0.30402891102790486,0,1,no,SES,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brasil,2026-05-02T05:24:00+00:00,Brazil,0.3039558838015082,0,1,no,SAM,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,stormflo argentina,2026-04-26T05:25:00+00:00,Argentina,0.3039425926068768,1,1,no,SES,South-America
+'eeacc80474',extremes,Storm,#b3b2b1,wmo,storm vanuatu,2026-05-10T05:51:00+00:00,Vanuatu,0.30380147729404183,0,1,no,SPO,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,flom canada,2026-04-26T05:25:00+00:00,Canada,0.3037908808975553,0,1,no,NEN,North-America
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,stormflo Salomonøyene,2026-05-09T05:36:00+00:00,Solomon Islands,0.3037240799789759,0,1,no,EPO,Oceania
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,storm Maldivene,2026-05-03T05:44:00+00:00,Maldives,0.3037203271497771,0,1,no,EIO,Indian Ocean
@@ -240,7 +248,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,stormflo,2026-05-05T05:28:00+00:00,,0.2827226531286963,1,1,no,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,snøpakke,2026-04-20T05:26:00+00:00,,0.2823590754065566,1,1,no,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,brekalving,2026-04-19T05:16:00+00:00,,0.2798796621269687,1,1,no,,
-'9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-04-30T05:46:00+00:00,Iceland,0.27985938663727705,1,1,no,GIC,Europe
+'9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-04-30T05:46:00+00:00,Iceland,0.279859386637277,1,1,no,GIC,Europe
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperaturen stuper,2026-04-18T04:56:00+00:00,,0.2797119897626461,1,1,no,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-04-15T05:11:00+00:00,,0.2793992544128184,1,1,no,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gresshopper,2026-04-27T05:39:00+00:00,,0.2774898077796837,1,1,no,,
@@ -289,7 +297,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04f990069a',extremes,Drought,#edc291,edo,mangel på regn Hviterussland,2026-04-22T05:13:00+00:00,Belarus,0.2625282928740678,1,1,no,WCE,Europe
 '179c5c0d77',extremes,Snow Avalanche,#deddd5,wmo,snøskred sochi,2026-04-19T05:16:00+00:00,Russia,0.2622551781524331,1,1,no,ESB,Europe
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,kald bølge,2026-04-15T05:11:00+00:00,,0.2620358295992533,1,1,no,,
-'7978d58b02',extremes,Precipitation,#d60d2b,wmo,regn Brasil,2026-05-01T05:54:00+00:00,Brazil,0.26198502123430506,1,1,no,SAM,South-America
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,regn Brasil,2026-05-01T05:54:00+00:00,Brazil,0.261985021234305,1,1,no,SAM,South-America
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,regn sør-afrika,2026-05-06T05:43:00+00:00,South Africa,0.2619452413466672,1,1,no,WSAF,Africa
 '0877c3e614',extremes,Precipitation,#d60d2b,wmo,regnregn region litoral,2026-04-30T05:46:00+00:00,Ecuador,0.2618771981570901,1,1,no,NWS,South-America
 '7e44414ba4',extremes,Precipitation,#d60d2b,wmo,regn region amazónica,2026-05-03T05:44:00+00:00,Ecuador,0.2618530963245002,1,1,no,NWS,South-America
@@ -360,7 +368,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c0214d974',extremes,Storm,#b3b2b1,wmo,storm sør-afrika,2026-05-05T05:29:00+00:00,South Africa,0.2585529333958187,1,1,no,WSAF,Africa
 '829105287e',extremes,Storm,#b3b2b1,wmo,storm jamaica,2026-04-14T05:11:00+00:00,Jamaica,0.2584905020934843,1,1,no,CAR,North-America
 '9a93354f3b',extremes,Drought,#edc291,edo,tørr tid angola,2026-04-27T05:40:00+00:00,Angola,0.2584509680324666,1,1,no,WSAF,Africa
-'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,snø argentina,2026-05-01T05:54:00+00:00,Argentina,0.25837381740194676,1,1,no,SES,South-America
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,snø argentina,2026-05-01T05:54:00+00:00,Argentina,0.2583738174019467,1,1,no,SES,South-America
 '87ba69f7f2',extremes,Storm,#b3b2b1,wmo,stormflo Maldivene,2026-05-02T05:24:00+00:00,Maldives,0.2583279936608006,1,1,no,EIO,Indian Ocean
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,regn new zealand,2026-04-17T05:16:00+00:00,New Zealand,0.2582919482048659,1,1,no,NZ,Oceania
 '02711610b5',extremes,Storm,#b3b2b1,wmo,storm argentina,2026-04-26T05:25:00+00:00,Argentina,0.2582858886971684,1,1,no,SES,South-America

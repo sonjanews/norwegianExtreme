@@ -114,11 +114,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '144c06bc4c',extremes,Storm,#b3b2b1,wmo,storm froeya bank,2026-05-13T06:03:00+00:00,Norway,0.428863509553987,2,1,no,NEU,Europe
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-04-10T05:13:00+00:00,Norway,0.4272535793210642,1,1,no,NEU,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-04-10T05:12:00+00:00,,0.4254674361911354,1,2,no,,
-'9944768ca7',extremes,Storm,#b3b2b1,wmo,stormflo nordbredden,2026-04-22T05:13:00+00:00,Norway,0.42383771333915404,2,1,no,NEU,Europe
+'9944768ca7',extremes,Storm,#b3b2b1,wmo,stormflo nordbredden,2026-04-22T05:13:00+00:00,Norway,0.423837713339154,2,1,no,NEU,Europe
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,snøstorm,2026-05-06T05:43:00+00:00,,0.4166414230260499,1,2,no,,
 '21f6056b80',extremes,Snow&Ice,#d60d2b,wmo,frost nordlige deler av innlandet,2026-05-10T05:51:00+00:00,Norway,0.4146213613336819,2,1,no,NEU,Europe
 '6e140f5659',extremes,Storm,#b3b2b1,wmo,stormflo north cape bank,2026-05-03T05:44:00+00:00,Norway,0.4134658500756553,2,1,no,NEU,Europe
-'e3a25cca24',extremes,Storm,#b3b2b1,wmo,stormflo skomvaer melbu,2026-04-25T05:00:00+00:00,Norway,0.41144747215971633,2,1,no,NEU,Europe
+'e3a25cca24',extremes,Storm,#b3b2b1,wmo,stormflo skomvaer melbu,2026-04-25T05:00:00+00:00,Norway,0.4114474721597163,2,1,no,NEU,Europe
 '0b40d28ca0',extremes,Snow&Ice,#d60d2b,wmo,is canada,2026-04-08T05:01:00+00:00,Canada,0.4089695547783478,1,2,no,NEN,North-America
 '70773b5956',extremes,Earthquake,#870007,usgs,jordskjelv alaska,2026-04-26T05:25:00+00:00,Alaska,0.4077041083000394,1,2,no,NWN,North-America
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nattefrost,2026-04-30T05:45:00+00:00,,0.4049644470858093,1,2,no,,
@@ -154,7 +154,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-04-12T05:11:00+00:00,,0.3240823026827045,1,2,no,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,tordenvær,2026-04-18T04:56:00+00:00,,0.3236370850095288,1,1,no,,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-04-28T05:44:00+00:00,,0.3218852107959375,1,1,no,,
-'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-05-03T05:43:00+00:00,,0.3196792514015503,0,1,no,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-04-19T05:16:00+00:00,,0.3172045489859142,1,1,no,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,no,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-05-13T06:02:00+00:00,,0.3159476730973257,1,1,no,,
@@ -169,7 +168,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '628c73fc75',extremes,Drought,#edc291,edo,tørke Polen,2026-05-05T05:29:00+00:00,Poland,0.3095758387952307,0,1,no,WCE,Europe
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-04-16T05:16:00+00:00,,0.3093673195855034,1,1,no,,
 '9fdc419684',extremes,Drought,#edc291,edo,tørrtid Tsjekkia,2026-05-04T05:50:00+00:00,Czechia,0.3083704539612914,0,1,no,WCE,Europe
-'ae340540d6',extremes,Precipitation,#d60d2b,wmo,regnskyll argentina,2026-04-29T05:40:00+00:00,Argentina,0.3083017242266345,0,1,no,SES,South-America
+'ae340540d6',extremes,Precipitation,#d60d2b,wmo,regnskyll argentina,2026-04-29T05:40:00+00:00,Argentina,0.3083017242266345,1,1,no,SES,South-America
 '2ad19fdc58',extremes,Precipitation,#d60d2b,wmo,regnskyll sør-afrika,2026-05-05T05:29:00+00:00,South Africa,0.3081830648915889,0,1,no,WSAF,Africa
 '50bfa8f85d',extremes,Precipitation,#d60d2b,wmo,regn theewaterskloof grabouw,2026-05-12T05:52:00+00:00,South Africa,0.3080322242850173,0,1,no,WSAF,Africa
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,regnskyll Brasil,2026-04-30T05:46:00+00:00,Brazil,0.3079946387921132,0,1,no,SAM,South-America
@@ -248,6 +247,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '11dee0d421',extremes,Tropical Cyclone,#4f4f4f,emdat,tropisk syklon guam,2026-05-05T05:29:00+00:00,Guam,0.2718462176191802,1,1,no,NPO,Oceania
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,storm minnesota,2026-05-05T05:29:00+00:00,United States,0.2717943834660589,1,1,no,WNA,North-America
 '3ea8a9b3b3',extremes,Storm,#b3b2b1,emdat,tropisk syklon nordlige marianaøyene,2026-05-05T05:29:00+00:00,Northern Mariana Islands,0.2717829680124454,1,1,no,NPO,Pacific Ocean
+'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-05-03T05:43:00+00:00,,0.2717273636913177,1,1,no,,
 '96285201b2',extremes,Storm,#b3b2b1,emdat,storm lao cai,2026-05-05T05:29:00+00:00,Vietnam,0.2717044383668572,1,1,no,SEA,Asia
 '9d59b1d751',extremes,Flood,#030ba1,acwe,flom i Sør-Australia,2026-05-04T05:50:00+00:00,Australia,0.2716633025988254,1,1,no,CAU,Oceania
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,ukjent orlando,2026-04-17T05:16:00+00:00,United States,0.27157444286681,1,1,no,ENA,North-America
@@ -356,7 +356,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,storm argentina,2026-04-26T05:25:00+00:00,Argentina,0.2582858886971684,1,1,no,SES,South-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,nedbør canada,2026-04-17T05:16:00+00:00,Canada,0.2582221925452404,1,1,no,NEN,North-America
 '563b781620',extremes,Thunderstorm,#53785a,wmo,hardt vær nigeria,2026-05-08T05:16:00+00:00,Nigeria,0.2582138534685225,1,1,no,WAF,Africa
-'596bcf1fdb',extremes,Storm,#b3b2b1,wmo,stormflo áområde 1 – alvorlig,2026-05-02T05:24:00+00:00,Paraguay,0.25811282823760356,1,1,no,SES,South-America
+'596bcf1fdb',extremes,Storm,#b3b2b1,wmo,stormflo áområde 1 – alvorlig,2026-05-02T05:24:00+00:00,Paraguay,0.2581128282376035,1,1,no,SES,South-America
 'b977149cad',extremes,Storm,#b3b2b1,wmo,storm fjordland nord for tvilsomt sund,2026-05-07T05:46:00+00:00,New Zealand,0.2580774448684768,1,1,no,NZ,Oceania
 'af081911d9',extremes,Precipitation,#d60d2b,wmo,styrtregn wellington unntatt porirua,2026-04-20T05:27:00+00:00,New Zealand,0.2580607524749966,1,1,no,NZ,Oceania
 'd8a981c851',extremes,Earthquake,#870007,usgs,jordskjelv lorengau,2026-05-02T05:23:00+00:00,Papua New Guinea,0.2580566833754081,1,1,no,EPO,Pacific Ocean

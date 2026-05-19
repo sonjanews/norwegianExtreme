@@ -3,6 +3,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,snøskred nord troms,2026-04-30T05:46:00+00:00,Norway,0.7479512337173078,0,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-04-30T05:46:00+00:00,Norway,0.7475665900689054,1,1,no,NEU,Europe
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-05-01T05:54:00+00:00,Norway,0.7445351744183702,0,1,no,NEU,Europe
+'12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,snøskred hardanger,2026-05-02T05:24:00+00:00,Norway,0.7411309191681554,0,1,no,NEU,Europe
+'c8be322002',extremes,Snow Avalanche,#deddd5,wmo,snøskred hallingdal,2026-04-30T05:46:00+00:00,Norway,0.7399387848071319,0,1,no,NEU,Europe
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-05-02T05:24:00+00:00,Norway,0.6857794209772751,0,1,no,NEU,Europe
 'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-05-02T05:24:00+00:00,Norway,0.6667682805575151,2,2,no,NEU,Europe
 '78d090d38d',extremes,Snow&Ice,#d60d2b,wmo,snø norge,2026-04-11T04:34:00+00:00,Norway,0.6483072390492441,1,2,no,NEU,Europe
@@ -26,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '61386d6415',extremes,Snow&Ice,#d60d2b,wmo,iskaldt norge,2026-04-14T05:11:00+00:00,Norway,0.5701007092159778,2,1,no,NEU,Europe
 '03873a8274',extremes,Flood,#030ba1,wmo,flom indre finnmark,2026-05-17T06:01:00+00:00,Norway,0.5568942326561586,1,1,no,NEU,Europe
 'f2e98fe1a2',extremes,Storm,#b3b2b1,wmo,stormflo tromsoflaket,2026-04-21T05:15:00+00:00,Norway,0.5509017445457085,2,1,no,NEU,Europe
+'fd586c67aa',extremes,Flood,#030ba1,wmo,flom indre finnmark,2026-05-19T06:33:00+00:00,Norway,0.546795757377521,0,1,no,NEU,Europe
 'c332197203',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre sogn,2026-04-13T05:28:00+00:00,Norway,0.541540104764348,2,1,no,NEU,Europe
 'f63711b763',extremes,Snow Avalanche,#deddd5,wmo,snøskred sunnmøre,2026-05-01T05:54:00+00:00,Norway,0.5391333846435336,2,1,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-05-02T05:24:00+00:00,Norway,0.5386778440324456,2,1,no,NEU,Europe
@@ -132,6 +135,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-04-16T05:17:00+00:00,Norway,0.3662939238685144,1,1,no,NEU,Europe
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-05-05T05:28:00+00:00,,0.3531787503816919,1,1,no,,
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-04-24T05:21:00+00:00,,0.3491846929092459,1,2,no,,
+'845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-05-19T06:33:00+00:00,,0.34901308604545944,0,1,no,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,varmeste dagen,2026-05-17T06:01:00+00:00,,0.3472378430271442,0,1,no,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,kvikksølv dråper,2026-04-30T05:45:00+00:00,,0.3394825828034618,1,1,no,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,wet spell,2026-04-17T05:15:00+00:00,,0.3389256570150449,1,1,no,,
@@ -156,6 +160,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-04-28T05:44:00+00:00,,0.3218852107959375,1,1,no,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-05-18T06:38:00+00:00,,0.3204521805519216,0,1,no,,
 '72b6332728',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-04-19T05:16:00+00:00,,0.3172045489859142,1,1,no,,
+'6be9519179',extremes,Cold Wave,#a7e9fa,random,kald bølge,2026-05-07T05:46:00+00:00,,0.31696443878705965,0,1,no,,
+'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,flom,2026-05-19T06:33:00+00:00,,0.3163624735260514,0,1,no,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-04-20T05:26:00+00:00,,0.3159950143806126,1,1,no,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-05-13T06:02:00+00:00,,0.3159476730973257,1,1,no,,
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,flom tasmania juni juli 2016,2026-05-12T05:53:00+00:00,Australia,0.3149581712228077,1,1,no,SAU,Oceania
@@ -194,6 +200,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,fryser puvirnituq inukjuak,2026-05-17T06:01:00+00:00,Canada,0.3049871745886765,0,1,no,NEN,North-America
 '64058b2dc1',extremes,Drought,#edc291,edo,tørrtid Ungarn,2026-05-16T05:40:00+00:00,Hungary,0.304631919868656,0,1,no,WCE,Europe
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,regn thailand,2026-05-11T06:14:00+00:00,Thailand,0.3044396673904312,0,1,no,SEA,Asia
+'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,stormflo qatar,2026-05-19T06:33:00+00:00,Qatar,0.30429660388709545,0,1,no,ARP,Asia
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,storm chile,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,no,SWS,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,storm paraguay,2026-05-11T06:14:00+00:00,Paraguay,0.3040289110279048,0,1,no,SES,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brasil,2026-05-02T05:24:00+00:00,Brazil,0.3039558838015082,0,1,no,SAM,South-America
@@ -202,6 +209,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,flom canada,2026-04-26T05:25:00+00:00,Canada,0.3037908808975553,0,1,no,NEN,North-America
 '829105287e',extremes,Storm,#b3b2b1,wmo,storm jamaica,2026-05-06T05:43:00+00:00,Jamaica,0.3037894252478995,0,1,no,CAR,North-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,stormflo Brasil,2026-05-08T05:16:00+00:00,Brazil,0.3037737525027297,0,1,no,SAM,South-America
+'e537c7081f',extremes,Thunderstorm,#53785a,wmo,tordenvær hong kong,2026-05-19T06:33:00+00:00,Hong Kong,0.30373464046409654,0,1,no,EAS,Asia
 'f497a982c3',extremes,Storm,#b3b2b1,wmo,stormflo Salomonøyene,2026-05-09T05:36:00+00:00,Solomon Islands,0.3037240799789759,0,1,no,EPO,Oceania
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,storm Maldivene,2026-05-03T05:44:00+00:00,Maldives,0.3037203271497771,0,1,no,EIO,Indian Ocean
 '12775cc05a',extremes,Drought,#edc291,edo,tørke Brasil,2026-05-02T05:24:00+00:00,Brazil,0.3035786442371033,0,1,no,SAM,South-America

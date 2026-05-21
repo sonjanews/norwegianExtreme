@@ -20,6 +20,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5434da25d3',extremes,Snow&Ice,#d60d2b,wmo,iskaldt finnmark,2026-04-27T05:40:00+00:00,Norway,0.6188916949819117,1,2,no,NEU,Europe
 'fd586c67aa',extremes,Flood,#030ba1,wmo,flom indre finnmark,2026-05-19T06:33:00+00:00,Norway,0.6149264087708928,1,2,no,NEU,Europe
 '826fa05cf0',extremes,Snow Avalanche,#deddd5,wmo,snøskred nordenskiöld land,2026-04-10T05:13:00+00:00,Norway,0.6067930714767557,2,2,no,NEU,Europe
+'8655d0b827',extremes,Storm,#b3b2b1,wmo,storm øst tampen,2026-05-14T06:02:00+00:00,Norway,0.5999718223785298,0,1,no,NEU,Europe
 'd9da396ad7',extremes,Snow Avalanche,#deddd5,wmo,snøskred svalbard vest,2026-04-15T05:12:00+00:00,Norway,0.5994643434792274,2,1,no,NEU,Europe
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-05-02T05:24:00+00:00,Norway,0.5829125078306838,1,1,no,NEU,Europe
 '06285e171c',extremes,Flood,#030ba1,wmo,flom norge,2026-05-17T06:01:00+00:00,Norway,0.5817271644534959,2,1,no,NEU,Europe
@@ -186,6 +187,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,nedbør saudi-arabia,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3072538499286963,0,1,no,ARP,Asia
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,regn Saudi-Arabia,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3072308720638423,0,1,no,ARP,Asia
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,iskaldt argentina,2026-05-01T05:54:00+00:00,Argentina,0.3071759917173925,0,1,no,SES,South-America
+'d04f754034',extremes,Thunderstorm,#53785a,wmo,tordenvær sør-afrika,2026-05-06T05:43:00+00:00,South Africa,0.3069985065275658,0,1,no,WSAF,Africa
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,frost argentina,2026-05-01T05:54:00+00:00,Argentina,0.3065824958371068,0,1,no,SES,South-America
 '9b59bee21e',extremes,Drought,#edc291,edo,tørkeperioder i Polen,2026-04-28T05:45:00+00:00,Poland,0.3062486444187581,0,1,no,WCE,Europe
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,styrtregn Saudi-Arabia,2026-04-28T05:45:00+00:00,Saudi Arabia,0.3058801608940542,0,1,no,ARP,Asia
@@ -194,6 +196,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55c39b351d',extremes,Storm,#b3b2b1,random,støvdjevel,2026-04-16T05:16:00+00:00,,0.3052415758614332,1,1,no,,
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,fryser puvirnituq inukjuak,2026-05-17T06:01:00+00:00,Canada,0.3049871745886765,0,1,no,NEN,North-America
 '64058b2dc1',extremes,Drought,#edc291,edo,tørrtid Ungarn,2026-05-16T05:40:00+00:00,Hungary,0.304631919868656,0,1,no,WCE,Europe
+'e188f4e183',extremes,Storm,#b3b2b1,wmo,storm tanzania,2026-05-20T06:33:00+00:00,Tanzania,0.3045175884522101,0,1,no,SEAF,Africa
+'3421a57149',extremes,Storm,#b3b2b1,wmo,storm ecuador,2026-05-18T06:38:00+00:00,Ecuador,0.30446037386636376,0,1,no,NWS,South-America
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,regn thailand,2026-05-11T06:14:00+00:00,Thailand,0.3044396673904312,0,1,no,SEA,Asia
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,stormflo qatar,2026-05-19T06:33:00+00:00,Qatar,0.3042966038870954,0,1,no,ARP,Asia
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,storm chile,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,no,SWS,South-America
@@ -209,10 +213,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '48a9733a03',extremes,Storm,#b3b2b1,wmo,storm Maldivene,2026-05-03T05:44:00+00:00,Maldives,0.3037203271497771,0,1,no,EIO,Indian Ocean
 'd61de81685',extremes,Storm,#b3b2b1,wmo,stormflo chile,2026-05-05T05:29:00+00:00,Chile,0.3036965985517285,0,1,no,SWS,South-America
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,storm á område 1 – alvorlig,2026-05-17T06:01:00+00:00,Paraguay,0.3036724905076355,0,1,no,SES,South-America
+'734861543c',extremes,Storm,#b3b2b1,wmo,stormflo region amazónica,2026-05-02T05:24:00+00:00,Ecuador,0.30359662182370256,0,1,no,NWS,South-America
 '12775cc05a',extremes,Drought,#edc291,edo,tørke Brasil,2026-05-02T05:24:00+00:00,Brazil,0.3035786442371033,0,1,no,SAM,South-America
 '6b471a0f5b',extremes,Storm,#b3b2b1,wmo,stormflo sør-afrika,2026-05-06T05:43:00+00:00,South Africa,0.3035263322612529,0,1,no,WSAF,Africa
 '6c5632b883',extremes,Snow Avalanche,#deddd5,wmo,snøskredrepublikken Ingushetia,2026-04-28T05:45:00+00:00,Russia,0.3035207227984158,0,1,no,ESB,Europe
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,storm region amazónica,2026-05-11T06:14:00+00:00,Ecuador,0.3032771064519809,0,1,no,NWS,South-America
+'bdc1b5c069',extremes,Storm,#b3b2b1,wmo,storm Bahrain,2026-05-17T06:01:00+00:00,Bahrain,0.3032741215018262,0,1,no,ARP,Asia
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,storm new zealand,2026-05-07T05:46:00+00:00,New Zealand,0.3032523616537132,0,1,no,NZ,Oceania
 '6d88e6d571',extremes,Storm,#b3b2b1,wmo,stormflo nordlige kystvann i vanuatu.,2026-05-13T06:03:00+00:00,Vanuatu,0.3032345397551917,0,1,no,SPO,Oceania
 'a715281618',extremes,Storm,#b3b2b1,wmo,stormflo vanuatu,2026-05-14T06:02:00+00:00,Vanuatu,0.3032332482846498,0,1,no,SPO,Oceania
@@ -228,6 +234,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38da30ea06',extremes,Storm,#b3b2b1,wmo,stormflo taranaki,2026-05-07T05:46:00+00:00,New Zealand,0.3031011234916846,0,1,no,NZ,Oceania
 'a7692ca80d',extremes,Snow Avalanche,#deddd5,wmo,snøskred sør for kamchatka krai,2026-05-05T05:29:00+00:00,Russia,0.3030988940877785,0,1,no,ESB,Europe
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,storm trinidad og tobago,2026-05-17T06:01:00+00:00,Trinidad and Tobago,0.3030817403089885,0,1,no,NSA,North-America
+'475ba7d4ed',extremes,Heat Wave,#c40202,wmo,hetebølge Hviterussland,2026-05-06T05:43:00+00:00,Belarus,0.3030808284021078,0,1,no,WCE,Europe
+'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,frost USA,2026-05-16T05:40:00+00:00,United States,0.3030761556886078,0,1,no,CNA,North-America
 '1c38b19449',extremes,Storm,#b3b2b1,random,støvskåler,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,no,,
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-04-23T05:16:00+00:00,,0.3017193410972955,1,1,no,,
 'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-05-02T05:23:00+00:00,,0.3013586139733563,1,1,no,,

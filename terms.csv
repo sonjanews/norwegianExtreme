@@ -130,7 +130,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '144c06bc4c',extremes,Storm,#b3b2b1,wmo,storm froeya bank,2026-05-13T06:03:00+00:00,Norway,0.3645339831208889,3,1,no,NEU,Europe
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-05-05T05:28:00+00:00,,0.3531787503816919,1,1,no,,
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-04-24T05:21:00+00:00,,0.3491846929092459,1,2,no,,
-'9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-05-08T05:16:00+00:00,Iceland,0.34913036150959054,1,1,no,GIC,Europe
+'9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-05-08T05:16:00+00:00,Iceland,0.3491303615095905,1,1,no,GIC,Europe
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-05-06T05:43:00+00:00,,0.3405988902757442,1,1,no,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,kvikksølv dråper,2026-04-30T05:45:00+00:00,,0.3394825828034618,1,1,no,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,wet spell,2026-04-17T05:15:00+00:00,,0.3389256570150449,1,1,no,,
@@ -242,7 +242,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '11ece58a02',extremes,Storm,#b3b2b1,wmo,stormflo Bahrain,2026-05-17T06:01:00+00:00,Bahrain,0.3028476924759609,0,1,no,ARP,Asia
 '52e589d51e',extremes,Precipitation,#d60d2b,wmo,regn new zealand,2026-05-07T05:46:00+00:00,New Zealand,0.3028467251596319,0,1,no,NZ,Oceania
 'fe5ac6d3b6',extremes,Drought,#edc291,edo,mangel på regn slovakia,2026-05-05T05:29:00+00:00,Slovakia,0.3028363230682165,0,1,no,WCE,Europe
+'229a544839',extremes,Precipitation,#d60d2b,wmo,regnby cape town cape town city,2026-05-11T06:14:00+00:00,South Africa,0.30282671284275714,0,1,no,WSAF,Africa
+'dafed8e9de',extremes,Drought,#edc291,edo,mangel på regn brunei,2026-05-13T06:03:00+00:00,Brunei,0.3028214926783124,0,1,no,SEA,Asia
+'464c05f22e',extremes,Precipitation,#d60d2b,wmo,rain city of cape town cape town city,2026-05-13T06:03:00+00:00,South Africa,0.30278562472841597,0,1,no,WSAF,Africa
+'8f8c4d17cb',extremes,Heat Wave,#c40202,wmo,hetebølge etiopia,2026-05-14T06:02:00+00:00,Ethiopia,0.30277923659471534,0,1,no,NEAF,Africa
+'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,styrtregn region insular,2026-05-11T06:14:00+00:00,Ecuador,0.3027764446346575,0,1,no,NWS,South-America
 '1c38b19449',extremes,Storm,#b3b2b1,random,støvskåler,2026-04-18T04:56:00+00:00,,0.3027701500395653,1,1,no,,
+'97a5343951',extremes,Precipitation,#d60d2b,wmo,regn Seychellene,2026-05-07T05:46:00+00:00,Seychelles,0.3027467965295796,0,1,no,EIO,Africa
+'84dfdca0f8',extremes,Thunderstorm,#53785a,random,hagl,2026-05-05T05:28:00+00:00,,0.3027227380965002,0,1,no,,
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,nedbør ecuador,2026-05-09T05:36:00+00:00,Ecuador,0.3027170098087226,0,1,no,NWS,South-America
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-04-23T05:16:00+00:00,,0.3017193410972955,1,1,no,,
 'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-05-02T05:23:00+00:00,,0.3013586139733563,1,1,no,,
 '4dc8bdbf14',extremes,Flood,#030ba1,random,elveflom,2026-04-20T05:26:00+00:00,,0.2987585760089489,1,1,no,,

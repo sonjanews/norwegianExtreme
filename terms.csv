@@ -80,7 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,kaldeste vinteren,2026-04-13T05:27:00+00:00,,0.4758789545512072,1,2,no,,
 '8b994111a9',extremes,Snow&Ice,#d60d2b,wmo,snølokk,2026-04-22T05:13:00+00:00,Norway,0.4695880546684456,2,1,no,NEU,Europe
 'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-04-27T05:39:00+00:00,,0.4692564902251044,1,2,no,,
-'140657f1a8',extremes,Storm,#b3b2b1,wmo,storm froeya roervik,2026-05-27T06:46:00+00:00,Norway,0.46862397301937575,2,1,no,NEU,Europe
+'140657f1a8',extremes,Storm,#b3b2b1,wmo,storm froeya roervik,2026-05-27T06:46:00+00:00,Norway,0.4686239730193757,2,1,no,NEU,Europe
 '872938ce58',extremes,Storm,#b3b2b1,wmo,stormflo viking,2026-05-13T06:03:00+00:00,Norway,0.4668249398257903,1,1,no,NEU,Europe
 '3aa4328a9e',extremes,Storm,#b3b2b1,wmo,stormflo vardoe russisk grense,2026-04-22T05:13:00+00:00,Norway,0.4661467426200402,2,1,no,NEU,Europe
 '5ea85da27f',extremes,Storm,#b3b2b1,wmo,storm roervik stoett,2026-05-10T05:51:00+00:00,Norway,0.4659353076543157,1,1,no,NEU,Europe
@@ -234,7 +234,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0dbfb0c2b4',extremes,Cold Wave,#a7e9fa,wmo,kald bølge Kina,2026-05-07T05:46:00+00:00,China,0.3023364831120746,0,1,no,EAS,Asia
 '7e83ea89df',extremes,Precipitation,#d60d2b,wmo,regnregn region insular,2026-05-12T05:52:00+00:00,Ecuador,0.3023154429673235,0,1,no,NWS,South-America
 '31e0110198',extremes,Storm,#b3b2b1,wmo,stormflo alle Salomonøyenes farvann,2026-05-11T06:14:00+00:00,Solomon Islands,0.3022893314544646,0,1,no,EPO,Oceania
+'cf99db758d',extremes,Fog,#d60d2b,wmo,tåke latvia,2026-05-12T05:52:00+00:00,Latvia,0.30228585643051936,0,1,no,WCE,Europe
+'71042959f2',extremes,Flood,#030ba1,wmo,flom gamle kråke yukon,2026-05-09T05:36:00+00:00,Canada,0.3022671224791824,0,1,no,NEN,North-America
+'8465f983bf',extremes,Storm,#b3b2b1,wmo,stormflo béchar,2026-05-08T05:16:00+00:00,Algeria,0.30225947402055886,0,1,no,SAH,Africa
+'a93ca33fc4',extremes,Storm,#b3b2b1,wmo,stormflo kanalen og sørlige farvann.,2026-05-17T06:01:00+00:00,Vanuatu,0.3022326573012027,0,1,no,SPO,Oceania
+'7867822b00',extremes,Precipitation,#d60d2b,wmo,nedbør overstrand hermanus,2026-05-12T05:52:00+00:00,South Africa,0.3022309105521983,0,1,no,WSAF,Africa
+'5bbe9c0082',extremes,Storm,#b3b2b1,wmo,stormflo canada,2026-05-10T05:51:00+00:00,Canada,0.3021524137994265,0,1,no,NEN,North-America
 '3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-05-20T06:32:00+00:00,,0.3021338388275543,1,2,no,,
+'c630738b07',extremes,Storm,#b3b2b1,wmo,storm alle vanuatu kystfarvann.,2026-05-17T06:01:00+00:00,Vanuatu,0.302123164821871,0,1,no,SPO,Oceania
+'7d6aaace1c',extremes,Wildfire,#d60d2b,wmo,skogbrann india,2026-05-15T06:09:00+00:00,India,0.3021095118577984,0,1,no,SAS,Asia
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-04-23T05:16:00+00:00,,0.3017193410972955,1,1,no,,
 'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-05-02T05:23:00+00:00,,0.3013586139733563,1,1,no,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,snøpakke,2026-05-10T05:51:00+00:00,,0.298716429096878,1,1,no,,

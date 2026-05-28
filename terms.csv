@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-05-22T06:32:00+00:00,Norway,0.6901927328213812,0,1,no,NEU,Europe
+'4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-05-22T06:32:00+00:00,Norway,0.7158298973718582,1,2,no,NEU,Europe
 'ab92adcf6e',extremes,Snow Avalanche,#deddd5,wmo,snøskred sør troms,2026-05-05T05:29:00+00:00,Norway,0.6363441159353146,2,1,no,NEU,Europe
 '416d23061d',extremes,Snow Avalanche,#deddd5,wmo,snøskred jotunheimen,2026-05-02T05:24:00+00:00,Norway,0.636132718271646,1,1,no,NEU,Europe
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,snøskred nord troms,2026-04-30T05:46:00+00:00,Norway,0.6359085636597116,1,1,no,NEU,Europe
@@ -113,9 +113,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dea2bf92c4',extremes,Storm,#b3b2b1,wmo,stormflo vesteraalsbank,2026-05-01T05:54:00+00:00,Norway,0.3916763794664041,3,1,no,NEU,Europe
 '776fe47817',extremes,Wildfire,#d60d2b,random,skogbrann,2026-05-18T06:38:00+00:00,,0.3910797057448295,1,3,no,,
 '40f675561f',extremes,Heat Wave,#c40202,random,varmeste sommeren,2026-05-22T06:31:00+00:00,,0.3771993807370792,1,1,no,,
-'74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-05-14T06:02:00+00:00,Iceland,0.37471523766045534,1,1,no,GIC,Europe
+'74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-05-14T06:02:00+00:00,Iceland,0.3747152376604553,1,1,no,GIC,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-05-18T06:38:00+00:00,,0.3728343984691333,1,2,no,,
-'93517b8aa8',extremes,Snow&Ice,#d60d2b,wmo,iskaldt nordøst island,2026-05-28T06:38:00+00:00,Iceland,0.36973183418834926,1,1,no,GIC,Europe
+'93517b8aa8',extremes,Snow&Ice,#d60d2b,wmo,iskaldt nordøst island,2026-05-28T06:38:00+00:00,Iceland,0.3697318341883492,1,1,no,GIC,Europe
 '9391f481ee',extremes,Storm,#b3b2b1,random,vindstorm,2026-05-06T05:43:00+00:00,,0.3678636764772002,1,1,no,,
 'f439fda285',extremes,Drought,#edc291,edo,tørke norge,2026-05-08T05:16:00+00:00,Norway,0.3673318527195791,1,1,no,NEU,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,flom,2026-05-19T06:33:00+00:00,,0.3660128129516891,1,2,no,,
@@ -144,7 +144,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97185764af',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre fjordane,2026-05-03T05:44:00+00:00,Norway,0.3244367837186482,1,1,no,NEU,Europe
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-04-28T05:44:00+00:00,,0.3218852107959375,1,1,no,,
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperaturen stuper,2026-05-08T05:16:00+00:00,,0.3204276545755503,1,1,no,,
-'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,kulde i vestlige australia,2026-05-27T06:46:00+00:00,Australia,0.319318399336074,0,1,no,CAU,Oceania
 'db417cfee9',extremes,Cold Wave,#a7e9fa,acwe,kaldt vær vestlige australia,2026-05-28T06:38:00+00:00,Australia,0.3190270171634262,0,1,no,CAU,Oceania
 'fec57a6213',extremes,Heat Wave,#c40202,cmeter,europeisk hetebølge paris,2026-05-28T06:38:00+00:00,France,0.3188743911320906,0,1,no,,
 '3dc98006fe',extremes,Drought,#edc291,acwe,mangel på regn vestlige australia,2026-05-27T06:46:00+00:00,Australia,0.3187355267638593,0,1,no,CAU,Oceania
@@ -254,7 +253,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e0f14a84be',extremes,Tropical Cyclone,#4f4f4f,random,nasjonalt orkansenter,2026-05-08T05:16:00+00:00,,0.285593911338904,1,1,no,,
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,brennende temperatur,2026-05-25T06:52:00+00:00,,0.2840529264040586,1,1,no,,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,stormflo,2026-05-05T05:28:00+00:00,,0.2827226531286963,1,1,no,,
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-05-14T06:02:00+00:00,,0.28136727058332583,1,1,no,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-05-14T06:02:00+00:00,,0.2813672705833258,1,1,no,,
 '9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-04-30T05:46:00+00:00,Iceland,0.279859386637277,1,1,no,GIC,Europe
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gresshopper,2026-04-27T05:39:00+00:00,,0.2774898077796837,1,1,no,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-04-26T05:25:00+00:00,,0.275907001463019,1,1,no,,
@@ -273,6 +272,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0ad361cd5',extremes,Precipitation,#d60d2b,acwe,våt spell victoria,2026-05-04T05:50:00+00:00,Australia,0.2715193214313465,1,1,no,SAU,Oceania
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,hetebølge New South Wales,2026-05-04T05:50:00+00:00,Australia,0.2715090824876664,1,1,no,EAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,våt periode New South Wales,2026-05-04T05:50:00+00:00,Australia,0.2715066060127571,1,1,no,EAU,Oceania
+'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,kulde i vestlige australia,2026-05-27T06:46:00+00:00,Australia,0.27142063943566286,1,1,no,CAU,Oceania
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,varm spell australia,2026-05-04T05:50:00+00:00,Australia,0.2713702887782294,1,1,no,CAU,Oceania
 '2595e5c49a',extremes,Flood,#030ba1,acwe,høy vannstand australia,2026-05-04T05:50:00+00:00,Australia,0.2712012609768909,1,1,no,CAU,Oceania
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,mild vinter vestlige australia,2026-05-04T05:50:00+00:00,Australia,0.2711431259064057,1,1,no,CAU,Oceania

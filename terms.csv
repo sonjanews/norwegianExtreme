@@ -85,7 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fba0312eeb',extremes,Snow&Ice,#d60d2b,wmo,snødeler av fjellene i vest,2026-05-09T05:36:00+00:00,Norway,0.4582337843846806,2,1,no,NEU,Europe
 'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-05-01T05:54:00+00:00,Norway,0.4579739897909535,3,1,no,NEU,Europe
 'df421a27e4',extremes,Storm,#b3b2b1,wmo,storm torsvaag nordkapp,2026-04-24T05:22:00+00:00,Norway,0.4565005756922894,2,1,no,NEU,Europe
-'c332197203',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre sogn,2026-05-04T05:50:00+00:00,Norway,0.45567954782547343,3,1,no,NEU,Europe
+'c332197203',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre sogn,2026-05-04T05:50:00+00:00,Norway,0.4556795478254734,3,1,no,NEU,Europe
 '2663931fc5',extremes,Storm,#b3b2b1,wmo,stormflo lindesnes aana sira,2026-04-24T05:22:00+00:00,Norway,0.4549208452623949,2,1,no,NEU,Europe
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-05-13T06:03:00+00:00,Norway,0.4522993895367375,1,1,no,NEU,Europe
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,snøstorm,2026-04-22T05:13:00+00:00,,0.4502463295700745,1,2,no,,
@@ -199,7 +199,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,styrtregn region insular,2026-05-11T06:14:00+00:00,Ecuador,0.3027764446346575,0,1,no,NWS,South-America
 '97a5343951',extremes,Precipitation,#d60d2b,wmo,regn Seychellene,2026-05-07T05:46:00+00:00,Seychelles,0.3027467965295796,0,1,no,EIO,Africa
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,hagl,2026-05-05T05:28:00+00:00,,0.3027227380965002,0,1,no,,
-'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,nedbør ecuador,2026-05-09T05:36:00+00:00,Ecuador,0.3027170098087226,0,1,no,NWS,South-America
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,nedbør ecuador,2026-05-09T05:36:00+00:00,Ecuador,0.30271700980872257,1,1,no,NWS,South-America
 '922fde2aea',extremes,Drought,#edc291,edo,tørrtid benin,2026-05-16T05:40:00+00:00,Benin,0.3027088688917165,0,1,no,WAF,Africa
 '7fb436f320',extremes,Storm,#b3b2b1,wmo,storm m_table bay table bay,2026-05-11T06:14:00+00:00,South Africa,0.302688391968243,0,1,no,WSAF,Africa
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,iskaldt USA,2026-05-16T05:40:00+00:00,United States,0.3025509254350048,0,1,no,CNA,North-America
@@ -385,7 +385,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a93354f3b',extremes,Drought,#edc291,edo,tørr tid angola,2026-04-27T05:40:00+00:00,Angola,0.2584509680324666,1,1,no,WSAF,Africa
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,storm paraguay,2026-05-11T06:14:00+00:00,Paraguay,0.2584245743737191,1,1,no,SES,South-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,snø argentina,2026-05-01T05:54:00+00:00,Argentina,0.2583738174019467,1,1,no,SES,South-America
-'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brasil,2026-05-02T05:24:00+00:00,Brazil,0.25836250123128196,1,1,no,SAM,South-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brasil,2026-05-02T05:24:00+00:00,Brazil,0.2583625012312819,1,1,no,SAM,South-America
 '87ba69f7f2',extremes,Storm,#b3b2b1,wmo,stormflo Maldivene,2026-05-02T05:24:00+00:00,Maldives,0.2583279936608006,1,1,no,EIO,Indian Ocean
 '02711610b5',extremes,Storm,#b3b2b1,wmo,storm argentina,2026-04-26T05:25:00+00:00,Argentina,0.2582858886971684,1,1,no,SES,South-America
 '563b781620',extremes,Thunderstorm,#53785a,wmo,hardt vær nigeria,2026-05-08T05:16:00+00:00,Nigeria,0.2582138534685225,1,1,no,WAF,Africa
@@ -412,9 +412,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,snø serbia,2026-04-30T05:46:00+00:00,Serbia,0.2573512109549644,1,1,no,MED,Europe
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,hetebølge chile,2026-05-01T05:54:00+00:00,Chile,0.257216117010673,1,1,no,SWS,South-America
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,snø Brasil,2026-04-29T05:40:00+00:00,Brazil,0.257159466524964,1,1,no,SAM,South-America
-'13197f48c0',extremes,Precipitation,#d60d2b,wmo,regn overstrand hermanus,2026-05-11T06:14:00+00:00,South Africa,0.25714407552102136,1,1,no,WSAF,Africa
+'13197f48c0',extremes,Precipitation,#d60d2b,wmo,regn overstrand hermanus,2026-05-11T06:14:00+00:00,South Africa,0.2571440755210213,1,1,no,WSAF,Africa
 '766190540a',extremes,Storm,#b3b2b1,wmo,stormflo tanzania,2026-04-30T05:46:00+00:00,Tanzania,0.2570651651552067,1,1,no,SEAF,Africa
 'bd584a5aeb',extremes,Storm,#b3b2b1,wmo,storm lesedi lesedi heidelberg,2026-04-28T05:45:00+00:00,South Africa,0.2569813509794348,1,1,no,WSAF,Africa
-'31e0110198',extremes,Storm,#b3b2b1,wmo,stormflo alle Salomonøyenes farvann,2026-05-11T06:14:00+00:00,Solomon Islands,0.25694593173629493,1,1,no,EPO,Oceania
-'ce4931e51e',extremes,Flood,#030ba1,wmo,flashflood south australia cooper creek,2026-05-23T05:53:00+00:00,Australia,0.22061062804483533,2,1,no,CAU,Oceania
+'31e0110198',extremes,Storm,#b3b2b1,wmo,stormflo alle Salomonøyenes farvann,2026-05-11T06:14:00+00:00,Solomon Islands,0.2569459317362949,1,1,no,EPO,Oceania
+'ce4931e51e',extremes,Flood,#030ba1,wmo,flashflood south australia cooper creek,2026-05-23T05:53:00+00:00,Australia,0.2206106280448353,2,1,no,CAU,Oceania
 'e8573dc87f',extremes,Snow&Ice,#d60d2b,wmo,fryser puvirnituq inukjuak,2026-05-17T06:01:00+00:00,Canada,0.2203532336403187,2,1,no,NEN,North-America

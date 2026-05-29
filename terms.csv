@@ -4,7 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-05-02T05:24:00+00:00,Norway,0.6338630775479839,1,1,no,NEU,Europe
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-05-01T05:54:00+00:00,Norway,0.6331549282556147,1,1,no,NEU,Europe
 '6bcd4af11f',extremes,Flood,#030ba1,wmo,flom norge,2026-05-25T06:53:00+00:00,Norway,0.6160707094763319,2,1,no,NEU,Europe
-'1fec654a3e',extremes,Storm,#b3b2b1,wmo,stormflo obrestad karmoey,2026-05-29T06:38:00+00:00,Norway,0.6120427060341278,0,1,no,NEU,Europe
+'1fec654a3e',extremes,Storm,#b3b2b1,wmo,stormflo obrestad karmoey,2026-05-29T06:38:00+00:00,Norway,0.6120427060341277,1,1,no,NEU,Europe
 '50a3485796',extremes,Flood,#030ba1,wmo,flom norge,2026-05-25T06:53:00+00:00,Norway,0.609938925875967,2,1,no,NEU,Europe
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-05-22T06:32:00+00:00,Norway,0.6084556977660796,2,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-04-30T05:46:00+00:00,Norway,0.5869312927414507,3,1,no,NEU,Europe
@@ -96,7 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,is island,2026-05-29T06:38:00+00:00,Iceland,0.4374237361976905,0,1,no,GIC,Europe
 'eba7af8bf5',extremes,Snow&Ice,#d60d2b,wmo,is finnmark,2026-04-26T05:25:00+00:00,Norway,0.4370267090409209,2,1,no,NEU,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,iskalde østfjorder,2026-05-29T06:38:00+00:00,Iceland,0.4363995221315313,0,1,no,GIC,Europe
-'1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,snø island,2026-05-29T06:38:00+00:00,Iceland,0.43613604853390925,0,1,no,GIC,Europe
+'1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,snø island,2026-05-29T06:38:00+00:00,Iceland,0.4361360485339092,0,1,no,GIC,Europe
 'c32830b8d5',extremes,Storm,#b3b2b1,wmo,stormflo froeya bank,2026-05-08T05:16:00+00:00,Norway,0.435199655148603,2,1,no,NEU,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,frost island,2026-04-23T05:16:00+00:00,Iceland,0.431721888743938,1,1,no,GIC,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,regnbyger,2026-05-25T06:52:00+00:00,,0.4240308686175415,1,2,no,,

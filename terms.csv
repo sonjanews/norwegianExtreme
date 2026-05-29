@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-05-03T05:44:00+00:00,Norway,0.6342930460968653,1,1,no,NEU,Europe
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-05-02T05:24:00+00:00,Norway,0.6338630775479839,1,1,no,NEU,Europe
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-05-01T05:54:00+00:00,Norway,0.6331549282556147,1,1,no,NEU,Europe
-'5434da25d3',extremes,Snow&Ice,#d60d2b,wmo,iskaldt finnmark,2026-04-27T05:40:00+00:00,Norway,0.6188916949819117,1,2,no,NEU,Europe
 '6bcd4af11f',extremes,Flood,#030ba1,wmo,flom norge,2026-05-25T06:53:00+00:00,Norway,0.6160707094763319,2,1,no,NEU,Europe
 '50a3485796',extremes,Flood,#030ba1,wmo,flom norge,2026-05-25T06:53:00+00:00,Norway,0.609938925875967,2,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-04-30T05:46:00+00:00,Norway,0.5869312927414507,3,1,no,NEU,Europe
@@ -41,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8921329e82',extremes,Storm,#b3b2b1,wmo,stormflo dyp e4,2026-05-02T05:24:00+00:00,Norway,0.5298777446533622,1,1,no,NEU,Europe
 '73f6c5f9ae',extremes,Storm,#b3b2b1,wmo,stormflo froeya roervik,2026-04-25T05:00:00+00:00,Norway,0.5288650163776629,1,1,no,NEU,Europe
 'f8fffe2ab3',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av rogaland,2026-04-24T05:22:00+00:00,Norway,0.5287243669972488,3,1,no,NEU,Europe
+'5434da25d3',extremes,Snow&Ice,#d60d2b,wmo,iskaldt finnmark,2026-04-27T05:40:00+00:00,Norway,0.5262079557346249,2,2,no,NEU,Europe
 '61386d6415',extremes,Snow&Ice,#d60d2b,wmo,iskaldt norge,2026-05-05T05:29:00+00:00,Norway,0.5254990206424773,2,1,no,NEU,Europe
 'f89c92ad93',extremes,Snow&Ice,#d60d2b,wmo,is norge,2026-04-24T05:22:00+00:00,Norway,0.5242564509945504,2,2,no,NEU,Europe
 '14ccfab368',extremes,Storm,#b3b2b1,wmo,stormflo ona froeya,2026-04-25T05:00:00+00:00,Norway,0.5229243900196167,1,1,no,NEU,Europe
@@ -272,7 +272,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0ad361cd5',extremes,Precipitation,#d60d2b,acwe,våt spell victoria,2026-05-04T05:50:00+00:00,Australia,0.2715193214313465,1,1,no,SAU,Oceania
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,hetebølge New South Wales,2026-05-04T05:50:00+00:00,Australia,0.2715090824876664,1,1,no,EAU,Oceania
 '83b05b31d0',extremes,Precipitation,#d60d2b,acwe,våt periode New South Wales,2026-05-04T05:50:00+00:00,Australia,0.2715066060127571,1,1,no,EAU,Oceania
-'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,kulde i vestlige australia,2026-05-27T06:46:00+00:00,Australia,0.27142063943566286,1,1,no,CAU,Oceania
+'f8039d6ad1',extremes,Cold Wave,#a7e9fa,acwe,kulde i vestlige australia,2026-05-27T06:46:00+00:00,Australia,0.2714206394356628,1,1,no,CAU,Oceania
 'a66d6e96e1',extremes,Heat Wave,#c40202,acwe,varm spell australia,2026-05-04T05:50:00+00:00,Australia,0.2713702887782294,1,1,no,CAU,Oceania
 '2595e5c49a',extremes,Flood,#030ba1,acwe,høy vannstand australia,2026-05-04T05:50:00+00:00,Australia,0.2712012609768909,1,1,no,CAU,Oceania
 '248cc444aa',extremes,Heat Wave,#c40202,acwe,mild vinter vestlige australia,2026-05-04T05:50:00+00:00,Australia,0.2711431259064057,1,1,no,CAU,Oceania

@@ -155,11 +155,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,skogbrann tasmania,2026-05-31T06:41:00+00:00,Australia,0.3075284239990557,0,1,no,SAU,Oceania
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,hardt vær canada,2026-05-30T06:01:00+00:00,Canada,0.3071003025994993,0,1,no,NEN,North-America
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-05-14T06:02:00+00:00,,0.306205509071204,1,1,no,,
+'5ddc2bcd1c',extremes,Snow Avalanche,#deddd5,wmo,skred russland,2026-05-16T05:40:00+00:00,Russia,0.30570631862381864,0,1,no,ESB,Europe
 '700ffc8c1c',extremes,Precipitation,#d60d2b,wmo,nedbør vestlandet sør for hokitika,2026-05-29T06:38:00+00:00,New Zealand,0.3052275046037253,0,1,no,NZ,Oceania
 '8e0946a5f2',extremes,Drought,#edc291,edo,mangel på regn estland,2026-05-10T05:51:00+00:00,Estonia,0.3046353543761177,0,1,no,NEU,Europe
 '98db96b6de',extremes,Drought,#edc291,edo,tørke litauen,2026-05-17T06:01:00+00:00,Lithuania,0.304407301810373,0,1,no,WCE,Europe
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,regn canada,2026-05-15T06:09:00+00:00,Canada,0.3041603950034258,0,1,no,NEN,North-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,storm chile,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,no,SWS,South-America
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,stormflo argentina,2026-05-16T05:40:00+00:00,Argentina,0.3039754998436308,0,1,no,SES,South-America
 'eeacc80474',extremes,Storm,#b3b2b1,wmo,storm vanuatu,2026-05-10T05:51:00+00:00,Vanuatu,0.3038014772940418,0,1,no,SPO,Oceania
 'b9e5a5873a',extremes,Flood,#030ba1,wmo,flom canada,2026-04-26T05:25:00+00:00,Canada,0.3037908808975553,0,1,no,NEN,North-America
 '829105287e',extremes,Storm,#b3b2b1,wmo,storm jamaica,2026-05-06T05:43:00+00:00,Jamaica,0.3037894252478995,0,1,no,CAR,North-America
@@ -224,12 +226,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27476cedd4',extremes,Snow Avalanche,#deddd5,wmo,snøskred sør for krasnoyarsk krai,2026-05-10T05:51:00+00:00,Russia,0.3020964726050906,0,1,no,ESB,Europe
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,hetebølge Belgia,2026-05-26T06:31:00+00:00,Belgium,0.3020470038476004,0,1,no,WCE,Europe
 '95b5264574',extremes,Heat Wave,#c40202,wmo,hetebølge canada,2026-05-18T06:38:00+00:00,Canada,0.3020302861911446,0,1,no,NEN,North-America
+'b8a0990dab',extremes,Heat Wave,#c40202,wmo,hetebølge Frankrike,2026-05-24T06:22:00+00:00,France,0.3020206695494974,0,1,no,WCE,Europe
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,snø USA,2026-05-16T05:40:00+00:00,United States,0.3020090126694399,0,1,no,CNA,North-America
 '2d341e159e',extremes,Heat Wave,#c40202,wmo,hetebølge ananthagiri k kotapadu mandals,2026-05-10T05:51:00+00:00,India,0.3019834721377935,0,1,no,SAS,Asia
 '53cbc471ca',extremes,Precipitation,#d60d2b,wmo,nedbørsregion litoral,2026-05-10T05:51:00+00:00,Ecuador,0.3019526263252824,0,1,no,NWS,South-America
 '8db658717e',extremes,Flood,#030ba1,wmo,flashflood australia,2026-05-16T05:40:00+00:00,Australia,0.301847027422482,0,1,no,CAU,Oceania
 'dadd7aa1d0',extremes,Heat Wave,#c40202,wmo,hetebølge tver region,2026-05-16T05:40:00+00:00,Russia,0.301805181072886,0,1,no,ESB,Europe
 'a295c781ad',extremes,Heat Wave,#c40202,wmo,hetebølge yaroslavl-regionen,2026-05-17T06:01:00+00:00,Russia,0.3017791122387753,0,1,no,ESB,Europe
+'35047b6041',extremes,Heat Wave,#c40202,wmo,hetebølge Moskva-regionen,2026-05-16T05:40:00+00:00,Russia,0.3017109207456165,0,1,no,ESB,Europe
+'07403ae253',extremes,Earthquake,#870007,usgs,jordskjelv port blair,2026-05-14T06:02:00+00:00,India,0.3017026289151235,0,1,no,BOB,Indian Ocean
+'03f33e230d',extremes,Earthquake,#870007,usgs,jordskjelv i chile,2026-05-16T05:40:00+00:00,Chile,0.3016237001876903,0,1,no,SWS,South-America
+'aafce152ff',extremes,Storm,#b3b2b1,wmo,storm litoral y estribación de cordillera,2026-05-30T06:01:00+00:00,Ecuador,0.30157602727033583,0,1,no,NWS,South-America
+'09b8af5c65',extremes,Earthquake,#870007,usgs,jordskjelv hawaii,2026-05-25T06:52:00+00:00,Hawaii,0.3015670161383677,0,1,no,NPO,North-America
 'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-05-02T05:23:00+00:00,,0.3013586139733563,1,1,no,,
 'e593608bfa',extremes,Snow&Ice,#d60d2b,random,snøpakke,2026-05-10T05:51:00+00:00,,0.298716429096878,1,1,no,,
 'c948617fef',extremes,Heat Wave,#c40202,random,ekstrem varmeeksponering,2026-05-02T05:23:00+00:00,,0.2967901627557531,1,1,no,,

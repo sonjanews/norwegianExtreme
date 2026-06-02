@@ -98,7 +98,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-05-14T06:02:00+00:00,Iceland,0.3747152376604553,1,1,no,GIC,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-05-18T06:38:00+00:00,,0.3728343984691333,1,2,no,,
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,is island,2026-05-29T06:38:00+00:00,Iceland,0.3725602507680369,1,1,no,GIC,Europe
-'67da8791c0',extremes,Snow&Ice,#d60d2b,wmo,is østfjorder,2026-06-02T07:08:00+00:00,Iceland,0.37199912969196475,1,1,no,GIC,Europe
+'67da8791c0',extremes,Snow&Ice,#d60d2b,wmo,is østfjorder,2026-06-02T07:08:00+00:00,Iceland,0.3719991296919647,1,1,no,GIC,Europe
 '0cdbf4ad8d',extremes,Snow&Ice,#d60d2b,wmo,frost island,2026-05-28T06:38:00+00:00,Iceland,0.3716251840953771,1,1,no,GIC,Europe
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,frost østfjorder,2026-05-30T06:01:00+00:00,Iceland,0.3713418902866358,1,1,no,GIC,Europe
 '9a99aaf69a',extremes,Snow&Ice,#d60d2b,wmo,iskalde østfjorder,2026-05-29T06:38:00+00:00,Iceland,0.3709395938118016,1,1,no,GIC,Europe
@@ -132,10 +132,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-05-18T06:38:00+00:00,,0.3253091801159376,1,1,no,,
 '97185764af',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre fjordane,2026-05-03T05:44:00+00:00,Norway,0.3244367837186482,1,1,no,NEU,Europe
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperaturen stuper,2026-05-08T05:16:00+00:00,,0.3204276545755503,1,1,no,,
-'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-06-02T07:08:00+00:00,,0.31809443893056893,1,1,no,,
+'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-06-02T07:08:00+00:00,,0.3180944389305689,1,1,no,,
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-05-13T06:02:00+00:00,,0.3159476730973257,1,1,no,,
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,flom tasmania juni juli 2016,2026-05-12T05:53:00+00:00,Australia,0.3149581712228077,1,1,no,SAU,Oceania
-'44211c95de',extremes,Flood,#030ba1,aidr,flom i australia,2026-05-17T06:01:00+00:00,Australia,0.3144297525232813,0,1,no,EAU,Oceania
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-05-04T05:49:00+00:00,,0.3144136829627095,1,1,no,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,varmekuppel,2026-05-16T05:40:00+00:00,,0.3137155548125164,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-05-26T06:31:00+00:00,,0.3136404114588921,1,1,no,,
@@ -291,6 +290,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9a3abc8c2',extremes,Landslide,#572c03,random,gjørmestrøm,2026-05-05T05:28:00+00:00,,0.2678850238807912,1,1,no,,
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,flood hobart flash flooding tasmania 2018,2026-05-09T05:36:00+00:00,Australia,0.2678689943704524,1,1,no,SAU,Oceania
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-05-16T05:40:00+00:00,,0.267670532025559,1,1,no,,
+'44211c95de',extremes,Flood,#030ba1,aidr,flom i australia,2026-05-17T06:01:00+00:00,Australia,0.26741530464478913,1,1,no,EAU,Oceania
 '7a2481f0b1',extremes,Flood,#030ba1,aidr,elv som flommer australia,2026-05-01T05:55:00+00:00,Australia,0.2671959743001235,1,1,no,SAU,Oceania
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,varm stave New South Wales,2026-05-06T05:43:00+00:00,Australia,0.26647126270951,1,1,no,EAU,Oceania
 'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,storm haglstorm sydney new south wales 2015,2026-05-11T06:14:00+00:00,,0.2656480548895296,1,1,no,EAU,Oceania

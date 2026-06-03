@@ -43,7 +43,7 @@ topicColors = {'unknown':'#000000', 'Adaptation':'#0000FF', 'Mitigation':'#00FF0
 
 continentColors = {'unknown':'#d60d2b', 'Asia':'#ffff00', 'Europe':'#ff00ff', 'North-America':'#0000ff', 'Africa':'#ff0000', 'South-America':'#00ff00', 'Oceania':'#00ffff', 'Pacific Ocean':'#88ff00'}
 
-feedColors = {'unknown':'#ffffff', 'mail':'#8888ff', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'aidr':'#88ff88', 'acwe':'#ff8888', 'random':'#00ffff', 'cmeter':'#ff0088', 'wmo':'#ff0000'}
+feedColors = {'unknown':'#ffffff', 'mail':'#8888ff', 'meteo':'#008888', 'effis':'#00ff00', 'relief':'#880088', 'edo':'#0000ff', 'fema':'#888800', 'eonet':'#ffff00', 'usgs':'#ffff88', 'eswd':'#ff00ff', 'floodlist':'#ff88ff', 'aidr':'#88ff88', 'acwe':'#ff8888', 'random':'#00ffff', 'cmeter':'#ff0088', 'wmo':'#ff0000', 'emdat':'#000000'}
 
 def getNewsFiles():
     fileName = './cxsv/news_????_??.csv'

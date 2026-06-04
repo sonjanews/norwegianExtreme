@@ -89,7 +89,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37139fe2d',extremes,Landslide,#572c03,random,jordskred,2026-05-30T06:01:00+00:00,,0.3894394474798242,1,2,no,,
 '40f675561f',extremes,Heat Wave,#c40202,random,varmeste sommeren,2026-05-22T06:31:00+00:00,,0.3771993807370792,1,1,no,,
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-05-14T06:02:00+00:00,Iceland,0.3747152376604553,1,1,no,GIC,Europe
-'dba5720d63',extremes,Snow&Ice,#d60d2b,wmo,is øst island,2026-06-03T07:23:00+00:00,Iceland,0.37297120654418675,1,1,no,GIC,Europe
+'dba5720d63',extremes,Snow&Ice,#d60d2b,wmo,is øst island,2026-06-03T07:23:00+00:00,Iceland,0.3729712065441867,1,1,no,GIC,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-05-18T06:38:00+00:00,,0.3728343984691333,1,2,no,,
 '7198046a6d',extremes,Snow&Ice,#d60d2b,wmo,is island,2026-05-29T06:38:00+00:00,Iceland,0.3725602507680369,1,1,no,GIC,Europe
 '67da8791c0',extremes,Snow&Ice,#d60d2b,wmo,is østfjorder,2026-06-02T07:08:00+00:00,Iceland,0.3719991296919647,1,1,no,GIC,Europe
@@ -137,7 +137,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-05-26T06:31:00+00:00,,0.3136404114588921,1,1,no,,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,orkan,2026-05-01T05:54:00+00:00,,0.312555637613664,1,1,no,,
 '6977541e84',extremes,Drought,#edc291,edo,tørke madagaskar,2026-06-02T07:08:00+00:00,Madagascar,0.3110427093199965,0,1,no,MDG,Africa
+'fe07b8547c',extremes,Drought,#edc291,edo,tørke Tsjekkia,2026-05-15T06:09:00+00:00,Czechia,0.30966108579871404,0,1,no,WCE,Europe
+'2180c0c4a1',extremes,Drought,#edc291,edo,mangel på regn Polen,2026-06-02T07:08:00+00:00,Poland,0.3095717829617078,0,1,no,WCE,Europe
+'815e4bf638',extremes,Drought,#edc291,edo,mangel på regn Ungarn,2026-05-15T06:09:00+00:00,Hungary,0.3081268644254411,0,1,no,WCE,Europe
+'d79f0cf217',extremes,Drought,#edc291,edo,tørke slovakia,2026-05-22T06:32:00+00:00,Slovakia,0.30790523192435304,0,1,no,WCE,Europe
 '3d4880a15e',extremes,Heat Wave,#c40202,acwe,varme trolldom Sør-Australia,2026-05-05T05:29:00+00:00,Australia,0.3077254333806598,1,1,no,SAU,Oceania
+'bed53cc600',extremes,Precipitation,#d60d2b,wmo,regnskyll Brasil,2026-05-22T06:32:00+00:00,Brazil,0.3074060371871512,0,1,no,SAM,South-America
+'4e5e4292b1',extremes,Thunderstorm,#53785a,wmo,hagl libya,2026-06-01T07:30:00+00:00,Libya,0.3068673203138273,0,1,no,SAH,Africa
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,nedbør argentina,2026-05-28T06:38:00+00:00,Argentina,0.3065747644878346,0,1,no,SES,South-America
+'ae340540d6',extremes,Precipitation,#d60d2b,wmo,regnskyll argentina,2026-05-28T06:38:00+00:00,Argentina,0.3065329735748745,0,1,no,SES,South-America
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,jordskjelv island,2026-06-01T07:30:00+00:00,Iceland,0.3063517606619196,1,1,no,GIC,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-05-14T06:02:00+00:00,,0.306205509071204,1,1,no,,
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,storm chile,2026-05-04T05:50:00+00:00,Chile,0.3040789055037917,0,1,no,SWS,South-America

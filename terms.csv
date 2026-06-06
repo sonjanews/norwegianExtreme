@@ -1,15 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-05-20T06:33:00+00:00,Norway,0.7592694279492624,0,1,no,NEU,Europe
-'c332197203',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre sogn,2026-05-24T06:22:00+00:00,Norway,0.7393983096634216,0,1,no,NEU,Europe
-'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,snøskred heiane,2026-05-20T06:33:00+00:00,Norway,0.7393596091216647,0,1,no,NEU,Europe
-'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-05-23T05:53:00+00:00,Norway,0.7381337381717675,0,1,no,NEU,Europe
 'd7cc235c9c',extremes,Snow Avalanche,#deddd5,wmo,snøskred trollheimen,2026-05-24T06:22:00+00:00,Norway,0.7365349259435933,1,1,no,NEU,Europe
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-05-23T05:53:00+00:00,Norway,0.7345103535109746,1,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-05-21T06:35:00+00:00,Norway,0.7199335257247632,1,2,no,NEU,Europe
 '6b26bbfad0',extremes,Flood,#030ba1,wmo,flom fjellområdene i nordland,2026-06-06T06:08:00+00:00,Norway,0.7033298350550798,0,1,no,NEU,Europe
 'f2a6d25b24',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av troms,2026-06-06T06:08:00+00:00,Norway,0.6388244566862958,0,1,no,NEU,Europe
 'c46f2a69e5',extremes,Snow Avalanche,#deddd5,wmo,snøskred nord troms,2026-05-20T06:33:00+00:00,Norway,0.6289325820751306,1,1,no,NEU,Europe
+'c332197203',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre sogn,2026-05-24T06:22:00+00:00,Norway,0.6284885632139083,1,1,no,NEU,Europe
+'e54d4b5814',extremes,Snow Avalanche,#deddd5,wmo,snøskred heiane,2026-05-20T06:33:00+00:00,Norway,0.628455667753415,1,1,no,NEU,Europe
 'abaa416f4d',extremes,Snow Avalanche,#deddd5,wmo,snøskred salten,2026-05-22T06:32:00+00:00,Norway,0.6284212989800233,1,1,no,NEU,Europe
+'a420b25683',extremes,Snow Avalanche,#deddd5,wmo,snøskred ofoten,2026-05-23T05:53:00+00:00,Norway,0.6275636924460024,1,1,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-05-23T05:53:00+00:00,Norway,0.6268473736021719,2,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-05-25T06:53:00+00:00,Norway,0.6247629103014428,1,1,no,NEU,Europe
 '119301595b',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av finnmark,2026-06-03T07:23:00+00:00,Norway,0.6231033825416403,1,1,no,NEU,Europe
@@ -84,7 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2df7f79f4e',extremes,Heat Wave,#c40202,cmeter,hetebølge paris,2026-05-29T06:39:00+00:00,France,0.3914287749369174,1,2,no,,
 '776fe47817',extremes,Wildfire,#d60d2b,random,skogbrann,2026-05-18T06:38:00+00:00,,0.3910797057448295,1,3,no,,
 'f37139fe2d',extremes,Landslide,#572c03,random,jordskred,2026-05-30T06:01:00+00:00,,0.3894394474798242,1,2,no,,
-'560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-05-21T06:34:00+00:00,,0.38932101245015593,0,1,no,,
+'560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-05-21T06:34:00+00:00,,0.3893210124501559,0,1,no,,
 '9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-05-21T06:35:00+00:00,Iceland,0.3831060233295983,1,1,no,GIC,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,varmeste sommeren,2026-05-22T06:31:00+00:00,,0.3771993807370792,1,1,no,,
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-05-14T06:02:00+00:00,Iceland,0.3747152376604553,1,1,no,GIC,Europe
@@ -117,7 +117,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-05-20T06:32:00+00:00,,0.3383896172646126,1,1,no,,
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-05-16T05:40:00+00:00,,0.3371201972959511,1,1,no,,
 '538eadceb4',extremes,Heat Wave,#c40202,random,mild vinter,2026-05-12T05:52:00+00:00,,0.33507636554823,1,1,no,,
-'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-05-22T06:31:00+00:00,,0.33381584693789984,0,1,no,,
+'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-05-22T06:31:00+00:00,,0.3338158469378998,0,1,no,,
 '595acbcf9f',extremes,Heat Wave,#c40202,random,varmeste dagen,2026-05-17T06:01:00+00:00,,0.3332522265730726,1,1,no,,
 '16aa48504a',extremes,Cold Wave,#a7e9fa,random,kvikksølv dråper,2026-05-23T05:52:00+00:00,,0.3308471379449499,1,1,no,,
 '54927bfe65',extremes,Flood,#030ba1,random,kystflom,2026-05-13T06:02:00+00:00,,0.3299880425817603,1,1,no,,

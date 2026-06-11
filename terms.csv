@@ -128,7 +128,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,varmekuppel,2026-05-16T05:40:00+00:00,,0.3137155548125164,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-05-26T06:31:00+00:00,,0.3136404114588921,1,1,no,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,kuldeperiode,2026-06-04T07:06:00+00:00,,0.3108156595454028,1,1,no,,
-'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,nedbør ecuador,2026-06-03T07:23:00+00:00,Ecuador,0.3076342243679193,0,1,no,NWS,South-America
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,nedbør ecuador,2026-06-03T07:23:00+00:00,Ecuador,0.3076342243679193,1,1,no,NWS,South-America
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,regn algeria,2026-06-10T06:49:00+00:00,Algeria,0.3070985292974553,0,1,no,SAH,Africa
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,nedbør sør-afrika,2026-06-02T07:08:00+00:00,South Africa,0.3067490541237992,0,1,no,WSAF,Africa
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,regn sør-afrika,2026-06-03T07:23:00+00:00,South Africa,0.3066402491024378,0,1,no,WSAF,Africa
@@ -261,7 +261,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-05-11T06:14:00+00:00,,0.2621545799802954,1,1,no,,
 'ecd6c72a27',extremes,Drought,#edc291,edo,mangel på regn madagaskar,2026-05-11T06:14:00+00:00,Madagascar,0.2620936000787702,1,1,no,MDG,Africa
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,regn ecuador,2026-05-10T05:51:00+00:00,Ecuador,0.2620154014060645,1,1,no,NWS,South-America
-'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,regn argentina,2026-05-28T06:38:00+00:00,Argentina,0.26200278596353366,1,1,no,SES,South-America
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,regn argentina,2026-05-28T06:38:00+00:00,Argentina,0.2620027859635336,1,1,no,SES,South-America
 '815e4bf638',extremes,Drought,#edc291,edo,mangel på regn Ungarn,2026-05-15T06:09:00+00:00,Hungary,0.2619078347616249,1,1,no,WCE,Europe
 '495243907b',extremes,Precipitation,#d60d2b,wmo,nedbør la majeure partie du betaler.,2026-06-08T07:13:00+00:00,Mali,0.2619036204148463,1,1,no,SAH,Africa
 '3c01ade432',extremes,Precipitation,#d60d2b,wmo,nedbørsrepublikken moldova,2026-05-09T05:36:00+00:00,Republic of Moldova,0.2618269337651684,1,1,no,WCE,Europe

@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f2a6d25b24',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av troms,2026-06-06T06:08:00+00:00,Norway,0.6183008181833514,1,2,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-05-20T06:33:00+00:00,Norway,0.6164401783728146,5,1,no,NEU,Europe
 '6bcd4af11f',extremes,Flood,#030ba1,wmo,flom norge,2026-05-25T06:53:00+00:00,Norway,0.6160707094763319,2,1,no,NEU,Europe
-'1fec654a3e',extremes,Storm,#b3b2b1,wmo,stormflo obrestad karmoey,2026-05-29T06:38:00+00:00,Norway,0.6120427060341277,1,1,no,NEU,Europe
 '50a3485796',extremes,Flood,#030ba1,wmo,flom norge,2026-05-25T06:53:00+00:00,Norway,0.609938925875967,2,1,no,NEU,Europe
 '9767784a11',extremes,Flood,#030ba1,wmo,flooding deler av agder og telemark,2026-06-10T06:49:00+00:00,Norway,0.6092030755518945,1,1,no,NEU,Europe
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-05-22T06:32:00+00:00,Norway,0.6084556977660796,2,1,no,NEU,Europe
@@ -46,6 +45,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed30dbfbd6',extremes,Storm,#b3b2b1,wmo,stormflo stad ona,2026-05-24T06:22:00+00:00,Norway,0.522098103904439,1,1,no,NEU,Europe
 '322ce535f5',extremes,Storm,#b3b2b1,wmo,stormflo karmoey fedje,2026-05-29T06:38:00+00:00,Norway,0.5218401693653618,1,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-05-21T06:35:00+00:00,Norway,0.5210521260861415,3,1,no,NEU,Europe
+'1fec654a3e',extremes,Storm,#b3b2b1,wmo,stormflo obrestad karmoey,2026-05-29T06:38:00+00:00,Norway,0.5202363001290086,2,1,no,NEU,Europe
 '73f6c5f9ae',extremes,Storm,#b3b2b1,wmo,stormflo froeya roervik,2026-05-24T06:22:00+00:00,Norway,0.5202009590606775,1,1,no,NEU,Europe
 '3fa4ee1a91',extremes,Snow&Ice,#d60d2b,wmo,iskaldt trøndelag,2026-05-06T05:43:00+00:00,Norway,0.5154715475990655,1,1,no,NEU,Europe
 '19097b0a7f',extremes,Storm,#b3b2b1,wmo,storm lindesnes aana sira,2026-05-27T06:46:00+00:00,Norway,0.5148911566709651,1,1,no,NEU,Europe
@@ -97,7 +97,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-05-21T06:34:00+00:00,,0.3674884401980171,1,1,no,,
 '73e3b9abec',extremes,Snow&Ice,#d60d2b,wmo,frost øst island,2026-05-30T06:01:00+00:00,Iceland,0.3662387960444253,2,1,no,GIC,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,flom,2026-05-19T06:33:00+00:00,,0.3660128129516891,1,2,no,,
-'de3b36bacb',extremes,Thunderstorm,#53785a,random,hardt vær,2026-06-12T07:05:00+00:00,,0.3556473963322429,0,1,no,,
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,snø østfjorder,2026-06-07T06:48:00+00:00,Iceland,0.3512124552660093,1,1,no,GIC,Europe
 '1405131905',extremes,Thunderstorm,#53785a,random,hagl,2026-06-03T07:22:00+00:00,,0.3448173349256435,1,2,no,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkan,2026-05-21T06:34:00+00:00,,0.3415655798338516,1,1,no,,
@@ -127,6 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,flom tasmania juni juli 2016,2026-05-12T05:53:00+00:00,Australia,0.3149581712228077,1,1,no,SAU,Oceania
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,varmekuppel,2026-05-16T05:40:00+00:00,,0.3137155548125164,1,1,no,,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-05-26T06:31:00+00:00,,0.3136404114588921,1,1,no,,
+'de3b36bacb',extremes,Thunderstorm,#53785a,random,hardt vær,2026-06-12T07:05:00+00:00,,0.3130453087245117,1,1,no,,
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,flood hobart flash flooding tasmania 2018,2026-06-01T07:30:00+00:00,Australia,0.312143027517479,0,1,no,SAU,Oceania
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,kuldeperiode,2026-06-04T07:06:00+00:00,,0.3108156595454028,1,1,no,,
 '1d47df9d63',extremes,Precipitation,#d60d2b,wmo,regnskyll republikken moldova,2026-06-06T06:08:00+00:00,Republic of Moldova,0.3080736695386127,0,1,no,WCE,Europe

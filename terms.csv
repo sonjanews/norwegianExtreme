@@ -53,7 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b26bbfad0',extremes,Flood,#030ba1,wmo,flom fjellområdene i nordland,2026-06-06T06:08:00+00:00,Norway,0.5081558058272951,2,1,no,NEU,Europe
 'bc1b83a3e3',extremes,Storm,#b3b2b1,wmo,storm ona froeya,2026-05-14T06:02:00+00:00,Norway,0.4986290819387091,1,1,no,NEU,Europe
 '02d7dccef7',extremes,Storm,#b3b2b1,wmo,stormflo fedje maaloey,2026-05-14T06:02:00+00:00,Norway,0.4954409274777011,1,1,no,NEU,Europe
-'790bb54e5c',extremes,Storm,#b3b2b1,wmo,stormflo førtiårene,2026-05-11T06:14:00+00:00,Norway,0.4899126571054953,1,1,no,NEU,Europe
+'790bb54e5c',extremes,Storm,#b3b2b1,wmo,stormflo førtiårene,2026-05-11T06:14:00+00:00,Norway,0.4899126571054953,2,1,no,NEU,Europe
 '548c965c5b',extremes,Storm,#b3b2b1,wmo,stormflo maaloey stad,2026-05-08T05:16:00+00:00,Norway,0.4862891931357943,1,1,no,NEU,Europe
 '50d2f7472f',extremes,Precipitation,#d60d2b,wmo,styrtregn deler av Troms og Finnmark,2026-06-12T07:05:00+00:00,Norway,0.4840894996404133,1,1,no,NEU,Europe
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,orkan,2026-06-12T07:05:00+00:00,,0.4834180460220323,1,2,no,,
@@ -361,7 +361,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,is Brasil,2026-05-22T06:32:00+00:00,Brazil,0.2563228576605423,1,1,no,SAM,South-America
 '93d3291bfd',extremes,Heat Wave,#c40202,wmo,hetebølge samara-regionen,2026-05-16T05:40:00+00:00,Russia,0.2563009671497803,1,1,no,ESB,Europe
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,stormflo jamaica,2026-05-17T06:01:00+00:00,Jamaica,0.2562739172617514,1,1,no,CAR,North-America
-'9c4d852f5b',extremes,Earthquake,#870007,usgs,jordskjelv nord for svalbard,2026-06-04T07:06:00+00:00,,0.25618362466639905,1,1,no,ARO,Arctica
+'9c4d852f5b',extremes,Earthquake,#870007,usgs,jordskjelv nord for svalbard,2026-06-04T07:06:00+00:00,,0.256183624666399,1,1,no,ARO,Arctica
 'dbcb53ece4',extremes,Snow&Ice,#d60d2b,wmo,snø canada,2026-05-19T06:33:00+00:00,Canada,0.2560477562002086,1,1,no,NEN,North-America
 '4a4191209b',extremes,Heat Wave,#c40202,wmo,hetebølge smolensk-regionen,2026-05-16T05:40:00+00:00,Russia,0.256039560687241,1,1,no,ESB,Europe
 '110d2ee2b9',extremes,Heat Wave,#c40202,wmo,hetebølge kaluga-regionen,2026-05-21T06:35:00+00:00,Russia,0.2559323912784151,1,1,no,ESB,Europe

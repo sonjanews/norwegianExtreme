@@ -1,15 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ba7e6862b7',extremes,Storm,#b3b2b1,wmo,storm lopa nordkapp,2026-06-13T06:38:00+00:00,Norway,0.6597217593902049,1,1,no,NEU,Europe
-'a4e705120e',extremes,Storm,#b3b2b1,wmo,storm oksoey aana sira,2026-06-13T06:38:00+00:00,Norway,0.6540197927493567,0,1,no,NEU,Europe
-'fa44bea3b4',extremes,Storm,#b3b2b1,wmo,storm slettnes fyr vardoe,2026-06-13T06:38:00+00:00,Norway,0.6539982720212109,0,1,no,NEU,Europe
-'585a531614',extremes,Storm,#b3b2b1,wmo,storm nordkapp slettnes fyr,2026-06-13T06:38:00+00:00,Norway,0.6438567527171591,0,1,no,NEU,Europe
-'ff2a4e9d0c',extremes,Storm,#b3b2b1,wmo,storm vardoe russisk grense,2026-06-13T06:38:00+00:00,Norway,0.6325133361514258,0,1,no,NEU,Europe
 '3d204af14f',extremes,Snow Avalanche,#deddd5,wmo,snøskred lyngen,2026-05-23T05:53:00+00:00,Norway,0.6268473736021719,2,1,no,NEU,Europe
 'd7cc235c9c',extremes,Snow Avalanche,#deddd5,wmo,snøskred trollheimen,2026-05-24T06:22:00+00:00,Norway,0.6260546870520542,2,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-05-25T06:53:00+00:00,Norway,0.6247629103014428,1,1,no,NEU,Europe
-'ab92adcf6e',extremes,Snow Avalanche,#deddd5,wmo,snøskred sør troms,2026-05-25T06:53:00+00:00,Norway,0.6247093549049855,1,1,no,NEU,Europe
 'be7b309c2b',extremes,Snow Avalanche,#deddd5,wmo,snøskred svartisen,2026-05-23T05:53:00+00:00,Norway,0.6244838154843284,2,1,no,NEU,Europe
-'119301595b',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av finnmark,2026-06-03T07:23:00+00:00,Norway,0.6231033825416403,1,1,no,NEU,Europe
 'f2a6d25b24',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av troms,2026-06-06T06:08:00+00:00,Norway,0.6183008181833514,1,2,no,NEU,Europe
 '895007d2de',extremes,Snow Avalanche,#deddd5,wmo,snøskred norge,2026-05-20T06:33:00+00:00,Norway,0.6164401783728146,5,1,no,NEU,Europe
 '6bcd4af11f',extremes,Flood,#030ba1,wmo,flom norge,2026-05-25T06:53:00+00:00,Norway,0.6160707094763319,2,1,no,NEU,Europe
@@ -20,14 +13,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '147dbbe3cd',extremes,Thunderstorm,#53785a,wmo,tordenvær norge,2026-06-10T06:49:00+00:00,Norway,0.5933622454566313,3,1,no,NEU,Europe
 'b14a60504a',extremes,Flood,#030ba1,wmo,flom fjellområdene i nord norge,2026-06-07T06:48:00+00:00,Norway,0.5856258631121942,1,1,no,NEU,Europe
 '06285e171c',extremes,Flood,#030ba1,wmo,flom norge,2026-05-17T06:01:00+00:00,Norway,0.5817271644534959,2,1,no,NEU,Europe
+'ba7e6862b7',extremes,Storm,#b3b2b1,wmo,storm lopa nordkapp,2026-06-13T06:38:00+00:00,Norway,0.5607634954816741,2,1,no,NEU,Europe
 '03873a8274',extremes,Flood,#030ba1,wmo,flom indre finnmark,2026-05-17T06:01:00+00:00,Norway,0.5568942326561586,1,1,no,NEU,Europe
+'a4e705120e',extremes,Storm,#b3b2b1,wmo,storm oksoey aana sira,2026-06-13T06:38:00+00:00,Norway,0.5559168238369532,1,1,no,NEU,Europe
+'fa44bea3b4',extremes,Storm,#b3b2b1,wmo,storm slettnes fyr vardoe,2026-06-13T06:38:00+00:00,Norway,0.5558985312180292,1,1,no,NEU,Europe
 '72623e5da1',extremes,Storm,#b3b2b1,wmo,storm maaloey stad,2026-06-11T07:14:00+00:00,Norway,0.5551033042465191,1,1,no,NEU,Europe
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-05-25T06:53:00+00:00,Norway,0.5531649163039676,1,1,no,NEU,Europe
 'd8463de706',extremes,Storm,#b3b2b1,wmo,storm maaloey svinoey,2026-06-10T06:49:00+00:00,Norway,0.5474936270620084,1,1,no,NEU,Europe
+'585a531614',extremes,Storm,#b3b2b1,wmo,storm nordkapp slettnes fyr,2026-06-13T06:38:00+00:00,Norway,0.5472782398095852,1,1,no,NEU,Europe
 'f439fda285',extremes,Drought,#edc291,edo,tørke norge,2026-05-29T06:39:00+00:00,Norway,0.5419772339213964,0,1,no,NEU,Europe
 '14ccfab368',extremes,Storm,#b3b2b1,wmo,stormflo ona froeya,2026-06-10T06:49:00+00:00,Norway,0.5392893388830334,1,1,no,NEU,Europe
 'ce08279419',extremes,Storm,#b3b2b1,wmo,storm froeya halten,2026-06-10T06:49:00+00:00,Norway,0.5389345472676362,1,1,no,NEU,Europe
 'afc3746fe4',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av agder og østlandet,2026-05-09T05:36:00+00:00,Norway,0.5383265836698724,2,1,no,NEU,Europe
+'ff2a4e9d0c',extremes,Storm,#b3b2b1,wmo,storm vardoe russisk grense,2026-06-13T06:38:00+00:00,Norway,0.537636335728712,1,1,no,NEU,Europe
 'a41044fcd0',extremes,Snow Avalanche,#deddd5,wmo,snøskred voss,2026-05-14T06:02:00+00:00,Norway,0.5376312162108627,2,1,no,NEU,Europe
 '71efdff4eb',extremes,Snow Avalanche,#deddd5,wmo,snøskred tromsø,2026-05-22T06:32:00+00:00,Norway,0.5372480362347732,3,1,no,NEU,Europe
 '97185764af',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre fjordane,2026-05-23T05:53:00+00:00,Norway,0.5368427542640509,2,1,no,NEU,Europe
@@ -46,6 +44,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,snøskred hardanger,2026-05-22T06:32:00+00:00,Norway,0.5334091375197763,2,1,no,NEU,Europe
 '75f76453d7',extremes,Snow Avalanche,#deddd5,wmo,snøskred romsdal,2026-05-22T06:32:00+00:00,Norway,0.5332941123559526,2,1,no,NEU,Europe
 '1097dcf9f5',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre troms,2026-05-27T06:46:00+00:00,Norway,0.5316122480402439,2,1,no,NEU,Europe
+'ab92adcf6e',extremes,Snow Avalanche,#deddd5,wmo,snøskred sør troms,2026-05-25T06:53:00+00:00,Norway,0.5310029516692376,2,1,no,NEU,Europe
+'119301595b',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av finnmark,2026-06-03T07:23:00+00:00,Norway,0.5299379051603943,2,1,no,NEU,Europe
 '0baceea29a',extremes,Landslide,#572c03,wmo,jordskred deler av troms og finnmark,2026-06-12T07:05:00+00:00,Norway,0.528662409065273,2,1,no,NEU,Europe
 'ed30dbfbd6',extremes,Storm,#b3b2b1,wmo,stormflo stad ona,2026-05-24T06:22:00+00:00,Norway,0.522098103904439,1,1,no,NEU,Europe
 '322ce535f5',extremes,Storm,#b3b2b1,wmo,stormflo karmoey fedje,2026-05-29T06:38:00+00:00,Norway,0.5218401693653618,1,1,no,NEU,Europe

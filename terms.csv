@@ -79,8 +79,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37139fe2d',extremes,Landslide,#572c03,random,jordskred,2026-05-30T06:01:00+00:00,,0.3894394474798242,1,2,no,,
 'ce08279419',extremes,Storm,#b3b2b1,wmo,storm froeya halten,2026-06-10T06:49:00+00:00,Norway,0.3893802104008672,3,1,no,NEU,Europe
 '957c870453',extremes,Drought,#edc291,edo,tørrhet island,2026-06-08T07:13:00+00:00,Iceland,0.3888242588512842,0,1,no,GIC,Europe
+'633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-06-21T07:16:00+00:00,,0.3887853068820866,0,1,no,,
 '1097dcf9f5',extremes,Snow Avalanche,#deddd5,wmo,snøskred indre troms,2026-05-27T06:46:00+00:00,Norway,0.3840898492090761,4,1,no,NEU,Europe
 '9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-05-21T06:35:00+00:00,Iceland,0.3831060233295983,1,1,no,GIC,Europe
+'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropisk storm,2026-06-13T06:38:00+00:00,,0.37824153504448704,0,1,no,,
 '40f675561f',extremes,Heat Wave,#c40202,random,varmeste sommeren,2026-05-22T06:31:00+00:00,,0.3771993807370792,1,1,no,,
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-06-01T07:30:00+00:00,Iceland,0.3752890056506396,1,1,no,GIC,Europe
 'dba5720d63',extremes,Snow&Ice,#d60d2b,wmo,is øst island,2026-06-03T07:23:00+00:00,Iceland,0.3729712065441867,1,1,no,GIC,Europe
@@ -93,20 +95,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,snø island,2026-05-29T06:38:00+00:00,Iceland,0.3707156412538228,1,1,no,GIC,Europe
 '595acbcf9f',extremes,Heat Wave,#c40202,random,varmeste dagen,2026-05-17T06:01:00+00:00,,0.3684101221990449,3,2,no,,
 '560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-05-21T06:34:00+00:00,,0.3674884401980171,1,1,no,,
+'a652c78afc',extremes,Drought,#edc291,random,megatørke,2026-06-22T08:39:00+00:00,,0.3666670870406553,0,1,no,,
 '73e3b9abec',extremes,Snow&Ice,#d60d2b,wmo,frost øst island,2026-05-30T06:01:00+00:00,Iceland,0.3662387960444253,2,1,no,GIC,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,flom,2026-05-19T06:33:00+00:00,,0.3660128129516891,1,2,no,,
+'b8eb47bf7f',extremes,Heat Wave,#c40202,random,varmekuppel,2026-06-07T06:48:00+00:00,,0.3551694510969091,0,1,no,,
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,snø østfjorder,2026-06-07T06:48:00+00:00,Iceland,0.3512124552660093,1,1,no,GIC,Europe
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-06-04T07:06:00+00:00,Iceland,0.3497767587242872,1,1,no,GIC,Europe
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-06-14T07:06:00+00:00,,0.3461582956617937,1,2,no,,
+'62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-06-21T07:16:00+00:00,,0.34613059652753897,0,1,no,,
 '1405131905',extremes,Thunderstorm,#53785a,random,hagl,2026-06-03T07:22:00+00:00,,0.3448173349256435,1,2,no,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkan,2026-05-21T06:34:00+00:00,,0.3415655798338516,1,1,no,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,kalving av isfjell,2026-05-24T06:22:00+00:00,,0.3405996201165261,1,1,no,,
 'a8955ad6a2',extremes,Cold Wave,#a7e9fa,random,kaldsmell,2026-05-21T06:34:00+00:00,,0.3403758701902537,1,1,no,,
+'7e303c7e63',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-06-21T07:16:00+00:00,,0.33958278087546506,0,1,no,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,wet spell,2026-05-31T06:40:00+00:00,,0.3393392705897449,1,1,no,,
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,kaldeste dagen,2026-05-26T06:31:00+00:00,,0.3387494467948031,1,1,no,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tyfon,2026-05-23T05:52:00+00:00,,0.3373654247269969,1,1,no,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,syklon,2026-05-27T06:46:00+00:00,,0.3347687238076844,1,1,no,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,snøslush,2026-06-06T06:08:00+00:00,,0.3346930939894067,1,1,no,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-06-08T07:13:00+00:00,,0.3316384860890624,0,1,no,,
 'd2b5043a66',extremes,Cold Wave,#a7e9fa,random,laveste minimumstemperatur,2026-06-03T07:22:00+00:00,,0.3303877384755831,1,1,no,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nattefrost,2026-06-12T07:05:00+00:00,,0.3289930991425738,1,1,no,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,rimfrost,2026-05-21T06:34:00+00:00,,0.3279358641712122,1,1,no,,
@@ -116,6 +123,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,snøstorm,2026-06-14T07:06:00+00:00,,0.3216877743345158,1,1,no,,
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-06-07T06:48:00+00:00,,0.3188275847882541,1,1,no,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-06-02T07:08:00+00:00,,0.3180944389305689,1,1,no,,
+'8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-06-20T06:46:00+00:00,,0.31784591293500986,0,1,no,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,virvelvind,2026-05-29T06:38:00+00:00,,0.3168229164840068,1,1,no,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordkald,2026-06-16T08:27:00+00:00,,0.3166466207544914,1,1,no,,
 '716066cd14',extremes,Snow&Ice,#d60d2b,wmo,frost østfjorder,2026-05-30T06:01:00+00:00,Iceland,0.3156406067436404,2,1,no,GIC,Europe

@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-06-14T07:07:00+00:00,Norway,0.7035247049975949,0,1,no,NEU,Europe
+'4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-06-14T07:07:00+00:00,Norway,0.609029602581289,1,1,no,NEU,Europe
 '14578d9922',extremes,Snow Avalanche,#deddd5,wmo,snøskred lofoten og vesterålen,2026-05-22T06:32:00+00:00,Norway,0.5357734845907289,2,1,no,NEU,Europe
 'b42f77f692',extremes,Snow Avalanche,#deddd5,wmo,snøskred finnmarkskysten,2026-05-23T05:53:00+00:00,Norway,0.5357412974920931,2,1,no,NEU,Europe
 '298c01d6b6',extremes,Snow Avalanche,#deddd5,wmo,skredvest telemark,2026-05-22T06:32:00+00:00,Norway,0.5347830719297163,2,1,no,NEU,Europe
@@ -62,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f37139fe2d',extremes,Landslide,#572c03,random,jordskred,2026-05-30T06:01:00+00:00,,0.3894394474798242,1,2,no,,
 'ce08279419',extremes,Storm,#b3b2b1,wmo,storm froeya halten,2026-06-10T06:49:00+00:00,Norway,0.3893802104008672,3,1,no,NEU,Europe
 '9dd19718e9',extremes,Storm,#b3b2b1,wmo,storm bodoe loedingen,2026-06-20T06:47:00+00:00,Norway,0.3892516788568065,3,1,no,NEU,Europe
-'9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-06-14T07:07:00+00:00,Iceland,0.3814682032795368,0,1,no,GIC,Europe
 'b8a867d5e2',extremes,Storm,#b3b2b1,wmo,stormflo fedje bulandet,2026-06-15T08:36:00+00:00,Norway,0.3805066898452855,3,1,no,NEU,Europe
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-06-19T07:39:00+00:00,Norway,0.377217864133394,1,1,no,NEU,Europe
 '40f675561f',extremes,Heat Wave,#c40202,random,varmeste sommeren,2026-05-22T06:31:00+00:00,,0.3771993807370792,1,1,no,,
@@ -102,6 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,rimfrost,2026-05-21T06:34:00+00:00,,0.3279358641712122,1,1,no,,
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medisin,2026-05-18T06:38:00+00:00,,0.3264524929517052,1,2,no,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-06-16T08:27:00+00:00,,0.3258991066646808,1,1,no,,
+'9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-06-14T07:07:00+00:00,Iceland,0.32424797278760625,1,1,no,GIC,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,atmosfærisk elv,2026-06-01T07:30:00+00:00,,0.3227572246962599,1,1,no,,
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,snøstorm,2026-06-14T07:06:00+00:00,,0.3216877743345158,1,1,no,,
 'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropisk storm,2026-06-13T06:38:00+00:00,,0.3215053047878139,1,1,no,,
@@ -148,7 +148,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,jordskjelv island,2026-06-01T07:30:00+00:00,Iceland,0.3063517606619196,1,1,no,GIC,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,iskaldt,2026-06-11T07:14:00+00:00,,0.306338046943661,1,1,no,,
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,regnskyll costa rica,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,no,SCA,North-America
-'26dc110943',extremes,Drought,#edc291,edo,mangel på regn nicaragua,2026-06-12T07:05:00+00:00,Nicaragua,0.30618326569665544,0,1,no,SCA,North-America
+'26dc110943',extremes,Drought,#edc291,edo,mangel på regn nicaragua,2026-06-12T07:05:00+00:00,Nicaragua,0.3061832656966554,0,1,no,SCA,North-America
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,snø Brasil,2026-06-14T07:07:00+00:00,Brazil,0.3057649852416182,0,1,no,SAM,South-America
 '766190540a',extremes,Storm,#b3b2b1,wmo,stormflo tanzania,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,no,SEAF,Africa
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,frost Brasil,2026-06-15T08:36:00+00:00,Brazil,0.305618915962383,0,1,no,SAM,South-America

@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2026-06-15T08:36:00+00:00,Norway,0.6988866744875325,0,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-06-27T06:08:00+00:00,Norway,0.6179713127812251,2,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-05-25T06:53:00+00:00,Norway,0.5311984887562264,2,1,no,NEU,Europe
 '119301595b',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av finnmark,2026-06-03T07:23:00+00:00,Norway,0.5299379051603943,2,1,no,NEU,Europe
@@ -68,6 +69,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,snø østfjorder,2026-06-07T06:48:00+00:00,Iceland,0.3512124552660093,1,1,no,GIC,Europe
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-06-04T07:06:00+00:00,Iceland,0.3497767587242872,1,1,no,GIC,Europe
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-06-14T07:06:00+00:00,,0.3461582956617937,1,2,no,,
+'40f675561f',extremes,Heat Wave,#c40202,random,varmeste sommeren,2026-06-11T07:14:00+00:00,,0.3460513214951737,0,1,no,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-06-10T06:49:00+00:00,,0.3459927169697491,2,2,no,,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,is argentina,2026-06-09T06:32:00+00:00,Argentina,0.3454098770073812,2,1,no,SES,South-America
 '1405131905',extremes,Thunderstorm,#53785a,random,hagl,2026-06-03T07:22:00+00:00,,0.3448173349256435,1,2,no,,
@@ -106,13 +108,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '980a973102',extremes,Tropical Cyclone,#4f4f4f,random,bombesyklon,2026-06-14T07:06:00+00:00,,0.3108829597266327,1,1,no,,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,kuldeperiode,2026-06-04T07:06:00+00:00,,0.3108156595454028,1,1,no,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-06-18T07:16:00+00:00,,0.3097124545776585,1,1,no,,
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,snø argentina,2026-06-16T08:27:00+00:00,Argentina,0.3093084855443285,0,1,no,SES,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,regn Brasil,2026-06-17T07:33:00+00:00,Brazil,0.3085132658720165,1,1,no,SAM,South-America
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,no,,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,nedbør ecuador,2026-06-03T07:23:00+00:00,Ecuador,0.3076342243679193,1,1,no,NWS,South-America
 'c22c0da855',extremes,Precipitation,#d60d2b,wmo,nedbør canada,2026-06-09T06:32:00+00:00,Canada,0.3075303806793295,0,1,no,NEN,North-America
+'355605856d',extremes,Precipitation,#d60d2b,wmo,nedbør chad,2026-06-28T06:44:00+00:00,Chad,0.3072761741831171,0,1,no,SAH,Africa
 '538eadceb4',extremes,Heat Wave,#c40202,random,mild vinter,2026-06-08T07:13:00+00:00,,0.3071471944247236,1,1,no,,
 'd68189cbca',extremes,Precipitation,#d60d2b,wmo,regnskyll Algerie,2026-06-26T06:36:00+00:00,Algeria,0.3069608014620272,0,1,no,SAH,Africa
 'aacf82e274',extremes,Drought,#edc291,edo,tørrtid på Færøyene,2026-06-17T07:34:00+00:00,Faroe Islands,0.3064454341520451,0,1,no,NEU,Europe
+'8f29727ea9',extremes,Drought,#edc291,edo,tørke ekvatorialguinea,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.30643613826897464,0,1,no,WAF,Africa
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,jordskjelv island,2026-06-01T07:30:00+00:00,Iceland,0.3063517606619196,1,1,no,GIC,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,iskaldt,2026-06-11T07:14:00+00:00,,0.306338046943661,1,1,no,,
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,regnskyll costa rica,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,no,SCA,North-America
@@ -134,7 +139,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27fd81d198',extremes,Storm,#b3b2b1,wmo,storm Salomonøyene,2026-06-08T07:13:00+00:00,Solomon Islands,0.3049004281614971,0,1,no,EPO,Oceania
 'a715281618',extremes,Storm,#b3b2b1,wmo,stormflo vanuatu,2026-06-09T06:32:00+00:00,Vanuatu,0.3047126874191628,0,1,no,SPO,Oceania
 '6fd99eeafe',extremes,Storm,#b3b2b1,wmo,storm marlborough nord for clarence,2026-06-20T06:47:00+00:00,New Zealand,0.3045991420378098,0,1,no,NZ,Oceania
+'8adbdb9546',extremes,Thunderstorm,#53785a,wmo,hagl canada,2026-06-18T07:16:00+00:00,Canada,0.30437583749263536,0,1,no,NEN,North-America
 'af6244e0ab',extremes,Drought,#edc291,edo,tørrhet nicaragua,2026-06-27T06:08:00+00:00,Nicaragua,0.3042993397806682,0,1,no,SCA,North-America
+'ee59d3391f',extremes,Precipitation,#d60d2b,wmo,nedbør saudi-arabia,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3042736800864519,0,1,no,ARP,Asia
 '8f34ad3c51',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm higos,2026-06-24T06:29:00+00:00,,0.3042431923666929,0,1,no,NPO,Pacific Ocean
 'b6cef22543',extremes,Drought,#edc291,random,vannbegrensning,2026-06-08T07:13:00+00:00,,0.3040291416237642,1,1,no,,
 'a43b4b4e31',extremes,Storm,#b3b2b1,wmo,storm region litoral e interandina,2026-06-25T06:32:00+00:00,Ecuador,0.3039199947563193,0,1,no,NWS,South-America
@@ -145,6 +152,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '769c0da087',extremes,Storm,#b3b2b1,wmo,stormtilstand i Kuwait,2026-06-16T08:27:00+00:00,Kuwait,0.3034713765410507,1,1,no,ARP,Asia
 '9044bc0335',extremes,Earthquake,#870007,usgs,jordskjelv georgetown,2026-06-24T06:29:00+00:00,Saint Helena,0.3034325564390294,0,1,no,EAO,Atlantic Ocean
 '13104e853c',extremes,Drought,#edc291,edo,tørrtid gabon,2026-06-23T06:33:00+00:00,Gabon,0.3034070935799138,0,1,no,CAF,Africa
+'87931b9f82',extremes,Landslide,#572c03,aidr,mudflow australia,2026-06-27T06:09:00+00:00,Australia,0.30326881547841306,0,1,no,EAU,Oceania
 '75e7d0319a',extremes,Heat Wave,#c40202,wmo,hetebølge luxembourg,2026-06-17T07:33:00+00:00,Luxembourg,0.3032379169443953,0,1,no,WCE,Europe
 '12775cc05a',extremes,Drought,#edc291,edo,tørke Brasil,2026-06-16T08:27:00+00:00,Brazil,0.3030699260518908,0,1,no,SAM,South-America
 'c81c03f06e',extremes,Earthquake,#870007,usgs,jordskjelv beauséjour,2026-06-27T06:08:00+00:00,Guadeloupe,0.3029572219278041,0,1,no,NAO,Atlantic Ocean

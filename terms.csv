@@ -118,7 +118,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,regnskyll costa rica,2026-06-23T06:33:00+00:00,Costa Rica,0.3063112568852629,0,1,no,SCA,North-America
 '26dc110943',extremes,Drought,#edc291,edo,mangel på regn nicaragua,2026-06-12T07:05:00+00:00,Nicaragua,0.3061832656966554,0,1,no,SCA,North-America
 '92035e2c20',extremes,Drought,#edc291,edo,tørrtid Madagaskar,2026-06-20T06:47:00+00:00,Madagascar,0.3060929694960166,0,1,no,MDG,Africa
-'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,snø Brasil,2026-06-14T07:07:00+00:00,Brazil,0.3057649852416182,0,1,no,SAM,South-America
 '766190540a',extremes,Storm,#b3b2b1,wmo,stormflo tanzania,2026-06-14T07:07:00+00:00,Tanzania,0.305655587076048,0,1,no,SEAF,Africa
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,frost Brasil,2026-06-15T08:36:00+00:00,Brazil,0.305618915962383,0,1,no,SAM,South-America
 'e188f4e183',extremes,Storm,#b3b2b1,wmo,storm tanzania,2026-06-13T06:38:00+00:00,Tanzania,0.3054853095531606,0,1,no,SEAF,Africa
@@ -251,8 +250,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06adbcbae1',extremes,Drought,#edc291,edo,tørrhet madagaskar,2026-05-31T06:40:00+00:00,Madagascar,0.2615974953258496,1,1,no,MDG,Africa
 '70bf96ce01',extremes,Thunderstorm,#53785a,wmo,hardt vær libya,2026-05-26T06:31:00+00:00,Libya,0.261536709198916,1,1,no,SAH,Africa
 '8e0946a5f2',extremes,Drought,#edc291,edo,mangel på regn estland,2026-06-02T07:08:00+00:00,Estonia,0.261533886792829,1,1,no,NEU,Europe
-'56dca2743f',extremes,Drought,#edc291,edo,tørrtid ekvatorialguinea,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.26152979761638484,1,1,no,WAF,Africa
-'155c83286e',extremes,Precipitation,#d60d2b,wmo,regn coromandel halvøya,2026-06-24T06:30:00+00:00,New Zealand,0.26143399290315195,1,1,no,NZ,Oceania
+'56dca2743f',extremes,Drought,#edc291,edo,tørrtid ekvatorialguinea,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.2615297976163848,1,1,no,WAF,Africa
+'155c83286e',extremes,Precipitation,#d60d2b,wmo,regn coromandel halvøya,2026-06-24T06:30:00+00:00,New Zealand,0.2614339929031519,1,1,no,NZ,Oceania
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,skogbrann tasmania,2026-05-31T06:41:00+00:00,Australia,0.2613991603991973,1,1,no,SAU,Oceania
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,varm spell victoria,2026-06-13T06:38:00+00:00,Australia,0.2613605564174552,1,1,no,SAU,Oceania
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,nedbør sør-afrika,2026-06-02T07:08:00+00:00,South Africa,0.2613367560052293,1,1,no,WSAF,Africa
@@ -266,6 +265,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,regnskyll argentina,2026-05-28T06:38:00+00:00,Argentina,0.2605530275386433,1,1,no,SES,South-America
 'a0fea22150',extremes,Heat Wave,#c40202,acwe,hetebølge New South Wales,2026-05-29T06:39:00+00:00,Australia,0.2603897263383807,1,1,no,EAU,Oceania
 'fe07b8547c',extremes,Drought,#edc291,edo,tørke tsjekkia,2026-06-04T07:06:00+00:00,Czechia,0.2601186180785291,1,1,no,WCE,Europe
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,snø Brasil,2026-06-14T07:07:00+00:00,Brazil,0.2600502524553755,1,1,no,SAM,South-America
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,tordenvær ghana,2026-06-11T07:14:00+00:00,Ghana,0.2600131746932644,1,1,no,WAF,Africa
 '98db96b6de',extremes,Drought,#edc291,edo,tørke litauen,2026-06-07T06:48:00+00:00,Lithuania,0.2599849766418046,1,1,no,WCE,Europe
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,regn ecuador,2026-05-30T06:01:00+00:00,Ecuador,0.259898484301544,1,1,no,NWS,South-America
@@ -287,7 +287,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,flash flom tasmania,2026-05-31T06:41:00+00:00,Australia,0.2587622508976797,1,1,no,SAU,Oceania
 '0511e6ef31',extremes,Drought,#edc291,edo,tørrperiode estland,2026-06-01T07:30:00+00:00,Estonia,0.2585837197451628,1,1,no,NEU,Europe
 '3336c980ab',extremes,Earthquake,#870007,usgs,jordskjelv Saint Helena,2026-06-21T07:16:00+00:00,Saint Helena,0.258555806346207,1,1,no,EAO,Atlantic Ocean
-'1617e554bb',extremes,Storm,#b3b2b1,wmo,stormflo kyst- og offshoreområder.,2026-06-13T06:38:00+00:00,Belize,0.25853928119361813,1,1,no,SCA,North-America
+'1617e554bb',extremes,Storm,#b3b2b1,wmo,stormflo kyst- og offshoreområder.,2026-06-13T06:38:00+00:00,Belize,0.2585392811936181,1,1,no,SCA,North-America
 '80c06ab8a0',extremes,Cold Wave,#a7e9fa,random,temperaturen stuper,2026-05-31T06:40:00+00:00,,0.258535234111592,1,1,no,,
 '94d9daff60',extremes,Thunderstorm,#53785a,wmo,hagl i guezzam,2026-06-04T07:06:00+00:00,Algeria,0.2585017434209548,1,1,no,SAH,Africa
 '7467da3199',extremes,Drought,#edc291,edo,tørke gabon,2026-06-02T07:08:00+00:00,Gabon,0.2584815309004833,1,1,no,CAF,Africa
@@ -334,7 +334,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e058bc3eb7',extremes,Drought,#edc291,edo,tørke sri lanka,2026-05-26T06:31:00+00:00,Sri Lanka,0.2559454172498137,1,1,no,BOB,Asia
 'd61de81685',extremes,Storm,#b3b2b1,wmo,stormflo chile,2026-05-28T06:38:00+00:00,Chile,0.2559096417820215,1,1,no,SWS,South-America
 '1d7d327aa2',extremes,Storm,#b3b2b1,wmo,stormflo taranaki og whanganui,2026-06-01T07:30:00+00:00,New Zealand,0.2558756064488706,1,1,no,NZ,Oceania
-'c6ce45829e',extremes,Storm,#b3b2b1,wmo,stormflo Brasil,2026-06-06T06:08:00+00:00,Brazil,0.25585375693121015,1,1,no,SAM,South-America
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,stormflo Brasil,2026-06-06T06:08:00+00:00,Brazil,0.2558537569312101,1,1,no,SAM,South-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,kald bølge Brasil,2026-06-06T06:08:00+00:00,Brazil,0.2557997584028185,1,1,no,SAM,South-America
 '10bce00d3d',extremes,Precipitation,#d60d2b,wmo,regnvær les zones citées ci haut,2026-06-10T06:49:00+00:00,Chad,0.2556741409855664,1,1,no,SAH,Africa
 'd77b825e5b',extremes,Flood,#030ba1,wmo,flom canada,2026-06-09T06:32:00+00:00,Canada,0.2556723431478585,1,1,no,NEN,North-America

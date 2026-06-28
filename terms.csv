@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-06-27T06:08:00+00:00,Norway,0.7350639086937373,0,1,no,NEU,Europe
+'0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-06-27T06:08:00+00:00,Norway,0.6555543973896767,1,1,no,NEU,Europe
 '12f98a50ad',extremes,Snow Avalanche,#deddd5,wmo,snøskred hardanger,2026-05-22T06:32:00+00:00,Norway,0.5334091375197763,2,1,no,NEU,Europe
 'd7cc235c9c',extremes,Snow Avalanche,#deddd5,wmo,snøskred trollheimen,2026-05-24T06:22:00+00:00,Norway,0.5321464839942461,3,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-05-25T06:53:00+00:00,Norway,0.5311984887562264,2,1,no,NEU,Europe
@@ -115,7 +115,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,kuldeperiode,2026-06-04T07:06:00+00:00,,0.3108156595454028,1,1,no,,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-06-18T07:16:00+00:00,,0.3097124545776585,1,1,no,,
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,regn Brasil,2026-06-17T07:33:00+00:00,Brazil,0.3085132658720165,1,1,no,SAM,South-America
-'82db593da5',extremes,Precipitation,#d60d2b,wmo,regnskyll coromandel halvøya,2026-06-23T06:33:00+00:00,New Zealand,0.3080782752094864,0,1,no,NZ,Oceania
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,regn ecuador,2026-06-09T06:32:00+00:00,Ecuador,0.3080028031954469,0,1,no,NWS,South-America
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,no,,
 '56dca2743f',extremes,Drought,#edc291,edo,tørrtid ekvatorialguinea,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.3076821148428057,0,1,no,WAF,Africa
@@ -251,6 +250,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,regn argentina,2026-05-28T06:38:00+00:00,Argentina,0.2620027859635336,1,1,no,SES,South-America
 'a77fe28103',extremes,Precipitation,#d60d2b,wmo,regnskyll Auckland og Great Barrier Island,2026-06-23T06:33:00+00:00,New Zealand,0.2619873855865429,1,1,no,NZ,Oceania
 '495243907b',extremes,Precipitation,#d60d2b,wmo,nedbør la majeure partie du betaler.,2026-06-08T07:13:00+00:00,Mali,0.2619036204148463,1,1,no,SAH,Africa
+'82db593da5',extremes,Precipitation,#d60d2b,wmo,regnskyll coromandel halvøya,2026-06-23T06:33:00+00:00,New Zealand,0.2618665339280634,1,1,no,NZ,Oceania
 '1d47df9d63',extremes,Precipitation,#d60d2b,wmo,regnskyll republikken moldova,2026-06-06T06:08:00+00:00,Republic of Moldova,0.2618626191078207,1,1,no,WCE,Europe
 'b40495b93f',extremes,Precipitation,#d60d2b,wmo,nedbør new zealand,2026-05-30T06:01:00+00:00,New Zealand,0.2618201829965484,1,1,no,NZ,Oceania
 '6636b82ba3',extremes,Thunderstorm,#53785a,wmo,tordenvær libya,2026-05-25T06:53:00+00:00,Libya,0.2617997875920144,1,1,no,SAH,Africa

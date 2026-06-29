@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2026-06-15T08:36:00+00:00,Norway,0.5942036883144026,1,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-06-27T06:08:00+00:00,Norway,0.5757256608640413,3,1,no,NEU,Europe
 'ffc1964f79',extremes,Snow Avalanche,#deddd5,wmo,snøskred helgeland,2026-05-25T06:53:00+00:00,Norway,0.5311984887562264,2,1,no,NEU,Europe
 '119301595b',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av finnmark,2026-06-03T07:23:00+00:00,Norway,0.5299379051603943,2,1,no,NEU,Europe
@@ -10,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9767784a11',extremes,Flood,#030ba1,wmo,flooding deler av agder og telemark,2026-06-10T06:49:00+00:00,Norway,0.5178226142191102,2,1,no,NEU,Europe
 '679a2b99cd',extremes,Flood,#030ba1,wmo,flood deler av agder og telemark,2026-06-10T06:49:00+00:00,Norway,0.5099516787832878,2,1,no,NEU,Europe
 '6b26bbfad0',extremes,Flood,#030ba1,wmo,flom fjellområdene i nordland,2026-06-06T06:08:00+00:00,Norway,0.5081558058272951,2,1,no,NEU,Europe
+'52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2026-06-15T08:36:00+00:00,Norway,0.5052231500672422,2,1,no,NEU,Europe
 '147dbbe3cd',extremes,Thunderstorm,#53785a,wmo,tordenvær norge,2026-06-10T06:49:00+00:00,Norway,0.5045079236381366,4,1,no,NEU,Europe
 'b14a60504a',extremes,Flood,#030ba1,wmo,flom fjellområdene i nord norge,2026-06-07T06:48:00+00:00,Norway,0.4977819836453651,2,1,no,NEU,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkan,2026-06-20T06:46:00+00:00,,0.4951180208922883,1,2,no,,
@@ -108,7 +108,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,regn Brasil,2026-06-17T07:33:00+00:00,Brazil,0.3085132658720165,1,1,no,SAM,South-America
 'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,no,,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,nedbør ecuador,2026-06-03T07:23:00+00:00,Ecuador,0.3076342243679193,1,1,no,NWS,South-America
-'355605856d',extremes,Precipitation,#d60d2b,wmo,nedbør chad,2026-06-28T06:44:00+00:00,Chad,0.3072761741831171,0,1,no,SAH,Africa
 '538eadceb4',extremes,Heat Wave,#c40202,random,mild vinter,2026-06-08T07:13:00+00:00,,0.3071471944247236,1,1,no,,
 'd68189cbca',extremes,Precipitation,#d60d2b,wmo,regnskyll Algerie,2026-06-26T06:36:00+00:00,Algeria,0.3069608014620272,0,1,no,SAH,Africa
 'aacf82e274',extremes,Drought,#edc291,edo,tørrtid på Færøyene,2026-06-17T07:34:00+00:00,Faroe Islands,0.3064454341520451,0,1,no,NEU,Europe
@@ -262,10 +261,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e0946a5f2',extremes,Drought,#edc291,edo,mangel på regn estland,2026-06-02T07:08:00+00:00,Estonia,0.261533886792829,1,1,no,NEU,Europe
 '56dca2743f',extremes,Drought,#edc291,edo,tørrtid ekvatorialguinea,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.2615297976163848,1,1,no,WAF,Africa
 '155c83286e',extremes,Precipitation,#d60d2b,wmo,regn coromandel halvøya,2026-06-24T06:30:00+00:00,New Zealand,0.2614339929031519,1,1,no,NZ,Oceania
-'c22c0da855',extremes,Precipitation,#d60d2b,wmo,nedbør canada,2026-06-09T06:32:00+00:00,Canada,0.26140082357743005,1,1,no,NEN,North-America
+'c22c0da855',extremes,Precipitation,#d60d2b,wmo,nedbør canada,2026-06-09T06:32:00+00:00,Canada,0.26140082357743,1,1,no,NEN,North-America
 '5b34407f4a',extremes,Wildfire,#d60d2b,acwe,skogbrann tasmania,2026-05-31T06:41:00+00:00,Australia,0.2613991603991973,1,1,no,SAU,Oceania
 '1a066ba374',extremes,Heat Wave,#c40202,acwe,varm spell victoria,2026-06-13T06:38:00+00:00,Australia,0.2613605564174552,1,1,no,SAU,Oceania
 'afc393e166',extremes,Precipitation,#d60d2b,wmo,nedbør sør-afrika,2026-06-02T07:08:00+00:00,South Africa,0.2613367560052293,1,1,no,WSAF,Africa
+'355605856d',extremes,Precipitation,#d60d2b,wmo,nedbør chad,2026-06-28T06:44:00+00:00,Chad,0.2611847480556495,1,1,no,SAH,Africa
 '1af32d0d90',extremes,Precipitation,#d60d2b,wmo,regn canada,2026-06-07T06:48:00+00:00,Canada,0.2611247586222607,1,1,no,NEN,North-America
 '9c446693a2',extremes,Precipitation,#d60d2b,wmo,regn algeria,2026-06-10T06:49:00+00:00,Algeria,0.261033749902837,1,1,no,SAH,Africa
 'f20891ccf9',extremes,Precipitation,#d60d2b,wmo,regn sør-afrika,2026-06-03T07:23:00+00:00,South Africa,0.2609442417370721,1,1,no,WSAF,Africa

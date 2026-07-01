@@ -75,7 +75,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,snø østfjorder,2026-06-07T06:48:00+00:00,Iceland,0.3512124552660093,1,1,no,GIC,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,nedbør Brasil,2026-06-16T08:27:00+00:00,Brazil,0.3503651830363187,2,1,no,SAM,South-America
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-06-04T07:06:00+00:00,Iceland,0.3497767587242872,1,1,no,GIC,Europe
-'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-06-17T07:33:00+00:00,,0.3490319024054866,0,1,no,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-06-14T07:06:00+00:00,,0.3461582956617937,1,2,no,,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,is argentina,2026-06-09T06:32:00+00:00,Argentina,0.3454098770073812,2,1,no,SES,South-America
 '1405131905',extremes,Thunderstorm,#53785a,random,hagl,2026-06-03T07:22:00+00:00,,0.3448173349256435,1,2,no,,
@@ -197,6 +196,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktisk havis,2026-05-30T06:01:00+00:00,,0.3002273249417252,1,1,no,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,breinnsjøutbrudd,2026-06-04T07:06:00+00:00,,0.2978186499413199,1,1,no,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,sandstorm,2026-06-09T06:32:00+00:00,,0.2976037729038604,1,1,no,,
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-06-17T07:33:00+00:00,,0.2971271620446636,1,1,no,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,haglvær,2026-06-17T07:33:00+00:00,,0.2964114936416986,1,1,no,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-06-10T06:49:00+00:00,,0.2940938394242867,3,1,no,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,rimfrost,2026-06-15T08:36:00+00:00,,0.2937920137041809,1,1,no,,
@@ -236,7 +236,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5fbcbe15d8',extremes,Iceberg,#d60d2b,eonet,isfjell d33b,2026-06-24T06:29:00+00:00,,0.2655723271360019,1,1,no,EAN,
 'a345aca9eb',extremes,Heat Wave,#c40202,acwe,hetebølge victoria,2026-06-20T06:47:00+00:00,Australia,0.2653441232761272,1,1,no,SAU,Oceania
 'ab5d1234a0',extremes,Flood,#030ba1,aidr,flood hobart flash flooding tasmania 2018,2026-06-01T07:30:00+00:00,Australia,0.2653215733898572,1,1,no,SAU,Oceania
-'e593608bfa',extremes,Snow&Ice,#d60d2b,random,snøpakke,2026-07-01T06:52:00+00:00,,0.26499636635993584,1,1,no,,
+'e593608bfa',extremes,Snow&Ice,#d60d2b,random,snøpakke,2026-07-01T06:52:00+00:00,,0.2649963663599358,1,1,no,,
 '806dd08d67',extremes,Flood,#030ba1,acwe,flom Victoria,2026-06-15T08:36:00+00:00,Australia,0.2649509740894119,1,1,no,SAU,Oceania
 '6977541e84',extremes,Drought,#edc291,edo,tørke madagaskar,2026-06-02T07:08:00+00:00,Madagascar,0.264386302921997,1,1,no,MDG,Africa
 'a7dd063fa4',extremes,Heat Wave,#c40202,cmeter,europeisk hetebølge bordeaux,2026-05-30T06:01:00+00:00,France,0.2643331395347574,1,1,no,,

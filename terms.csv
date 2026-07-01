@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8325ebe9d5',extremes,Landslide,#572c03,wmo,skred indre strøk i ofoten og troms,2026-06-30T06:39:00+00:00,Norway,0.7915530767942421,2,2,no,NEU,Europe
+'8325ebe9d5',extremes,Landslide,#572c03,wmo,skred indre strøk i ofoten og troms,2026-06-30T06:39:00+00:00,Norway,0.6729701302751058,3,2,no,NEU,Europe
 'd66c5c9d12',extremes,Precipitation,#d60d2b,wmo,regn norge,2026-06-29T07:13:00+00:00,Norway,0.5858765602563185,1,2,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-06-27T06:08:00+00:00,Norway,0.5757256608640413,3,1,no,NEU,Europe
 'c384b96e60',extremes,Precipitation,#d60d2b,wmo,regnskyll norge,2026-06-29T07:13:00+00:00,Norway,0.5596392286319263,2,1,no,NEU,Europe
@@ -77,7 +77,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gresshopper,2026-06-06T06:08:00+00:00,,0.335830723942655,1,1,no,,
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,syklon,2026-05-27T06:46:00+00:00,,0.3347687238076844,1,1,no,,
 '8447ef896b',extremes,Snow&Ice,#d60d2b,random,snøslush,2026-06-06T06:08:00+00:00,,0.3346930939894067,1,1,no,,
-'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,blåser snø,2026-06-27T06:08:00+00:00,,0.33404792017116197,1,1,no,,
+'1d33bbdbbe',extremes,Snow&Ice,#d60d2b,random,blåser snø,2026-06-27T06:08:00+00:00,,0.3340479201711619,1,1,no,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-06-10T06:49:00+00:00,,0.3331126774063012,1,1,no,,
 'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rim vinter,2026-06-29T07:12:00+00:00,,0.3317991563678151,1,1,no,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-06-07T06:48:00+00:00,,0.331348881431399,1,1,no,,
@@ -241,7 +241,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '641ad67faf',extremes,Wildfire,#d60d2b,acwe,brannforbud Sør-Australia,2026-06-14T07:07:00+00:00,Australia,0.2634392399814636,1,1,no,SAU,Oceania
 '2180c0c4a1',extremes,Drought,#edc291,edo,mangel på regn Polen,2026-06-02T07:08:00+00:00,Poland,0.2631360155174516,1,1,no,WCE,Europe
 '792a35d4a4',extremes,Flood,#030ba1,random,pluvial flom,2026-06-18T07:16:00+00:00,,0.2630063005995434,1,1,no,,
-'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,iskaldt Brasil,2026-06-25T06:32:00+00:00,Brazil,0.26292470524776596,1,1,no,SAM,South-America
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,iskaldt Brasil,2026-06-25T06:32:00+00:00,Brazil,0.2629247052477659,1,1,no,SAM,South-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,snø argentina,2026-06-16T08:27:00+00:00,Argentina,0.2629122127126792,1,1,no,SES,South-America
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,is Brasil,2026-06-15T08:36:00+00:00,Brazil,0.2627874452928851,1,1,no,SAM,South-America
 '4ae75fc210',extremes,Precipitation,#d60d2b,wmo,regn Saudi-Arabia,2026-06-23T06:33:00+00:00,Saudi Arabia,0.2624035406081402,1,1,no,ARP,Asia

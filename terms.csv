@@ -127,6 +127,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '291335c911',extremes,Drought,#edc291,edo,mangel på regn gabon,2026-06-07T06:48:00+00:00,Gabon,0.3051194707099418,0,1,no,CAF,Africa
 '39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,skogbrann antarktis,2026-06-24T06:30:00+00:00,Antarctica,0.305113404069782,0,1,no,EAN,
 '3fa143a609',extremes,Storm,#b3b2b1,random,støvstorm,2026-06-30T06:39:00+00:00,,0.3050964769423477,0,1,no,,
+'0335b20cbc',extremes,Storm,#b3b2b1,wmo,stormflo reg. 15 cordillera,2026-07-02T06:24:00+00:00,Chile,0.3050946804952246,0,1,no,SWS,South-America
 '84a92d2d97',extremes,Precipitation,#d60d2b,wmo,regn thailand,2026-06-21T07:16:00+00:00,Thailand,0.3050777128219519,0,1,no,SEA,Asia
 '55c39b351d',extremes,Storm,#b3b2b1,random,støvdjevel,2026-06-17T07:33:00+00:00,,0.3050403589886913,1,1,no,,
 'c4be795f03',extremes,Drought,#edc291,edo,mangel på regn ekvatorialguinea,2026-07-01T06:52:00+00:00,Equatorial Guinea,0.3049615032988373,0,1,no,WAF,Africa
@@ -149,6 +150,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3f61a0510',extremes,Flood,#030ba1,wmo,flom tomsk-regionen,2026-06-15T08:36:00+00:00,Russia,0.3037475951373236,0,1,no,ESB,Europe
 '8465f983bf',extremes,Storm,#b3b2b1,wmo,stormflo béchar,2026-06-17T07:33:00+00:00,Algeria,0.3034757796761167,0,1,no,SAH,Africa
 '769c0da087',extremes,Storm,#b3b2b1,wmo,stormtilstand i Kuwait,2026-06-16T08:27:00+00:00,Kuwait,0.3034713765410507,1,1,no,ARP,Asia
+'e7db391dce',extremes,Storm,#b3b2b1,wmo,stormflo costa rica,2026-06-25T06:32:00+00:00,Costa Rica,0.30347122228653006,0,1,no,SCA,North-America
 '9044bc0335',extremes,Earthquake,#870007,usgs,jordskjelv georgetown,2026-06-24T06:29:00+00:00,Saint Helena,0.3034325564390294,0,1,no,EAO,Atlantic Ocean
 '13104e853c',extremes,Drought,#edc291,edo,tørrtid gabon,2026-06-23T06:33:00+00:00,Gabon,0.3034070935799138,0,1,no,CAF,Africa
 '87931b9f82',extremes,Landslide,#572c03,aidr,mudflow australia,2026-06-27T06:09:00+00:00,Australia,0.303268815478413,0,1,no,EAU,Oceania
@@ -177,6 +179,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '24b660695f',extremes,Landslide,#572c03,wmo,gjørmeskred Kina,2026-06-11T07:14:00+00:00,China,0.3020626348101584,0,1,no,EAS,Asia
 '6bab428eb7',extremes,Heat Wave,#c40202,wmo,hetebølge Belgia,2026-05-26T06:31:00+00:00,Belgium,0.3020470038476004,0,1,no,WCE,Europe
 '44211c95de',extremes,Flood,#030ba1,wmo,flom i australia,2026-06-09T06:32:00+00:00,Australia,0.3020447138677804,0,1,no,CAU,Oceania
+'26fee806c3',extremes,Precipitation,#d60d2b,wmo,regnskyll india,2026-06-30T06:39:00+00:00,India,0.3019171072822852,0,1,no,SAS,Asia
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,stormflo áområde 2 – moderat,2026-06-10T06:49:00+00:00,Paraguay,0.3019066031736536,0,1,no,SES,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,iskaldt argentina,2026-05-26T06:31:00+00:00,Argentina,0.3018912544458504,0,1,no,SES,South-America
 '76ad379230',extremes,Earthquake,#870007,usgs,jordskjelv petropavlovsk kamchatsky,2026-06-27T06:08:00+00:00,Russia,0.3018478608925725,0,1,no,RFE,Asia
@@ -189,11 +192,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aaee78223c',extremes,Precipitation,#d60d2b,wmo,regnregn región litoral e interandina,2026-06-18T07:16:00+00:00,Ecuador,0.3016177814710861,0,1,no,NWS,South-America
 '44d9ac0858',extremes,Earthquake,#870007,usgs,jordskjelv pāpa'ikou,2026-06-15T08:36:00+00:00,Hawaii,0.3015961967698585,0,1,no,NPO,Pacific Ocean
 '104591a5db',extremes,Precipitation,#d60d2b,wmo,regn chad,2026-06-17T07:33:00+00:00,Chad,0.3015192077375646,0,1,no,SAH,Africa
+'80d50b76c6',extremes,Storm,#b3b2b1,wmo,stormflo Saudi-Arabia,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3015107334409777,0,1,no,ARP,Asia
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,nedbør argentina,2026-06-18T07:16:00+00:00,Argentina,0.3014874545577273,0,1,no,SES,South-America
+'5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,frost australia,2026-06-24T06:30:00+00:00,Australia,0.3014654432964623,0,1,no,CAU,Oceania
 '4c1d7f8a34',extremes,Wildfire,#d60d2b,wmo,skogbrann arkhangelsk-regionen,2026-06-10T06:49:00+00:00,Russia,0.3014414668147411,0,1,no,ESB,Europe
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,styrtregn argentina,2026-06-18T07:16:00+00:00,Argentina,0.30136859082305417,0,1,no,SES,South-America
 '8768fed4c8',extremes,Wildfire,#d60d2b,wmo,skogbrann kemerovo-regionen,2026-06-03T07:23:00+00:00,Russia,0.3013612181081352,0,1,no,ESB,Europe
+'0179e47b3d',extremes,Earthquake,#870007,usgs,jordskjelv unalaska,2026-06-15T08:36:00+00:00,Alaska,0.301316631511128,0,1,no,NWN,North-America
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,regn belize,2026-06-11T07:14:00+00:00,Belize,0.3012865105781053,0,1,no,SCA,North-America
 '38d6fb4787',extremes,Earthquake,#870007,usgs,jordskjelv owen fraktur sone region,2026-05-27T06:46:00+00:00,,0.301237269873381,0,1,no,ARS,Indian Ocean
+'bfdd2b1e9f',extremes,Precipitation,#d60d2b,wmo,regn russland,2026-06-18T07:16:00+00:00,Russia,0.3012186586775534,0,1,no,ESB,Europe
 '3bacdb81c7',extremes,Flood,#030ba1,wmo,flashflood canada,2026-05-28T06:38:00+00:00,Canada,0.3011714481068441,0,1,no,NEN,North-America
 '0ebdc15703',extremes,Earthquake,#870007,usgs,jordskjelv kahaluu keauhou,2026-06-03T07:22:00+00:00,Hawaii,0.3010736733373217,0,1,no,NPO,Pacific Ocean
 '04915d4188',extremes,Precipitation,#d60d2b,wmo,regnbyger macao,2026-06-08T07:13:00+00:00,Macao,0.3010469219789293,0,1,no,EAS,Asia

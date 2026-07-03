@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8c14e9ee2f',extremes,Storm,#b3b2b1,wmo,stormflo ytre skagerrak,2026-07-03T06:09:00+00:00,Norway,0.652176310475759,0,1,no,NEU,Europe
+'8c14e9ee2f',extremes,Storm,#b3b2b1,wmo,stormflo ytre skagerrak,2026-07-03T06:09:00+00:00,Norway,0.652176310475759,1,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-06-27T06:08:00+00:00,Norway,0.5757256608640413,3,1,no,NEU,Europe
 '8325ebe9d5',extremes,Landslide,#572c03,wmo,skred indre strøk i ofoten og troms,2026-06-30T06:39:00+00:00,Norway,0.5721746257338399,4,2,no,NEU,Europe
 '122cfda1f8',extremes,Storm,#b3b2b1,wmo,stormflo andenes torsvaag,2026-07-01T06:52:00+00:00,Norway,0.562882742355376,1,1,no,NEU,Europe
@@ -74,7 +74,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,snø østfjorder,2026-06-07T06:48:00+00:00,Iceland,0.3512124552660093,1,1,no,GIC,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,nedbør Brasil,2026-06-16T08:27:00+00:00,Brazil,0.3503651830363187,2,1,no,SAM,South-America
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-06-04T07:06:00+00:00,Iceland,0.3497767587242872,1,1,no,GIC,Europe
-'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-07-03T06:09:00+00:00,,0.34890633158280415,0,1,no,,
+'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-07-03T06:09:00+00:00,,0.3489063315828041,0,1,no,,
 '6b7e025bb3',extremes,Storm,#b3b2b1,random,virvelvind,2026-06-18T07:16:00+00:00,,0.3469692464143232,0,1,no,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-06-14T07:06:00+00:00,,0.3461582956617937,1,2,no,,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,is argentina,2026-06-09T06:32:00+00:00,Argentina,0.3454098770073812,2,1,no,SES,South-America
@@ -116,13 +116,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,nedbør ecuador,2026-06-03T07:23:00+00:00,Ecuador,0.3076342243679193,1,1,no,NWS,South-America
 '538eadceb4',extremes,Heat Wave,#c40202,random,mild vinter,2026-06-08T07:13:00+00:00,,0.3071471944247236,1,1,no,,
 '40f675561f',extremes,Heat Wave,#c40202,random,varmeste sommeren,2026-06-11T07:14:00+00:00,,0.3063938482708976,1,1,no,,
-'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,iskaldt argentina,2026-06-17T07:33:00+00:00,Argentina,0.30637105509577833,0,1,no,SES,South-America
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,iskaldt argentina,2026-06-17T07:33:00+00:00,Argentina,0.3063710550957783,0,1,no,SES,South-America
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,jordskjelv island,2026-06-01T07:30:00+00:00,Iceland,0.3063517606619196,1,1,no,GIC,Europe
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,iskaldt,2026-06-11T07:14:00+00:00,,0.306338046943661,1,1,no,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-06-10T06:49:00+00:00,,0.3059439278892754,1,2,no,,
 '4dd12d0f3d',extremes,Precipitation,#d60d2b,wmo,styrtregn Saudi-Arabia,2026-06-23T06:33:00+00:00,Saudi Arabia,0.3058235883279693,0,1,no,ARP,Asia
 '33355e5510',extremes,Thunderstorm,#53785a,wmo,algeria med kraftig vær,2026-07-02T06:24:00+00:00,Algeria,0.3057708344779594,0,1,no,SAH,Africa
-'5ce57f419d',extremes,Earthquake,#870007,usgs,jordskjelv i Venezuela,2026-06-20T06:46:00+00:00,Venezuela,0.30521720047350964,0,1,no,NSA,South-America
+'5ce57f419d',extremes,Earthquake,#870007,usgs,jordskjelv i Venezuela,2026-06-20T06:46:00+00:00,Venezuela,0.3052172004735096,0,1,no,NSA,South-America
 'd709206c08',extremes,Storm,#b3b2b1,wmo,storm reg. 15 cordillera,2026-07-03T06:09:00+00:00,Chile,0.3051938280274644,0,1,no,SWS,South-America
 '291335c911',extremes,Drought,#edc291,edo,mangel på regn gabon,2026-06-07T06:48:00+00:00,Gabon,0.3051194707099418,0,1,no,CAF,Africa
 '39a886a9b9',extremes,Wildfire,#d60d2b,cmeter,skogbrann antarktis,2026-06-24T06:30:00+00:00,Antarctica,0.305113404069782,0,1,no,EAN,

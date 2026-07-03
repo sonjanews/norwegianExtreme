@@ -74,8 +74,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a8e4c3dfb',extremes,Snow&Ice,#d60d2b,wmo,snø østfjorder,2026-06-07T06:48:00+00:00,Iceland,0.3512124552660093,1,1,no,GIC,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,nedbør Brasil,2026-06-16T08:27:00+00:00,Brazil,0.3503651830363187,2,1,no,SAM,South-America
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-06-04T07:06:00+00:00,Iceland,0.3497767587242872,1,1,no,GIC,Europe
-'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-07-03T06:09:00+00:00,,0.3489063315828041,0,1,no,,
-'6b7e025bb3',extremes,Storm,#b3b2b1,random,virvelvind,2026-06-18T07:16:00+00:00,,0.3469692464143232,0,1,no,,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-06-14T07:06:00+00:00,,0.3461582956617937,1,2,no,,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,is argentina,2026-06-09T06:32:00+00:00,Argentina,0.3454098770073812,2,1,no,SES,South-America
 '1405131905',extremes,Thunderstorm,#53785a,random,hagl,2026-06-03T07:22:00+00:00,,0.3448173349256435,1,2,no,,
@@ -209,7 +207,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,breinnsjøutbrudd,2026-06-04T07:06:00+00:00,,0.2978186499413199,1,1,no,,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,sandstorm,2026-06-09T06:32:00+00:00,,0.2976037729038604,1,1,no,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-06-17T07:33:00+00:00,,0.2971271620446636,1,1,no,,
+'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-07-03T06:09:00+00:00,,0.2965703818453835,1,1,no,,
 '59b529f428',extremes,Thunderstorm,#53785a,random,haglvær,2026-06-17T07:33:00+00:00,,0.2964114936416986,1,1,no,,
+'6b7e025bb3',extremes,Storm,#b3b2b1,random,virvelvind,2026-06-18T07:16:00+00:00,,0.2952238894521747,1,1,no,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-06-10T06:49:00+00:00,,0.2940938394242867,3,1,no,,
 'b1d56de062',extremes,Snow&Ice,#d60d2b,random,rimfrost,2026-06-15T08:36:00+00:00,,0.2937920137041809,1,1,no,,
 '626e44f853',extremes,Earthquake,#870007,usgs,jordskjelv grindavík,2026-05-31T06:40:00+00:00,Iceland,0.2931974318954682,1,1,no,GIC,Europe

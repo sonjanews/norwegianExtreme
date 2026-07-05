@@ -160,7 +160,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12775cc05a',extremes,Drought,#edc291,edo,tørke Brasil,2026-06-16T08:27:00+00:00,Brazil,0.3030699260518908,0,1,no,SAM,South-America
 'c81c03f06e',extremes,Earthquake,#870007,usgs,jordskjelv beauséjour,2026-06-27T06:08:00+00:00,Guadeloupe,0.3029572219278041,0,1,no,NAO,Atlantic Ocean
 '190bcda954',extremes,Storm,#b3b2b1,wmo,stormflo fort nelson,2026-07-01T06:52:00+00:00,Canada,0.3028582566584142,0,1,no,NEN,North-America
-'f01104a9ec',extremes,Heat Wave,#c40202,wmo,hetebølge Tyskland,2026-06-18T07:16:00+00:00,Germany,0.3028056342829996,0,1,no,WCE,Europe
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,stormflo ecuador,2026-06-10T06:49:00+00:00,Ecuador,0.302793530878201,0,1,no,NWS,South-America
 '9f3b29621a',extremes,Earthquake,#870007,usgs,jordskjelv sentral midt atlanterhavsryggen,2026-06-17T07:33:00+00:00,,0.3027896995806892,0,1,no,EAO,Atlantic Ocean
 'e82c94efda',extremes,Earthquake,#870007,usgs,jordskjelv valparaíso,2026-06-02T07:08:00+00:00,Chile,0.3026796289846175,0,1,no,SWS,South-America
@@ -227,6 +226,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5251a639fe',extremes,Wildfire,#d60d2b,eonet,kopshesut skogbrann nordvest i arktisk alaska,2026-06-12T07:05:00+00:00,,0.2715536999421865,1,1,no,,
 '70bae49ea5',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm boris,2026-06-12T07:05:00+00:00,,0.271179373925439,1,1,no,SCA,North-America
 '567f445b3d',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm cristina,2026-06-12T07:05:00+00:00,,0.2709186933115594,1,1,no,SCA,North-America
+'f01104a9ec',extremes,Heat Wave,#c40202,wmo,hetebølge Tyskland,2026-06-18T07:16:00+00:00,Germany,0.2701992848548354,1,1,no,WCE,Europe
 '8d4e6fcc3e',extremes,Snow&Ice,#d60d2b,random,snøbyger,2026-06-20T06:46:00+00:00,,0.2701690259947583,1,1,no,,
 '0642c90e96',extremes,Iceberg,#d60d2b,eonet,isfjell b22f,2026-06-24T06:29:00+00:00,Antarctica,0.2694811146168214,1,1,no,WAN,Antarctica
 'b87a41f64c',extremes,Iceberg,#d60d2b,eonet,isfjell a76c,2026-06-24T06:29:00+00:00,Antarctica,0.2686420176344976,1,1,no,WAN,Antarctica

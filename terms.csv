@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'06285e171c',extremes,Flood,#030ba1,wmo,flom norge,2026-06-26T06:36:00+00:00,Norway,0.7316669973647019,0,1,no,NEU,Europe
+'06285e171c',extremes,Flood,#030ba1,wmo,flom norge,2026-06-26T06:36:00+00:00,Norway,0.6469440658369197,1,1,no,NEU,Europe
 '679a2b99cd',extremes,Flood,#030ba1,wmo,flood deler av agder og telemark,2026-06-10T06:49:00+00:00,Norway,0.5099516787832878,2,1,no,NEU,Europe
 '6b26bbfad0',extremes,Flood,#030ba1,wmo,flom fjellområdene i nordland,2026-06-06T06:08:00+00:00,Norway,0.5081558058272951,2,1,no,NEU,Europe
 'd66c5c9d12',extremes,Precipitation,#d60d2b,wmo,regn norge,2026-06-29T07:13:00+00:00,Norway,0.5075184200109741,2,3,no,NEU,Europe
@@ -42,7 +42,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,flom,2026-06-12T07:05:00+00:00,,0.4405179675928081,2,1,no,,
 '9767784a11',extremes,Flood,#030ba1,wmo,flooding deler av agder og telemark,2026-06-10T06:49:00+00:00,Norway,0.4401492220862437,3,1,no,NEU,Europe
 '790bb54e5c',extremes,Storm,#b3b2b1,wmo,stormflo førtiårene,2026-07-02T06:24:00+00:00,Norway,0.4399060281021712,2,1,no,NEU,Europe
-'9d5914f39c',extremes,Storm,#b3b2b1,wmo,storm sør-island,2026-07-08T05:37:00+00:00,Iceland,0.4398704109019076,0,1,no,GIC,Europe
 'f439fda285',extremes,Drought,#edc291,edo,tørke norge,2026-06-21T07:16:00+00:00,Norway,0.4234113072335811,2,1,no,NEU,Europe
 'b14a60504a',extremes,Flood,#030ba1,wmo,flom fjellområdene i nord norge,2026-06-07T06:48:00+00:00,Norway,0.4231146860985603,3,1,no,NEU,Europe
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,styrtregn,2026-06-29T07:12:00+00:00,,0.4207549211273567,1,2,no,,
@@ -58,18 +57,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,kaldeste vinteren,2026-06-15T08:36:00+00:00,,0.3963883205634222,2,1,no,,
 '585a531614',extremes,Storm,#b3b2b1,wmo,storm nordkapp slettnes fyr,2026-06-13T06:38:00+00:00,Norway,0.3954085282624253,3,1,no,NEU,Europe
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,kaldeste dagen,2026-07-08T05:37:00+00:00,,0.3947742728866846,0,1,no,,
-'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2026-06-25T06:32:00+00:00,,0.39410946964990273,0,1,no,,
+'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2026-06-25T06:32:00+00:00,,0.3941094696499027,0,1,no,,
 '548c965c5b',extremes,Storm,#b3b2b1,wmo,stormflo maaloey stad,2026-06-19T07:39:00+00:00,Norway,0.3939255109792942,3,1,no,NEU,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-06-21T07:16:00+00:00,,0.3929658825029535,1,3,no,,
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,kalving av isfjell,2026-06-13T06:38:00+00:00,,0.3928056380543407,1,1,no,,
 '7d9ab61747',extremes,Storm,#b3b2b1,wmo,storm bulandet maaloey,2026-06-15T08:36:00+00:00,Norway,0.3915469757920807,3,1,no,NEU,Europe
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-06-14T07:07:00+00:00,Norway,0.3902116357474136,4,1,no,NEU,Europe
-'4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gresshopper,2026-06-28T06:44:00+00:00,,0.38934557524124697,0,1,no,,
+'4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gresshopper,2026-06-28T06:44:00+00:00,,0.3893455752412469,0,1,no,,
 '5ce57f419d',extremes,Earthquake,#870007,usgs,jordskjelv i Venezuela,2026-06-20T06:46:00+00:00,Venezuela,0.3871128381297559,1,3,no,NSA,South-America
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-07-08T05:37:00+00:00,,0.3827989196223368,0,1,no,,
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-06-26T06:36:00+00:00,Iceland,0.3805744292722666,0,1,no,GIC,Europe
 'b8a867d5e2',extremes,Storm,#b3b2b1,wmo,stormflo fedje bulandet,2026-06-15T08:36:00+00:00,Norway,0.3805066898452855,3,1,no,NEU,Europe
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-07-07T06:30:00+00:00,Iceland,0.3772960417420284,1,1,no,GIC,Europe
+'9d5914f39c',extremes,Storm,#b3b2b1,wmo,storm sør-island,2026-07-08T05:37:00+00:00,Iceland,0.37388984926662144,1,1,no,GIC,Europe
 'cd7da015b8',extremes,Thunderstorm,#53785a,wmo,hardt vær rogaland og agder,2026-06-26T06:36:00+00:00,Norway,0.3652887591699634,3,1,no,NEU,Europe
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-06-06T06:08:00+00:00,,0.3639301588090604,1,1,no,,
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-06-16T08:27:00+00:00,Norway,0.3583388528204665,2,1,no,NEU,Europe

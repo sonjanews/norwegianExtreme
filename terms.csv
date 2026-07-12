@@ -190,6 +190,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5834c8ea07',extremes,Precipitation,#d60d2b,wmo,regnskyll quito,2026-07-11T05:27:00+00:00,Ecuador,0.3010329394276,0,1,no,NWS,South-America
 '80462e91eb',extremes,Tropical Cyclone,#4f4f4f,random,syklon,2026-06-18T07:16:00+00:00,,0.3010206703082695,0,1,no,,
 '62e1a55c0b',extremes,Wildfire,#d60d2b,wmo,skogbrann penza-regionen,2026-07-09T06:27:00+00:00,Russia,0.3009989176410653,0,1,no,ESB,Europe
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,tåke USA,2026-06-27T06:08:00+00:00,United States,0.30093275367920036,0,1,no,CNA,North-America
+'1c4e7fb6c7',extremes,Fog,#d60d2b,wmo,tåke litauen,2026-07-11T05:27:00+00:00,Lithuania,0.3009292416649228,0,1,no,WCE,Europe
 '3b0e352b6e',extremes,Flood,#030ba1,wmo,flom Sør-Australia Warburton,2026-06-16T08:27:00+00:00,Australia,0.3009214300633241,0,1,no,CAU,Oceania
 '72fa239364',extremes,Precipitation,#d60d2b,wmo,regnskyll dgo nei synd,2026-07-10T06:27:00+00:00,Mexico,0.3009089038484969,0,1,no,NCA,North-America
 '08226562a9',extremes,Earthquake,#870007,usgs,jordskjelv fais,2026-06-25T06:32:00+00:00,Micronesia,0.3009038804513771,0,1,no,NPO,Pacific Ocean
@@ -197,6 +199,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ecb4dd4d1b',extremes,Fog,#d60d2b,wmo,tåke nordkyst kystseksjoner,2026-06-22T08:39:00+00:00,Canada,0.3008338261881651,0,1,no,NEN,North-America
 '0b7dff9d8a',extremes,Snow&Ice,#d60d2b,wmo,iskaldt Tyskland,2026-06-11T07:14:00+00:00,Germany,0.3008053761376001,0,1,no,WCE,Europe
 '83923f83ef',extremes,Storm,#b3b2b1,wmo,storm australia,2026-06-26T06:36:00+00:00,Australia,0.3007896847642597,0,1,no,CAU,Oceania
+'7f450bad1e',extremes,Precipitation,#d60d2b,wmo,styrtregn mex,2026-07-11T05:27:00+00:00,Mexico,0.30073958098632,0,1,no,NCA,North-America
+'49b55c4a32',extremes,Precipitation,#d60d2b,wmo,nedbør gro oax,2026-07-11T05:27:00+00:00,Mexico,0.300649220223321,0,1,no,NCA,North-America
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,hardt vær india,2026-06-30T06:39:00+00:00,India,0.3006473897763865,0,1,no,SAS,Asia
 '57830c4f90',extremes,Storm,#b3b2b1,wmo,storm marlborough omtrent sør for clarence,2026-06-20T06:47:00+00:00,New Zealand,0.3006365408171192,0,1,no,NZ,Oceania
 'e762488b7b',extremes,Earthquake,#870007,usgs,jordskjelv caluula,2026-06-28T06:44:00+00:00,Somalia,0.3005863629429299,0,1,no,NEAF,Africa
@@ -206,6 +210,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '288e7f4724',extremes,Wildfire,#d60d2b,wmo,skogbrann turukhanskiy m.r.,2026-06-26T06:36:00+00:00,Russia,0.3004939612345195,0,1,no,ESB,Europe
 '46b58bff76',extremes,Storm,#b3b2b1,wmo,storm reg. 2 litoral reg. 3 litoral,2026-06-20T06:47:00+00:00,Chile,0.3004667964689889,0,1,no,SWS,South-America
 '66fc7fe556',extremes,Heat Wave,#c40202,wmo,hetebølge langt borte gambela,2026-07-07T06:30:00+00:00,Ethiopia,0.3004373924741479,0,1,no,NEAF,Africa
+'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,frost milford road sh94,2026-07-04T05:59:00+00:00,New Zealand,0.3004277135908473,0,1,no,NZ,Oceania
+'8f4994eef2',extremes,Storm,#b3b2b1,wmo,stormflo gammel kråke,2026-06-24T06:30:00+00:00,Canada,0.3004036969831761,0,1,no,NEN,North-America
+'4dbc33b191',extremes,Wildfire,#d60d2b,wmo,skogbrann novosibirsk-regionen,2026-06-27T06:08:00+00:00,Russia,0.30033277099143313,0,1,no,ESB,Europe
+'22bab77b3f',extremes,Storm,#b3b2b1,wmo,stormflo nordlige kystfarvann.,2026-06-28T06:44:00+00:00,Vanuatu,0.3003269009937764,0,1,no,SPO,Oceania
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,sandstorm,2026-06-09T06:32:00+00:00,,0.2976037729038604,1,1,no,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-06-17T07:33:00+00:00,,0.2971271620446636,1,1,no,,
 'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-07-03T06:09:00+00:00,,0.2965703818453835,1,1,no,,

@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f59468215c',extremes,Storm,#b3b2b1,wmo,storm hjelmsoey bank,2026-07-15T05:15:00+00:00,Norway,0.6449392035697415,0,1,no,NEU,Europe
+'f59468215c',extremes,Storm,#b3b2b1,wmo,storm hjelmsoey bank,2026-07-15T05:15:00+00:00,Norway,0.6449392035697415,1,1,no,NEU,Europe
 '726449aeda',extremes,Storm,#b3b2b1,wmo,storm tromsoflaket,2026-07-15T05:15:00+00:00,Norway,0.6396586545804775,0,1,no,NEU,Europe
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-07-05T06:25:00+00:00,Norway,0.5393564450549158,2,2,no,NEU,Europe
 '53792a7f72',extremes,Storm,#b3b2b1,wmo,stormbanker utenfor troms,2026-07-13T05:53:00+00:00,Norway,0.5338683823219438,1,1,no,NEU,Europe
@@ -125,7 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40f675561f',extremes,Heat Wave,#c40202,random,varmeste sommeren,2026-06-11T07:14:00+00:00,,0.3063938482708976,1,1,no,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,iskaldt,2026-06-11T07:14:00+00:00,,0.306338046943661,1,1,no,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-06-10T06:49:00+00:00,,0.3059439278892754,1,2,no,,
-'8a654473a4',extremes,Drought,#edc291,edo,tørke Sao Tome og Principe,2026-07-07T06:30:00+00:00,Sao Tome and Principe,0.30586035350289437,0,1,no,WAF,Africa
+'8a654473a4',extremes,Drought,#edc291,edo,tørke Sao Tome og Principe,2026-07-07T06:30:00+00:00,Sao Tome and Principe,0.3058603535028943,0,1,no,WAF,Africa
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-07-05T06:24:00+00:00,,0.3054647743786265,1,1,no,,
 'b2ab090487',extremes,Precipitation,#d60d2b,wmo,regn chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.3054190529625011,0,1,no,NCA,North-America
 'a03bfb69ba',extremes,Drought,#edc291,edo,tørrtid Sveits,2026-06-26T06:36:00+00:00,Switzerland,0.3051533382415271,0,1,no,WCE,Europe

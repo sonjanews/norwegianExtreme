@@ -1,4 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'e00d255e61',extremes,Storm,#b3b2b1,wmo,storm nord utsire,2026-07-17T05:27:00+00:00,Norway,0.6640581290142146,0,1,no,NEU,Europe
+'8655d0b827',extremes,Storm,#b3b2b1,wmo,storm øst tampen,2026-07-17T05:27:00+00:00,Norway,0.6412915024467445,0,1,no,NEU,Europe
+'c4a87b6f00',extremes,Storm,#b3b2b1,wmo,stormflo stad svinoey,2026-07-17T05:27:00+00:00,Norway,0.6385024449469394,0,1,no,NEU,Europe
+'6575158ed2',extremes,Storm,#b3b2b1,wmo,storm førtiårene,2026-07-17T05:27:00+00:00,Norway,0.6276807994198134,0,1,no,NEU,Europe
+'18bf0e0c51',extremes,Storm,#b3b2b1,wmo,storm viking,2026-07-17T05:27:00+00:00,Norway,0.6248442560532167,0,1,no,NEU,Europe
 'f59468215c',extremes,Storm,#b3b2b1,wmo,storm hjelmsoey bank,2026-07-15T05:15:00+00:00,Norway,0.5481983230342803,2,1,no,NEU,Europe
 '81ee891ae3',extremes,Storm,#b3b2b1,wmo,storm hekkingen lopa,2026-07-16T05:25:00+00:00,Norway,0.5460843328097904,1,1,no,NEU,Europe
 'df2ca6986d',extremes,Storm,#b3b2b1,wmo,stormflo lopa nordkapp,2026-07-16T05:25:00+00:00,Norway,0.5454710566583305,1,1,no,NEU,Europe
@@ -49,16 +54,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8c14e9ee2f',extremes,Storm,#b3b2b1,wmo,stormflo ytre skagerrak,2026-07-03T06:09:00+00:00,Norway,0.4005177766709254,4,1,no,NEU,Europe
 '9944768ca7',extremes,Storm,#b3b2b1,wmo,stormflo nordbredden,2026-07-06T06:52:00+00:00,Norway,0.397497809362032,3,1,no,NEU,Europe
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,kaldeste vinteren,2026-06-15T08:36:00+00:00,,0.3963883205634222,2,1,no,,
+'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,isfjell arctis,2026-07-05T06:24:00+00:00,,0.3940375371758094,0,1,no,,
 '548c965c5b',extremes,Storm,#b3b2b1,wmo,stormflo maaloey stad,2026-06-19T07:39:00+00:00,Norway,0.3939255109792942,3,1,no,NEU,Europe
 '62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-06-21T07:16:00+00:00,,0.3929658825029535,1,3,no,,
 '647f797672',extremes,Storm,#b3b2b1,wmo,stormflo hekkingen lopa,2026-07-13T05:53:00+00:00,Norway,0.3897370256347867,3,1,no,NEU,Europe
 '836bb023cd',extremes,Storm,#b3b2b1,wmo,stormflo fisker,2026-07-02T06:24:00+00:00,Norway,0.3885061324415535,3,1,no,NEU,Europe
 '5ce57f419d',extremes,Earthquake,#870007,usgs,jordskjelv i Venezuela,2026-06-20T06:46:00+00:00,Venezuela,0.3871128381297559,1,3,no,NSA,South-America
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bushfire,2026-07-11T05:26:00+00:00,,0.3863015265779371,0,1,no,,
 'dceef3c2e9',extremes,Wildfire,#d60d2b,wmo,skogbrann i sørøstlige deler av norge,2026-07-10T06:27:00+00:00,Norway,0.3830441704398127,4,1,no,NEU,Europe
 '5573725f45',extremes,Storm,#b3b2b1,wmo,storm fruholmen slettnes fyr,2026-07-01T06:52:00+00:00,Norway,0.3824224497291686,3,1,no,NEU,Europe
 '468cd6b554',extremes,Storm,#b3b2b1,wmo,stormflo vestfjordene,2026-07-12T05:43:00+00:00,Iceland,0.3741314536942019,1,1,no,GIC,Europe
 '790bb54e5c',extremes,Storm,#b3b2b1,wmo,stormflo førtiårene,2026-07-02T06:24:00+00:00,Norway,0.3739201238868455,3,1,no,NEU,Europe
 'cd7da015b8',extremes,Thunderstorm,#53785a,wmo,hardt vær rogaland og agder,2026-06-26T06:36:00+00:00,Norway,0.3652887591699634,3,1,no,NEU,Europe
+'5ea4d45f08',extremes,Tropical Cyclone,#4f4f4f,random,landfall,2026-07-09T06:27:00+00:00,,0.3651119068786956,0,1,no,,
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,styrtregn Brasil,2026-07-06T06:52:00+00:00,Brazil,0.3614749833624754,1,2,no,SAM,South-America
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-07-14T05:14:00+00:00,,0.3601520394247323,2,1,no,,
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-06-16T08:27:00+00:00,Norway,0.3583388528204665,2,1,no,NEU,Europe

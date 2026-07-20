@@ -97,6 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-07-07T06:30:00+00:00,Iceland,0.3208516504807241,2,1,no,GIC,Europe
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-06-19T07:39:00+00:00,Norway,0.3206351845133848,2,1,no,NEU,Europe
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-06-29T07:12:00+00:00,,0.3206112943949928,1,1,no,,
+'f01104a9ec',extremes,Heat Wave,#c40202,wmo,hetebølge Tyskland,2026-06-18T07:16:00+00:00,Germany,0.32045494124425716,2,2,no,WCE,Europe
 'f9a3abc8c2',extremes,Landslide,#572c03,random,gjørmestrøm,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,no,,
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-07-12T05:43:00+00:00,Iceland,0.3192416300684982,2,1,no,GIC,Europe
 'e2082c3612',extremes,Storm,#b3b2b1,wmo,stormflo sør-island,2026-07-09T06:27:00+00:00,Iceland,0.3184462160319093,2,1,no,GIC,Europe
@@ -219,7 +220,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-06-17T07:33:00+00:00,,0.2758905154527347,1,1,no,,
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-07-02T06:23:00+00:00,,0.2737261385476146,1,1,no,,
 'f4e1bf0fdf',extremes,Flood,#030ba1,random,breinnsjøutbrudd,2026-07-02T06:23:00+00:00,,0.2719157901137981,1,1,no,,
-'f01104a9ec',extremes,Heat Wave,#c40202,wmo,hetebølge Tyskland,2026-06-18T07:16:00+00:00,Germany,0.2701992848548354,1,1,no,WCE,Europe
 'c036822c6f',extremes,Wildfire,#d60d2b,acwe,wildfire victoria,2026-07-04T05:59:00+00:00,Australia,0.269963471236045,1,1,no,SAU,Oceania
 '0642c90e96',extremes,Iceberg,#d60d2b,eonet,isfjell b22f,2026-06-24T06:29:00+00:00,Antarctica,0.2694811146168214,1,1,no,WAN,Antarctica
 '8182ed2818',extremes,Precipitation,#d60d2b,acwe,nedbør tasmania,2026-06-21T07:16:00+00:00,Australia,0.2688985108418724,1,1,no,SAU,Oceania

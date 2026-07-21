@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'d8463de706',extremes,Storm,#b3b2b1,wmo,storm maaloey svinoey,2026-07-21T05:36:00+00:00,Norway,0.6278445271950717,0,1,no,NEU,Europe
 '53792a7f72',extremes,Storm,#b3b2b1,wmo,stormbanker utenfor troms,2026-07-13T05:53:00+00:00,Norway,0.5338683823219438,1,1,no,NEU,Europe
 '6575158ed2',extremes,Storm,#b3b2b1,wmo,storm førtiårene,2026-07-17T05:27:00+00:00,Norway,0.5335286795068414,2,1,no,NEU,Europe
 '52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2026-06-15T08:36:00+00:00,Norway,0.5052231500672422,2,1,no,NEU,Europe
@@ -55,6 +56,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9944768ca7',extremes,Storm,#b3b2b1,wmo,stormflo nordbredden,2026-07-06T06:52:00+00:00,Norway,0.397497809362032,3,1,no,NEU,Europe
 'df2ca6986d',extremes,Storm,#b3b2b1,wmo,stormflo lopa nordkapp,2026-07-16T05:25:00+00:00,Norway,0.3941028384356437,3,1,no,NEU,Europe
 '8655d0b827',extremes,Storm,#b3b2b1,wmo,storm øst tampen,2026-07-17T05:27:00+00:00,Norway,0.3938331439401069,3,1,no,NEU,Europe
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekordkald,2026-07-07T06:30:00+00:00,,0.3937628444211516,0,1,no,,
 '62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-06-21T07:16:00+00:00,,0.3929658825029535,1,3,no,,
 'c4a87b6f00',extremes,Storm,#b3b2b1,wmo,stormflo stad svinoey,2026-07-17T05:27:00+00:00,Norway,0.3921203140030391,3,1,no,NEU,Europe
 '647f797672',extremes,Storm,#b3b2b1,wmo,stormflo hekkingen lopa,2026-07-13T05:53:00+00:00,Norway,0.3897370256347867,3,1,no,NEU,Europe
@@ -89,6 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd59a7e48d7',extremes,Drought,#edc291,random,evapotranspirasjon,2026-07-08T05:37:00+00:00,,0.3253790816789862,1,1,no,,
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-06-26T06:36:00+00:00,Iceland,0.3234882648814265,1,1,no,GIC,Europe
 'b6cef22543',extremes,Drought,#edc291,random,vannrestriksjon,2026-07-01T06:52:00+00:00,,0.3229727009338708,1,1,no,,
+'3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-07-02T06:23:00+00:00,,0.32278699770650066,0,1,no,,
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,brekalving,2026-07-15T05:15:00+00:00,,0.3226020965973539,1,1,no,,
 'c67af7e3fe',extremes,Earthquake,#870007,usgs,jordskjelv island,2026-06-23T06:32:00+00:00,Iceland,0.3214822926382581,1,1,no,GIC,Europe
 'e9e2245d7c',extremes,Storm,#b3b2b1,wmo,storm stavern oksoey,2026-06-29T07:13:00+00:00,Norway,0.3211696490397611,4,1,no,NEU,Europe
@@ -96,6 +99,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-06-19T07:39:00+00:00,Norway,0.3206351845133848,2,1,no,NEU,Europe
 'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-06-29T07:12:00+00:00,,0.3206112943949928,1,1,no,,
 'f01104a9ec',extremes,Heat Wave,#c40202,wmo,hetebølge Tyskland,2026-06-18T07:16:00+00:00,Germany,0.3204549412442571,2,2,no,WCE,Europe
+'8626b81b9b',extremes,Flood,#030ba1,emdat,flom zamora chinchipe,2026-07-21T05:36:00+00:00,Ecuador,0.3200075473236523,0,1,no,NWS,South-America
 'f9a3abc8c2',extremes,Landslide,#572c03,random,gjørmestrøm,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,no,,
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-07-12T05:43:00+00:00,Iceland,0.3192416300684982,2,1,no,GIC,Europe
 'e2082c3612',extremes,Storm,#b3b2b1,wmo,stormflo sør-island,2026-07-09T06:27:00+00:00,Iceland,0.3184462160319093,2,1,no,GIC,Europe
@@ -111,6 +115,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,sandstorm,2026-07-03T06:09:00+00:00,,0.3090112659466982,1,1,no,,
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,snø Brasil,2026-07-05T06:25:00+00:00,Brazil,0.3087181542521396,1,1,no,SAM,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,regn Brasil,2026-06-17T07:33:00+00:00,Brazil,0.3085132658720165,1,1,no,SAM,South-America
+'70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,tropisk syklon USA,2026-07-20T05:54:00+00:00,United States,0.30757000103741233,0,1,no,CNA,North-America
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,iskaldt argentina,2026-07-08T05:37:00+00:00,Argentina,0.30737728567115047,0,1,no,SES,South-America
+'b42ca6333d',extremes,Fog,#d60d2b,wmo,tåke omsk region,2026-07-08T05:37:00+00:00,Russia,0.3070448783217796,0,1,no,ESB,Europe
+'9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,tyfon i USA,2026-07-20T05:54:00+00:00,United States,0.30703044785887923,0,1,no,CNA,North-America
 '806dd08d67',extremes,Flood,#030ba1,acwe,flom Victoria,2026-07-17T05:27:00+00:00,Australia,0.3056007439821042,0,1,no,SAU,Oceania
 'da1ae5191e',extremes,Storm,#b3b2b1,random,stormflo,2026-07-07T06:30:00+00:00,,0.3055398151599224,0,1,no,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-07-05T06:24:00+00:00,,0.3054647743786265,1,1,no,,
@@ -257,7 +265,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82db593da5',extremes,Precipitation,#d60d2b,wmo,regnskyll coromandel halvøya,2026-06-23T06:33:00+00:00,New Zealand,0.2618665339280634,1,1,no,NZ,Oceania
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,regnskyll argentina,2026-06-18T07:16:00+00:00,Argentina,0.2616723184273719,1,1,no,SES,South-America
 '69420e8eee',extremes,Precipitation,#d60d2b,wmo,nedbørsregion interandina y amazónica,2026-07-04T05:59:00+00:00,Ecuador,0.26164971385904,1,1,no,NWS,South-America
-'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brasil,2026-07-04T05:59:00+00:00,Brazil,0.26155160674931066,1,1,no,SAM,South-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,storm Brasil,2026-07-04T05:59:00+00:00,Brazil,0.2615516067493106,1,1,no,SAM,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,tørrtid ekvatorialguinea,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.2615297976163848,1,1,no,WAF,Africa
 '854af57bd3',extremes,Fog,#d60d2b,wmo,tåke canada,2026-06-24T06:30:00+00:00,Canada,0.2614810689569323,1,1,no,NEN,North-America
 '155c83286e',extremes,Precipitation,#d60d2b,wmo,regn coromandel halvøya,2026-06-24T06:30:00+00:00,New Zealand,0.2614339929031519,1,1,no,NZ,Oceania

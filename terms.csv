@@ -13,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e00d255e61',extremes,Storm,#b3b2b1,wmo,storm nord utsire,2026-07-17T05:27:00+00:00,Norway,0.4797819982127699,2,1,no,NEU,Europe
 '122cfda1f8',extremes,Storm,#b3b2b1,wmo,stormflo andenes torsvaag,2026-07-01T06:52:00+00:00,Norway,0.4784503310020696,2,1,no,NEU,Europe
 'ea87be5bd8',extremes,Heat Wave,#c40202,random,brennende temperatur,2026-07-30T05:24:00+00:00,,0.4767236409153281,1,2,no,,
-'c384b96e60',extremes,Precipitation,#d60d2b,wmo,regnskyll norge,2026-06-29T07:13:00+00:00,Norway,0.4756933443371373,3,1,no,NEU,Europe
 'e039c46e05',extremes,Storm,#b3b2b1,wmo,stormflo nordkapp slettnes fyr,2026-07-06T06:52:00+00:00,Norway,0.473894953722564,2,1,no,NEU,Europe
 'a66108bef6',extremes,Storm,#b3b2b1,wmo,storm svinoey ona,2026-07-26T05:46:00+00:00,Norway,0.4703449215534825,3,1,no,NEU,Europe
 '3b7c76957f',extremes,Storm,#b3b2b1,wmo,storm stad svinoey,2026-07-18T05:10:00+00:00,Norway,0.4669866589957308,2,1,no,NEU,Europe
@@ -41,7 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3fc7b10b0f',extremes,Storm,#b3b2b1,wmo,storm stoett melbu,2026-07-16T05:25:00+00:00,Norway,0.449972178276388,2,1,no,NEU,Europe
 '14ccfab368',extremes,Storm,#b3b2b1,wmo,stormflo ona froeya,2026-07-26T05:46:00+00:00,Norway,0.4491913017093258,2,1,no,NEU,Europe
 'c32830b8d5',extremes,Storm,#b3b2b1,wmo,stormflo froeya bank,2026-07-26T05:46:00+00:00,Norway,0.4472405776186823,2,1,no,NEU,Europe
-'48732b1ff1',extremes,Storm,#b3b2b1,wmo,stormflo maaloey svinoey,2026-06-28T06:44:00+00:00,Norway,0.44723480138849,2,1,no,NEU,Europe
 'd71cef8d5f',extremes,Storm,#b3b2b1,wmo,storm karmoey slatteroey,2026-07-18T05:10:00+00:00,Norway,0.4470051189000009,2,1,no,NEU,Europe
 '3b63af0b6f',extremes,Storm,#b3b2b1,wmo,stormflo svinoey froeya,2026-07-24T05:36:00+00:00,Norway,0.4347453456753689,2,1,no,NEU,Europe
 '34a1e1617d',extremes,Storm,#b3b2b1,wmo,stormflo oksoey aana sira,2026-07-27T06:05:00+00:00,Norway,0.4342276927073779,2,1,no,NEU,Europe
@@ -53,7 +51,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '18bf0e0c51',extremes,Storm,#b3b2b1,wmo,storm viking,2026-07-17T05:27:00+00:00,Norway,0.4123698830986816,3,1,no,NEU,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,styrtregn Brasil,2026-07-06T06:52:00+00:00,Brazil,0.4077037808581041,2,2,no,SAM,South-America
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,varme,2026-07-06T06:52:00+00:00,,0.4013715723402672,1,3,no,,
-'8c14e9ee2f',extremes,Storm,#b3b2b1,wmo,stormflo ytre skagerrak,2026-07-03T06:09:00+00:00,Norway,0.4005177766709254,4,1,no,NEU,Europe
 'a57b9dad6e',extremes,Storm,#b3b2b1,wmo,storm nordkappbanken,2026-07-06T06:52:00+00:00,Norway,0.3998776482998191,3,1,no,NEU,Europe
 '9944768ca7',extremes,Storm,#b3b2b1,wmo,stormflo nordbredden,2026-07-06T06:52:00+00:00,Norway,0.397497809362032,3,1,no,NEU,Europe
 '81ee891ae3',extremes,Storm,#b3b2b1,wmo,storm hekkingen lopa,2026-07-16T05:25:00+00:00,Norway,0.3945459304550735,4,1,no,NEU,Europe
@@ -69,11 +66,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6575158ed2',extremes,Storm,#b3b2b1,wmo,storm førtiårene,2026-07-17T05:27:00+00:00,Norway,0.3854744709436928,4,1,no,NEU,Europe
 '926def0a7d',extremes,Storm,#b3b2b1,wmo,stormflo skomvaer andenes,2026-07-07T06:30:00+00:00,Norway,0.3835955681959642,3,1,no,NEU,Europe
 'dceef3c2e9',extremes,Wildfire,#d60d2b,wmo,skogbrann i sørøstlige deler av norge,2026-07-10T06:27:00+00:00,Norway,0.3830441704398127,4,1,no,NEU,Europe
-'5573725f45',extremes,Storm,#b3b2b1,wmo,storm fruholmen slettnes fyr,2026-07-01T06:52:00+00:00,Norway,0.3824224497291686,3,1,no,NEU,Europe
 '1a2c0a270b',extremes,Storm,#b3b2b1,wmo,stormflo østfjorder,2026-07-31T05:51:00+00:00,Iceland,0.3757300031806365,1,1,no,GIC,Europe
 '6c4f011103',extremes,Storm,#b3b2b1,wmo,storm østfjorder,2026-07-25T05:29:00+00:00,Iceland,0.3748787679035688,1,1,no,GIC,Europe
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,storm sørøst island,2026-07-25T05:29:00+00:00,Iceland,0.3745397843490269,1,1,no,GIC,Europe
-'790bb54e5c',extremes,Storm,#b3b2b1,wmo,stormflo førtiårene,2026-07-02T06:24:00+00:00,Norway,0.3739201238868455,3,1,no,NEU,Europe
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2026-07-17T05:27:00+00:00,,0.3716557899327081,1,1,no,,
 'b8eb47bf7f',extremes,Heat Wave,#c40202,random,varmekuppel,2026-07-22T05:35:00+00:00,,0.3689120276089276,1,2,no,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-08-01T05:41:00+00:00,,0.3634740544477297,0,1,no,,
@@ -130,11 +125,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,snø Brasil,2026-07-05T06:25:00+00:00,Brazil,0.3087181542521396,1,1,no,SAM,South-America
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-07-05T06:24:00+00:00,,0.3054647743786265,1,1,no,,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,storm argentina,2026-07-17T05:27:00+00:00,Argentina,0.3049733554858742,0,1,no,SES,South-America
-'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropisk storm,2026-08-01T05:41:00+00:00,,0.3046357529344886,0,1,no,,
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,stormflo áområde 1 – moderat,2026-08-01T05:42:00+00:00,Paraguay,0.3042484729144645,0,1,no,SES,South-America
 '7d13279eb3',extremes,Storm,#b3b2b1,wmo,stormflo jamaica,2026-07-02T06:24:00+00:00,Jamaica,0.3040747395767833,1,1,no,CAR,North-America
 '1db33a60d4',extremes,Heat Wave,#c40202,wmo,hetebølge de fleste deler av egypt,2026-07-31T05:51:00+00:00,Egypt,0.3038701796682882,0,1,no,SAH,Africa
-'9ad3f02e70',extremes,Storm,#b3b2b1,wmo,storm reg. 3 litoral,2026-08-01T05:42:00+00:00,Chile,0.30378413498204443,0,1,no,SWS,South-America
+'9ad3f02e70',extremes,Storm,#b3b2b1,wmo,storm reg. 3 litoral,2026-08-01T05:42:00+00:00,Chile,0.3037841349820444,0,1,no,SWS,South-America
 '56ec1d3897',extremes,Drought,#edc291,edo,tørke uganda,2026-07-14T05:15:00+00:00,Uganda,0.3035247289999474,0,1,no,SEAF,Africa
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,stormflo argentina,2026-07-17T05:27:00+00:00,Argentina,0.303309731574475,0,1,no,SES,South-America
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,snøstorm,2026-07-12T05:43:00+00:00,,0.3032467293958669,1,1,no,,
@@ -148,13 +142,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9f50f80ea2',extremes,Drought,#edc291,edo,tørr periode montenegro,2026-07-11T05:27:00+00:00,Montenegro,0.3028788775702595,0,1,no,MED,Europe
 'fc07d3ac53',extremes,Snow&Ice,#d60d2b,wmo,fryser lewis pass sh7,2026-07-31T05:51:00+00:00,New Zealand,0.3027769541104647,0,1,no,NZ,Oceania
 'f6414f90dd',extremes,Snow&Ice,#d60d2b,wmo,iskald ørkenvei sh1,2026-07-31T05:51:00+00:00,New Zealand,0.3027548496479729,0,1,no,NZ,Oceania
-'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-07-17T05:27:00+00:00,,0.30275095648306205,0,1,no,,
+'0b8f5a0e51',extremes,Iceberg,#d60d2b,random,isfjell Antarktis,2026-07-17T05:27:00+00:00,,0.302750956483062,0,1,no,,
 '7c1e10f7d0',extremes,Wildfire,#d60d2b,wmo,skogbrann Murmansk-regionen,2026-07-11T05:27:00+00:00,Russia,0.302710857026815,0,1,no,ESB,Europe
 '40c057feb5',extremes,Precipitation,#d60d2b,wmo,styrtregn altai krai,2026-07-04T05:59:00+00:00,Russia,0.3026639410688363,1,1,no,ESB,Europe
 '10f476720b',extremes,Insect Infestation,#d60d2b,random,gresshoppe,2026-07-14T05:14:00+00:00,,0.3025856252618509,1,1,no,,
 'c229b0919c',extremes,Precipitation,#d60d2b,wmo,regn Saudi-Arabia,2026-07-14T05:14:00+00:00,Saudi Arabia,0.3025761512210617,0,1,no,ARP,Asia
 '340b530747',extremes,Snow&Ice,#d60d2b,wmo,frysende milford road sh94,2026-07-24T05:36:00+00:00,New Zealand,0.3025677039711991,0,1,no,NZ,Oceania
-'d57776053a',extremes,Thunderstorm,#53785a,wmo,tordenvær USA,2026-07-21T05:36:00+00:00,United States,0.30251296654377546,0,1,no,CNA,North-America
+'d57776053a',extremes,Thunderstorm,#53785a,wmo,tordenvær USA,2026-07-21T05:36:00+00:00,United States,0.3025129665437754,0,1,no,CNA,North-America
 '91a13c4ea2',extremes,Fog,#d60d2b,wmo,tåke sanirajak igloolik,2026-07-14T05:14:00+00:00,Canada,0.3025021790423232,0,1,no,NEN,North-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,hetebølge chile,2026-07-04T05:59:00+00:00,Chile,0.3025002074471121,0,1,no,SWS,South-America
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,stormflo áområde 1 – alvorlig,2026-07-21T05:36:00+00:00,Paraguay,0.3024751977179042,0,1,no,SES,South-America
@@ -175,10 +169,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,stormflo uruguay,2026-07-19T05:37:00+00:00,Uruguay,0.3022839086417576,0,1,no,SES,South-America
 '95b5264574',extremes,Heat Wave,#c40202,wmo,hetebølge canada,2026-07-01T06:52:00+00:00,Canada,0.3022826517450617,1,1,no,NEN,North-America
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,stormflo madagaskar,2026-07-23T05:40:00+00:00,Madagascar,0.3022791661683013,0,1,no,MDG,Africa
-'ade1211f3d',extremes,Flood,#030ba1,wmo,flomsenteret i Sakha-republikken,2026-07-21T05:36:00+00:00,Russia,0.30226936431270324,0,1,no,ESB,Europe
+'ade1211f3d',extremes,Flood,#030ba1,wmo,flomsenteret i Sakha-republikken,2026-07-21T05:36:00+00:00,Russia,0.3022693643127032,0,1,no,ESB,Europe
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,hetebølge basso moesano,2026-07-10T06:27:00+00:00,Switzerland,0.3022129823394761,0,1,no,WCE,Europe
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,storm á område 2 – moderat,2026-07-22T05:35:00+00:00,Paraguay,0.3022103909131238,0,1,no,SES,South-America
-'c703558933',extremes,Snow&Ice,#d60d2b,wmo,ice dunedin til waitati highway sh1,2026-07-31T05:51:00+00:00,New Zealand,0.30220064501606414,0,1,no,NZ,Oceania
+'c703558933',extremes,Snow&Ice,#d60d2b,wmo,ice dunedin til waitati highway sh1,2026-07-31T05:51:00+00:00,New Zealand,0.3022006450160641,0,1,no,NZ,Oceania
 '7638ee2306',extremes,Wildfire,#d60d2b,wmo,skogbrann kurgan-regionen,2026-07-17T05:27:00+00:00,Russia,0.3021937384015542,0,1,no,ESB,Europe
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,skogbrann Russland,2026-06-26T06:36:00+00:00,Russia,0.3021884675085341,0,1,no,ESB,Europe
 'd19a2e53e5',extremes,Heat Wave,#c40202,wmo,hetebølge moldova,2026-07-19T05:37:00+00:00,Moldova,0.3021714540775291,0,1,no,WCE,Europe
@@ -217,7 +211,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72fa239364',extremes,Precipitation,#d60d2b,wmo,regnskyll dgo nei synd,2026-07-10T06:27:00+00:00,Mexico,0.3009089038484969,0,1,no,NCA,North-America
 '7f450bad1e',extremes,Precipitation,#d60d2b,wmo,styrtregn mex,2026-07-11T05:27:00+00:00,Mexico,0.30073958098632,0,1,no,NCA,North-America
 'c95e885889',extremes,Thunderstorm,#53785a,wmo,hardt vær india,2026-06-30T06:39:00+00:00,India,0.3006473897763865,0,1,no,SAS,Asia
-'1cea2810c9',extremes,Storm,#b3b2b1,wmo,storm nordlige kystfarvann.,2026-06-25T06:32:00+00:00,Vanuatu,0.3005824552519562,0,1,no,SPO,Oceania
 '66fc7fe556',extremes,Heat Wave,#c40202,wmo,hetebølge langt borte gambela,2026-07-07T06:30:00+00:00,Ethiopia,0.3004373924741479,0,1,no,NEAF,Africa
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,regnbyger,2026-07-12T05:43:00+00:00,,0.2994775719124749,2,2,no,,
 'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-07-03T06:09:00+00:00,,0.2965703818453835,1,1,no,,
@@ -252,16 +245,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '38e672b274',extremes,Drought,#edc291,edo,tørrhet gabon,2026-07-12T05:43:00+00:00,Gabon,0.2649668071074597,1,1,no,CAF,Africa
 'dafed8e9de',extremes,Drought,#edc291,edo,mangel på regn brunei,2026-07-08T05:37:00+00:00,Brunei,0.2646425931147647,1,1,no,SEA,Asia
 '393400b105',extremes,Drought,#edc291,edo,tørrhet puerto rico,2026-07-13T05:53:00+00:00,Puerto Rico,0.2642612618177331,1,1,no,CAR,North-America
-'815e4bf638',extremes,Drought,#edc291,edo,mangel på regn Ungarn,2026-06-29T07:13:00+00:00,Hungary,0.2639292699159127,1,1,no,WCE,Europe
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-07-26T05:46:00+00:00,,0.2637961344478107,1,1,no,,
 'b1eb375b87',extremes,Drought,#edc291,edo,mangel på regn uganda,2026-07-05T06:25:00+00:00,Uganda,0.2637565925368191,1,1,no,SEAF,Africa
-'103eea7ff7',extremes,Drought,#edc291,edo,mangel på regn tsjekkia,2026-06-29T07:13:00+00:00,Czechia,0.2632502698510282,1,1,no,WCE,Europe
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,frost Brasil,2026-07-06T06:52:00+00:00,Brazil,0.2630813074295422,1,1,no,SAM,South-America
 '02bc9c64a4',extremes,Drought,#edc291,edo,mangel på regn Kambodsja,2026-07-13T05:53:00+00:00,Cambodia,0.2629159129485525,1,1,no,SEA,Asia
 '2453bd993e',extremes,Snow&Ice,#d60d2b,wmo,frost arthurs pass sh73,2026-07-30T05:24:00+00:00,New Zealand,0.2627266193417514,1,1,no,NZ,Oceania
 '48bbc2ab73',extremes,Thunderstorm,#53785a,wmo,tordenvær ghana,2026-07-23T05:40:00+00:00,Ghana,0.2626764587311455,1,1,no,WAF,Africa
 '9d3d1e5f58',extremes,Thunderstorm,#53785a,wmo,hardt vær sudan,2026-07-28T05:31:00+00:00,Sudan,0.2625569347794366,1,1,no,NEAF,Africa
-'538eadceb4',extremes,Heat Wave,#c40202,random,mild vinter,2026-06-29T07:12:00+00:00,,0.2624105431939768,1,1,no,,
 'e45d15d7d1',extremes,Landslide,#572c03,wmo,skred shuangyang-distriktet,2026-07-14T05:14:00+00:00,China,0.2623528536804039,1,1,no,EAS,Asia
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,frost argentina,2026-06-30T06:39:00+00:00,Argentina,0.2622988067097934,1,1,no,SES,South-America
 '563b781620',extremes,Thunderstorm,#53785a,wmo,hardt vær nigeria,2026-07-28T05:31:00+00:00,Nigeria,0.2622715850636635,1,1,no,WAF,Africa
@@ -292,7 +282,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '23c3deb0ec',extremes,Precipitation,#d60d2b,wmo,regn tanzania,2026-07-07T06:30:00+00:00,Tanzania,0.2607973670375034,1,1,no,SEAF,Africa
 '17065d269f',extremes,Drought,#edc291,edo,mangel på regn honduras,2026-07-07T06:30:00+00:00,Honduras,0.2607379339133089,1,1,no,SCA,North-America
 'e1c395ee0f',extremes,Precipitation,#d60d2b,wmo,styrtregn quito,2026-07-11T05:27:00+00:00,Ecuador,0.2606903143454861,1,1,no,NWS,South-America
-'f3d653a8ff',extremes,Drought,#edc291,edo,tørrhet Komorene,2026-06-29T07:13:00+00:00,Comoros,0.260679741469508,1,1,no,ESAF,Africa
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,styrtregn ecuador,2026-07-04T05:59:00+00:00,Ecuador,0.2606494807016097,1,1,no,NWS,South-America
 '5ac93302d8',extremes,Snow&Ice,#d60d2b,wmo,frost australia,2026-07-15T05:15:00+00:00,Australia,0.260526515694185,1,1,no,CAU,Oceania
 '7dd1d91d4a',extremes,Thunderstorm,#53785a,wmo,hardt vær canada,2026-07-20T05:54:00+00:00,Canada,0.2604727416914191,1,1,no,NEN,North-America
@@ -319,6 +308,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd709206c08',extremes,Storm,#b3b2b1,wmo,storm reg. 15 cordillera,2026-07-03T06:09:00+00:00,Chile,0.2594147538233447,1,1,no,SWS,South-America
 '8a32dbbe9e',extremes,Storm,#b3b2b1,wmo,storm nigeria,2026-07-28T05:31:00+00:00,Nigeria,0.259412190707697,1,1,no,WAF,Africa
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,storm region litoral,2026-07-03T06:09:00+00:00,Ecuador,0.2592809012315651,1,1,no,NWS,South-America
+'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropisk storm,2026-08-01T05:41:00+00:00,,0.2592404199943153,1,1,no,,
 '7f426032e8',extremes,Drought,#edc291,edo,tørrtid bhutan,2026-07-04T05:59:00+00:00,Bhutan,0.2592247881870532,1,1,no,TIB,Asia
 'c4be795f03',extremes,Drought,#edc291,edo,mangel på regn ekvatorialguinea,2026-07-01T06:52:00+00:00,Equatorial Guinea,0.2592172778040117,1,1,no,WAF,Africa
 '3aa88c5699',extremes,Thunderstorm,#53785a,wmo,hagl iran,2026-07-24T05:36:00+00:00,Iran,0.2591842682412139,1,1,no,WCA,Asia
@@ -336,7 +326,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aec9bc79e0',extremes,Fog,#d60d2b,wmo,tåke primorsky krai,2026-07-06T06:52:00+00:00,Russia,0.2586401458745594,1,1,no,ESB,Europe
 '027da6a4db',extremes,Storm,#b3b2b1,wmo,stormflo clarencestredet,2026-07-28T05:31:00+00:00,United States,0.2585858924533655,1,1,no,CNA,North-America
 '2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,hetebølge Kypros,2026-07-12T05:43:00+00:00,Cyprus,0.2585843167974233,1,1,no,MED,Europe
-'85c98951d6',extremes,Drought,#edc291,edo,mangel på regn montenegro,2026-06-29T07:13:00+00:00,Montenegro,0.2585607218932524,1,1,no,MED,Europe
 '1b98918e9b',extremes,Storm,#b3b2b1,wmo,stormflo nordlig vann.,2026-07-28T05:31:00+00:00,Vanuatu,0.2585338602724059,1,1,no,SPO,Oceania
 'afad3750e1',extremes,Heat Wave,#c40202,wmo,hetebølge skopje-regionen,2026-07-17T05:27:00+00:00,North Macedonia,0.2585117221092529,1,1,no,MED,Europe
 '530909dfe4',extremes,Heat Wave,#c40202,wmo,hetebølge Russland,2026-07-03T06:09:00+00:00,Russia,0.2583820025536056,1,1,no,ESB,Europe
@@ -406,10 +395,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d70153cdd',extremes,Precipitation,#d60d2b,wmo,nedbør mali,2026-07-04T05:59:00+00:00,Mali,0.2553731529167332,1,1,no,SAH,Africa
 'f2d8a901f9',extremes,Snow&Ice,#d60d2b,wmo,frost milford road sh94,2026-07-04T05:59:00+00:00,New Zealand,0.2553635565522202,1,1,no,NZ,Oceania
 '957c870453',extremes,Drought,#edc291,edo,tørrhet island,2026-07-08T05:37:00+00:00,Iceland,0.2508853118893911,2,1,no,GIC,Europe
-'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-07-04T05:59:00+00:00,,0.2476188010611802,3,1,no,,
 'a5ff1cde4a',extremes,Drought,#edc291,random,jordfuktighet,2026-07-13T05:53:00+00:00,,0.2340900943895153,2,1,no,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-07-13T05:53:00+00:00,,0.2259803078264912,2,1,no,,
-'0335b20cbc',extremes,Storm,#b3b2b1,wmo,stormflo reg. 15 cordillera,2026-07-02T06:24:00+00:00,Chile,0.2204309066577996,2,1,no,SWS,South-America
 'fcba098edb',extremes,Heat Wave,#c40202,wmo,hetebølge Nord-Makedonia,2026-07-16T05:25:00+00:00,North Macedonia,0.2200598937329889,2,1,no,MED,Europe
 'c3bed96c37',extremes,Precipitation,#d60d2b,wmo,regnskyll mexico,2026-07-12T05:43:00+00:00,Mexico,0.2191799827932104,2,1,no,NCA,North-America
 'eceab9ea2d',extremes,Precipitation,#d60d2b,wmo,nedbør tanzania,2026-07-04T05:59:00+00:00,Tanzania,0.2177656464922079,2,1,no,SEAF,Africa

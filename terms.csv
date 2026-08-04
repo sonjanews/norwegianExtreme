@@ -186,7 +186,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2267094058',extremes,Snow&Ice,#d60d2b,wmo,is new zealand,2026-07-24T05:36:00+00:00,New Zealand,0.301975483162938,0,1,no,NZ,Oceania
 'fb2669902d',extremes,Wildfire,#d60d2b,wmo,skogbrann samara-regionen,2026-07-08T05:37:00+00:00,Russia,0.3019730081438698,0,1,no,ESB,Europe
 '596a132822',extremes,Storm,#b3b2b1,wmo,stormflo مملكة البحرين والمناطق المحيطة بها,2026-07-21T05:36:00+00:00,Bahrain,0.3019679073889137,0,1,no,ARP,Asia
-'584710ade2',extremes,Storm,#b3b2b1,wmo,stormflo pribilof øyer nær kysten,2026-07-21T05:36:00+00:00,United States,0.3019541755234832,0,1,no,CNA,North-America
+'584710ade2',extremes,Storm,#b3b2b1,wmo,stormflo pribilof øyer nær kysten,2026-07-21T05:36:00+00:00,United States,0.30195417552348314,1,1,no,CNA,North-America
 '0ad538a863',extremes,Heat Wave,#c40202,wmo,hetebølge Sveits,2026-07-08T05:37:00+00:00,Switzerland,0.3019529151667335,0,1,no,WCE,Europe
 'aff561d50a',extremes,Storm,#b3b2b1,wmo,storm new zealand,2026-07-24T05:36:00+00:00,New Zealand,0.301910036774814,0,1,no,NZ,Oceania
 '66a3eabe76',extremes,Earthquake,#870007,usgs,jordskjelv mauritius,2026-07-08T05:37:00+00:00,Mauritius,0.3018996370986152,0,1,no,SIO,Indian Ocean
@@ -215,7 +215,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9a9047ebfe',extremes,Drought,#edc291,edo,tørke island,2026-07-28T05:31:00+00:00,Iceland,0.2941652206453631,1,1,no,GIC,Europe
 '59b529f428',extremes,Thunderstorm,#53785a,random,haglvær,2026-07-08T05:37:00+00:00,,0.2925143005009221,2,1,no,,
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,kaldeste året,2026-07-25T05:28:00+00:00,,0.2915900927531105,1,1,no,,
-'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-07-20T05:54:00+00:00,,0.28931053760164394,1,1,no,,
+'b24c0517bf',extremes,Cold Wave,#a7e9fa,random,kvikksølvfall,2026-07-20T05:54:00+00:00,,0.2893105376016439,1,1,no,,
 '283b154c38',extremes,Wet Spell,#d60d2b,random,wet spell,2026-07-13T05:53:00+00:00,,0.2870741865040388,1,1,no,,
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-07-03T06:09:00+00:00,Iceland,0.2860700846111457,1,1,no,GIC,Europe
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,snøstorm,2026-07-05T06:24:00+00:00,,0.2848636536896488,1,1,no,,

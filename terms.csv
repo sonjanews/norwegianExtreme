@@ -29,10 +29,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.4536698369931826,1,2,no,,
 'd8463de706',extremes,Storm,#b3b2b1,wmo,storm maaloey svinoey,2026-07-21T05:36:00+00:00,Norway,0.4536176708984392,2,1,no,NEU,Europe
 '801198b61a',extremes,Storm,#b3b2b1,wmo,stormflo storegga,2026-07-25T05:29:00+00:00,Norway,0.4531561468188677,2,1,no,NEU,Europe
-'2876c1c93a',extremes,Landslide,#572c03,wmo,jordskred norge,2026-07-30T05:24:00+00:00,Norway,0.45309991326444915,3,1,no,NEU,Europe
+'2876c1c93a',extremes,Landslide,#572c03,wmo,jordskred norge,2026-07-30T05:24:00+00:00,Norway,0.4530999132644491,3,1,no,NEU,Europe
 'ce08279419',extremes,Storm,#b3b2b1,wmo,storm froeya halten,2026-07-27T06:05:00+00:00,Norway,0.4512419554906354,2,1,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-07-18T05:10:00+00:00,Norway,0.4512351868458832,5,2,no,NEU,Europe
-'f7ef56c786',extremes,Wildfire,#d60d2b,wmo,skogbrann sør varanger,2026-07-22T05:35:00+00:00,Norway,0.45052724781164427,7,1,no,NEU,Europe
+'f7ef56c786',extremes,Wildfire,#d60d2b,wmo,skogbrann sør varanger,2026-07-22T05:35:00+00:00,Norway,0.4505272478116442,7,1,no,NEU,Europe
 '3fc7b10b0f',extremes,Storm,#b3b2b1,wmo,storm stoett melbu,2026-07-16T05:25:00+00:00,Norway,0.449972178276388,2,1,no,NEU,Europe
 '48732b1ff1',extremes,Storm,#b3b2b1,wmo,stormflo maaloey svinoey,2026-07-27T06:05:00+00:00,Norway,0.4494438551331678,2,1,no,NEU,Europe
 '14ccfab368',extremes,Storm,#b3b2b1,wmo,stormflo ona froeya,2026-07-26T05:46:00+00:00,Norway,0.4491913017093258,2,1,no,NEU,Europe
@@ -144,7 +144,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '54559d4fe4',extremes,Thunderstorm,#53785a,wmo,tordenvær moosonee,2026-07-14T05:14:00+00:00,Canada,0.3022893278624632,0,1,no,NEN,North-America
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,stormflo uruguay,2026-07-19T05:37:00+00:00,Uruguay,0.3022839086417576,0,1,no,SES,South-America
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,stormflo madagaskar,2026-07-23T05:40:00+00:00,Madagascar,0.3022791661683013,0,1,no,MDG,Africa
-'ade1211f3d',extremes,Flood,#030ba1,wmo,flomsenteret i Sakha-republikken,2026-07-21T05:36:00+00:00,Russia,0.3022693643127032,0,1,no,ESB,Europe
+'ade1211f3d',extremes,Flood,#030ba1,wmo,flomsenteret i Sakha-republikken,2026-07-21T05:36:00+00:00,Russia,0.3022693643127032,1,1,no,ESB,Europe
 'd9f5a28608',extremes,Heat Wave,#c40202,wmo,hetebølge basso moesano,2026-07-10T06:27:00+00:00,Switzerland,0.3022129823394761,0,1,no,WCE,Europe
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,storm á område 2 – moderat,2026-07-22T05:35:00+00:00,Paraguay,0.3022103909131238,0,1,no,SES,South-America
 'c703558933',extremes,Snow&Ice,#d60d2b,wmo,ice dunedin til waitati highway sh1,2026-07-31T05:51:00+00:00,New Zealand,0.3022006450160641,0,1,no,NZ,Oceania
@@ -294,7 +294,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2e28dfa4bf',extremes,Heat Wave,#c40202,wmo,hetebølge Kypros,2026-07-12T05:43:00+00:00,Cyprus,0.2585843167974233,1,1,no,MED,Europe
 '1b98918e9b',extremes,Storm,#b3b2b1,wmo,stormflo nordlig vann.,2026-07-28T05:31:00+00:00,Vanuatu,0.2585338602724059,1,1,no,SPO,Oceania
 'afad3750e1',extremes,Heat Wave,#c40202,wmo,hetebølge skopje-regionen,2026-07-17T05:27:00+00:00,North Macedonia,0.2585117221092529,1,1,no,MED,Europe
-'8e164fcef9',extremes,Storm,#b3b2b1,wmo,stormflo alle kystfarvann.,2026-08-02T05:42:00+00:00,Vanuatu,0.25838827172978357,1,1,no,SPO,Oceania
+'8e164fcef9',extremes,Storm,#b3b2b1,wmo,stormflo alle kystfarvann.,2026-08-02T05:42:00+00:00,Vanuatu,0.2583882717297835,1,1,no,SPO,Oceania
 '5b8cf400f9',extremes,Iceberg,#d60d2b,random,kalving av isfjell,2026-07-04T05:59:00+00:00,,0.2583443096457298,1,1,no,,
 '1db33a60d4',extremes,Heat Wave,#c40202,wmo,hetebølge de fleste deler av egypt,2026-07-31T05:51:00+00:00,Egypt,0.258289652718045,1,1,no,SAH,Africa
 '9ad3f02e70',extremes,Storm,#b3b2b1,wmo,storm reg. 3 litoral,2026-08-01T05:42:00+00:00,Chile,0.2582165147347377,1,1,no,SWS,South-America

@@ -1,11 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-08-01T05:42:00+00:00,Norway,0.590207493531995,2,1,no,NEU,Europe
 '6a402fbe62',extremes,Storm,#b3b2b1,wmo,storm storegga,2026-08-07T09:56:00+00:00,Norway,0.5681857247293841,2,1,no,NEU,Europe
-'ce9372eca8',extremes,Storm,#b3b2b1,wmo,storm nordbredden,2026-08-05T05:31:00+00:00,Norway,0.5281410371377646,1,1,no,NEU,Europe
 '52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2026-07-06T06:52:00+00:00,Norway,0.527198066941871,3,1,no,NEU,Europe
 'b918e7fca0',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av agder og telemark,2026-07-27T06:05:00+00:00,Norway,0.5154905781857377,3,1,no,NEU,Europe
 '02da4f9a1d',extremes,Wildfire,#d60d2b,wmo,skogbrann østlandet og deler av agder,2026-07-27T06:05:00+00:00,Norway,0.5062957640279299,5,1,no,NEU,Europe
-'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-07-25T05:28:00+00:00,,0.4991064752251044,1,2,no,,
 'ac861b9413',extremes,Precipitation,#d60d2b,wmo,styrtregn norge,2026-07-30T05:24:00+00:00,Norway,0.4956401760689671,2,1,no,NEU,Europe
 '9a7d6afc0d',extremes,Storm,#b3b2b1,wmo,stormflo sør utsire,2026-07-18T05:10:00+00:00,Norway,0.4917318461810206,2,1,no,NEU,Europe
 '560b05d603',extremes,Heat Wave,#c40202,random,hetebølge,2026-07-09T06:27:00+00:00,,0.4821218671915147,3,3,no,,
@@ -19,6 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3b7c76957f',extremes,Storm,#b3b2b1,wmo,storm stad svinoey,2026-07-18T05:10:00+00:00,Norway,0.4669866589957308,2,1,no,NEU,Europe
 'f59468215c',extremes,Storm,#b3b2b1,wmo,storm hjelmsoey bank,2026-07-15T05:15:00+00:00,Norway,0.4659685745791382,4,1,no,NEU,Europe
 'f018067890',extremes,Storm,#b3b2b1,wmo,stormflo hjelmsoey bank,2026-07-13T05:53:00+00:00,Norway,0.4650065289860406,2,1,no,NEU,Europe
+'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-07-25T05:28:00+00:00,,0.4623405639413387,2,2,no,,
 '726449aeda',extremes,Storm,#b3b2b1,wmo,storm tromsoflaket,2026-07-15T05:15:00+00:00,Norway,0.462153377934395,2,1,no,NEU,Europe
 '02d7dccef7',extremes,Storm,#b3b2b1,wmo,stormflo fedje maaloey,2026-07-25T05:29:00+00:00,Norway,0.4606566471368633,2,1,no,NEU,Europe
 '0320ec6b87',extremes,Storm,#b3b2b1,wmo,storm slatteroey fedje,2026-07-18T05:10:00+00:00,Norway,0.4600870896734055,2,1,no,NEU,Europe
@@ -36,6 +35,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3fc7b10b0f',extremes,Storm,#b3b2b1,wmo,storm stoett melbu,2026-07-16T05:25:00+00:00,Norway,0.449972178276388,2,1,no,NEU,Europe
 '48732b1ff1',extremes,Storm,#b3b2b1,wmo,stormflo maaloey svinoey,2026-07-27T06:05:00+00:00,Norway,0.4494438551331678,2,1,no,NEU,Europe
 '14ccfab368',extremes,Storm,#b3b2b1,wmo,stormflo ona froeya,2026-07-26T05:46:00+00:00,Norway,0.4491913017093258,2,1,no,NEU,Europe
+'ce9372eca8',extremes,Storm,#b3b2b1,wmo,storm nordbredden,2026-08-05T05:31:00+00:00,Norway,0.4489198815670999,2,1,no,NEU,Europe
 'c32830b8d5',extremes,Storm,#b3b2b1,wmo,stormflo froeya bank,2026-07-26T05:46:00+00:00,Norway,0.4472405776186823,2,1,no,NEU,Europe
 'd71cef8d5f',extremes,Storm,#b3b2b1,wmo,storm karmoey slatteroey,2026-07-18T05:10:00+00:00,Norway,0.4470051189000009,2,1,no,NEU,Europe
 '3b63af0b6f',extremes,Storm,#b3b2b1,wmo,stormflo svinoey froeya,2026-07-24T05:36:00+00:00,Norway,0.4347453456753689,2,1,no,NEU,Europe
@@ -110,7 +110,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-07-24T05:36:00+00:00,Iceland,0.3171082481016151,1,1,no,GIC,Europe
 '31823b52d8',extremes,Storm,#b3b2b1,wmo,storm nordvest island,2026-07-15T05:15:00+00:00,Iceland,0.316677264020613,2,1,no,GIC,Europe
 '15ac0c2876',extremes,Drought,#edc291,edo,mangel på regn norge,2026-07-10T06:27:00+00:00,Norway,0.3157969722877286,2,1,no,NEU,Europe
-'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,storm melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.3151881603388378,0,1,no,SAU,Oceania
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,tordenvær australia,2026-07-22T05:35:00+00:00,Australia,0.3146388392084804,0,1,no,EAU,Oceania
 '1e7f1c2625',extremes,Storm,#b3b2b1,random,haboob,2026-07-08T05:37:00+00:00,,0.3125120657800543,1,1,no,,
 '9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-07-09T06:27:00+00:00,Iceland,0.3111723126461701,1,1,no,GIC,Europe
@@ -224,6 +223,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fcaebcf157',extremes,Wildfire,#d60d2b,effis,buskbrann n.a. tunisia,2026-08-07T11:06:00+00:00,Tunisia,0.2717928000191434,1,1,no,MED,Africa
 '9e49dcdaa1',extremes,Wildfire,#d60d2b,effis,bushfire bab berred marokko,2026-08-07T09:56:00+00:00,Morocco,0.2717927999935221,1,1,no,MED,Africa
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-07-12T05:43:00+00:00,Iceland,0.2713553855582234,3,1,no,GIC,Europe
+'5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,storm melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.26790993628801213,1,1,no,SAU,Oceania
 '41f3b5b396',extremes,Storm,#b3b2b1,aidr,storm med kraftig vind og nedbør victoria 2024,2026-08-04T05:32:00+00:00,Australia,0.2676543328830772,1,1,no,SAU,Oceania
 'fbcb0a4ae5',extremes,Storm,#b3b2b1,eonet,supertyfondelfin,2026-07-30T05:24:00+00:00,,0.2660558188490732,1,1,no,NPO,Pacific Ocean
 '940a9f74b0',extremes,Wildfire,#d60d2b,acwe,bushfire tasmania,2026-07-30T05:24:00+00:00,Australia,0.2659379747517909,1,1,no,SAU,Oceania

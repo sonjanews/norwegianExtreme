@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8357d8b19e',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av øst-finnmark,2026-08-13T04:26:00+00:00,Norway,0.7202521175279019,0,1,no,NEU,Europe
+'8357d8b19e',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av øst-finnmark,2026-08-13T04:26:00+00:00,Norway,0.6128143598987166,1,1,no,NEU,Europe
 'd66c5c9d12',extremes,Precipitation,#d60d2b,wmo,regn norge,2026-07-29T05:37:00+00:00,Norway,0.5950125276544499,0,1,no,NEU,Europe
 '6a402fbe62',extremes,Storm,#b3b2b1,wmo,storm storegga,2026-08-07T09:56:00+00:00,Norway,0.5681857247293841,2,1,no,NEU,Europe
 'bf84083cec',extremes,Landslide,#572c03,wmo,skred norge,2026-08-10T04:14:00+00:00,Norway,0.564248506920073,3,1,no,NEU,Europe
@@ -80,7 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-08-04T05:31:00+00:00,,0.3642091169199065,2,2,no,,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,styrtregn,2026-07-25T05:28:00+00:00,,0.362989307878395,1,2,no,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-07-14T05:14:00+00:00,,0.3601520394247323,2,1,no,,
-'633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-08-03T05:57:00+00:00,,0.35961388486568574,0,1,no,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,arktisk havis,2026-08-03T05:57:00+00:00,,0.3596138848656857,0,1,no,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-07-02T06:23:00+00:00,,0.3588571080505255,1,3,no,,
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-07-18T05:10:00+00:00,Norway,0.3584862978625378,2,1,no,NEU,Europe
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,regnbyger,2026-08-02T05:41:00+00:00,,0.3582460853388863,1,2,no,,
@@ -91,7 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd587c21e0d',extremes,Tropical Cyclone,#4f4f4f,random,orkan,2026-07-29T05:37:00+00:00,,0.3487039825630548,1,2,no,,
 '4f9a8ebb25',extremes,Snow&Ice,#d60d2b,random,nattefrost,2026-07-24T05:35:00+00:00,,0.3476332919865843,2,2,no,,
 '84febdd06c',extremes,Thunderstorm,#53785a,random,tordenvær,2026-07-28T05:30:00+00:00,,0.3475829806978762,1,2,no,,
-'9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-07-31T05:51:00+00:00,Iceland,0.34742203363163204,0,1,no,GIC,Europe
+'9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-07-31T05:51:00+00:00,Iceland,0.347422033631632,0,1,no,GIC,Europe
 '15a9c61e3e',extremes,Landslide,#572c03,random,steinskred,2026-08-08T03:51:00+00:00,,0.3470181502803149,1,1,no,,
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-07-07T06:30:00+00:00,,0.3466809183697947,1,2,no,,
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkan,2026-08-01T05:41:00+00:00,,0.3421995663410901,2,1,no,,
@@ -132,9 +132,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3f8dcf474',extremes,Wildfire,#d60d2b,effis,buskbrann ključ bosnia-hercegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197561870144654,0,1,no,MED,Europe
 '0f5047d744',extremes,Wildfire,#d60d2b,effis,bushfire tulcea romania,2026-08-07T09:56:00+00:00,Romania,0.3197561865609823,0,1,no,MED,Europe
 '718485342e',extremes,Wildfire,#d60d2b,effis,skogbrann konjic bosnia-hercegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197561795368106,0,1,no,MED,Europe
-'10760f7299',extremes,Wildfire,#d60d2b,effis,bushfire diyarbakır kalkun,2026-08-07T11:06:00+00:00,Turkey,0.31975616791320655,0,1,no,MED,Asia
+'10760f7299',extremes,Wildfire,#d60d2b,effis,bushfire diyarbakır kalkun,2026-08-07T11:06:00+00:00,Turkey,0.3197561679132065,0,1,no,MED,Asia
 '8e87f54a50',extremes,Wildfire,#d60d2b,effis,skogbrann cáceres spania,2026-08-07T09:56:00+00:00,Spain,0.3197561670381981,0,1,no,MED,Europe
-'02d4c311ee',extremes,Wildfire,#d60d2b,effis,bushfire lugo spania,2026-08-07T11:06:00+00:00,Spain,0.31975616454111655,0,1,no,MED,Europe
+'02d4c311ee',extremes,Wildfire,#d60d2b,effis,bushfire lugo spania,2026-08-07T11:06:00+00:00,Spain,0.3197561645411165,0,1,no,MED,Europe
 'f9a3abc8c2',extremes,Landslide,#572c03,random,gjørmestrøm,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,no,,
 '1a2c0a270b',extremes,Storm,#b3b2b1,wmo,stormflo østfjorder,2026-07-31T05:51:00+00:00,Iceland,0.319370502703541,2,1,no,GIC,Europe
 '6c4f011103',extremes,Storm,#b3b2b1,wmo,storm østfjorder,2026-07-25T05:29:00+00:00,Iceland,0.3186469527180334,2,1,no,GIC,Europe

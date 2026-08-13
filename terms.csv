@@ -123,6 +123,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f931fb4985',extremes,Wildfire,#d60d2b,effis,skogbrann монтана bulgaria,2026-08-07T09:56:00+00:00,Bulgaria,0.3197562101937961,0,1,no,MED,Europe
 '3f3e4a1622',extremes,Wildfire,#d60d2b,effis,villbrann рашка област serbia,2026-08-07T11:06:00+00:00,Serbia,0.3197562101351033,0,1,no,MED,Europe
 'e7298fae8f',extremes,Wildfire,#d60d2b,effis,villbrann btaaboura libanon,2026-08-07T11:06:00+00:00,Lebanon,0.3197562084353376,0,1,no,MED,Asia
+'39a5dc9dbd',extremes,Wildfire,#d60d2b,effis,villbrann ankara kalkun,2026-08-07T11:06:00+00:00,Turkey,0.31975620817195777,0,1,no,MED,Asia
+'d41602be9a',extremes,Wildfire,#d60d2b,effis,bushfire alto tâmega portugal,2026-08-07T09:56:00+00:00,Portugal,0.31975620554649115,0,1,no,MED,Europe
+'8cbdb17397',extremes,Wildfire,#d60d2b,effis,villbrann médio tejo portugal,2026-08-07T11:06:00+00:00,Portugal,0.31975620059760107,0,1,no,MED,Europe
+'62a17a1926',extremes,Wildfire,#d60d2b,effis,villbrann barcelona spania,2026-08-07T11:06:00+00:00,Spain,0.3197562003661338,0,1,no,MED,Europe
+'56932be330',extremes,Wildfire,#d60d2b,effis,bushfire isparta kalkun,2026-08-07T11:06:00+00:00,Turkey,0.3197561887556467,0,1,no,MED,Asia
+'e3f8dcf474',extremes,Wildfire,#d60d2b,effis,buskbrann ključ bosnia-hercegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197561870144654,0,1,no,MED,Europe
+'0f5047d744',extremes,Wildfire,#d60d2b,effis,bushfire tulcea romania,2026-08-07T09:56:00+00:00,Romania,0.31975618656098237,0,1,no,MED,Europe
+'718485342e',extremes,Wildfire,#d60d2b,effis,skogbrann konjic bosnia-hercegovina,2026-08-07T11:06:00+00:00,Bosnia and Herzegovina,0.3197561795368106,0,1,no,MED,Europe
 'f9a3abc8c2',extremes,Landslide,#572c03,random,gjørmestrøm,2026-07-13T05:53:00+00:00,,0.3195097104714772,1,1,no,,
 '1a2c0a270b',extremes,Storm,#b3b2b1,wmo,stormflo østfjorder,2026-07-31T05:51:00+00:00,Iceland,0.319370502703541,2,1,no,GIC,Europe
 '6c4f011103',extremes,Storm,#b3b2b1,wmo,storm østfjorder,2026-07-25T05:29:00+00:00,Iceland,0.3186469527180334,2,1,no,GIC,Europe
@@ -362,7 +370,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,regn litoral,2026-08-02T05:42:00+00:00,Ecuador,0.2568085035321595,1,1,no,NWS,South-America
 '5bbe9c0082',extremes,Storm,#b3b2b1,wmo,stormflo canada,2026-07-11T05:27:00+00:00,Canada,0.2567838161252256,1,1,no,NEN,North-America
 'a724fe9ab3',extremes,Wildfire,#d60d2b,wmo,skogbrann Russland,2026-07-17T05:27:00+00:00,Russia,0.2567288435046935,1,1,no,ESB,Europe
-'be647fc7a4',extremes,Storm,#b3b2b1,wmo,stormflo ecuador,2026-08-01T05:42:00+00:00,Ecuador,0.25672157140713475,1,1,no,NWS,South-America
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,stormflo ecuador,2026-08-01T05:42:00+00:00,Ecuador,0.2567215714071347,1,1,no,NWS,South-America
 '388a6dbadc',extremes,Storm,#b3b2b1,wmo,storm algeria,2026-08-01T05:42:00+00:00,Algeria,0.2567145914705194,1,1,no,SAH,Africa
 'bab5de556b',extremes,Storm,#b3b2b1,wmo,stormflo wellington,2026-07-29T05:37:00+00:00,New Zealand,0.2567071657436879,1,1,no,NZ,Oceania
 '6fc6c9445e',extremes,Snow&Ice,#d60d2b,wmo,iskaldt australia,2026-07-18T05:10:00+00:00,Australia,0.2566034275963709,1,1,no,CAU,Oceania

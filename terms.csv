@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-08-07T09:56:00+00:00,Norway,0.6673340854270676,1,2,no,NEU,Europe
-'c4a2009ee4',extremes,Storm,#b3b2b1,wmo,storm aana sira obrestad,2026-08-22T03:22:00+00:00,Norway,0.5475943199671562,1,1,no,NEU,Europe
 '52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2026-07-27T06:05:00+00:00,Norway,0.5183756959404234,2,1,no,NEU,Europe
 'b918e7fca0',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av agder og telemark,2026-07-27T06:05:00+00:00,Norway,0.5154905781857377,3,1,no,NEU,Europe
 '02da4f9a1d',extremes,Wildfire,#d60d2b,wmo,skogbrann østlandet og deler av agder,2026-07-27T06:05:00+00:00,Norway,0.5062957640279299,5,1,no,NEU,Europe
@@ -19,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55cb505681',extremes,Storm,#b3b2b1,meteo,vind norge,2026-08-09T03:59:00+00:00,Norway,0.4688277424051437,4,3,no,NEU,Europe
 'afc3746fe4',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av agder og østlandet,2026-08-16T03:28:00+00:00,Norway,0.468486783121003,6,1,no,NEU,Europe
 '3b7c76957f',extremes,Storm,#b3b2b1,wmo,storm stad svinoey,2026-07-18T05:10:00+00:00,Norway,0.4669866589957308,2,1,no,NEU,Europe
+'c4a2009ee4',extremes,Storm,#b3b2b1,wmo,storm aana sira obrestad,2026-08-22T03:22:00+00:00,Norway,0.4654551719720828,2,1,no,NEU,Europe
 'b37f825ad8',extremes,Storm,#b3b2b1,wmo,storm hekkingen torsvaag,2026-08-10T04:14:00+00:00,Norway,0.4637104456633766,2,1,no,NEU,Europe
 'f90601fa23',extremes,Volcano,#b83202,random,vulkanutbrudd,2026-07-25T05:28:00+00:00,,0.4623405639413387,2,2,no,,
 '726449aeda',extremes,Storm,#b3b2b1,wmo,storm tromsoflaket,2026-08-10T04:14:00+00:00,Norway,0.4602107730410483,2,1,no,NEU,Europe
@@ -56,12 +56,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa44bea3b4',extremes,Storm,#b3b2b1,wmo,storm slettnes fyr vardoe,2026-08-01T05:42:00+00:00,Norway,0.3957789335985754,3,1,no,NEU,Europe
 '4e544a8191',extremes,Storm,#b3b2b1,wmo,storm svinoey froeya,2026-08-03T05:57:00+00:00,Norway,0.3952241107137605,3,1,no,NEU,Europe
 '02d7dccef7',extremes,Storm,#b3b2b1,wmo,stormflo fedje maaloey,2026-07-25T05:29:00+00:00,Norway,0.3915581500663337,3,1,no,NEU,Europe
-'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tyfon,2026-08-09T03:59:00+00:00,,0.3901371157781157,0,1,no,,
 '8abdb9b5f3',extremes,Landslide,#572c03,wmo,steinskred norge,2026-08-10T04:14:00+00:00,Norway,0.3868407460898949,4,1,no,NEU,Europe
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.3856194664442051,2,1,no,,
 'ce08279419',extremes,Storm,#b3b2b1,wmo,storm froeya halten,2026-07-27T06:05:00+00:00,Norway,0.38355566216704,3,1,no,NEU,Europe
+'45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tyfon,2026-08-09T03:59:00+00:00,,0.38206659341139837,1,1,no,,
 '48732b1ff1',extremes,Storm,#b3b2b1,wmo,stormflo maaloey svinoey,2026-07-27T06:05:00+00:00,Norway,0.3820272768631926,4,1,no,NEU,Europe
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rim vinter,2026-08-14T04:24:00+00:00,,0.3805767347816144,0,1,no,,
 '8357d8b19e',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av øst-finnmark,2026-08-13T04:26:00+00:00,Norway,0.3775023595352993,4,1,no,NEU,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-08-02T05:42:00+00:00,Iceland,0.3749672793576553,2,1,no,GIC,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-08-11T04:01:00+00:00,,0.3668900208933272,1,2,no,,
@@ -77,12 +76,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ae99f2a9',extremes,Precipitation,#d60d2b,random,kraftig nedbør,2026-07-30T05:24:00+00:00,,0.3408641750156215,2,1,no,,
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,flom,2026-08-02T05:41:00+00:00,,0.3338262215328101,2,2,no,,
 '4c8bd3e4d4',extremes,Insect Infestation,#d60d2b,random,gresshopper,2026-08-12T04:22:00+00:00,,0.3334561993480178,1,1,no,,
-'45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-08-22T03:22:00+00:00,,0.33199707279812507,1,1,no,,
+'45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-08-22T03:22:00+00:00,,0.331997072798125,1,1,no,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-08-06T05:33:00+00:00,,0.3317788274917385,1,1,no,,
 '3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-08-20T03:26:00+00:00,,0.3302777832566199,1,2,no,,
 '7b765a4d4c',extremes,Precipitation,#d60d2b,random,regnskyll,2026-08-15T03:13:00+00:00,,0.3284590341368888,2,1,no,,
 'c948617fef',extremes,Heat Wave,#c40202,random,ekstrem varmeeksponering,2026-08-22T03:22:00+00:00,,0.3250201254127751,0,1,no,,
 '135f8534c2',extremes,Precipitation,#d60d2b,random,mer nedbør,2026-07-15T05:15:00+00:00,,0.3241535735082687,2,2,no,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,rim vinter,2026-08-14T04:24:00+00:00,,0.32349022456437226,1,1,no,,
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-08-02T05:42:00+00:00,Iceland,0.3219279378056114,2,1,no,GIC,Europe
 'd39daa58c4',extremes,Storm,#b3b2b1,wmo,stormflo sørøst island,2026-07-29T05:37:00+00:00,Iceland,0.3217537777312045,2,1,no,GIC,Europe
 '02d4c311ee',extremes,Wildfire,#d60d2b,effis,bushfire lugo spania,2026-08-07T11:06:00+00:00,Spain,0.3197561645411165,1,1,no,MED,Europe

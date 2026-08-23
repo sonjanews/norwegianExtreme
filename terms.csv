@@ -53,7 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce08279419',extremes,Storm,#b3b2b1,wmo,storm froeya halten,2026-07-27T06:05:00+00:00,Norway,0.38355566216704,3,1,no,NEU,Europe
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tyfon,2026-08-09T03:59:00+00:00,,0.3820665934113983,1,1,no,,
 '48732b1ff1',extremes,Storm,#b3b2b1,wmo,stormflo maaloey svinoey,2026-07-27T06:05:00+00:00,Norway,0.3820272768631926,4,1,no,NEU,Europe
-'c32830b8d5',extremes,Storm,#b3b2b1,wmo,stormflo froeya bank,2026-07-26T05:46:00+00:00,Norway,0.38015449097587994,3,1,no,NEU,Europe
+'c32830b8d5',extremes,Storm,#b3b2b1,wmo,stormflo froeya bank,2026-07-26T05:46:00+00:00,Norway,0.3801544909758799,3,1,no,NEU,Europe
 '8357d8b19e',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av øst-finnmark,2026-08-13T04:26:00+00:00,Norway,0.3775023595352993,4,1,no,NEU,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-08-02T05:42:00+00:00,Iceland,0.3749672793576553,2,1,no,GIC,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-08-11T04:01:00+00:00,,0.3668900208933272,1,2,no,,
@@ -77,7 +77,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '042968096b',extremes,Storm,#b3b2b1,wmo,storm island,2026-08-02T05:42:00+00:00,Iceland,0.3219279378056114,2,1,no,GIC,Europe
 'd39daa58c4',extremes,Storm,#b3b2b1,wmo,stormflo sørøst island,2026-07-29T05:37:00+00:00,Iceland,0.3217537777312045,2,1,no,GIC,Europe
 '02d4c311ee',extremes,Wildfire,#d60d2b,effis,bushfire lugo spania,2026-08-07T11:06:00+00:00,Spain,0.3197561645411165,1,1,no,MED,Europe
-'c759e791c4',extremes,Wildfire,#d60d2b,effis,skogbrann Ungarn,2026-08-07T11:06:00+00:00,Hungary,0.3197513683861734,0,1,no,WCE,Europe
 '2d196b98c8',extremes,Wildfire,#d60d2b,effis,skogbrann marokko,2026-08-07T09:56:00+00:00,Morocco,0.319751274066508,0,1,no,MED,Africa
 '793ba29f43',extremes,Wildfire,#d60d2b,effis,villbrann libanon sarafen n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.3197501114697303,0,1,no,MED,Asia
 '1944ae7912',extremes,Wildfire,#d60d2b,effis,bushfire romania,2026-08-07T09:56:00+00:00,Romania,0.3197496432537038,0,1,no,MED,Europe
@@ -167,6 +166,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-08-07T04:37:00+00:00,,0.2737972924566832,2,1,no,,
 'dc5bf960b0',extremes,Snow&Ice,#d60d2b,random,snøstorm,2026-08-02T05:41:00+00:00,,0.2726588007531212,2,1,no,,
 '52af874334',extremes,Drought,#edc291,random,tørrhet,2026-08-12T04:22:00+00:00,,0.2725768076353395,1,1,no,,
+'c759e791c4',extremes,Wildfire,#d60d2b,effis,skogbrann Ungarn,2026-08-07T11:06:00+00:00,Hungary,0.2722387081282474,1,1,no,WCE,Europe
 '8626b81b9b',extremes,Flood,#030ba1,emdat,flom zamora chinchipe,2026-07-21T05:36:00+00:00,Ecuador,0.2720064152251044,1,1,no,NWS,South-America
 'be76e7e185',extremes,Wildfire,#d60d2b,effis,skogbrann romania,2026-08-07T09:56:00+00:00,Romania,0.2719408077556157,1,1,no,MED,Europe
 '9c704e4826',extremes,Wildfire,#d60d2b,effis,villbrann i Libanon,2026-08-07T11:06:00+00:00,Lebanon,0.271793887239806,1,1,no,MED,Asia
@@ -246,10 +246,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3ca745d421',extremes,Wildfire,#d60d2b,effis,bushfire algeria,2026-08-07T09:56:00+00:00,Algeria,0.2717893806611125,1,1,no,MED,Africa
 'be6eea75ee',extremes,Wildfire,#d60d2b,effis,skogbrann tunisia,2026-08-07T09:56:00+00:00,Tunisia,0.2717893135103205,1,1,no,MED,Africa
 '66954ee37f',extremes,Wildfire,#d60d2b,effis,buskbrann i Bosnia-Hercegovina,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.2717890600475982,1,1,no,MED,Europe
-'4595f49a65',extremes,Wildfire,#d60d2b,effis,villbrann spania,2026-08-07T11:06:00+00:00,Spain,0.27178883639783624,1,1,no,MED,Europe
+'4595f49a65',extremes,Wildfire,#d60d2b,effis,villbrann spania,2026-08-07T11:06:00+00:00,Spain,0.2717888363978362,1,1,no,MED,Europe
 '7aef40d766',extremes,Wildfire,#d60d2b,effis,bushfire marokko,2026-08-07T09:56:00+00:00,Morocco,0.2717879296876216,1,1,no,MED,Africa
-'a23c450be4',extremes,Wildfire,#d60d2b,effis,bushfire marokko bab berred n.a.,2026-08-07T09:56:00+00:00,Morocco,0.27178617317939163,1,1,no,MED,Africa
-'14a41389eb',extremes,Wildfire,#d60d2b,effis,buskbrann i Nord-Makedonia,2026-08-07T09:56:00+00:00,North Macedonia,0.27178540273730334,1,1,no,MED,Europe
+'a23c450be4',extremes,Wildfire,#d60d2b,effis,bushfire marokko bab berred n.a.,2026-08-07T09:56:00+00:00,Morocco,0.2717861731793916,1,1,no,MED,Africa
+'14a41389eb',extremes,Wildfire,#d60d2b,effis,buskbrann i Nord-Makedonia,2026-08-07T09:56:00+00:00,North Macedonia,0.2717854027373033,1,1,no,MED,Europe
 '5dae4d0d44',extremes,Wildfire,#d60d2b,effis,skogbrann bosnia-hercegovina,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.2717824352019072,1,1,no,MED,Europe
 '0c7c458c2c',extremes,Wildfire,#d60d2b,effis,skogbrann libanon nabi youcheaa n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.2717821494775194,1,1,no,MED,Asia
 '785f49402b',extremes,Wildfire,#d60d2b,effis,villbrann libanon haret jandal n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.2717821198768113,1,1,no,MED,Asia
@@ -303,7 +303,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '340b530747',extremes,Snow&Ice,#d60d2b,wmo,frysende milford road sh94,2026-07-24T05:36:00+00:00,New Zealand,0.2571825483755192,1,1,no,NZ,Oceania
 'eb981e7150',extremes,Heat Wave,#c40202,wmo,hetebølge Saudi-Arabia,2026-07-21T05:36:00+00:00,Saudi Arabia,0.2571048531734792,1,1,no,ARP,Asia
 '3d4581651f',extremes,Storm,#b3b2b1,wmo,storm madagaskar,2026-07-22T05:35:00+00:00,Madagascar,0.2570535773649767,1,1,no,MDG,Africa
-'0fbe8e5718',extremes,Storm,#b3b2b1,wmo,stormflo australia,2026-07-21T05:36:00+00:00,Australia,0.25697730407800135,1,1,no,CAU,Oceania
+'0fbe8e5718',extremes,Storm,#b3b2b1,wmo,stormflo australia,2026-07-21T05:36:00+00:00,Australia,0.2569773040780013,1,1,no,CAU,Oceania
 'dac860fd6d',extremes,Storm,#b3b2b1,wmo,stormflo madagaskar,2026-07-23T05:40:00+00:00,Madagascar,0.2569372912430561,1,1,no,MDG,Africa
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,storm á område 2 – moderat,2026-07-22T05:35:00+00:00,Paraguay,0.2568788322761552,1,1,no,SES,South-America
 'c703558933',extremes,Snow&Ice,#d60d2b,wmo,ice dunedin til waitati highway sh1,2026-07-31T05:51:00+00:00,New Zealand,0.2568705482636544,1,1,no,NZ,Oceania

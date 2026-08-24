@@ -1,59 +1,59 @@
 ,phrase,label,sentiment,subjectivity,language,count
 NVE,NVE,ORG,0.09603784695696457,0.22691303794244966,en,17.000000000000004
 Troms,Troms,ORG,0.09953012825683631,0.22976324917318702,en,16.1
-AFP,AFP,ORG,-0.030811849841700583,0.11827227498869287,en,13.400000000000002
+AFP,AFP,ORG,-0.03691919191919192,0.13906565656565656,en,15.000000000000002
 Reuters,Reuters,ORG,0.0594758064516129,0.21639784946236557,en,12.400000000000002
 Nordland,Nordland,ORG,0.027536014405762303,0.25335134053621444,en,11.900000000000002
 Varsom.no,Varsom.no,ORG,0.13816570241803885,0.2928163477228898,en,10.700000000000001
 DSB,DSB,ORG,-0.04098277608915907,0.2818642350557244,en,9.400000000000002
 the Meteorological Institute,the Meteorological Institute,ORG,0.12534048348655086,0.301384632845307,en,8.9
 NRK,NRK,ORG,0.025267923133776786,0.33673318551367326,en,8.200000000000001
+EU,EU,ORG,-0.0329685746352413,0.27216610549943887,en,8.1
+The Norwegian Meteorological Institute,The Norwegian Meteorological Institute,ORG,0.013053467000835418,0.08933792815371762,en,7.6000000000000005
 UN,UN,ORG,-0.07821637426900584,0.36951754385964913,en,7.6000000000000005
 El Niño,El Niño,ORG,-0.09246031746031745,0.5658730158730159,en,7.000000000000001
-The Norwegian Meteorological Institute,The Norwegian Meteorological Institute,ORG,0.014377731769036114,0.09840119622728319,en,6.9
-EU,EU,ORG,-0.039857530529172305,0.32903663500678426,en,6.7
 VG,VG,ORG,0.06557377049180328,0.13934426229508196,en,6.1000000000000005
 Agder,Agder,ORG,-0.04102366255144033,0.14120370370370372,en,5.3999999999999995
 The Meteorological Institute,The Meteorological Institute,ORG,0.030769230769230767,0.0,en,5.2
-Narvik,Narvik,ORG,-0.1449275362318841,0.025362318840579712,en,4.6
-Nord-Troms,Nord-Troms,ORG,-0.008695652173913045,0.23550724637681159,en,4.6
 Vestland,Vestland,ORG,-0.013759489302967564,0.12616459627329193,en,4.6
+Nord-Troms,Nord-Troms,ORG,-0.008695652173913045,0.23550724637681159,en,4.6
 Sør-Troms,Sør-Troms,ORG,0.0,0.08333333333333333,en,4.6
+Narvik,Narvik,ORG,-0.1449275362318841,0.025362318840579712,en,4.6
 Varsom,Varsom,ORG,0.24007936507936506,0.32142857142857145,en,4.2
 Helgeland,Helgeland,ORG,0.048780487804878044,0.1097560975609756,en,4.1000000000000005
 Lyngen,Lyngen,ORG,0.07063882063882064,0.2016789516789517,en,3.6999999999999997
 Fifa,Fifa,ORG,-0.06862745098039216,0.2254901960784314,en,3.3999999999999995
+the Champions League,the Champions League,ORG,0.05952380952380953,0.1446886446886447,en,2.8
+The Norwegian Directorate of Water Resources and Energy,The Norwegian Directorate of Water Resources and Energy,ORG,0.03826530612244898,0.0,en,2.8
+Water Resources and Energy Directorate,Water Resources and Energy Directorate,ORG,0.06696428571428571,0.0,en,2.8
+Copernicus,Copernicus,ORG,0.1546266233766234,0.43019480519480524,en,2.8
+The Directorate for Community Safety and Emergency Preparedness,The Directorate for Community Safety and Emergency Preparedness,ORG,0.17142857142857143,0.3857142857142857,en,2.8
 the Norwegian Public Roads Administration,the Norwegian Public Roads Administration,ORG,0.0,0.02380952380952381,en,2.8
 Ajax,Ajax,ORG,-0.014285714285714287,0.07921245421245421,en,2.8
-Copernicus,Copernicus,ORG,0.1546266233766234,0.43019480519480524,en,2.8
-the Champions League,the Champions League,ORG,0.05952380952380953,0.1446886446886447,en,2.8
-Water Resources and Energy Directorate,Water Resources and Energy Directorate,ORG,0.06696428571428571,0.0,en,2.8
-The Directorate for Community Safety and Emergency Preparedness,The Directorate for Community Safety and Emergency Preparedness,ORG,0.17142857142857143,0.3857142857142857,en,2.8
-The Norwegian Directorate of Water Resources and Energy,The Norwegian Directorate of Water Resources and Energy,ORG,0.03826530612244898,0.0,en,2.8
 MGP,MGP,ORG,-0.11111111111111113,0.24074074074074078,en,2.6999999999999997
 Møre,Møre,ORG,0.12454212454212452,0.2692307692307692,en,2.6
-LO,LO,ORG,0.0,0.0,en,2.4
 Morrissey,Morrissey,ORG,0.0,0.0,en,2.4
+LO,LO,ORG,0.0,0.0,en,2.4
 Trump,Trump,ORG,-0.045454545454545456,0.13636363636363635,en,2.2
 Ruud,Ruud,ORG,0.20625,0.7604166666666667,en,2.0
+Vikafjellet,Vikafjellet,ORG,-0.08552631578947369,0.125,en,1.9
+the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.0,0.0,en,1.9
+the Premier League,the Premier League,ORG,-0.15789473684210528,0.0,en,1.9
+JMA,JMA,ORG,0.0,0.0,en,1.9
 AP,AP,ORG,0.2105263157894737,0.5263157894736842,en,1.9
 the Norwegian Road Administration,the Norwegian Road Administration,ORG,0.051221804511278196,0.11889097744360903,en,1.9
-Vikafjellet,Vikafjellet,ORG,-0.08552631578947369,0.125,en,1.9
-Météo-France,Météo-France,ORG,0.009569377990430622,0.026315789473684213,en,1.9
-the Premier League,the Premier League,ORG,-0.15789473684210528,0.0,en,1.9
-Yngvar Fredriksen,Yngvar Fredriksen,ORG,0.0,0.0,en,1.9
-the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,0.0,0.0,en,1.9
-JMA,JMA,ORG,0.0,0.0,en,1.9
 Tromsø,Tromsø,ORG,-0.05833333333333334,0.15350877192982457,en,1.9
 Météo France,Météo France,ORG,0.0,0.0,en,1.9
+NHK,NHK,ORG,0.15789473684210525,0.19736842105263158,en,1.9
+Yngvar Fredriksen,Yngvar Fredriksen,ORG,0.0,0.0,en,1.9
 the Swedish Road Administration,the Swedish Road Administration,ORG,-0.006578947368421051,0.0,en,1.9
-Ap,Ap,ORG,0.3349282296650718,0.23923444976076555,en,1.9
-Colo Colo,Colo Colo,ORG,0.0,0.0,en,1.9
 Ørje,Ørje,ORG,0.0,0.0,en,1.9
 Facebook,Facebook,ORG,-0.10526315789473685,0.0,en,1.9
-NHK,NHK,ORG,0.15789473684210525,0.19736842105263158,en,1.9
+Météo-France,Météo-France,ORG,0.009569377990430622,0.026315789473684213,en,1.9
 BBC,BBC,ORG,0.052631578947368425,0.0,en,1.9
+Colo Colo,Colo Colo,ORG,0.0,0.0,en,1.9
 the Norwegian Meteorological Institute,the Norwegian Meteorological Institute,ORG,0.0,0.0,en,1.9
+Ap,Ap,ORG,0.3349282296650718,0.23923444976076555,en,1.9
 Norgespris,Norgespris,ORG,0.2777777777777778,0.18518518518518517,en,1.8
 Heiane,Heiane,ORG,0.20833333333333331,0.4861111111111111,en,1.8
 FRP,FRP,ORG,-0.41666666666666663,0.41666666666666663,en,1.8
@@ -61,51 +61,51 @@ Energy,Energy,ORG,0.29411764705882354,0.29411764705882354,en,1.7
 UiT Norway's,UiT Norway's,ORG,0.03446226975638739,0.10457516339869281,en,1.7
 Jagland,Jagland,ORG,0.0,0.0,en,1.7
 WC,WC,ORG,0.1171875,0.3125,en,1.6
-AI,AI,ORG,-0.0625,0.0,en,1.6
 Høiby,Høiby,ORG,0.007812499999999998,0.37499999999999994,en,1.6
-Bodø/Glimt,Bodø/Glimt,ORG,0.6923076923076923,0.04807692307692307,en,1.3
-Ålesund,Ålesund,ORG,-0.0641025641025641,0.0641025641025641,en,1.3
-Elvia,Elvia,ORG,0.0,0.0,en,1.3
-SpaceX,SpaceX,ORG,0.0,0.0,en,1.3
-Haukland,Haukland,ORG,0.3846153846153846,0.4615384615384615,en,1.3
-Conta,Conta,ORG,-0.0641025641025641,0.0641025641025641,en,1.3
+AI,AI,ORG,-0.0625,0.0,en,1.6
 Ellos,Ellos,ORG,0.0,0.0,en,1.3
+Bodø/Glimt,Bodø/Glimt,ORG,0.6923076923076923,0.04807692307692307,en,1.3
+Elvia,Elvia,ORG,0.0,0.0,en,1.3
+Haukland,Haukland,ORG,0.3846153846153846,0.4615384615384615,en,1.3
+SpaceX,SpaceX,ORG,0.0,0.0,en,1.3
+Ålesund,Ålesund,ORG,-0.0641025641025641,0.0641025641025641,en,1.3
+The Spanish Ministry of the Interior,The Spanish Ministry of the Interior,ORG,0.0,0.0,en,1.3
 the city council,the city council,ORG,0.0,0.0,en,1.3
+Conta,Conta,ORG,-0.0641025641025641,0.0641025641025641,en,1.3
 Telenor,Telenor,ORG,-0.8333333333333334,0.8333333333333334,en,1.2
-NO2,NO2,ORG,0.0,0.0,en,1.0
-Amazon,Amazon,ORG,0.0,0.0,en,1.0
-Accuweather,Accuweather,ORG,0.13636363636363635,0.0,en,1.0
-Bergen,Bergen,ORG,0.0,0.0,en,1.0
-Eastern Norway,Eastern Norway,ORG,0.25,0.0,en,1.0
-Education,Education,ORG,-0.05,0.0,en,1.0
-Bjørn Beltø,Bjørn Beltø,ORG,0.0,0.0,en,1.0
-GD,GD,ORG,0.0,0.0,en,1.0
 LIS,LIS,ORG,0.0,0.0,en,1.0
-Eastland,Eastland,ORG,0.0,0.0,en,1.0
-Le Monde,Le Monde,ORG,-0.05,0.0,en,1.0
-Eggstra,Eggstra,ORG,0.0,0.0,en,1.0
-Skyfora,Skyfora,ORG,0.0,0.0,en,1.0
+Education,Education,ORG,-0.05,0.0,en,1.0
+Accuweather,Accuweather,ORG,0.13636363636363635,0.0,en,1.0
 Brunlanes,Brunlanes,ORG,0.0,0.0,en,1.0
-the German Research Center for Geosciences (GFZ,the German Research Center for Geosciences (GFZ,ORG,-0.05,0.0,en,1.0
-Health and Care,Health and Care,ORG,-0.15,0.0,en,1.0
+Amazon,Amazon,ORG,0.0,0.0,en,1.0
+Bjørn Beltø,Bjørn Beltø,ORG,0.0,0.0,en,1.0
+Eastern Norway,Eastern Norway,ORG,0.25,0.0,en,1.0
+Le Monde,Le Monde,ORG,-0.05,0.0,en,1.0
+Norwegian Meteorological Institute,Norwegian Meteorological Institute,ORG,-0.15,0.0,en,1.0
 NAF,NAF,ORG,0.2785714285714286,0.0,en,1.0
-Eastern,Eastern,ORG,0.08,0.0,en,1.0
-Ugly Duckling Ventures,Ugly Duckling Ventures,ORG,-0.7,0.0,en,1.0
-Lumo Labs,Lumo Labs,ORG,-0.7,0.0,en,1.0
-kron,kron,ORG,0.0,0.0,en,1.0
+GD,GD,ORG,0.0,0.0,en,1.0
+Eastland,Eastland,ORG,0.0,0.0,en,1.0
+Eggstra,Eggstra,ORG,0.0,0.0,en,1.0
+Health and Care,Health and Care,ORG,-0.15,0.0,en,1.0
 Aftonbladet,Aftonbladet,ORG,-0.05,0.0,en,1.0
-Eviny Ventures,Eviny Ventures,ORG,-0.7,0.0,en,1.0
-Pentecost,Pentecost,ORG,0.25,0.0,en,1.0
-Sør-Varanger,Sør-Varanger,ORG,0.1,0.0,en,1.0
 Innovation Norway,Innovation Norway,ORG,0.0,0.0,en,1.0
-The German Institute of Geosciences GFZ,The German Institute of Geosciences GFZ,ORG,0.0,0.0,en,1.0
+Pentecost,Pentecost,ORG,0.25,0.0,en,1.0
 Tiller,Tiller,ORG,0.0,0.0,en,1.0
-Sky News,Sky News,ORG,0.0,0.0,en,1.0
-Lincoln,Lincoln,ORG,-0.1,0.0,en,1.0
+Bergen,Bergen,ORG,0.0,0.0,en,1.0
+kron,kron,ORG,0.0,0.0,en,1.0
+Eastern,Eastern,ORG,0.08,0.0,en,1.0
+Sør-Varanger,Sør-Varanger,ORG,0.1,0.0,en,1.0
+The German Institute of Geosciences GFZ,The German Institute of Geosciences GFZ,ORG,0.0,0.0,en,1.0
+the German Research Center for Geosciences (GFZ,the German Research Center for Geosciences (GFZ,ORG,-0.05,0.0,en,1.0
 Uno-X,Uno-X,ORG,0.1,0.0,en,1.0
-FIFA,FIFA,ORG,0.0,0.0,en,1.0
-the Daily Mail,the Daily Mail,ORG,0.0,0.0,en,1.0
-The Directorate for Social Security and Emergency Preparedness,The Directorate for Social Security and Emergency Preparedness,ORG,0.03333333333333333,0.0,en,1.0
+Skyfora,Skyfora,ORG,0.0,0.0,en,1.0
+Eviny Ventures,Eviny Ventures,ORG,-0.7,0.0,en,1.0
+Lumo Labs,Lumo Labs,ORG,-0.7,0.0,en,1.0
+Ugly Duckling Ventures,Ugly Duckling Ventures,ORG,-0.7,0.0,en,1.0
+Lincoln,Lincoln,ORG,-0.1,0.0,en,1.0
+BFMTV,BFMTV,ORG,0.0,0.0,en,1.0
+the Tour de France,the Tour de France,ORG,-0.2569444444444444,0.0,en,1.0
+Sports,Sports,ORG,0.0,0.0,en,1.0
 Vikings,Vikings,ORG,0.7,0.0,en,1.0
 Åsnes,Åsnes,ORG,0.0,0.0,en,1.0
 Tour de France,Tour de France,ORG,0.19999999999999998,0.0,en,1.0
@@ -126,12 +126,13 @@ Broad Peak,Broad Peak,ORG,-0.06875,0.0,en,1.0
 Purja,Purja,ORG,0.0,0.0,en,1.0
 The Directorate of Fisheries,The Directorate of Fisheries,ORG,-0.06666666666666665,0.0,en,1.0
 Drammen,Drammen,ORG,0.31212121212121213,0.0,en,1.0
-Haaland,Haaland,ORG,0.0,0.0,en,1.0
-the World Meteorological Organization (WMO,the World Meteorological Organization (WMO,ORG,0.4333333333333333,0.0,en,1.0
-The World Meteorological Organization,The World Meteorological Organization,ORG,0.0175,0.0,en,1.0
-Nasa,Nasa,ORG,0.0,0.0,en,1.0
-the Tour de France,the Tour de France,ORG,-0.2569444444444444,0.0,en,1.0
-Sports,Sports,ORG,0.0,0.0,en,1.0
+Croatian Broadcasting,Croatian Broadcasting,ORG,0.4666666666666667,0.0,en,1.0
+the Ministry of Justice and Emergency Preparedness,the Ministry of Justice and Emergency Preparedness,ORG,0.0,0.0,en,1.0
+Aragón,Aragón,ORG,0.0,0.0,en,1.0
+The Directorate for Social Security and Emergency Preparedness,The Directorate for Social Security and Emergency Preparedness,ORG,0.03333333333333333,0.0,en,1.0
+the Daily Mail,the Daily Mail,ORG,0.0,0.0,en,1.0
+FIFA,FIFA,ORG,0.0,0.0,en,1.0
+Sky News,Sky News,ORG,0.0,0.0,en,1.0
 the German Geological Institute GFZ,the German Geological Institute GFZ,ORG,0.0,0.0,en,1.0
 the German Weather Service,the German Weather Service,ORG,0.0,0.0,en,1.0
 DWD,DWD,ORG,0.0,0.0,en,1.0
@@ -140,21 +141,23 @@ the National Assembly,the National Assembly,ORG,0.0,0.0,en,1.0
 the World Health Organization,the World Health Organization,ORG,0.5,0.0,en,1.0
 the French Institute of Public Health,the French Institute of Public Health,ORG,0.125,0.0,en,1.0
 Kåfjord,Kåfjord,ORG,0.0,0.0,en,1.0
+Nasa,Nasa,ORG,0.0,0.0,en,1.0
 Oregon State University,Oregon State University,ORG,0.0,0.0,en,1.0
-the Ministry of Foreign Affairs,the Ministry of Foreign Affairs,ORG,-0.125,0.0,en,1.0
-KI,KI,ORG,0.0,0.0,en,1.0
 the French Meteorological Institute,the French Meteorological Institute,ORG,0.0,0.0,en,1.0
+Haaland,Haaland,ORG,0.0,0.0,en,1.0
 Eu,Eu,ORG,0.0,0.0,en,1.0
-BFMTV,BFMTV,ORG,0.0,0.0,en,1.0
 Castle,Castle,ORG,0.4,0.0,en,1.0
 Met Office,Met Office,ORG,0.0,0.0,en,1.0
 Sandefjord,Sandefjord,ORG,0.0,0.0,en,1.0
 Titu,Titu,ORG,0.0,0.0,en,1.0
 NOK,NOK,ORG,-0.125,0.0,en,1.0
 the El Niño,the El Niño,ORG,-0.125,0.0,en,1.0
+the Ministry of Foreign Affairs,the Ministry of Foreign Affairs,ORG,-0.125,0.0,en,1.0
+The World Meteorological Organization,The World Meteorological Organization,ORG,0.0175,0.0,en,1.0
+the World Meteorological Organization (WMO,the World Meteorological Organization (WMO,ORG,0.4333333333333333,0.0,en,1.0
+NO2,NO2,ORG,0.0,0.0,en,1.0
+Storhamar,Storhamar,ORG,0.0,0.0,en,1.0
 the Norwegian Actors' Association,the Norwegian Actors' Association,ORG,-0.1,0.0,en,1.0
-Norwegian Meteorological Institute,Norwegian Meteorological Institute,ORG,-0.15,0.0,en,1.0
-NHO,NHO,ORG,0.5,0.0,en,1.0
 the Norwegian Athletics Federation,the Norwegian Athletics Federation,ORG,0.0,0.0,en,1.0
 Måløy,Måløy,ORG,0.0,0.0,en,1.0
 Hammers,Hammers,ORG,0.5,0.0,en,1.0
@@ -179,7 +182,7 @@ HRV,HRV,ORG,0.3,0.0,en,1.0
 The Red Cross,The Red Cross,ORG,0.0,0.0,en,1.0
 Sabalenka,Sabalenka,ORG,0.06666666666666667,0.0,en,1.0
 Isak Leknes Frey,Isak Leknes Frey,ORG,0.125,0.0,en,1.0
-Kompas TV,Kompas TV,ORG,0.0,0.0,en,1.0
+the American East Coast,the American East Coast,ORG,0.04545454545454545,0.0,en,1.0
 EC,EC,ORG,0.0,0.0,en,1.0
 The Norwegian Meteorological Institute and Varsom,The Norwegian Meteorological Institute and Varsom,ORG,0.0,0.0,en,1.0
 Nature,Nature,ORG,-0.125,0.0,en,1.0
@@ -203,17 +206,15 @@ Lista,Lista,ORG,0.0,0.0,en,1.0
 Java,Java,ORG,-0.2,0.0,en,1.0
 Navy,Navy,ORG,0.0,0.0,en,1.0
 CBS,CBS,ORG,-0.1,0.0,en,1.0
-the American East Coast,the American East Coast,ORG,0.04545454545454545,0.0,en,1.0
 MINAS,MINAS,ORG,0.0,0.0,en,1.0
-E24,E24,ORG,0.0,0.0,en,1.0
-Netflix,Netflix,ORG,0.0,0.0,en,1.0
+KI,KI,ORG,0.0,0.0,en,1.0
+State,State,ORG,0.0,0.0,en,1.0
 Alta,Alta,ORG,0.0,0.0,en,1.0
 the Red Cross Relief Corps,the Red Cross Relief Corps,ORG,-0.1,0.0,en,1.0
-Norges Bank,Norges Bank,ORG,0.0,0.0,en,1.0
 Støre,Støre,ORG,0.0,0.0,en,1.0
 Norges Bank - Støre,Norges Bank - Støre,ORG,0.0,0.0,en,1.0
+Norges Bank,Norges Bank,ORG,0.0,0.0,en,1.0
 Hanna,Hanna,ORG,0.0,0.0,en,1.0
-Storhamar,Storhamar,ORG,0.0,0.0,en,1.0
 Nordenskiöld Land,Nordenskiöld Land,ORG,0.0,0.0,en,1.0
 Nova Spektrum,Nova Spektrum,ORG,0.0,0.0,en,1.0
 UiT,UiT,ORG,0.0,0.0,en,1.0
@@ -227,10 +228,12 @@ Selnæs,Selnæs,ORG,0.0,0.0,en,1.0
 Maybach,Maybach,ORG,0.2,0.0,en,1.0
 SV,SV,ORG,0.1,0.0,en,1.0
 The Directorate for Social Security and Preparedness,The Directorate for Social Security and Preparedness,ORG,0.016666666666666666,0.0,en,1.0
-State,State,ORG,0.0,0.0,en,1.0
+Kompas TV,Kompas TV,ORG,0.0,0.0,en,1.0
+NHO,NHO,ORG,0.5,0.0,en,1.0
+Netflix,Netflix,ORG,0.0,0.0,en,1.0
 NRK Rogaland,NRK Rogaland,ORG,0.0,0.0,en,1.0
+E24,E24,ORG,0.0,0.0,en,1.0
 NTB,NTB,ORG,0.10714285714285714,0.0,en,1.0
-Melodifestivalen,Melodifestivalen,ORG,-0.1,0.0,en,1.0
 ALS,ALS,ORG,0.0,0.0,en,1.0
 The New York Times,The New York Times,ORG,0.13636363636363635,0.0,en,1.0
 Columbia University,Columbia University,ORG,0.13636363636363635,0.0,en,1.0
@@ -240,8 +243,8 @@ Red Cross,Red Cross,ORG,0.1111111111111111,0.0,en,1.0
 "Innlandet, Buskerud, Rogaland","Innlandet, Buskerud, Rogaland",ORG,0.0,0.0,en,1.0
 Hadsel,Hadsel,ORG,-0.16666666666666666,0.0,en,1.0
 Giljajuvet,Giljajuvet,ORG,0.0,0.0,en,1.0
+Melodifestivalen,Melodifestivalen,ORG,-0.1,0.0,en,1.0
 The Bergen Railway,The Bergen Railway,ORG,0.0,0.0,en,1.0
-Hardanger,Hardanger,ORG,0.0,0.0,en,1.0
 Gunnar,Gunnar,ORG,0.0,0.0,en,1.0
 Gaustablikk,Gaustablikk,ORG,0.0,0.0,en,1.0
 The Norwegian Road Administration,The Norwegian Road Administration,ORG,0.0,0.0,en,1.0
@@ -251,4 +254,5 @@ the US Geological Survey,the US Geological Survey,ORG,0.1,0.0,en,1.0
 GFZ,GFZ,ORG,0.0,0.0,en,1.0
 Easter,Easter,ORG,-0.125,0.0,en,1.0
 channel 1,channel 1,ORG,-0.1,0.0,en,1.0
-Croatian Broadcasting,Croatian Broadcasting,ORG,0.4666666666666667,0.0,en,1.0
+Hardanger,Hardanger,ORG,0.0,0.0,en,1.0
+Nariño,Nariño,ORG,0.0,0.0,en,1.0

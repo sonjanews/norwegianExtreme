@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ac861b9413',extremes,Precipitation,#d60d2b,wmo,styrtregn norge,2026-07-30T05:24:00+00:00,Norway,0.5673351382098287,4,2,no,NEU,Europe
 '0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-08-07T09:56:00+00:00,Norway,0.4910744317210563,3,1,no,NEU,Europe
 'f37139fe2d',extremes,Landslide,#572c03,random,jordskred,2026-08-15T03:13:00+00:00,,0.487193073912898,2,2,no,,
+'ac861b9413',extremes,Precipitation,#d60d2b,wmo,styrtregn norge,2026-07-30T05:24:00+00:00,Norway,0.48223492747835445,5,1,no,NEU,Europe
 'b918e7fca0',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av agder og telemark,2026-07-27T06:05:00+00:00,Norway,0.4820742393150199,4,1,no,NEU,Europe
 '91f9c0e941',extremes,Wildfire,#d60d2b,wmo,skogbrann Sørøst-Norge,2026-07-24T05:36:00+00:00,Norway,0.4805532385490402,2,1,no,NEU,Europe
 'bf84083cec',extremes,Landslide,#572c03,wmo,skred norge,2026-08-10T04:14:00+00:00,Norway,0.479911260882062,5,1,no,NEU,Europe
@@ -26,10 +26,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-07-28T05:30:00+00:00,,0.4434382083795616,1,2,no,,
 '52b6617305',extremes,Storm,#b3b2b1,wmo,stormflo norge,2026-07-27T06:05:00+00:00,Norway,0.4406193415493599,3,1,no,NEU,Europe
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-08-01T05:42:00+00:00,Norway,0.4388858029697234,4,2,no,NEU,Europe
-'28580172f4',extremes,Wildfire,#d60d2b,wmo,skogbrann øst-finnmark,2026-08-10T04:14:00+00:00,Norway,0.4369911969784904,3,1,no,NEU,Europe
 '3b63af0b6f',extremes,Storm,#b3b2b1,wmo,stormflo svinoey froeya,2026-07-24T05:36:00+00:00,Norway,0.4347453456753689,2,1,no,NEU,Europe
 'b4f6bb5fc5',extremes,Storm,#b3b2b1,wmo,storm halten roervik,2026-07-27T06:05:00+00:00,Norway,0.4196401970763108,2,1,no,NEU,Europe
-'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.41124489329575614,3,2,no,,
+'20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.4112448932957561,3,2,no,,
 'b073fed5b4',extremes,Snow&Ice,#d60d2b,random,frost,2026-07-17T05:27:00+00:00,,0.4108575414428018,2,2,no,,
 '6a402fbe62',extremes,Storm,#b3b2b1,wmo,storm storegga,2026-08-07T09:56:00+00:00,Norway,0.41051418611698,4,1,no,NEU,Europe
 '55cb505681',extremes,Storm,#b3b2b1,meteo,vind norge,2026-08-09T03:59:00+00:00,Norway,0.4080040310443721,5,3,no,NEU,Europe
@@ -50,6 +49,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c32830b8d5',extremes,Storm,#b3b2b1,wmo,stormflo froeya bank,2026-07-26T05:46:00+00:00,Norway,0.3801544909758799,3,1,no,NEU,Europe
 '8357d8b19e',extremes,Wildfire,#d60d2b,wmo,skogbrann deler av øst-finnmark,2026-08-13T04:26:00+00:00,Norway,0.3775023595352993,4,1,no,NEU,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-08-02T05:42:00+00:00,Iceland,0.3749672793576553,2,1,no,GIC,Europe
+'28580172f4',extremes,Wildfire,#d60d2b,wmo,skogbrann øst-finnmark,2026-08-10T04:14:00+00:00,Norway,0.37159253243171686,4,1,no,NEU,Europe
 '34a1e1617d',extremes,Storm,#b3b2b1,wmo,stormflo oksoey aana sira,2026-07-27T06:05:00+00:00,Norway,0.3690935388012711,3,1,no,NEU,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-08-11T04:01:00+00:00,,0.3668900208933272,1,2,no,,
 '82d648b882',extremes,Drought,#edc291,random,tørke,2026-08-04T05:31:00+00:00,,0.3642091169199065,2,2,no,,
@@ -70,9 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd39daa58c4',extremes,Storm,#b3b2b1,wmo,stormflo sørøst island,2026-07-29T05:37:00+00:00,Iceland,0.3217537777312045,2,1,no,GIC,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-08-20T03:26:00+00:00,,0.3206368507681269,2,2,no,,
 '02d4c311ee',extremes,Wildfire,#d60d2b,effis,bushfire lugo spania,2026-08-07T11:06:00+00:00,Spain,0.3197561645411165,1,1,no,MED,Europe
-'1944ae7912',extremes,Wildfire,#d60d2b,effis,bushfire romania,2026-08-07T09:56:00+00:00,Romania,0.3197496432537038,0,1,no,MED,Europe
 'd33e4146b6',extremes,Wildfire,#d60d2b,effis,bushfire türkiye kilis n.a.,2026-08-07T11:06:00+00:00,Syria,0.3197487447859642,0,1,no,MED,Asia
-'f93df854ee',extremes,Wildfire,#d60d2b,effis,skogbrann nord-makedonia,2026-08-07T11:06:00+00:00,North Macedonia,0.3197482222950916,0,1,no,MED,Europe
 '3438303391',extremes,Wildfire,#d60d2b,effis,bushfire montenegro,2026-08-07T11:06:00+00:00,Montenegro,0.3197471167543358,0,1,no,MED,Europe
 '4ff9a5d897',extremes,Wildfire,#d60d2b,effis,skogbrann serbia,2026-08-07T09:56:00+00:00,Serbia,0.3197470133730201,0,1,no,MED,Europe
 '56c99f5cea',extremes,Wildfire,#d60d2b,effis,bushfire libanon niha n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.319746803707472,0,1,no,MED,Asia
@@ -228,8 +226,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2d196b98c8',extremes,Wildfire,#d60d2b,effis,skogbrann marokko,2026-08-07T09:56:00+00:00,Morocco,0.2717885829565318,1,1,no,MED,Africa
 '7aef40d766',extremes,Wildfire,#d60d2b,effis,bushfire marokko,2026-08-07T09:56:00+00:00,Morocco,0.2717879296876216,1,1,no,MED,Africa
 '793ba29f43',extremes,Wildfire,#d60d2b,effis,villbrann libanon sarafen n.a.,2026-08-07T11:06:00+00:00,Lebanon,0.2717875947492708,1,1,no,MED,Asia
+'1944ae7912',extremes,Wildfire,#d60d2b,effis,bushfire romania,2026-08-07T09:56:00+00:00,Romania,0.2717871967656482,1,1,no,MED,Europe
 '1f50df77c2',extremes,Wildfire,#d60d2b,effis,skogbrann bulgaria,2026-08-07T09:56:00+00:00,Bulgaria,0.2717863218962212,1,1,no,MED,Europe
 'a23c450be4',extremes,Wildfire,#d60d2b,effis,bushfire marokko bab berred n.a.,2026-08-07T09:56:00+00:00,Morocco,0.2717861731793916,1,1,no,MED,Africa
+'f93df854ee',extremes,Wildfire,#d60d2b,effis,skogbrann nord-makedonia,2026-08-07T11:06:00+00:00,North Macedonia,0.27178598895082784,1,1,no,MED,Europe
 '14a41389eb',extremes,Wildfire,#d60d2b,effis,buskbrann i Nord-Makedonia,2026-08-07T09:56:00+00:00,North Macedonia,0.2717854027373033,1,1,no,MED,Europe
 '5b302ce6b4',extremes,Wildfire,#d60d2b,effis,skogbrann ukraina,2026-08-07T09:56:00+00:00,Ukraine,0.2717835906769209,1,1,no,WCE,Europe
 '5dae4d0d44',extremes,Wildfire,#d60d2b,effis,skogbrann bosnia-hercegovina,2026-08-07T09:56:00+00:00,Bosnia and Herzegovina,0.2717824352019072,1,1,no,MED,Europe

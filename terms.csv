@@ -24,10 +24,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8e5743d9',extremes,Landslide,#572c03,random,skred,2026-07-28T05:30:00+00:00,,0.4434382083795616,1,2,no,,
 '4e85387a91',extremes,Storm,#b3b2b1,wmo,storm norge,2026-08-01T05:42:00+00:00,Norway,0.4388858029697234,4,2,no,NEU,Europe
 '41cf97a25b',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm lala,2026-08-14T04:24:00+00:00,,0.4193568825825856,1,2,no,NPO,Pacific Ocean
-'7c071edad9',extremes,Earthquake,#870007,usgs,jordskjelv norge,2026-08-30T08:29:00+00:00,Norway,0.4165716048383844,2,1,no,NEU,Europe
 'c11e29f3d9',extremes,Storm,#b3b2b1,wmo,stormflo roervik sandnessjoeen,2026-08-29T09:18:00+00:00,Norway,0.4153452224847899,2,1,no,NEU,Europe
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,kald bølge,2026-08-08T03:51:00+00:00,,0.4115250494098987,2,2,no,,
 '20741ce7eb',extremes,Tsunami,#690191,random,tsunami,2026-08-02T05:41:00+00:00,,0.4112448932957561,3,2,no,,
+'7c071edad9',extremes,Earthquake,#870007,usgs,jordskjelv norge,2026-08-30T08:29:00+00:00,Norway,0.4097575026840553,3,1,no,NEU,Europe
 '55cb505681',extremes,Storm,#b3b2b1,meteo,vind norge,2026-08-09T03:59:00+00:00,Norway,0.4080040310443721,5,3,no,NEU,Europe
 'b7c7b7d962',extremes,Wildfire,#d60d2b,effis,skogbrann i kroatia,2026-08-07T11:06:00+00:00,Croatia,0.4064745072825865,1,2,no,WCE,Europe
 '5491dcda33',extremes,Storm,#b3b2b1,wmo,storm slatteroey bulandet,2026-08-09T03:59:00+00:00,Norway,0.4036270504268831,3,1,no,NEU,Europe
@@ -49,7 +49,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,varme,2026-08-19T03:25:00+00:00,,0.3416902690104991,1,2,no,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,iskaldt,2026-08-18T03:23:00+00:00,,0.3415886237712448,2,1,no,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,hardt vær,2026-08-23T03:30:00+00:00,,0.3405701121730199,1,2,no,,
-'c384b96e60',extremes,Precipitation,#d60d2b,wmo,regnskyll norge,2026-08-09T03:59:00+00:00,Norway,0.3378273370859816,5,1,no,NEU,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,flom,2026-08-02T05:41:00+00:00,,0.3338262215328101,2,2,no,,
 '45500dcb47',extremes,Precipitation,#d60d2b,random,rekord nedbør,2026-08-22T03:22:00+00:00,,0.331997072798125,1,1,no,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-08-06T05:33:00+00:00,,0.3317788274917385,1,1,no,,
@@ -234,7 +233,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b7f999932e',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm etau,2026-08-31T08:51:00+00:00,,0.270433117953901,1,1,no,NPO,Pacific Ocean
 '54927bfe65',extremes,Flood,#030ba1,random,kystflom,2026-08-22T03:22:00+00:00,,0.2703948941345831,1,1,no,,
 '234332b213',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm cristobal,2026-08-13T04:26:00+00:00,,0.2703168016797606,1,1,no,NAO,Atlantic Ocean
-'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,orkanen karina,2026-08-31T08:51:00+00:00,,0.27019720461216695,1,1,no,NPO,Pacific Ocean
+'e638a6fdcd',extremes,Tropical Cyclone,#4f4f4f,eonet,orkanen karina,2026-08-31T08:51:00+00:00,,0.2701972046121669,1,1,no,NPO,Pacific Ocean
 '5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm moke,2026-08-25T03:27:00+00:00,,0.2699000834465184,1,1,no,NPO,Pacific Ocean
 '9d1b29af9d',extremes,Wildfire,#d60d2b,effis,villbrann tunisia,2026-08-27T13:00:00+00:00,Tunisia,0.268225231462315,1,1,no,MED,Africa
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,storm melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.2679099362880121,1,1,no,SAU,Oceania

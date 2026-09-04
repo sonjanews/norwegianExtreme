@@ -1,4 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'e7eaa6ad7c',extremes,Wildfire,#d60d2b,effis,villbrann norge,2026-09-01T07:57:00+00:00,Norway,0.7608098434963755,0,1,no,NEU,Europe
+'0077950340',extremes,Wildfire,#d60d2b,wmo,skogbrann norge,2026-08-27T13:00:00+00:00,Norway,0.7482618184727388,0,1,no,NEU,Europe
+'004a6796b2',extremes,Wildfire,#d60d2b,effis,villbrann agder norge,2026-09-01T07:57:00+00:00,Norway,0.690565847938509,0,1,no,NEU,Europe
+'824ba31791',extremes,Wildfire,#d60d2b,effis,villbrann norge agder hægebostad,2026-09-01T07:57:00+00:00,Norway,0.6765950612621049,0,1,no,NEU,Europe
+'6a402fbe62',extremes,Storm,#b3b2b1,wmo,storm storegga,2026-09-01T07:58:00+00:00,Norway,0.6390681731848858,0,1,no,NEU,Europe
+'14ccfab368',extremes,Storm,#b3b2b1,wmo,stormflo ona froeya,2026-09-02T07:16:00+00:00,Norway,0.6156999175391356,0,1,no,NEU,Europe
+'8655d0b827',extremes,Storm,#b3b2b1,wmo,storm øst tampen,2026-09-02T07:16:00+00:00,Norway,0.6151426842242328,0,1,no,NEU,Europe
+'a4e705120e',extremes,Storm,#b3b2b1,wmo,storm oksoey aana sira,2026-09-04T07:23:00+00:00,Norway,0.61108265735024,0,1,no,NEU,Europe
 '4df5c31fbf',extremes,Storm,#b3b2b1,wmo,storm sør utsire,2026-08-27T13:00:00+00:00,Norway,0.4817199576876496,2,1,no,NEU,Europe
 'bf84083cec',extremes,Landslide,#572c03,wmo,skred norge,2026-08-10T04:14:00+00:00,Norway,0.479911260882062,5,1,no,NEU,Europe
 '8b9b805fcc',extremes,Wildfire,#d60d2b,effis,bushfire norge,2026-08-27T13:00:00+00:00,Norway,0.4791040622357542,3,1,no,NEU,Europe
@@ -42,12 +50,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35cc9cbf75',extremes,Precipitation,#d60d2b,random,styrtregn,2026-07-25T05:28:00+00:00,,0.362989307878395,1,2,no,,
 '41cf97a25b',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm lala,2026-08-14T04:24:00+00:00,,0.3564533651951977,2,1,no,NPO,Pacific Ocean
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,hagl,2026-08-20T03:26:00+00:00,,0.3477799491352384,2,1,no,,
-'5491dcda33',extremes,Storm,#b3b2b1,wmo,storm slatteroey bulandet,2026-08-09T03:59:00+00:00,Norway,0.34308299286285066,4,1,no,NEU,Europe
+'5491dcda33',extremes,Storm,#b3b2b1,wmo,storm slatteroey bulandet,2026-08-09T03:59:00+00:00,Norway,0.3430829928628506,4,1,no,NEU,Europe
 '19097b0a7f',extremes,Storm,#b3b2b1,wmo,storm lindesnes aana sira,2026-08-17T03:28:00+00:00,Norway,0.3424495598223505,5,1,no,NEU,Europe
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,varme,2026-08-19T03:25:00+00:00,,0.3416902690104991,1,2,no,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,iskaldt,2026-08-18T03:23:00+00:00,,0.3415886237712448,2,1,no,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,hardt vær,2026-08-23T03:30:00+00:00,,0.3405701121730199,1,2,no,,
-'b37f825ad8',extremes,Storm,#b3b2b1,wmo,storm hekkingen torsvaag,2026-08-10T04:14:00+00:00,Norway,0.33503079699178956,4,1,no,NEU,Europe
+'b37f825ad8',extremes,Storm,#b3b2b1,wmo,storm hekkingen torsvaag,2026-08-10T04:14:00+00:00,Norway,0.3350307969917895,4,1,no,NEU,Europe
 'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,flom,2026-08-02T05:41:00+00:00,,0.3338262215328101,2,2,no,,
 '9aceadd432',extremes,Heat Wave,#c40202,random,rekord varme,2026-08-06T05:33:00+00:00,,0.3317788274917385,1,1,no,,
 'fa9e452d04',extremes,Precipitation,#d60d2b,random,regnbyger,2026-08-02T05:41:00+00:00,,0.3313093525380534,2,2,no,,
@@ -226,7 +234,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eb39f219fd',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm julio,2026-08-26T03:33:00+00:00,,0.2699318845849655,1,1,no,NPO,Pacific Ocean
 '5f0ab8bb85',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm moke,2026-08-25T03:27:00+00:00,,0.2699000834465184,1,1,no,NPO,Pacific Ocean
 '5a0edb79f4',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm 15w,2026-08-11T04:01:00+00:00,,0.2696786523580951,1,1,no,NPO,Pacific Ocean
-'dd9c81b1de',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm nangka,2026-08-14T04:24:00+00:00,,0.26927088011721156,1,1,no,NPO,Pacific Ocean
+'dd9c81b1de',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm nangka,2026-08-14T04:24:00+00:00,,0.2692708801172115,1,1,no,NPO,Pacific Ocean
 '1bc9542f90',extremes,Wildfire,#d60d2b,effis,villbrann bosnia-hercegovina,2026-08-27T13:00:00+00:00,Bosnia and Herzegovina,0.2682834980526925,1,1,no,MED,Europe
 '9d1b29af9d',extremes,Wildfire,#d60d2b,effis,villbrann tunisia,2026-08-27T13:00:00+00:00,Tunisia,0.268225231462315,1,1,no,MED,Africa
 '5f0b68fcc5',extremes,Storm,#b3b2b1,aidr,storm melbourne victoria 2020,2026-08-05T05:31:00+00:00,Australia,0.2679099362880121,1,1,no,SAU,Oceania

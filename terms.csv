@@ -36,7 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f2c82e1ebc',extremes,Storm,#b3b2b1,wmo,storm torsvaag slettnes fyr,2026-09-07T07:29:00+00:00,Norway,0.4269994824325812,2,1,no,NEU,Europe
 'c32830b8d5',extremes,Storm,#b3b2b1,wmo,stormflo froeya bank,2026-09-06T07:16:00+00:00,Norway,0.4262275596153346,2,1,no,NEU,Europe
 '8c14e9ee2f',extremes,Storm,#b3b2b1,wmo,stormflo ytre skagerrak,2026-09-05T07:05:00+00:00,Norway,0.4245798608241262,2,1,no,NEU,Europe
-'62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-09-05T07:04:00+00:00,,0.42209435510757504,1,3,no,,
+'62084daeb0',extremes,Earthquake,#870007,random,jordskjelv,2026-09-05T07:04:00+00:00,,0.422094355107575,1,3,no,,
 '836bb023cd',extremes,Storm,#b3b2b1,wmo,stormflo fisker,2026-09-05T07:05:00+00:00,Norway,0.4220316909260565,2,1,no,NEU,Europe
 '5c629119ce',extremes,Earthquake,#870007,usgs,jordskjelv ørnes,2026-08-27T13:00:00+00:00,Norway,0.4201728439965015,6,1,no,NEU,Europe
 'c11e29f3d9',extremes,Storm,#b3b2b1,wmo,stormflo roervik sandnessjoeen,2026-08-29T09:18:00+00:00,Norway,0.4153452224847899,2,1,no,NEU,Europe
@@ -85,7 +85,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '69791e5a17',extremes,Flood,#030ba1,random,flom,2026-09-03T07:20:00+00:00,,0.3183492652701583,0,1,no,,
 '89fcf5c848',extremes,Tropical Cyclone,#4f4f4f,eonet,orkanen marie,2026-09-04T07:23:00+00:00,,0.3179343136353981,0,1,no,NPO,Pacific Ocean
 '7d72d405be',extremes,Tropical Cyclone,#4f4f4f,eonet,orkanen lowell,2026-09-02T07:16:00+00:00,,0.3172348526717112,0,1,no,NPO,Pacific Ocean
+'db3be3f429',extremes,Tropical Cyclone,#4f4f4f,eonet,tropisk storm bang lang,2026-08-31T08:51:00+00:00,,0.31695543914799973,0,1,no,NPO,Pacific Ocean
+'dd6493c331',extremes,Storm,#b3b2b1,aidr,tordenvær australia,2026-09-01T07:58:00+00:00,Australia,0.31653438512261933,0,1,no,EAU,Oceania
+'ccefefc59e',extremes,Drought,#edc291,random,lyntørke,2026-09-08T07:23:00+00:00,,0.316472337097205,0,1,no,,
+'41f3b5b396',extremes,Storm,#b3b2b1,aidr,storm med kraftig vind og nedbør victoria 2024,2026-08-27T13:01:00+00:00,Australia,0.3164082035295365,0,1,no,SAU,Oceania
+'ec98366bcb',extremes,Flood,#030ba1,aidr,flom Sørøst-Australia 2016,2026-08-30T08:30:00+00:00,Australia,0.3161416931685712,0,1,no,SAU,Oceania
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-08-22T03:22:00+00:00,Iceland,0.31564219041098,2,1,no,GIC,Europe
+'fed99381dc',extremes,Wildfire,#d60d2b,effis,buskbrann n.a. Algerie,2026-08-27T13:00:00+00:00,Algeria,0.3154521030269896,0,1,no,MED,Africa
+'be76e7e185',extremes,Wildfire,#d60d2b,effis,skogbrann romania,2026-08-27T13:00:00+00:00,Romania,0.31543381786825375,0,1,no,WCE,Europe
+'92f7b20243',extremes,Wildfire,#d60d2b,effis,bushfire serbia,2026-08-27T13:00:00+00:00,Serbia,0.31540833929084056,0,1,no,MED,Europe
 '147dbbe3cd',extremes,Thunderstorm,#53785a,meteo,tordenvær norge,2026-08-07T11:06:00+00:00,Norway,0.3135706994096479,2,1,no,NEU,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,varmeste året,2026-08-11T04:01:00+00:00,,0.3118565927593281,2,1,no,,
 '89cad8cbe6',extremes,Wildfire,#d60d2b,meteo,skogbrann norge,2026-08-07T11:06:00+00:00,Norway,0.3118045237034764,2,1,no,NEU,Europe

@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00bd7d4a3b',extremes,Precipitation,#d60d2b,wmo,nedbør deler av trøndelag,2026-08-20T03:26:00+00:00,Norway,0.3905905041942615,4,1,no,NEU,Europe
 '845dd2d698',extremes,Storm,#b3b2b1,random,tornado,2026-08-21T03:30:00+00:00,,0.37881936127752,2,1,no,,
 '0b0f57315e',extremes,Storm,#b3b2b1,wmo,stormflo sandnessjoeen bodoe,2026-08-29T09:18:00+00:00,Norway,0.3783050480152278,3,1,no,NEU,Europe
-'14ccfab368',extremes,Storm,#b3b2b1,wmo,stormflo ona froeya,2026-09-02T07:16:00+00:00,Norway,0.3781167118587216,3,1,no,NEU,Europe
 '8655d0b827',extremes,Storm,#b3b2b1,wmo,storm øst tampen,2026-09-02T07:16:00+00:00,Norway,0.3777745009492068,3,1,no,NEU,Europe
 'a4e705120e',extremes,Storm,#b3b2b1,wmo,storm oksoey aana sira,2026-09-04T07:23:00+00:00,Norway,0.3752811369452161,3,1,no,NEU,Europe
 '72623e5da1',extremes,Storm,#b3b2b1,wmo,storm maaloey stad,2026-09-02T07:16:00+00:00,Norway,0.374024028243006,3,1,no,NEU,Europe
@@ -57,15 +56,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c4a2009ee4',extremes,Storm,#b3b2b1,wmo,storm aana sira obrestad,2026-08-22T03:22:00+00:00,Norway,0.3362913617498297,4,1,no,NEU,Europe
 'c0ea0632ba',extremes,Heat Wave,#c40202,random,varme,2026-08-19T03:25:00+00:00,,0.3317527500225606,2,3,no,,
 '9f05eaaf90',extremes,Drought,#edc291,edo,tørrtid island,2026-08-21T03:30:00+00:00,Iceland,0.3248822676760408,2,1,no,GIC,Europe
+'14ccfab368',extremes,Storm,#b3b2b1,wmo,stormflo ona froeya,2026-09-02T07:16:00+00:00,Norway,0.3213992050799133,4,1,no,NEU,Europe
 '8d1767f806',extremes,Storm,#b3b2b1,wmo,stormflo island,2026-09-07T07:29:00+00:00,Iceland,0.3206583470326609,2,1,no,GIC,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,storm,2026-08-20T03:26:00+00:00,,0.3206368507681269,2,2,no,,
 '30e79eda20',extremes,Storm,#b3b2b1,wmo,storm sørøst island,2026-09-08T07:23:00+00:00,Iceland,0.3203793843185511,2,1,no,GIC,Europe
 '74236bd182',extremes,Drought,#edc291,edo,mangel på regn island,2026-08-22T03:22:00+00:00,Iceland,0.31564219041098,2,1,no,GIC,Europe
 '135f8534c2',extremes,Precipitation,#d60d2b,random,mer nedbør,2026-08-26T03:33:00+00:00,,0.3130947122088669,2,1,no,,
+'1405131905',extremes,Thunderstorm,#53785a,random,hagl,2026-08-29T09:18:00+00:00,,0.3085494525187855,3,1,no,,
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,hardt vær,2026-08-23T03:30:00+00:00,,0.3080715289834306,2,2,no,,
 '3d4dbc8c3b',extremes,Precipitation,#d60d2b,random,kraftig regn,2026-08-22T03:22:00+00:00,,0.3050752795362267,2,1,no,,
 'f493aa0ef0',extremes,Drought,#edc291,edo,tørkeperioder norge,2026-09-09T07:32:00+00:00,Norway,0.3047238499882027,2,1,no,NEU,Europe
-'1405131905',extremes,Thunderstorm,#53785a,random,hagl,2026-08-29T09:18:00+00:00,,0.3036463617868065,2,1,no,,
 '042968096b',extremes,Storm,#b3b2b1,meteo,storm island,2026-09-07T07:29:00+00:00,Iceland,0.3018184264618202,2,1,no,GIC,Europe
 '957c870453',extremes,Drought,#edc291,edo,tørrhet island,2026-08-26T03:34:00+00:00,Iceland,0.2962841906424669,2,1,no,GIC,Europe
 '69791e5a17',extremes,Flood,#030ba1,random,flom,2026-09-03T07:20:00+00:00,,0.2960341637258711,2,2,no,,

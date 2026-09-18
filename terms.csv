@@ -21,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7eaa6ad7c',extremes,Wildfire,#d60d2b,effis,villbrann norge,2026-09-01T07:57:00+00:00,Norway,0.3971474933666298,4,1,no,NEU,Europe
 '6a402fbe62',extremes,Storm,#b3b2b1,wmo,storm storegga,2026-09-01T07:58:00+00:00,Norway,0.3924677418571679,3,1,no,NEU,Europe
 '0ee1a099f3',extremes,Flood,#030ba1,wmo,flom ytre deler av agder og telemark,2026-08-28T14:32:00+00:00,Norway,0.3842828407177687,3,1,no,NEU,Europe
+'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-09-10T07:28:00+00:00,,0.3835843151598807,3,2,no,,
 '0b0f57315e',extremes,Storm,#b3b2b1,wmo,stormflo sandnessjoeen bodoe,2026-08-29T09:18:00+00:00,Norway,0.3783050480152278,3,1,no,NEU,Europe
 '8655d0b827',extremes,Storm,#b3b2b1,wmo,storm øst tampen,2026-09-02T07:16:00+00:00,Norway,0.3777745009492068,3,1,no,NEU,Europe
 '72623e5da1',extremes,Storm,#b3b2b1,wmo,storm maaloey stad,2026-09-02T07:16:00+00:00,Norway,0.374024028243006,3,1,no,NEU,Europe
@@ -35,7 +36,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adf0271771',extremes,Storm,#b3b2b1,wmo,stormflo skomvaer hekkingen,2026-09-07T07:29:00+00:00,Norway,0.364120306044575,3,1,no,NEU,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,indisk sommer,2026-08-30T08:29:00+00:00,,0.3634708541744905,3,2,no,,
 'f2c82e1ebc',extremes,Storm,#b3b2b1,wmo,storm torsvaag slettnes fyr,2026-09-07T07:29:00+00:00,Norway,0.3629495600676939,3,1,no,NEU,Europe
-'0a98fdd376',extremes,Snow Avalanche,#deddd5,random,snøskred,2026-09-10T07:28:00+00:00,,0.3623344178351537,2,1,no,,
 '8c14e9ee2f',extremes,Storm,#b3b2b1,wmo,stormflo ytre skagerrak,2026-09-05T07:05:00+00:00,Norway,0.3608928817005072,3,1,no,NEU,Europe
 '004a6796b2',extremes,Wildfire,#d60d2b,effis,villbrann agder norge,2026-09-01T07:57:00+00:00,Norway,0.3604796886604511,4,1,no,NEU,Europe
 '836bb023cd',extremes,Storm,#b3b2b1,wmo,stormflo fisker,2026-09-05T07:05:00+00:00,Norway,0.358726937287148,3,1,no,NEU,Europe
@@ -130,7 +130,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '875f042526',extremes,Wildfire,#d60d2b,effis,skogbrann вардарски nord-makedonia,2026-08-27T13:00:00+00:00,North Macedonia,0.2278828995627517,2,1,no,MED,Europe
 '92f7b20243',extremes,Wildfire,#d60d2b,effis,bushfire serbia,2026-08-27T13:00:00+00:00,Serbia,0.2278825251376322,2,1,no,MED,Europe
 '690c0d80e6',extremes,Wildfire,#d60d2b,effis,bushfire italia,2026-08-27T13:00:00+00:00,Italy,0.2278684040608849,2,1,no,MED,Europe
-'1944ae7912',extremes,Wildfire,#d60d2b,effis,bushfire romania,2026-08-27T13:00:00+00:00,Romania,0.22785340548022978,2,1,no,MED,Europe
+'1944ae7912',extremes,Wildfire,#d60d2b,effis,bushfire romania,2026-08-27T13:00:00+00:00,Romania,0.2278534054802297,2,1,no,MED,Europe
 'bb8f1e2b2c',extremes,Wildfire,#d60d2b,effis,skogbrann dubrovačko neretvanska zupanija kroatia,2026-08-27T13:00:00+00:00,Croatia,0.2277904752012673,2,1,no,MED,Europe
 'dd25cffe03',extremes,Wildfire,#d60d2b,effis,villbrann n.a. tunisia,2026-08-27T13:00:00+00:00,Tunisia,0.2277619174372142,2,1,no,MED,Africa
 '0e210e66dd',extremes,Wildfire,#d60d2b,effis,bushfire полошки nord makedonia,2026-08-27T13:00:00+00:00,North Macedonia,0.2277465207072116,2,1,no,MED,Europe

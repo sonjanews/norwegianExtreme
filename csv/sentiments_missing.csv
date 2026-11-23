@@ -30,12 +30,12 @@ second,second,ORDINAL,,,en,8.600000000000001
 year,year,DATE,,,en,7.700000000000001
 afternoon,afternoon,TIME,,,en,7.7
 Seven,Seven,CARDINAL,,,en,7.6000000000000005
-winter,winter,DATE,,,en,7.4
 this weekend,this weekend,DATE,,,en,7.4
-nine,nine,CARDINAL,,,en,7.300000000000001
-July,July,DATE,,,en,7.300000000000001
+winter,winter,DATE,,,en,7.4
 ten,ten,CARDINAL,,,en,7.300000000000001
 Five,Five,CARDINAL,,,en,7.300000000000001
+July,July,DATE,,,en,7.300000000000001
+nine,nine,CARDINAL,,,en,7.300000000000001
 Three,Three,CARDINAL,,,en,7.1000000000000005
 five,five,CARDINAL,,,en,6.900000000000001
 fifth,fifth,ORDINAL,,,en,6.800000000000002
@@ -108,9 +108,9 @@ Southern,Southern,NORP,,,en,2.8
 Over a hundred,Over a hundred,CARDINAL,,,en,2.8
 40,40,CARDINAL,,,en,2.8
 Nepalese,Nepalese,NORP,,,en,2.8
-an unusually busy day,an unusually busy day,DATE,,,en,2.8
 81,81,CARDINAL,,,en,2.8
 At least eight,At least eight,CARDINAL,,,en,2.8
+an unusually busy day,an unusually busy day,DATE,,,en,2.8
 "1,430","1,430",CARDINAL,,,en,2.8
 this week,this week,DATE,,,en,2.8
 6,6,CARDINAL,,,en,2.7
@@ -127,8 +127,8 @@ Agder,Agder,NORP,,,en,2.5
 Spanish,Spanish,NORP,,,en,2.4
 this winter,this winter,DATE,,,en,2.4
 last summer,last summer,DATE,,,en,2.4
-This week,This week,DATE,,,en,2.2
 Jotunheimen,Jotunheimen,NORP,0.020571428571428563,0.047999999999999994,en,2.2
+This week,This week,DATE,,,en,2.2
 32,32,DATE,,,en,2.1999999999999997
 17,17,CARDINAL,,,en,2.1999999999999997
 recent weeks,recent weeks,DATE,,,en,2.1
@@ -308,8 +308,8 @@ later this year,later this year,DATE,,,en,1.0
 Thirteen,Thirteen,CARDINAL,,,en,1.0
 "more than 15,000","more than 15,000",CARDINAL,,,en,1.0
 "5,034","5,034",CARDINAL,,,en,1.0
-at least 41,at least 41,CARDINAL,,,en,1.0
 Venezuelan,Venezuelan,NORP,,,en,1.0
+at least 41,at least 41,CARDINAL,,,en,1.0
 1719,1719,DATE,,,en,1.0
 19,19,DATE,,,en,1.0
 "Over 100,000","Over 100,000",CARDINAL,,,en,1.0
@@ -398,7 +398,7 @@ almost autumnal,almost autumnal,DATE,,,en,1.0
 Peruvian,Peruvian,NORP,,,en,1.0
 500,500,CARDINAL,,,en,1.0
 Viking,Viking,NORP,,,en,1.0
-At least 69,At least 69,CARDINAL,,,en,1.0
+at least 18,at least 18,CARDINAL,,,en,1.0
 over 30 years,over 30 years,DATE,,,en,1.0
 "At least 12,000","At least 12,000",CARDINAL,,,en,1.0
 "Almost 9,000","Almost 9,000",CARDINAL,,,en,1.0
@@ -410,8 +410,8 @@ the turn of the year,the turn of the year,DATE,,,en,1.0
 15 degrees colder,15 degrees colder,QUANTITY,,,en,1.0
 Friday to Saturday,Friday to Saturday,DATE,,,en,1.0
 39-40 degrees,39-40 degrees,QUANTITY,,,en,1.0
+At least 69,At least 69,CARDINAL,,,en,1.0
 77,77,CARDINAL,,,en,1.0
-at least 18,at least 18,CARDINAL,,,en,1.0
 76,76,CARDINAL,,,en,1.0
 At least 39,At least 39,CARDINAL,,,en,1.0
 Nearly 40,Nearly 40,CARDINAL,,,en,1.0
@@ -699,9 +699,9 @@ Over 26.5 degrees,Over 26.5 degrees,QUANTITY,,,en,1.0
 this season,this season,DATE,,,en,1.0
 Kvaløya,Kvaløya,FAC,0.0,0.0,en,1.0
 20 to 3,20 to 3,CARDINAL,,,en,1.0
+twenty,twenty,CARDINAL,,,en,1.0
 Twenty,Twenty,CARDINAL,,,en,1.0
 around 10 kilometers,around 10 kilometers,QUANTITY,,,en,1.0
-twenty,twenty,CARDINAL,,,en,1.0
 Almost 1,Almost 1,CARDINAL,,,en,1.0
 the coming months,the coming months,DATE,,,en,1.0
 Singaporeans,Singaporeans,NORP,,,en,1.0
